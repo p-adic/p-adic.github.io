@@ -1,14 +1,14 @@
 # Site
-title:              test
-bio:                'This is a test.'
-description:        "That is a test."
+title:              p進大好きサークル
+bio:                'p進大好きサークルHP'
+description:        "p進大好きサークルのHPです。"
 reading_time:       true
 words_per_minute:   200
 logo:               '.png'
 background:         '.jpg'
 tiled_bg:           false
 locale:             ja_JP
-url:                https://p-adic.github.io/
+url:                https://p-adic.github.io
 
 # Jekyll
 permalink:          /:title/
