@@ -1,2 +1,49 @@
-remote_theme: TaylanTatli/Moon
-title: test
+# Site
+title:              test
+bio:                'This is a test.'
+description:        "That is a test."
+reading_time:       true
+words_per_minute:   200
+logo:               '.png'
+background:         '.jpg'
+tiled_bg:           false
+locale:             ja_JP
+url:                https://p-adic.github.io/
+
+# Jekyll
+permalink:          /:title/
+markdown:           kramdown
+highlighter:        rouge
+kramdown:
+  auto_ids:         true
+  footnote_nr:      1
+  entity_output:    as_char
+  toc_levels:       1..6
+  enable_coderay:   false
+mathjax:            true
+sass:
+  sass_dir:         _sass
+  style:            compressed
+
+# Comments
+disqus_shortname:   p-adic
+
+# Social
+github:             https://github.com/p-adic
+twitter:            https://twitter.com/non_archimedean
+pixiv:              https://www.pixiv.net/member.php?id=20006473
+Googology Wiki:     https://googology.wikia.org/wiki/User:P%E9%80%B2%E5%A4%A7%E5%A5%BD%E3%81%8Dbot
+
+# Gems
+gems:
+  - jekyll-mentions
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-gist
+
+jekyll-mentions:
+    base_url: https://github.com
+
+# Exclude list
+exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
+
