@@ -1,10 +1,10 @@
 # Site
 title:              p進大好きサークル
-bio:                'p進大好きサークルHP'
+bio:                '漫画・イラスト・巨大数・ゲーム・音楽を作っていく予定です。'
 description:        "p進大好きサークルのHPです。"
 reading_time:       true
 words_per_minute:   200
-logo:               '.png'
+logo:               'BdR.jpg'
 background:         '.jpg'
 tiled_bg:           false
 locale:             ja_JP
