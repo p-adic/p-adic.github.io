@@ -1,8 +1,8 @@
 ---
 layout: project
-title: All Projects
+title: 作品
 excerpt: "A List of Projects"
 comments: false
 ---
 
-サークルの作品を公開します。
+サークルの作品を公開していきます。
