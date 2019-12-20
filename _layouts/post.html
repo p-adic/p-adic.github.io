@@ -11,7 +11,6 @@ layout: compress
 </head>
 <body>
     {% include nav.html %}
-    {% include post_body.html %}
     <!-- Header -->
     <header class="header" role="banner">
         <div class="wrapper animated fadeIn">
@@ -21,7 +20,6 @@ layout: compress
                     <h4>{{ page.date | date_to_string }}</h4>
                     {% if site.reading_time %}
                     <p class="reading-time">
-                      <i class="fa fa-clock-o"></i>
                       {% include read-time.html %}
                     </p><!-- /.entry-reading-time -->
                     {% endif %}
@@ -30,8 +28,11 @@ layout: compress
                     {% else %}
                     <a class="btn zoombtn" href="{{site.url}}/posts/">
                     {% endif %}
-                        <i class="fa fa-chevron-left"></i>
+                        戻る
                     </a>
+                </div>
+                <div class="body">
+                    {% include project_body.html %}
                 </div>
                 {{ content }}
                 <div class="entry-meta">
