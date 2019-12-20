@@ -1,8 +1,6 @@
 ---
 layout: page
 title: 自己紹介
-tags: [about, p進大好きサークル]
-date: 2019-12-16
 comments: false
 ---
     
