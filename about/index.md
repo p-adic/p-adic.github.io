@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 自己紹介
+excerpt: Introduction
 comments: false
 ---
     
