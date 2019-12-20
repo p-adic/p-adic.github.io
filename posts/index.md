@@ -4,3 +4,7 @@ title: 記事一覧
 excerpt: "A List of Posts"
 comments: false
 ---
+
+test
+
+{% include social-list.html %}
