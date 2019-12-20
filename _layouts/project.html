@@ -18,8 +18,11 @@ layout: compress
                 <div class="post-title">
                     <h1>{{ page.title }}</h1>
                     <a class="btn zoombtn" href="{{site.url}}">
-                        <i class="fa fa-home"></i>
+                        トップページ
                     </a>
+                </div>
+                <div class="body">
+                    {% include project_body.html %}
                 </div>
                 <div class="post-list">
                     {% for post in site.posts %} 
@@ -37,7 +40,6 @@ layout: compress
             </div>
         </div>
     </header>
-    {% include project_body.html %}
     {% include scripts.html %}
     <script src="{{ site.url }}/assets/js/wow.min.js"></script>
     <script type="text/javascript">(new WOW).init();</script>    
