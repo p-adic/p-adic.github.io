@@ -24,6 +24,9 @@ layout: compress
                 <div class="body">
                     {% include post-list_body.html %}
                 </div>
+                <div class="test">
+                    {{ contents }}
+                </div>
                 <div class="post-list">
                     {% for post in site.posts %} 
                         {% if post.project == null %}
