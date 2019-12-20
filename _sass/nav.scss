@@ -28,10 +28,10 @@
 		position: relative;
 		cursor: pointer;
 		outline: none;
-		@include border-radius(0,2px,0,0);
+		@include border-radius(0,1px,0,0);
 		opacity: 0.6;
 		@media #{$notsmall} {
-			@include border-radius(2px,2px,2px,2px);
+			@include border-radius(1px,1px,1px,1px);
 		}
 	}
 	button:hover,
