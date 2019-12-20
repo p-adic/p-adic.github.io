@@ -5,4 +5,4 @@ excerpt: "A List of Projects"
 comments: false
 ---
 
-あああああ
+サークルの作品を公開していきます。ぶなぶなのテスト版をそのうちアップロードするかもしれません。
