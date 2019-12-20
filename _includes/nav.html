@@ -1,9 +1,14 @@
 	<nav id="dl-menu" class="dl-menuwrapper" role="navigation">
 		<button class="dl-trigger">Open Menu</button>
 		<ul class="dl-menu">
-			<li><a href="{{ site.url }}/">トップページ</a></li>
 			<li>
-				<a href="#">記事</a>
+				<a href="{{ site.url }}/">トップページ</a>
+			</li>
+		    	<li>
+			    	<a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank" rel="noopener noreferrer"{% endif %}>{{ link.title }}</a>
+			</li>
+			<li>
+				<a href="#">記事一覧</a>
 				<ul class="dl-submenu">
 					<li><a href="{{ site.url }}/posts/">全ての記事</a></li>
 					<li><a href="{{ site.url }}/tags/">全てのタグ</a></li>
@@ -30,12 +35,11 @@
 				</ul><!-- /.dl-submenu -->
 			</li>
 			{% for link in site.data.navigation %}
-		    {% if link.url contains 'http' %}
-		        {% assign domain = '' %}
-		        {% else %}
-		        {% assign domain = site.url %}
-		    {% endif %}
-		    <li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank" rel="noopener noreferrer"{% endif %}>{{ link.title }}</a></li>
+		    	{% if link.url contains 'http' %}
+		        	{% assign domain = '' %}
+		        	{% else %}
+		        	{% assign domain = site.url %}
+		    	{% endif %}
 		  {% endfor %}
 		</ul><!-- /.dl-menu -->
 	</nav><!-- /.dl-menuwrapper -->
