@@ -4,16 +4,9 @@
 			<li>
 				<a href="{{ site.url }}/">トップページ</a>
 			</li>
-			{% for link in site.data.navigation %}
-		    		{% if link.url contains 'http' %}
-		        		{% assign domain = '' %}
-		        		{% else %}
-		        		{% assign domain = site.url %}
-		    		{% endif %}
-		    		<li>
-			    		<a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank" rel="noopener noreferrer"{% endif %}>{{ link.title }}</a>
-				</li>
-			{% endfor %}
+			<li>
+				<a href="{{ site.url }}/projects/">作品一覧</a>
+			</li>
 			<li>
 				<a href="#">記事一覧</a>
 				<ul class="dl-submenu">
