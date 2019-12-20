@@ -7,4 +7,4 @@ comments: false
 
 test
 
-{% include social-list.html %}
+{% include social-links.html %}
