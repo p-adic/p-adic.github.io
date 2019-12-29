@@ -25,9 +25,6 @@ sass:
   sass_dir:         _sass
   style:            compressed
 
-# Comments
-disqus_shortname:   p-adic
-
 # Social
 twitter:            non_archimedean
 pixiv:              member.php?id=20006473
