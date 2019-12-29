@@ -15,7 +15,7 @@ layout: compress
     <header class="header" role="banner">
         <div class="wrapper animated fadeIn">
             <div class="content">
-                <div class="post-title">
+                <div class="project-title">
                     <h1>{{ page.title }}</h1>
                     <a class="btn zoombtn" href="{{site.url}}">
                         トップページ
@@ -24,14 +24,13 @@ layout: compress
                 <div class="content">
                     {{ content }}
                 </div>
-                <div class="post-list">
-                    {% for post in site.posts %} 
-                        {% if post.project %}
+                <div class="project-list">
+                    {% for project in site.projects %} 
                     <ul>
                         <li class="wow fadeInLeft" data-wow-duration="1.5s">
-                            <a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
-                            <p>{{ post.excerpt }}</p>
-                            <a href="{{ site.url }}{{ post.url }}" class="btn zoombtn">Read More</a>
+                            <a class="zoombtn" href="{{ site.url }}{{ project.url }}">{{ project.title }}</a>
+                            <p>{{ project.excerpt }}</p>
+                            <a href="{{ site.url }}{{ project.url }}" class="btn zoombtn">もっと読む</a>
                         </li>
                     </ul>
                       {% endif %}
