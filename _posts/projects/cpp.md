@@ -1,0 +1,16 @@
+---
+layout: project
+title: C++ソースコード一覧
+excerpt: "C++ソースコードへのリンク集です。"
+date: 2019-12-14
+project: true
+tag: c++
+comments: true
+---
+
+[C++リポジトリ](https://github.com/p-adic/cpp)
+
+- [例外処理用ライブラリ](https://github.com/p-adic/cpp/tree/master/Error)
+- [数学用ライブラリ](https://github.com/p-adic/cpp/tree/master/Mathematics)
+- [SFINAE用ライブラリ](https://github.com/p-adic/cpp/tree/master/SFINAE)
+- [汎用ライブラリ](https://github.com/p-adic/cpp/tree/master/Utility)
