@@ -3,8 +3,7 @@ layout: project
 title: 巨大数関連記事一覧
 excerpt: "巨大数関連記事へのリンク集です。"
 date: 2019-12-17
-project: true
-categories:
+project-list: true
 tags: [large number, mathematics]
 comments: true
 ---
