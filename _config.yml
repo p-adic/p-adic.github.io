@@ -4,11 +4,12 @@ bio:                '漫画・イラスト・巨大数・ゲーム・音楽を�
 description:        "p進大好きサークルのHPです。"
 reading_time:       true
 words_per_minute:   200
+url:                https://p-adic.github.io
+img:                'assets/img'
 logo:               'assets/img/BdR.jpg'
 background:         '.jpg'
 tiled_bg:           false
 locale:             ja_JP
-url:                https://p-adic.github.io
 
 # Jekyll
 permalink:          /:title/
