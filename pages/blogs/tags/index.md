@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 記事内タグ一覧
-description: "記事内タグの一覧およびびタグでソートされた記事一覧です。"
+title: 記事タグ一覧
+description: "記事タグの一覧およびびタグでソートされた記事一覧です。"
 ---
 
 {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
