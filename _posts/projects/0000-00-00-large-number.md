@@ -4,8 +4,7 @@ title: 巨大数関連記事一覧
 excerpt: "巨大数関連記事へのリンク集です。"
 date: 2019-12-17
 project: true
-tags: [large number, mathematics]
-comments: true
+tags: [巨大数,数学]
 ---
 
 [英語版巨大数Wikiユーザーページ](https://googology.wikia.org/wiki/User:P%E9%80%B2%E5%A4%A7%E5%A5%BD%E3%81%8Dbot)
