@@ -4,7 +4,9 @@ title: 巨大数たん幻想入り
 excerpt:"test"
 date: 2019-12-30
 cartoon: true
-categories: [{{ site.url }}/assets/img/kyodaisuutan-gensouiri-logo.png,https://www.pixiv.net/user/20006473/series/35747,https://www.pixiv.net/artworks/78582396]
+url-logo: {{ site.url }}/assets/img/kyodaisuutan-gensouiri-logo.png
+url-initial: https://www.pixiv.net/user/20006473/series/35747
+url-final: https://www.pixiv.net/artworks/78582396
 tags: [large number]
 comments: true
 ---
