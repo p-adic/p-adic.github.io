@@ -5,8 +5,6 @@ excerpt: "test"
 date: 2019-12-30
 cartoon: true
 url-logo: {{ site.url }}/assets/img/kyodaisuutan-gensouiri-logo.png
-url-initial: www.pixiv.net/user/20006473/series/35747
-url-final: www.pixiv.net/artworks/78582396
 tags: [large number]
 comments: true
 ---
