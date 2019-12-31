@@ -6,6 +6,6 @@ date:
 project: true
 categories: [cartoon]
 tags: [large number]
-url: [https://www.pixiv.net/user/20006473/series/35747,https://www.pixiv.net/artworks/78582396]
+url: [{{ site.url }}/assets/img/kyodaisuutan-gensouiri-logo.png,https://www.pixiv.net/user/20006473/series/35747,https://www.pixiv.net/artworks/78582396]
 comments:
 ---
