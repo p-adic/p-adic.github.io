@@ -1,7 +1,7 @@
 ---
-layout: post-list
+layout: blog-list
 title: 記事一覧
-excerpt: "A List of Posts"
+excerpt: "A List of blogs"
 comments: false
 ---
 
