@@ -1,7 +1,7 @@
 ---
 layout: project
 title: 巨大数たん幻想入り
-excerpt:"test"
+excerpt: "test"
 date: 2019-12-30
 cartoon: true
 url-logo: {{ site.url }}/assets/img/kyodaisuutan-gensouiri-logo.png
