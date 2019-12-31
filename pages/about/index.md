@@ -1,8 +1,7 @@
 ---
 layout: page
 title: 自己紹介
-excerpt: Introduction
-comments: false
+excerpt: "当サークルについての紹介です。"
 ---
     
 こちらはp進大好きサークルのHPです。サークルメンバーは現在のところ
