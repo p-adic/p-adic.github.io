@@ -5,8 +5,8 @@ description:        "p進大好きサークルのHPです。"
 reading_time:       true
 words_per_minute:   200
 url:                https://p-adic.github.io
-img:                'assets/img'
-logo:               'assets/img/BdR.jpg'
+img:                url + '/assets/img'
+logo:               img + '/BdR.jpg'
 background:         '.jpg'
 tiled_bg:           false
 locale:             ja_JP
