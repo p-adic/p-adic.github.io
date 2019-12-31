@@ -1,8 +1,9 @@
 ---
 layout: page
 title: 作品タグ一覧
-description: "作品タグの一覧およびびタグでソートされた作品一覧です。"
 ---
+
+作品タグの一覧および、タグでソートされた作品一覧です。
 
 {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
 {% assign tags_list = site_tags | split:',' | sort %}
