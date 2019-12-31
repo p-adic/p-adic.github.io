@@ -7,7 +7,6 @@ cartoon: true
 url-logo: assets/img/kyodaisuutan-gensouiri-logo.png
 url-initial: https://www.pixiv.net/user/20006473/series/35747
 url-final: https://www.pixiv.net/artworks/78582396
-tags: [large number]
-comments:
+tags: [巨大数,東方,巨大数たん,巨大数たん幻想入り]
 ---
 
