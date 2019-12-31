@@ -1,8 +1,17 @@
 ---
 layout: page
 title: タグ一覧
-description: "タグ一覧及びタグでソートされたページ一覧です。"
+description: "全ページにつけられたタグ一覧及およびタグでソートされたページ一覧です。"
 ---
+
+<h3 class="title">
+	<a class="btn zoombtn" href="{{ site.url }}/pages/projects/tags">
+		作品タグ一覧
+	</a>
+	<a class="btn zoombtn" href="{{ site.url }}/pages/blogs/tags">
+		記事タグ一覧
+	</a>
+</h3>
 
 {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
 {% assign tags_list = site_tags | split:',' | sort %}
