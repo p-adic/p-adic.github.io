@@ -2,7 +2,7 @@
 title:              p進大好きサークル
 bio:                '漫画・イラスト・巨大数・ゲーム・音楽を作っていく予定です。'
 description:        "p進大好きサークルのHPです。"
-reading_time:       true
+reading_time:       false
 words_per_minute:   200
 url:                https://p-adic.github.io
 img:                'https://p-adic.github.io/assets/img'
