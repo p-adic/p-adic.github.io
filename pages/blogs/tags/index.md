@@ -24,20 +24,22 @@ description: "記事内タグの一覧およびびタグでソートされた記
 
 {% for item in (0..site.tags.size) %}{% unless forloop.last %}
   {% capture this_word %}{{ tags_list[item] | strip_newlines }}{% endcapture %}
-	<article>
-    {% assign i = 0 %}
+  <article>
+  {% assign i = 0 %}
     {% for post in site.tags[this_word] %}
       {% if post.blog %}
         {% assign i = i | plus:1 %}
       {% endif %}
     {% endfor %}
     {% if i != 0 %}
-  	  <h2 id="{{ this_word }}" class="tag-heading">{{ this_word }}</h2>
-		  <ul>
-      {% for post in site.tags[this_word] %}{% if post.blog && post.title != null %}
-        <li class="entry-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-      {% endif %}{% endfor %}
-		  </ul>
+      <h2 id="{{ this_word }}" class="tag-heading">{{ this_word }}</h2>
+      <ul>
+      {% for post in site.tags[this_word] %}
+	{% if post.blog && post.title != null %}
+          <li class="entry-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+        {% endif %}
+      {% endfor %}
+      </ul>
     {% endif %}
-	</article><!-- /.hentry -->
+  </article><!-- /.hentry -->
 {% endunless %}{% endfor %}
