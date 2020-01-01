@@ -61,7 +61,7 @@ layout: compress
 				<table>
 				    <tr>
 					<td>
-					    {{ post.date }}
+					    {{ post.date | date: '%Y/%m/%d' }}
 					</td>
 					<td>
 					    <a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
