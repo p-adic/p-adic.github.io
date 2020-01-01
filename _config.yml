@@ -7,7 +7,7 @@ words_per_minute:   200
 url:                https://p-adic.github.io
 img:                'https://p-adic.github.io/assets/img'
 logo:               'https://p-adic.github.io/assets/img/BdR.jpg'
-background:         '.jpg'
+background:         
 tiled_bg:           false
 locale:             ja_JP
 
