@@ -52,44 +52,45 @@ layout: compress
 	<tr><td>
         <div class="container animated fadeIn">
             <div class="row">
+		<br>
                 <div class="title">
                     <h3>最近の更新</h3>
                 </div>
                 <hr class="hr-line">
                 <div class="post-list">
                     <ul>
-			    <table>
-		                {% assign i = 0 %}
-                                {% for post in site.posts %}
-                                    {% if i < 2 %}
-			               <tr>
-					    <td>
-					        {{ post.date | date: '%Y/%m/%d' }}
-					    </td>
-					    <td align="center">
-						{% if post.project %}
-						    作品
-						{% endif %}
-						{% if post.project-class != null %}
-						    {% capture project-file %} 0000-00-00-{{ post.project-class }}.md {% endcapture %}
-						    {{ project-file.class-name }}
-						{% endif %}
-						{% if post.blog %}
-						    記事
-						{% endif %}
-					    </td>
-				            <td align="center">
-						{% if post.project-class == null %}
-					            <a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
-						{% else %}
-					            <a class="zoombtn" href="{{ site.url }}/{{ post.project-class }}/index.html#{{ post.aname }}">{{ post.title }}</a>
-						{% endif %}
-					    </td>
-				        </tr>
-		                        {% assign i = i | plus: 1 %}
-                                    {% endif %}
-                                {% endfor %}
-			    </table>
+			<table>
+		            {% assign i = 0 %}
+                            {% for post in site.posts %}
+                                {% if i < 2 %}
+			            <tr>
+			            	<td>
+				            {{ post.date | date: '%Y/%m/%d' }}
+			            	</td>
+			            	<td align="center">
+				            {% if post.project %}
+				                作品
+				            {% endif %}
+				            {% if post.project-class != null %}
+					        {% capture project-file %} 0000-00-00-{{ post.project-class }}.md {% endcapture %}
+					        {{ project-file.class-name }}
+				            {% endif %}
+				            {% if post.blog %}
+					        記事
+					    {% endif %}
+				        </td>
+				        <td align="center">
+					    <% if post.project-class == null %}
+					        <a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
+					    {% else %}
+					        <a class="zoombtn" href="{{ site.url }}/{{ post.project-class }}/index.html#{{ post.aname }}">{{ post.title }}</a>
+					    {% endif %}
+				        </td>
+				    </tr>
+		                    {% assign i = i | plus: 1 %}
+                                {% endif %}
+                            {% endfor %}
+			</table>
                     </ul>
                 </div>
 	    </div>
