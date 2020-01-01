@@ -58,9 +58,19 @@ layout: compress
                     {% if i < 2 %}
                         <ul>
                             <li class="wow fadeInLeft" data-wow-delay="0.1s" data-wow-duration="1.5s">
-				{{ post.date }} <a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
+				<table>
+				    <tr>
+					<td>
+					    {{ post.date }}
+					</td>
+					<td>
+					    <a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
+					</td>
+				    </tr>
+				</table>
                             </li>
                         </ul>
+		        {% assign i = i | plus: 1 %}
                     {% endif %}
                 {% endfor %}
             </div>
