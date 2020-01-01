@@ -4,7 +4,6 @@ excerpt: "グレブナー基底大好きbotさんの「グレ妹」こと「最�
 date: 2019-03-07
 project-class: cartoon
 aname: imouto-gure
-url-logo: imouto-gure-logo.png
 url-initial: https://www.pixiv.net/user/20006473/series/8073
 url-final: https://www.pixiv.net/artworks/73557223
 tags: [グレ妹,妹グレ]
