@@ -44,37 +44,37 @@ layout: compress
                  </h3>
             </div>
         </div>
-	
-    <div class="container animated fadeIn">
-        <div class="row">
-            <h3 class="title">
-                最近の更新
-            </h3>
-            <hr class="hr-line">
-            <div class="post-list">
-		{% assign i = 0 %}
-                {% for post in site.posts %}
-                    {% if i < 2 %}
-                        <ul>
-                            <li class="wow fadeInLeft" data-wow-delay="0.1s" data-wow-duration="1.5s">
-				<table>
-				    <tr align="left">
-					<td>
-					    {{ post.date | date: '%Y/%m/%d' }}
-					</td>
-					<td>
-					    <a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
-					</td>
-				    </tr>
-				</table>
-                            </li>
-                        </ul>
-		        {% assign i = i | plus: 1 %}
-                    {% endif %}
-                {% endfor %}
-            </div>
-	</div>
-    </div>
+	<br>
+        <div class="container animated fadeIn">
+            <div class="row">
+                <h3 class="title">
+                    最近の更新
+                </h3>
+                <hr class="hr-line">
+                <div class="post-list">
+                    <ul>
+                        <li class="wow fadeInLeft" data-wow-delay="0.1s" data-wow-duration="1.5s">
+			    <table>
+		                {% assign i = 0 %}
+                                {% for post in site.posts %}
+                                    {% if i < 2 %}
+			               <tr>
+					    <td>
+					        {{ post.date | date: '%Y/%m/%d' }}
+					    </td>
+					    <td>
+					        <a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
+					    </td>
+				        </tr>
+		                        {% assign i = i | plus: 1 %}
+                                    {% endif %}
+                                {% endfor %}
+			    </table>
+                        </li>
+                    </ul>
+                </div>
+	    </div>
+        </div>
     </header>
     {% include scripts.html %}
 </body>
