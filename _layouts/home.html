@@ -72,13 +72,15 @@ layout: compress
 						    {% if post.project-class == 'cartoon' %}
 						        漫画
 						    {% endif %}
-						    {% if post.project-class == cpp %}
+						    {% capture project-file %} 0000-00-00-{{ post.project-class }}.md {% endcapture %}
+						    {{ project-file.class-name }}
+						    {% if post.project-class == 'cpp' %}
 						        C++
 						    {% endif %}
-						    {% if post.project-class == game %}
+						    {% if post.project-class == 'game' %}
 						        ゲーム
 						    {% endif %}
-						    {% if post.project-class == large number %}
+						    {% if post.project-class == 'large number' %}
 						        巨大数
 						    {% endif %}
 						{% endif %}
