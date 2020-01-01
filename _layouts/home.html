@@ -69,20 +69,8 @@ layout: compress
 						    作品
 						{% endif %}
 						{% if post.project-class != null %}
-						    {% if post.project-class == 'cartoon' %}
-						        漫画
-						    {% endif %}
 						    {% capture project-file %} 0000-00-00-{{ post.project-class }}.md {% endcapture %}
 						    {{ project-file.class-name }}
-						    {% if post.project-class == 'cpp' %}
-						        C++
-						    {% endif %}
-						    {% if post.project-class == 'game' %}
-						        ゲーム
-						    {% endif %}
-						    {% if post.project-class == 'large number' %}
-						        巨大数
-						    {% endif %}
 						{% endif %}
 						{% if post.blog %}
 						    記事
