@@ -7,5 +7,5 @@ project-class: cartoon
 aname: imouto-gure
 url-initial: https://www.pixiv.net/user/20006473/series/8073
 url-final: https://www.pixiv.net/artworks/73557223
-tags: [グレ妹,妹グレ]
+tags: [漫画,グレ妹,妹グレ]
 ---
