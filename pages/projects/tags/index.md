@@ -13,7 +13,7 @@ title: 作品タグ一覧
     {% capture this_word %}{{ tags_list[item] | strip_newlines }}{% endcapture %}
     {% assign i = 0 %}
     {% for post in site.tags[this_word] %}
-      {% if post.project %}
+      {% if post.project || post.project-class != null %}
         {% assign i = i | plus:1 %}
       {% endif %}
     {% endfor %}
@@ -28,7 +28,7 @@ title: 作品タグ一覧
   <article>
   {% assign i = 0 %}
     {% for post in site.tags[this_word] %}
-      {% if post.project %}
+      {% if post.project || post.project-class != null %}
         {% assign i = i | plus:1 %}
       {% endif %}
     {% endfor %}
@@ -36,8 +36,13 @@ title: 作品タグ一覧
       <h2 id="{{ this_word }}" class="tag-heading">{{ this_word }}</h2>
       <ul>
       {% for post in site.tags[this_word] %}
-	      {% if post.project && post.title != null %}
+	{% if post.project && post.title != null %}
           <li class="entry-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+        {% endif %}
+      {% endfor %}
+      {% for post in site.tags[this_word] %}
+	{% if post.project-class != null && post.title != null %}
+          <li class="entry-title"><a href="{{ site.url }}/{{ post.project-class }}/index.html#{{ post.aname }}" title="{{ post.title }}">{{ post.title }}</a></li>
         {% endif %}
       {% endfor %}
       </ul>
