@@ -13,6 +13,7 @@ layout: compress
     {% include nav.html %}
     <!-- Header -->
     <header class="header flex" role="banner">
+	<table><tr><td>
         <div class="container animated fadeIn">
             <div class="row">
                     <a href="{{ site.url }}">
@@ -44,9 +45,8 @@ layout: compress
                  </h3>
             </div>
         </div>
-	<br>
-	<hr class="hr-line">
-	<br>
+	</td></tr>
+	<tr><td>
         <div class="container animated fadeIn">
             <div class="row">
                 <h3 class="title">
@@ -87,7 +87,11 @@ layout: compress
 						{% endif %}
 					    </td>
 				            <td align="center">
-					        <a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
+						{% if post.project-class == null %}
+					            <a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
+						{% else %}
+					            <a class="zoombtn" href="{{ site.url }}/{{ post.project-class }}/index.html#{{ post.aname }}">{{ post.title }}</a>
+						{% endif %}
 					    </td>
 				        </tr>
 		                        {% assign i = i | plus: 1 %}
@@ -99,6 +103,7 @@ layout: compress
                 </div>
 	    </div>
         </div>
+	</td></tr></table>
     </header>
     {% include scripts.html %}
 </body>
