@@ -12,6 +12,7 @@ layout: compress
 <body>
     {% include nav.html %}
     <!-- Header -->
+    <header class="header flex" role="banner">
         <div class="container animated fadeIn">
             <div class="row">
                     <a href="{{ site.url }}">
@@ -43,7 +44,9 @@ layout: compress
                  </h3>
             </div>
         </div>
-
+	<br>
+	<hr class="hr-line">
+	<br>
         <div class="container animated fadeIn">
             <div class="row">
                 <h3 class="title">
@@ -65,17 +68,19 @@ layout: compress
 						{% if post.project %}
 						    作品
 						{% endif %}
-						{% if post.project-class == cartoon %}
-						    漫画
-						{% endif %}
-						{% if post.project-class == cpp %}
-						    C++
-						{% endif %}
-						{% if post.project-class == game %}
-						    ゲーム
-						{% endif %}
-						{% if post.project-class == large number %}
-						    巨大数
+						{% if post.project-class != null %}
+						    {% if post.project-class == cartoon %}
+						        漫画
+						    {% endif %}
+						    {% if post.project-class == cpp %}
+						        C++
+						    {% endif %}
+						    {% if post.project-class == game %}
+						        ゲーム
+						    {% endif %}
+						    {% if post.project-class == large number %}
+						        巨大数
+						    {% endif %}
 						{% endif %}
 						{% if post.blog %}
 						    記事
@@ -94,6 +99,7 @@ layout: compress
                 </div>
 	    </div>
         </div>
+    </header>
     {% include scripts.html %}
 </body>
 </html>
