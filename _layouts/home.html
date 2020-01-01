@@ -16,42 +16,42 @@ layout: compress
 	<table><tr><td>
         <div class="container animated fadeIn">
             <div class="row">
-                    <a href="{{ site.url }}">
-                        <img src="{{ site.logo }}">
-                    </a>
-                    <h3 class="title">
-                        <a class="zoombtn" href="{{ site.url }}">
-                          <p style="font-size:1.2rem;font-weight:300">{{ site.title }}</p>
-			</a>
-                    </h3>
-                    <h3 class="title">
-                        <a href="{{ site.url }}">
-                          <p style="font-size:1rem;font-weight:300">{{ site.bio }}</p>
-			</a>
-                    </h3>
+                  <a href="{{ site.url }}">
+                      <img src="{{ site.logo }}">
+                  </a>
                   <h3 class="title">
-                         <a class="btn zoombtn" href="{{ site.url }}/pages/projects">
-                         作品一覧
-                         </a>
-                         <a class="btn zoombtn" href="{{ site.url }}/pages/blogs">
-                         記事一覧
-                         </a>
-                         <a class="btn zoombtn" href="{{ site.url }}/pages/tags">
-                         タグ一覧
-                         </a>
-                         <a class="btn zoombtn" href="{{ site.url }}/pages/about">
-                         自己紹介
-                         </a>
+                      <a class="zoombtn" href="{{ site.url }}">
+                        <p style="font-size:1.2rem;font-weight:300">{{ site.title }}</p>
+		      </a>
+                  </h3>
+                  <h3 class="title">
+                      <a href="{{ site.url }}">
+                          <p style="font-size:1rem;font-weight:300">{{ site.bio }}</p>
+		      </a>
+                  </h3>
+                  <h3 class="title">
+                      <a class="btn zoombtn" href="{{ site.url }}/pages/projects">
+                          作品一覧
+                      </a>
+                      <a class="btn zoombtn" href="{{ site.url }}/pages/blogs">
+                          記事一覧
+                      </a>
+                      <a class="btn zoombtn" href="{{ site.url }}/pages/tags">
+                          タグ一覧
+                      </a>
+                      <a class="btn zoombtn" href="{{ site.url }}/pages/about">
+                          自己紹介
+                      </a>
                  </h3>
             </div>
         </div>
 	</td></tr>
-	<tr><td></td></tr>
+	<tr><td> </td></tr>
 	<tr><td>
         <div class="container animated fadeIn">
             <div class="row">
                 <h3 class="title">
-                    最近の更新
+                    <p style="font-size:1rem;font-weight:300">最近の更新</p>
                 </h3>
                 <hr class="hr-line">
                 <div class="post-list">
@@ -69,7 +69,7 @@ layout: compress
 						    作品
 						{% endif %}
 						{% if post.project-class != null %}
-						    {% if post.project-class == cartoon %}
+						    {% if post.project-class == 'cartoon' %}
 						        漫画
 						    {% endif %}
 						    {% if post.project-class == cpp %}
