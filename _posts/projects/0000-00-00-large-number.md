@@ -4,6 +4,7 @@ title: 巨大数関連記事一覧
 excerpt: "巨大数関連記事へのリンク集です。"
 date: 2019-12-17
 project: true
+class-name: 巨大数
 tags: [巨大数,数学]
 ---
 
