@@ -16,4 +16,4 @@ excerpt: "当サークルについての紹介です。"
 
 {% include social-links.html %}
 
-当HPはGoogleアナリティクスを利用しています。Googleアナリティクスによって得た情報はHPの改善および管理人の動機付けのみを目的として利用し、その他の用途では一切利用しません。（[Googleのサービスを使用するサイトやアプリから収集した情報のGoogleによる使用について](https://policies.google.com/technologies/partner-sites?hl=ja)）
+当HPは[Moon Jekyll Theme](https://github.com/TaylanTatli/Moon)を元に作成されました。当HPはGoogleアナリティクスを利用しています。Googleアナリティクスによって得た情報はHPの改善および管理人の動機付けのみを目的として利用し、その他の用途では一切利用しません。（[Googleのサービスを使用するサイトやアプリから収集した情報のGoogleによる使用について](https://policies.google.com/technologies/partner-sites?hl=ja)）
