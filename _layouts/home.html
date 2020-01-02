@@ -72,13 +72,8 @@ layout: compress
 				            {% endif %}
 				            {% if post.project-class != null %}
 						{% assign i = 0 %}
-					        {% capture project-file %}/_posts/projects/0000-00-00-{{ post.project-class }}.md{% endcapture %}
 						{% for post2 in site.posts %}
-						{% if i == 0 %}
-						{{ post2.url }}と{{ project-file }}
-						{% assign i = 1 %}
-						{% endif %}
-						    {% if post2.url == project-file %}
+						    {% if post2.url == post.project-class %}
 						        {{ post2.class-name }}
 						    {% endif %}
 						{% endfor %}
