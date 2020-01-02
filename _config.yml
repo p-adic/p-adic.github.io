@@ -10,7 +10,6 @@ logo:               'https://p-adic.github.io/assets/img/BdR.jpg'
 background:         
 tiled_bg:           false
 locale:             ja_JP
-google_analytics:   UA-87498138-2
 
 # Jekyll
 permalink:          /:title/
