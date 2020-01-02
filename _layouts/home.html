@@ -53,7 +53,7 @@ layout: compress
         <div class="container animated fadeIn">
             <div class="row">
                 <h3 class="title">
-                    最近の更新
+		    <p style="font-size:2rem;font-weight:300">最近の更新</p>
                 </h3>
                 <hr class="hr-line">
                 <div class="post-list">
@@ -73,6 +73,8 @@ layout: compress
 				            {% if post.project-class != null %}
 						{% assign i = 0 %}
 						{% for post2 in site.posts %}
+						{% if i == 0 %}
+						{{ post2.url }} {{ post.project-class }}
 						    {% if post2.url == post.project-class %}
 						        {{ post2.class-name }}
 						    {% endif %}
