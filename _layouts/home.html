@@ -71,11 +71,9 @@ layout: compress
 				                作品
 				            {% endif %}
 				            {% if post.project-class != null %}
+						{% capture project-class %}/{{ post.project-class }}/{% endcapture%}
 						{% for post2 in site.posts %}
-						{% if i == 0 %}
-						{{ post2.url }} {{ post.project-class }}
-						{% endif %}
-						    {% if post2.url == post.project-class %}
+						    {% if post2.url == project-class %}
 						        {{ post2.class-name }}
 						    {% endif %}
 						{% endfor %}
