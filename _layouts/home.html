@@ -85,7 +85,7 @@ layout: compress
 					    {% endif %}
 				        </td>
 				        <td align="center">
-					    <% if post.project-class == null %}
+					    {% if post.project-class == null %}
 					        <a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
 					    {% else %}
 					        <a class="zoombtn" href="{{ site.url }}/{{ post.project-class }}/index.html#{{ post.aname }}">{{ post.title }}</a>
