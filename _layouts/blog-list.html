@@ -27,13 +27,13 @@ layout: compress
                 <div class="post-list">
                     {% for post in site.posts %} 
                         {% if post.blog %}
-                        <ul>
-                            <li class="wow fadeInLeft" data-wow-delay="0.1s" data-wow-duration="1.5s">
-                                <a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
-                                <p>{{ post.excerpt }}</p>
-                                <a href="{{ site.url }}{{ post.url }}" class="btn zoombtn">もっと読む</a>
-                            </li>
-                        </ul>
+                            <ul>
+                                <li class="wow fadeInLeft" data-wow-delay="0.1s" data-wow-duration="1.5s">
+                                    <a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
+                                    <p>{{ post.excerpt }}</p>
+                                    <a href="{{ site.url }}{{ post.url }}" class="btn zoombtn">もっと読む</a>
+                                </li>
+                            </ul>
                         {% endif %}
                     {% endfor %}
                 </div>
