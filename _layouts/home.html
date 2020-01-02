@@ -74,6 +74,7 @@ layout: compress
 						{% for post2 in site.posts %}
 						{% if i == 0 %}
 						{{ post2.url }} {{ post.project-class }}
+						{% endif %}
 						    {% if post2.url == post.project-class %}
 						        {{ post2.class-name }}
 						    {% endif %}
