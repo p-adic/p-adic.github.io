@@ -95,8 +95,13 @@ layout: compress
 		</table>
 	    </div>
         </div>
+	</td></tr>
+	<tr><td>
+            <a href="{{ site.url }}">
+                <img src="https://ga-beacon.appspot.com/{{ site.google.analytics }}/{{ site.url }}"/>
+            </a>
 	</td></tr></table>
+	{% include scripts.html %}
     </header>
-    {% include scripts.html %}
 </body>
 </html>
