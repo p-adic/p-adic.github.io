@@ -21,7 +21,7 @@ tags: [イラスト]
               <p>最終更新日：</p>
               <p>最新話：</p
             </td>
-            <td colspan="2">
+            <td>
               <p>{{ post.date | date: '%Y/%m/%d' }}</p>
               <p>{{ post.recent }}</p>
             </td>
