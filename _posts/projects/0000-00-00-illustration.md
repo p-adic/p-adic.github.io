@@ -12,7 +12,7 @@ tags: [イラスト]
   {% for post in site.posts %}
     {% if post.project-class != null && post.project-class == illustration %}
       <div class="content" id="{{ post.aname }}">
-        <table>
+        <table border="1" rules="none" cellpadding="15">
           <tr>
             <td rowspan="3" width="40%">
               <img src = "{{ site.img }}/{{ post.aname }}-logo.png">
@@ -28,7 +28,7 @@ tags: [イラスト]
             <td align="right">
               最新タイトル：
             </td>
-            <td colspan="2">
+            <td>
               {{ post.recent }}
             </td>
           </tr>
@@ -37,7 +37,7 @@ tags: [イラスト]
             </td>
           </tr>
           <tr>
-            <td colspan="2">
+            <td colspan="2" valign="top">
               {{ post.excerpt }}
             </td>
           </tr>
