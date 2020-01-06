@@ -19,10 +19,12 @@ tags: [イラスト]
             </td>
             <td align="right">
               <p>最終更新日：</p>
+              <p>サムネタイトル：</p>
               <p>最新タイトル：</p>
             </td>
             <td>
               <p>{{ post.date | date: '%Y/%m/%d' }}</p>
+              <p>{{ post.thumbnail }}</p>
               <p>{{ post.recent }}</p>
             </td>
           </tr>
