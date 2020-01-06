@@ -10,7 +10,7 @@ tags: [イラスト]
 
 <div>
   {% for post in site.posts %}
-    {% if post.project-class != null %}{% if post.project-class == 'illustration' %}
+    {% if post.project-class != null %}{% if post.project-class == illustration %}
       <div class="content" id="{{ post.aname }}">
         <table border="1" rules="none" cellpadding="15">
           <tr>
@@ -24,11 +24,6 @@ tags: [イラスト]
             <td>
               <p>{{ post.date | date: '%Y/%m/%d' }}</p>
               <p>{{ post.recent }}</p>
-            </td>
-          </tr>
-          <tr>
-            <td colspan="3" align="center">
-              <h2>最新イラスト紹介</h2>
             </td>
           </tr>
           <tr>
