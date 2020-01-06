@@ -32,7 +32,7 @@ tags: [イラスト]
             </td>
           </tr>
           <tr>
-            <td clspan="3" align="center">
+            <td colspan="3" align="center">
               <div margin : 10px>
                 <a class="btn zoombtn" href="{{ post.url-ll }}">
                   一覧を見る
