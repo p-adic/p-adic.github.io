@@ -10,7 +10,7 @@ tags: [イラスト]
 
 <div>
   {% for post in site.posts %}
-    {% if post.project-class != null %}{% if post.project-class == illustration %}
+    {% if post.project-class != null %}{% if post.project-class == 'illustration' %}
       <div class="content" id="{{ post.aname }}">
         <table border="1" rules="none" cellpadding="15">
           <tr>
