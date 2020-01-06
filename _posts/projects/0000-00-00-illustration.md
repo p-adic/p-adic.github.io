@@ -27,12 +27,12 @@ tags: [イラスト]
             </td>
           </tr>
           <tr>
-            <td colspan="3" width="60%" align="center">
+            <td colspan="3" align="center">
               <h2>最新イラスト紹介</h2>
             </td>
           </tr>
           <tr>
-            <td colspan="3" valign="top">
+            <td colspan="3">
               {{ post.excerpt }}
             </td>
           </tr>
