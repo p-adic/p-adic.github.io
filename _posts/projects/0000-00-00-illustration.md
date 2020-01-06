@@ -19,7 +19,7 @@ tags: [イラスト]
             </td>
             <td align="right">
               <p>最終更新日：</p>
-              <p>最新話：</p
+              <p>最新話：</p>
             </td>
             <td>
               <p>{{ post.date | date: '%Y/%m/%d' }}</p>
