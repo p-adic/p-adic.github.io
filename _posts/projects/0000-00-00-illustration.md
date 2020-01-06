@@ -26,6 +26,7 @@ tags: [イラスト]
               <p>{{ post.recent }}</p>
             </td>
           </tr>
+          <tr>
             <td colspan="3" width="60%" align="center">
               <h2>最新イラスト紹介</h2>
             </td>
