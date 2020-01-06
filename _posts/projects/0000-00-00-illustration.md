@@ -14,7 +14,7 @@ tags: [イラスト]
       <div class="content" id="{{ post.aname }}">
         <table border="1" rules="none" cellpadding="15">
           <tr>
-            <td rowspan="2" width="40%">
+            <td width="40%">
               <img src = "{{ site.img }}/{{ post.aname }}-logo.png">
             </td>
             <td align="right">
