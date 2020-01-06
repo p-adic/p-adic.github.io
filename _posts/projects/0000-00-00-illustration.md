@@ -14,30 +14,24 @@ tags: [イラスト]
       <div class="content" id="{{ post.aname }}">
         <table border="1" rules="none" cellpadding="15">
           <tr>
-            <td rowspan="3" width="40%">
+            <td rowspan="2" width="40%">
               <img src = "{{ site.img }}/{{ post.aname }}-logo.png">
             </td>
             <td align="right">
-              最終更新日：
+              <p>最終更新日：</p>
+              <p>最新話：</p
             </td>
-            <td>
-              {{ post.date | date: '%Y/%m/%d'}}
-            </td>
-          </tr>
-          <tr>
-            <td align="right">
-              最新タイトル：
-            </td>
-            <td>
-              {{ post.recent }}
+            <td colspan="2">
+              <p>{{ post.date | date: '%Y/%m/%d' }}</p>
+              <p>{{ post.recent }}</p>
             </td>
           </tr>
-            <td colspan="2" width="60%" align="center">
+            <td colspan="3" width="60%" align="center">
               <h2>最新イラスト紹介</h2>
             </td>
           </tr>
           <tr>
-            <td colspan="2" valign="top">
+            <td colspan="3" valign="top">
               {{ post.excerpt }}
             </td>
           </tr>
