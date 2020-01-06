@@ -14,7 +14,7 @@ tags: [イラスト]
       <div class="content" id="{{ post.aname }}">
         <table border="1" rules="none" cellpadding="15">
           <tr>
-            <td width="40%">
+            <td>
               <img src = "{{ site.img }}/{{ post.aname }}-logo.png">
             </td>
             <td align="right">
@@ -41,6 +41,8 @@ tags: [イラスト]
               <a class="btn zoombtn" href="{{ post.url-ll }}">
                 一覧を見る
               </a>
+            </td>
+            <td align="center">
             </td>
             <td align="center">
               <a class="btn zoombtn" href="{{ post.url-final }}">
