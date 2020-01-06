@@ -18,17 +18,26 @@ layout: compress
                 <div class="post-title {% if page.feature %} feature {% endif %}">
                     <h1>{{ page.title }}</h1>
                     {% if site.reading_time %}
-                    <p class="reading-time">
-                      {% include read-time.html %}
-                    </p><!-- /.entry-reading-time -->
+                        <p class="reading-time">
+                            {% include read-time.html %}
+                        </p><!-- /.entry-reading-time -->
                     {% endif %}
-                    {% if page.project %}
-                      <a class="btn zoombtn" href="{{site.url}}/pages/projects/">
-                    {% else %}
-                      <a class="btn zoombtn" href="{{site.url}}/pages/posts/">
-                    {% endif %}
-                        戻る
-                    </a>
+                    <span style="padding : 10px">
+                        <a class="btn zoombtn" href="{{site.url}}">
+                            トップページ
+                        </a>
+                    </span>
+                    <span style="padding : 10px">
+                        {% if page.project %}
+                            <a class="btn zoombtn" href="{{site.url}}/pages/projects/">
+                                戻る
+                            </a>
+                        {% else %}
+                            <a class="btn zoombtn" href="{{site.url}}/pages/blogs/">
+                                戻る
+                            </a>
+                        {% endif %}
+                    </span>
                 </div>
                 {{ content }}
             </div>
