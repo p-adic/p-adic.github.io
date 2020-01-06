@@ -33,16 +33,16 @@ tags: [イラスト]
           </tr>
           <tr>
             <td colspan="3" align="center">
-              <div style="padding : 10px">
+              <span style="padding : 10px">
                 <a class="btn zoombtn" href="{{ post.url-ll }}">
                   一覧を見る
                 </a>
-              </div>
-              <div style="padding : 10px">
+              </span>
+              <span style="padding : 10px">
                 <a class="btn zoombtn" href="{{ post.url-final }}">
                   最新イラストを見る
                 </a>
-              </div>
+              </span>
             </td>
           </tr>
         </table>
