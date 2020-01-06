@@ -6,7 +6,7 @@ date: 2019-03-07
 recent: その８　「お兄ちゃんの卒業祝い」
 project-class: cartoon
 aname: imouto-gure
-url-initial: https://www.pixiv.net/user/20006473/series/8073
+url-all: https://www.pixiv.net/user/20006473/series/8073
 url-final: https://www.pixiv.net/artworks/73557223
 tags: [漫画,グレ妹,妹グレ]
 ---
