@@ -21,7 +21,7 @@ tags: [イラスト]
               最終更新日：
             </td>
             <td>
-              {{ post.date }}
+              {{ post.date | date: '%Y/%m/%d'}}
             </td>
           </tr>
           <tr>
