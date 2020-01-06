@@ -26,23 +26,23 @@ tags: [イラスト]
               <p>{{ post.recent }}</p>
             </td>
           </tr>
-        </table>
-        <table>
           <tr>
-            <td colspan="2">
+            <td colspan="3">
               {{ post.excerpt }}
             </td>
           </tr>
           <tr>
-            <td align="right">
-              <a class="btn zoombtn" href="{{ post.url-ll }}">
-                一覧を見る
-              </a>
-            </td>
-            <td>
-              <a class="btn zoombtn" href="{{ post.url-final }}">
-                最新イラストを見る
-              </a>
+            <td clspan="3" align="center">
+              <div margin : 10px>
+                <a class="btn zoombtn" href="{{ post.url-ll }}">
+                  一覧を見る
+                </a>
+              </div>
+              <div margin : 10px>
+                <a class="btn zoombtn" href="{{ post.url-final }}">
+                  最新イラストを見る
+                </a>
+              </div>
             </td>
           </tr>
         </table>
