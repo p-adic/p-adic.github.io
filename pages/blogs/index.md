@@ -1,7 +1,6 @@
 ---
 layout: blog-list
 title: 記事一覧
-button: blog
 excerpt: "このHPで公開している記事の一覧です。"
 ---
 
