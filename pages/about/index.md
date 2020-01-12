@@ -1,7 +1,6 @@
 ---
 layout: page
-title: 自己紹介
-button: about
+title: 当サークルについて
 excerpt: "当サークルについての紹介です。"
 ---
     
