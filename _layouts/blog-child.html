@@ -28,22 +28,25 @@ layout: compress
                             トップページ
                         </a>
                     </span>
+                    {% if page.prev != null %}
+                        <span style="padding : 10px">
+                            <a class="btn zoombtn" href="{{site.url}}/{{page.prev}}">
+                                前の記事
+                            </a>
+                        </span>
+                    {% endif %}
                     <span style="padding : 10px">
                         <a class="btn zoombtn" href="{{site.url}}/{{page.parent}}">
                             親記事
                         </a>
                     </span>
-                    <span style="padding : 10px">
-                        {% if page.project %}
-                            <a class="btn zoombtn" href="{{site.url}}/pages/projects/">
-                                作品一覧
+                    {% if page.next != null %}
+                        <span style="padding : 10px">
+                            <a class="btn zoombtn" href="{{site.url}}/{{page.prev}}">
+                                次の記事
                             </a>
-                        {% else %}
-                            <a class="btn zoombtn" href="{{site.url}}/pages/blogs/">
-                                記事一覧
-                            </a>
-                        {% endif %}
-                    </span>
+                        </span>
+                    {% endif %}
                 </div>
                 {{ content }}
             </div>
