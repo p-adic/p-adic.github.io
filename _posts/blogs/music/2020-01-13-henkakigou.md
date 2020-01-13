@@ -16,7 +16,7 @@ tags: [音楽,機能和声,C++]
   </tr>
 </table>
 
-記号$$\textrm{♭}$$と$$\textrm{♯}$$のみからなる長さ$$1$$の文字列を同じ記号$$\textrm{♭}$$と$$\textrm{♯}$$で表し、空文字列を$$\textrm{□}$$と起きます。記号$$\textrm{♭}$$と$$\textrm{♯}$$のみからなる文字列の集合
+記号$$\textrm{♭}$$および$$\textrm{♯}$$のみからなる長さ$$1$$の文字列をそれぞれ同じ記号$$\textrm{♭}$$と$$\textrm{♯}$$で表し、空文字列を$$\textrm{□}$$と起きます。記号$$\textrm{♭}$$と$$\textrm{♯}$$のみからなる文字列の集合
 \\[
 \textrm{HenkaKigou} = \\{\textrm{♭},\textrm{□},\textrm{♯}\\}
 \\]
