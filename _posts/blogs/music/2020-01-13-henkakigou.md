@@ -79,8 +79,8 @@ const HenkaKigou& HenkaKigouTable( const int& num );
 </table>
 
 実際の実装例については[こちら](https://github.com/p-adic/cpp/tree/master/Music/OnMei/HenkaKigou)をご覧下さい。実装においては以下の仕様を要請します。
-- `inline HenkaKigou::HenkaKigou( const string& S )`はメンバ初期化子リスト`m_S( S ) , m_num( StringToInt( S ) )`で与える。
-- `inline HenkaKigou::HenkaKigou( const int& num )`はメンバ初期化子リスト`m_S( IntToString( num ) ) , m_num( num )`で与える。
+- `inline HenkaKigou::HenkaKigou( const string& S )`はメンバ初期化子リスト`m_S( S )` , `m_num( StringToInt( S ) )`で与える。
+- `inline HenkaKigou::HenkaKigou( const int& num )`はメンバ初期化子リスト`m_S( IntToString( num ) )` , `m_num( num )`で与える。
 - `inline const string& HenkaKigou::Display() const noexcept`は`HenkaKigou::m_S`への参照返しである。
 - `inline const uint& HenkaKigou::GetNum() const noexcept`は`HenkaKigou::m_num`への参照返しである。
 - クラス`HenkaKigou`に対する等号演算子は自然なものである。
