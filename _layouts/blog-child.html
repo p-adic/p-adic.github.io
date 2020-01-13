@@ -24,25 +24,25 @@ layout: compress
                         </p><!-- /.entry-reading-time -->
                     {% endif %}
                     <span style="padding : 10px">
-                        <a class="btn zoombtn" href="{{site.url}}">
+                        <a class="btn zoombtn" href="{{ site.url }}">
                             トップページ
                         </a>
                     </span>
                     {% if page.prev != null %}
                         <span style="padding : 10px">
-                            <a class="btn zoombtn" href="{{site.url}}/{{page.prev}}">
+                            <a class="btn zoombtn" href="{{ site.url }}/{{ page.prev }}">
                                 前の記事
                             </a>
                         </span>
                     {% endif %}
                     <span style="padding : 10px">
-                        <a class="btn zoombtn" href="{{site.url}}/{{page.parent}}">
+                        <a class="btn zoombtn" href="{{ site.url }}/{{ page.parent }}">
                             親記事
                         </a>
                     </span>
                     {% if page.next != null %}
                         <span style="padding : 10px">
-                            <a class="btn zoombtn" href="{{site.url}}/{{page.prev}}">
+                            <a class="btn zoombtn" href="{{ site.url }}/{{ page.next }}">
                                 次の記事
                             </a>
                         </span>
