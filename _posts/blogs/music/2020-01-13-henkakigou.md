@@ -17,18 +17,18 @@ tags: [音楽,機能和声,C++]
   </tr>
 </table>
 
-記号$$\textrm{♭}$$および$$\textrm{♯}$$のみからなる長さ$$1$$の文字列をそれぞれ同じ記号$$\textrm{♭}$$と$$\textrm{♯}$$で表し、空文字列を$$\textrm{□}$$と置きます。記号$$\textrm{♭}$$と$$\textrm{♯}$$のみからなる文字列の集合
+$$n \in \mathbb{N} \setminus \\{0\\}$$に対し、記号$$\textrm{♭}$$および$$\textrm{♯}$$のみからなる長さ$$n$$の文字列をそれぞれ$$\textrm{♭}^n$$と$$\textrm{♯}^n$$で表し、空文字列を$$\textrm{□}$$と置きます。記号$$\textrm{♭}$$と$$\textrm{♯}$$のみからなる文字列の集合
 \\[
-\textrm{HenkaKigou} = \\{\textrm{♭},\textrm{□},\textrm{♯}\\}
+\textrm{HenkaKigou} = \\{\textrm{♭}^n \mid n \in \mathbb{N} \setminus \\{0\\}\\} \cup \\{\textrm{□}\\} \cup \\{\textrm{♯}^n \mid n \in \mathbb{N} \setminus \\{0\\}\\}
 \\]
-に属する文字列を***変化記号***と呼びます。定義から、変化記号にはちょうど３種類の文字列があります。完全に公理的集合論で定義をしたい場合は、記号を以下の規則で自然数にコードすることで、$$\mathbb{N}$$を記号とする文字列の集合に翻訳して下さい。
+に属する文字列を***変化記号***と呼びます。定義から、変化記号には可算無限種類の文字列があります。完全に公理的集合論で定義をしたい場合は、記号を以下の規則で自然数にコードすることで、$$\mathbb{N}$$を記号とする文字列の集合に翻訳して下さい。
 \\[
 \begin{align}
 \textrm{♭} & := 0 \\\\\
 \textrm{♯} & := 1
 \end{align}
 \\]
-通常の流儀では空文字列を変化記号と呼ぶことはしないと思いますが、今回は実装の便宜上空文字列を変化記号とみなしています。流儀によってはこの他の記号も変化記号と呼ぶかもしれませんが、今回はこの３種類のみを扱うことにします。
+通常の流儀では空文字列を変化記号と呼ぶことはしないと思いますが、今回は実装の便宜上空文字列を変化記号とみなしています。
 
 
 <table>
@@ -47,26 +47,20 @@ class HenkaKigou
 {
 
 private:
-  string m_S;
   int m_num;
 
 public:
-  inline HenkaKigou( const string& S );
-  inline HenkaKigou( const int& num );
+  inline HenkaKigou( const int& num ) noexcept;
 
-  inline const string& Display() const noexcept;
+  inline string Display() const noexcept;
   inline const int& GetNum() const noexcept;
 
-  static int StringToInt( const string& S );
-  static const string& IntToString( const int& num );
+  static string IntToString( const int& num ) noexcept;
 
 };
 
-const HenkaKigou& Flat();
-const HenkaKigou& Natural();
-const HenkaKigou& Sharp();
-inline const HenkaKigou& HenkaKigouTable( const string& S );
-const HenkaKigou& HenkaKigouTable( const int& num );
+inline bool operator==( const HenkaKigou& S1 , const HenkaKigou& S2 ) noexcept;
+inline bool operator!=( const HenkaKigou& S1 , const HenkaKigou& S2 ) noexcept;
 
 ~~~
 
@@ -80,13 +74,8 @@ const HenkaKigou& HenkaKigouTable( const int& num );
 </table>
 
 実際の実装例については[こちら](https://github.com/p-adic/cpp/tree/master/Music/OnMei/HenkaKigou)をご覧下さい。実装においては以下の仕様を要請します。
-- `inline HenkaKigou::HenkaKigou( const string& S )`はメンバ初期化子リスト`m_S( S )` , `m_num( StringToInt( S ) )`で与える。
-- `inline HenkaKigou::HenkaKigou( const int& num )`はメンバ初期化子リスト`m_S( IntToString( num ) )` , `m_num( num )`で与える。
-- `inline const string& HenkaKigou::Display() const noexcept`は`HenkaKigou::m_S`への参照返しである。
+- `inline HenkaKigou::HenkaKigou( const int& num ) noexcept`はメンバ初期化子リスト`m_S( IntToString( num ) )` , `m_num( num )`で与える。
+- `inline string HenkaKigou::Display() const noexcept`は`HenkaKigou::IntToString( m_num )`で定める。
 - `inline const int& HenkaKigou::GetNum() const noexcept`は`HenkaKigou::m_num`への参照返しである。
-- `static int HenkaKigou::StringToInt( const string& N )`は`HenkaKigou::IntToString( num )`が`N`と等しい`int num`を返す。
-- `static const string& HenkaKigou::IntToString( const uint& num )`は`"♭"` , `""` , `"♯"`のうち`num+1`番目の文字列で定める。
+- `static string HenkaKigou::IntToString( const uint& num )`は`num == 0`なら空文字列を、`num > 0`ならば`"♯"`のみからなる長さ`num`の文字列を、`num < -1`ならば`"♭"`のみからなる長さ`num`の文字列を返す。
 - クラス`HenkaKigou`に対する等号演算子は自然なものである。
-- `const HenkaKigou& Flat()`～`const HenkaKigou& Sharp()`は関数名から自然に連想される$$\textrm{HenkaKigou}$$の元である文字列を`HenkaKigou::Display()`で返す静的変数への参照返しである。
-- `inline const HenkaKigou& HenkaKigouTable( const string& S )`は`HenkaKigouTable( HenkaKigou::StringToInt( S ) )`で定める。
-- `const HenkaKigou& HenkaKigouTable( const uint& num )`は`Flat()`～`Sharp()`のうち`num+1`番目の関数の戻り値で定める。
