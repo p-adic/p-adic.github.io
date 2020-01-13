@@ -83,7 +83,9 @@ const HenkaKigou& HenkaKigouTable( const int& num );
 - `inline HenkaKigou::HenkaKigou( const string& S )`はメンバ初期化子リスト`m_S( S )` , `m_num( StringToInt( S ) )`で与える。
 - `inline HenkaKigou::HenkaKigou( const int& num )`はメンバ初期化子リスト`m_S( IntToString( num ) )` , `m_num( num )`で与える。
 - `inline const string& HenkaKigou::Display() const noexcept`は`HenkaKigou::m_S`への参照返しである。
-- `inline const uint& HenkaKigou::GetNum() const noexcept`は`HenkaKigou::m_num`への参照返しである。
+- `inline const int& HenkaKigou::GetNum() const noexcept`は`HenkaKigou::m_num`への参照返しである。
+- `static int HenkaKigou::StringToInt( const string& N )`は`HenkaKigou::IntToString( num )`が`N`と等しい`int num`を返す。
+- `static const string& HenkaKigou::IntToString( const uint& num )`は`"♭"` , `""` , `"♯"`のうち`num+1`番目の文字列で定める。
 - クラス`HenkaKigou`に対する等号演算子は自然なものである。
 - `const HenkaKigou& Flat()`～`const HenkaKigou& Sharp()`は関数名から自然に連想される$$\textrm{HenkaKigou}$$の元である文字列を`HenkaKigou::Display()`で返す静的変数への参照返しである。
 - `inline const HenkaKigou& HenkaKigouTable( const string& S )`は`HenkaKigouTable( HenkaKigou::StringToInt( S ) )`で定める。
