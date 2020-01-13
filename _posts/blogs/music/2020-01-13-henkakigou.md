@@ -5,7 +5,7 @@ date: 2020-01-13
 excerpt: "変化記号のクラスを実装します。"
 blog: true
 parent: kinou-wasei/
-prev: kanon/
+prev-child: kanon/
 tags: [音楽,機能和声,C++]
 ---
 
