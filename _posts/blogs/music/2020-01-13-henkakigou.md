@@ -17,7 +17,7 @@ tags: [音楽,機能和声,C++]
   </tr>
 </table>
 
-$$n \in \mathbb{N} \setminus \\{0\\}$$に対し、記号$$\textrm{♭}$$および$$\textrm{♯}$$のみからなる長さ$$n$$の文字列をそれぞれ$$\textrm{♭}^n$$と$$\textrm{♯}^n$$で表し、空文字列を$$\textrm{□}$$と置きます。記号$$\textrm{♭}$$と$$\textrm{♯}$$のみからなる文字列の集合
+$$n \in \mathbb{N} \setminus \{0\}$$に対し、記号$$\textrm{♭}$$および$$\textrm{♯}$$のみからなる長さ$$n$$の文字列をそれぞれ$$\textrm{♭}^n$$と$$\textrm{♯}^n$$で表し、空文字列を$$\textrm{□}$$と置きます。記号$$\textrm{♭}$$と$$\textrm{♯}$$のみからなる文字列の集合
 \\[
 \textrm{HenkaKigou} = \\{\textrm{♭}^n \mid n \in \mathbb{N} \setminus \\{0\\}\\} \cup \\{\textrm{□}\\} \cup \\{\textrm{♯}^n \mid n \in \mathbb{N} \setminus \\{0\\}\\}
 \\]
@@ -77,5 +77,5 @@ inline bool operator!=( const HenkaKigou& S1 , const HenkaKigou& S2 ) noexcept;
 - `inline HenkaKigou::HenkaKigou( const int& num ) noexcept`はメンバ初期化子リスト`m_S( IntToString( num ) )` , `m_num( num )`で与える。
 - `inline string HenkaKigou::Display() const noexcept`は`HenkaKigou::IntToString( m_num )`で定める。
 - `inline const int& HenkaKigou::GetNum() const noexcept`は`HenkaKigou::m_num`への参照返しである。
-- `static string HenkaKigou::IntToString( const uint& num )`は`num == 0`なら空文字列を、`num > 0`ならば`"♯"`のみからなる長さ`num`の文字列を、`num < -1`ならば`"♭"`のみからなる長さ`num`の文字列を返す。
+- `static string HenkaKigou::IntToString( const uint& num )`は`num == 0`ならば空文字列を、`num > 0`ならば`"♯"`のみからなる長さ`num`の文字列を、`num < -1`ならば`"♭"`のみからなる長さ`num`の文字列を返す。
 - クラス`HenkaKigou`に対する等号演算子は自然なものである。
