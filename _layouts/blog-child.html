@@ -28,7 +28,7 @@ layout: compress
                             トップページ
                         </a>
                     </span>
-                    {% if page.prev != null %}
+                    {% if page.prev-child != null %}
                         <span style="padding : 10px">
                             <a class="btn zoombtn" href="{{ site.url }}/{{ page.prev-child }}">
                                 前の記事
@@ -40,7 +40,7 @@ layout: compress
                             親記事
                         </a>
                     </span>
-                    {% if page.next != null %}
+                    {% if page.next-child != null %}
                         <span style="padding : 10px">
                             <a class="btn zoombtn" href="{{ site.url }}/{{ page.next-child }}">
                                 次の記事
