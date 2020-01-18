@@ -6,6 +6,7 @@ excerpt: "変化記号のクラスを実装します。"
 blog: true
 parent: kinou-wasei/
 prev-child: kanon/
+next-child: onmei/
 tags: [音楽,機能和声,C++]
 ---
 
