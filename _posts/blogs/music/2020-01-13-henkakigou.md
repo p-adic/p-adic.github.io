@@ -42,7 +42,8 @@ S & \mapsto \textrm{GetNum}(S)
 1. $$S = \textrm{♭}^n$$を満たす$$n \in \mathbb{N} \setminus \{0\}$$が存在するならば、$$\textrm{GetNum}(S) = -n$$である。
 1. $$S = \textrm{□}$$ならば、$$\textrm{GetNum}(S) = 0$$である。
 1. $$S = \textrm{♯}^n$$を満たす$$n \in \mathbb{N} \setminus \{0\}$$が存在するならば、$$\textrm{GetNum}(S) = n$$である。
-$$\textrm{GetNum}$$は全単射です。ちなみに[幹音の記事]({{ site.url }}/kanon/)において定義した写像$$\textrm{KanOn} \to \mathbb{Z}/7 \mathbb{Z}$$もまた$$\textrm{GetNum}$$と表していましたが、$$\textrm{KanOn} \cap \textrm{HenkaKigou} = \emptyset$$であるため、このような記法の重複による曖昧さはあまり問題を起こしません。このように記法を重複させることを***オーバーロード***と言い、数学において曖昧さが致命的でない範囲で断りなく多用されるものですので、今後も断りなく使っていきます。
+
+この写像$$\textrm{GetNum}$$は全単射です。ちなみに[幹音の記事]({{ site.url }}/kanon/)において定義した写像$$\textrm{KanOn} \to \mathbb{Z}/7 \mathbb{Z}$$もまた$$\textrm{GetNum}$$と表していましたが、$$\textrm{KanOn} \cap \textrm{HenkaKigou} = \emptyset$$であるため、このような記法の重複による曖昧さはあまり問題を起こしません。このように記法を重複させることを***オーバーロード***と言い、数学において曖昧さが致命的でない範囲で断りなく多用されるものですので、今後も断りなく使っていきます。
 
 
 <table>
