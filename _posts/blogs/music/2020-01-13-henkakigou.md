@@ -34,7 +34,7 @@ $$n \in \mathbb{N} \setminus \{0\}$$に対し、記号$$\textrm{♭}$$および$
 また写像
 \\[
 \begin{align}
-\textrm{GetNum} \colon \textrm{HenkaKigou} & \to \mathbb{Z} \\
+\textrm{GetNum} \colon \textrm{HenkaKigou} & \to \mathbb{Z} \\\\\
 S & \mapsto \textrm{GetNum}(S)
 \end{align}
 \\]
