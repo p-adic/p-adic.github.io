@@ -43,7 +43,7 @@ S & \mapsto \textrm{GetNum}(S)
 1. $$S = \textrm{□}$$ならば、$$\textrm{GetNum}(S) = 0$$である。
 1. $$S = \textrm{♯}^n$$を満たす$$n \in \mathbb{N} \setminus \{0\}$$が存在するならば、$$\textrm{GetNum}(S) = n$$である。
 
-この写像$$\textrm{GetNum} \colon \textrm{HenkaKigou} \to \mathbb{Z}$$は全単射です。ちなみに[幹音の記事]({{ site.url }}/KanOn/)において定義した写像$$\textrm{KanOn} \to \mathbb{Z}/7 \mathbb{Z}$$もまた$$\textrm{GetNum}$$と表していましたが、$$\textrm{KanOn} \cap \textrm{HenkaKigou} = \emptyset$$であるため、このような記法の重複による曖昧さはあまり問題を起こしません。このように記法を重複させることを***オーバーロード***と言い、数学において曖昧さが致命的でない範囲で断りなく多用されるものですので、今後も断りなく使っていきます。
+この写像$$\textrm{GetNum} \colon \textrm{HenkaKigou} \to \mathbb{Z}$$は全単射であるので、これを通じて$$\textrm{HenkaKigou}$$に環構造を誘導します。ちなみに[幹音の記事]({{ site.url }}/KanOn/)において定義した写像$$\textrm{KanOn} \to \mathbb{Z}/7 \mathbb{Z}$$もまた$$\textrm{GetNum}$$と表していましたが、$$\textrm{KanOn} \cap \textrm{HenkaKigou} = \emptyset$$であるため、このような記法の重複による曖昧さはあまり問題を起こしません。このように記法を重複させることを***オーバーロード***と言い、数学において曖昧さが致命的でない範囲で断りなく多用されるものですので、今後も断りなく使っていきます。
 
 
 <table>
@@ -80,6 +80,9 @@ public:
 inline bool operator==( const HenkaKigou& S1 , const HenkaKigou& S2 ) noexcept;
 inline bool operator!=( const HenkaKigou& S1 , const HenkaKigou& S2 ) noexcept;
 
+inline HenkaKigou operator+( const HenkaKigou& S1 , const HenkaKigou& S2 ) noexcept;
+inline HenkaKigou operator-( const HenkaKigou& S1 , const HenkaKigou& S2 ) noexcept;
+
 ~~~
 
 
@@ -98,3 +101,4 @@ inline bool operator!=( const HenkaKigou& S1 , const HenkaKigou& S2 ) noexcept;
 - `inline const int& HenkaKigou::GetNum() const noexcept`は`HenkaKigou::m_num`への参照返しである。
 - `static string HenkaKigou::IntToString( const int& num )`は`num == 0`ならば空文字列を、`num > 0`ならば`"♯"`のみからなる長さ`-num`の文字列を、`num < -1`ならば`"♭"`のみからなる長さ`num`の文字列を返す。
 - クラス`HenkaKigou`に対する等号演算子は自然なものである。
+- クラス`HenkaKigou`に対する加法演算子と減法演算子は、`HenkaKigou::GetNum()`が加法演算子と減法演算子と可換になるように定める。
