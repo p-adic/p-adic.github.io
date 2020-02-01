@@ -16,7 +16,7 @@ tags: [音楽,機能和声,C++]
 
 {% for post in site.posts %}
 {% if post.parent != null %}{% if post.parent == "KinouWasei/" %}
-1. [{{ post.subtitle }}]({{ site.url }}/{{ post.url }})({% for class in post.defined-class%}`{{ class }}`{% endfor %})
+1. [{{ post.subtitle }}]({{ site.url }}/{{ post.url }})（{% for class in post.defined-class%}`{{ class }}`{% endfor %}）
 {% endif %}{% endif %}
 {% endfor %}
 
