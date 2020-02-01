@@ -18,7 +18,3 @@ tags: [音楽,機能和声,C++]
 1. [{{ post.subtitle }}]({{ site.url }}/{{ post.url }})
 {% endif %}{% endif %}
 {% endfor %}
-1. [幹音]({{ site.url }}/KanOn/)
-1. [変化記号]({{ site.url }}/HenkaKigou/)
-1. [音名]({{ site.url }}/OnMei/)
-1. [音階]({{ site.url }}/OnKai/)
