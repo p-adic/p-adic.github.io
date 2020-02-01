@@ -1,6 +1,7 @@
 ---
 layout: blog-child
 title: 機能和声の実装 － 変化記号
+subtitle: 変化記号
 date: 2020-01-13
 excerpt: "変化記号のクラスを実装します。"
 blog: true
