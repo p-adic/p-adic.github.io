@@ -98,9 +98,9 @@ inline HenkaKigou operator-( const HenkaKigou& S1 , const HenkaKigou& S2 ) noexc
 
 実際の実装例については[こちら](https://github.com/p-adic/cpp/tree/master/Music/OnMei/HenkaKigou)をご覧下さい。実装においては以下の仕様を要請します。
 - `inline HenkaKigou::HenkaKigou( const int& num ) noexcept`はメンバ初期化子リスト`m_S( IntToString( num ) )` , `m_num( num )`で定める。
-- `HenkaKigou& HenkaKigou::operator++() noexcept`と`HenkaKigou& HenkaKigou::operator--() noexcept`はそれぞれ`m_num += 1`と`m_num -= 1`を実行した上で`*this`への参照返しで定める。
-- `inline string HenkaKigou::Display() const noexcept`は`HenkaKigou::IntToString( m_num )`で定める。
-- `inline const int& HenkaKigou::GetNum() const noexcept`は`HenkaKigou::m_num`への参照返しである。
+- `HenkaKigou& HenkaKigou::operator++() noexcept`と`HenkaKigou& HenkaKigou::operator--() noexcept`はそれぞれ`m_num += 1`と`m_num -= 1`を実行し、`return *this`と定める。
+- `inline string HenkaKigou::Display() const noexcept`は`return IntToString( m_num )`と定める。
+- `inline const int& HenkaKigou::GetNum() const noexcept`は`return m_num`と定める。
 - `static string HenkaKigou::IntToString( const int& num )`は`num == 0`ならば空文字列を、`num > 0`ならば`"♯"`のみからなる長さ`-num`の文字列を、`num < -1`ならば`"♭"`のみからなる長さ`num`の文字列を返す。
 - クラス`HenkaKigou`に対する等号演算子は自然なものである。
 - クラス`HenkaKigou`に対する加法演算子と減法演算子は、`HenkaKigou::GetNum()`が加法演算子と減法演算子と可換になるように定める。
