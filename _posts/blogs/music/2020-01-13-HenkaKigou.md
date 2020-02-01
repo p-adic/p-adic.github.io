@@ -8,6 +8,7 @@ blog: true
 parent: KinouWasei/
 prev-child: KanOn/
 next-child: OnMei/
+defined-class: [HenkaKigou]
 tags: [音楽,機能和声,C++]
 ---
 
