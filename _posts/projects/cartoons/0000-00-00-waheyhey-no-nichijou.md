@@ -8,6 +8,6 @@ project-class: cartoon
 aname: waheyhey-no-nichijou
 url-initial: https://twitter.com/non_archimedean/status/1188811202962477056
 url-all: https://twitter.com/non_archimedean/status/1188811202962477056
-url-final: https://twitter.com/non_archimedean/status/1226852238234046464
+url-final: https://twitter.com/non_archimedean/status/1232316444823547907
 tags: [漫画,ワヘイヘイ,数学]
 ---
