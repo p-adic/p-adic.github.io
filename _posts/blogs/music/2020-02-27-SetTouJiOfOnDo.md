@@ -22,7 +22,7 @@ tags: [音楽,機能和声,C++]
 
 文字列の集合
 \\[
-\textrm{SetTouJiOfOnDo} = \{\textrm{KanZen},\textrm{Chou},\textrm{Tan},\textrm{Zou},\textrm{Gen},\textrm{JuuZou},\textrm{JuuGen}\}
+\textrm{SetTouJiOfOnDo} = \\{\textrm{KanZen},\textrm{Chou},\textrm{Tan},\textrm{Zou},\textrm{Gen},\textrm{JuuZou},\textrm{JuuGen}\\}
 \\]
 に属する文字列を***音度の接頭辞***と呼びます。流儀によってはこの他にも音度の接頭辞があるかもしれませんが、ここではこれらだけを扱います。ただし音度の接頭辞である$$\textrm{Chou}$$はあくまで文字列としての$$\textrm{Chou}$$であり、調の集合$$\textrm{Chou}$$とは別物であることに注意して下さい。
 
