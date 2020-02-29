@@ -26,14 +26,7 @@ tags: [音楽,機能和声,C++]
 \\]
 に属する文字列を***音度の接頭辞***と呼びます。流儀によってはこの他にも音度の接頭辞があるかもしれませんが、ここではこれらだけを扱います。ただし音度の接頭辞である$$\textrm{Chou}$$はあくまで文字列としての$$\textrm{Chou}$$であり、調の集合$$\textrm{Chou}$$とは別物であることに注意して下さい。
 
-$$\textrm{ZeroIndexedDoSuu} = \mathbb{N}$$と置き、$$\textrm{PitchDifference} = \mathbb{Z}$$と置き、写像
-\\[
-\begin{align}
-\textrm{Compute} \colon \textrm{ZeroIndexedDoSuu} \times \textrm{PitchDifference} & \to \textrm{SetTouJiOfOnDo} \\\\\
-(D,d) & \mapsto \textrm{Compute}(D,d)
-\end{align}
-\\]
-を以下のように定めます：
+$$\textrm{ZeroIndexedDoSuu} = \mathbb{N}$$と置き、$$\textrm{PitchDifference} = \mathbb{Z}$$と置きます。写像$$D \in \textrm{ZeroIndexedDoSuu}$$と$$d \in \textrm{PitchDifference}$$に対し、音度の接頭辞$$S_{D,d}$$を以下のように定めます：
 - $$D$$を$$7$$で割った商を$$q$$、余りを$$r$$と置く。
 - $$r = 0$$ならば、$$m = 0$$と置く。
 - $$r = 1$$ならば、$$m = 3$$と置く。
@@ -43,14 +36,15 @@ $$\textrm{ZeroIndexedDoSuu} = \mathbb{N}$$と置き、$$\textrm{PitchDifference}
 - $$r = 5$$ならば、$$m = 17$$と置く。
 - $$r = 6$$ならば、$$m = 21$$と置く。
 - $$n = 2d-(m+24q)$$と置く。
-- $$n = 0$$ならば、$$\textrm{Compute}(D,d) = \textrm{KanZen}$$である。
-- $$n = 1$$ならば、$$\textrm{Compute}(D,d) = \textrm{Chou}$$である。
-- $$n = -1$$ならば、$$\textrm{Compute}(D,d) = \textrm{Tan}$$である。
-- $$n \in \{2,3\}$$ならば、$$\textrm{Compute}(D,d) = \textrm{Zou}$$である。
-- $$n \in \{-2,-3\}$$ならば、$$\textrm{Compute}(D,d) = \textrm{Gen}$$である。
-- $$n \geq 4$$ならば、$$\textrm{Compute}(D,d) = \textrm{JuuZou}$$である。
-- $$n \leq -4$$ならば、$$\textrm{Compute}(D,d) = \textrm{JuuGen}$$である。
+- $$n = 0$$ならば、$$S_{D,d} = \textrm{KanZen}$$である。
+- $$n = 1$$ならば、$$S_{D,d} = \textrm{Chou}$$である。
+- $$n = -1$$ならば、$$S_{D,d} = \textrm{Tan}$$である。
+- $$n \in \{2,3\}$$ならば、$$S_{D,d} = \textrm{Zou}$$である。
+- $$n \in \{-2,-3\}$$ならば、$$S_{D,d} = \textrm{Gen}$$である。
+- $$n \geq 4$$ならば、$$S_{D,d} = \textrm{JuuZou}$$である。
+- $$n \leq -4$$ならば、$$S_{D,d} = \textrm{JuuGen}$$である。
 
+$$S_{D,d}$$を***$$(D,d)$$に対応する音度の接頭辞***と呼びます。
 
 <table>
   <tr>
