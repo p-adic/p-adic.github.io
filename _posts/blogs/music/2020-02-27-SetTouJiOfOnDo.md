@@ -29,22 +29,22 @@ tags: [音楽,機能和声,C++]
 $$\textrm{ZeroIndexedDoSuu} = \mathbb{N}$$と置き、$$\textrm{PitchDifference} = \mathbb{Z}$$と置きます。$$\textrm{ZeroIndexedDoSuu}$$は次の[音度の記事]({{ site.url }}/OnDo/)で導入する$$\textrm{DoSuu}$$という集合の亜種で、実装のために便宜上導入するものです。大雑把に言うと、$$\textrm{DoSuu}$$は$$2$$つのピッチの関係を表す$$1$$以上の整数の集合で、$$\textrm{ZeroIndexedDoSuu}$$は単に$$\textrm{DoSuu}$$の各要素を$$1$$ずらしただけのものです。従って$$0$$は$$\textrm{DoSuu}$$の要素ではないですが、$$\textrm{ZeroIndexedDoSuu}$$の要素となります。
 
 写像$$D \in \textrm{ZeroIndexedDoSuu}$$と$$d \in \textrm{PitchDifference}$$に対し、音度の接頭辞$$S_{D,d}$$を以下のように定めます：
-- $$D$$を$$7$$で割った商を$$q \in \mathbb{N}$$、余りを$$r \in \{0,1,2,3,4,5,6\}$$と置く。
-- $$r = 0$$ならば、$$m = 0 \in \mathbb{N}$$と置く。
-- $$r = 1$$ならば、$$m = 3 \in \mathbb{N}$$と置く。
-- $$r = 2$$ならば、$$m = 7 \in \mathbb{N}$$と置く。
-- $$r = 3$$ならば、$$m = 10 \in \mathbb{N}$$と置く。
-- $$r = 4$$ならば、$$m = 14 \in \mathbb{N}$$と置く。
-- $$r = 5$$ならば、$$m = 17 \in \mathbb{N}$$と置く。
-- $$r = 6$$ならば、$$m = 21 \in \mathbb{N}$$と置く。
-- $$n = 2d-(m+24q) \in \mathbb{Z}$$と置く。
-- $$n = 0$$ならば、$$S_{D,d} = \textrm{KanZen}$$である。
-- $$n = 1$$ならば、$$S_{D,d} = \textrm{Chou}$$である。
-- $$n = -1$$ならば、$$S_{D,d} = \textrm{Tan}$$である。
-- $$n \in \{2,3\}$$ならば、$$S_{D,d} = \textrm{Zou}$$である。
-- $$n \in \{-2,-3\}$$ならば、$$S_{D,d} = \textrm{Gen}$$である。
-- $$n \geq 4$$ならば、$$S_{D,d} = \textrm{JuuZou}$$である。
-- $$n \leq -4$$ならば、$$S_{D,d} = \textrm{JuuGen}$$である。
+1. $$D$$を$$7$$で割った商を$$q \in \mathbb{N}$$、余りを$$r \in \{0,1,2,3,4,5,6\}$$と置く。
+1. $$r = 0$$ならば、$$m = 0 \in \mathbb{N}$$と置く。
+1. $$r = 1$$ならば、$$m = 3 \in \mathbb{N}$$と置く。
+1. $$r = 2$$ならば、$$m = 7 \in \mathbb{N}$$と置く。
+1. $$r = 3$$ならば、$$m = 10 \in \mathbb{N}$$と置く。
+1. $$r = 4$$ならば、$$m = 14 \in \mathbb{N}$$と置く。
+1. $$r = 5$$ならば、$$m = 17 \in \mathbb{N}$$と置く。
+1. $$r = 6$$ならば、$$m = 21 \in \mathbb{N}$$と置く。
+1. $$n = 2d-(m+24q) \in \mathbb{Z}$$と置く。
+1. $$n = 0$$ならば、$$S_{D,d} = \textrm{KanZen}$$である。
+1. $$n = 1$$ならば、$$S_{D,d} = \textrm{Chou}$$である。
+1. $$n = -1$$ならば、$$S_{D,d} = \textrm{Tan}$$である。
+1. $$n \in \{2,3\}$$ならば、$$S_{D,d} = \textrm{Zou}$$である。
+1. $$n \in \{-2,-3\}$$ならば、$$S_{D,d} = \textrm{Gen}$$である。
+1. $$n \geq 4$$ならば、$$S_{D,d} = \textrm{JuuZou}$$である。
+1. $$n \leq -4$$ならば、$$S_{D,d} = \textrm{JuuGen}$$である。
 
 この$$S_{D,d}$$を***$$(D,d)$$に対応する音度の接頭辞***と呼びます。
 
