@@ -7,7 +7,7 @@ excerpt: "音度の接頭辞のクラスを実装します。"
 blog: true
 parent: KinouWasei/
 prev-child: Pitch/
-next-child:
+next-child: OnDo/
 defined-class: [SetTouJiOfOnDo,ZeroIndexedDoSuu,PitchDifferenc]
 tags: [音楽,機能和声,C++]
 ---
