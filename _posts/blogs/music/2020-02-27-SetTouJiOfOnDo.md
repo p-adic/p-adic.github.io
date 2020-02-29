@@ -8,7 +8,7 @@ blog: true
 parent: KinouWasei/
 prev-child: Pitch/
 next-child: OnDo/
-defined-class: [SetTouJiOfOnDo,ZeroIndexedDoSuu,PitchDifferenc]
+defined-class: [SetTouJiOfOnDo,ZeroIndexedDoSuu,PitchDifference]
 tags: [音楽,機能和声,C++]
 ---
 
