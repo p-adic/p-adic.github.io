@@ -115,8 +115,8 @@ tags:
 <div>
   
 </div>
-<div class="center">
-    <span style="padding : 10px">
+<div>
+    <span style="padding : 10px" class="center">
         <a class="btn zoombtn" href="{{ site.url }}/{{ page.parent }}">
             親記事
         </a>
