@@ -1,6 +1,7 @@
 ---
 layout: project
-title: ワヘイヘイの日常
+title: ワヘイヘイの日常（一覧）
+date: 2020-03-06
 excerpt: "実在の数学者であり漫画家でもあるワヘイヘイさんを題材にした作品です。数学者の日常を描きました。"
 parent: wheyhey-no-nichijou/
 tags: 
