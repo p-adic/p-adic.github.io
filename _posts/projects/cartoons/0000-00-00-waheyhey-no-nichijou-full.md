@@ -7,7 +7,7 @@ parent: wheyhey-no-nichijou/
 tags: 
 ---
 
-<div style=”background-color:black">
+<div style="background-color:black">
 <div>
   <img src="{{ site.img }}/waheyhey-no-nichijou/1.png">
 </div>
