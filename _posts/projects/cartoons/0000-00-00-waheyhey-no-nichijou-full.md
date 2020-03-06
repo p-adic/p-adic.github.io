@@ -7,6 +7,7 @@ parent: wheyhey-no-nichijou/
 tags: 
 ---
 
+<div style=”color:black">
 <div>
   <img src="{{ site.img }}/waheyhey-no-nichijou/1.png">
 </div>
@@ -121,4 +122,5 @@ tags:
             親記事
         </a>
     </span>
+</div>
 </div>
