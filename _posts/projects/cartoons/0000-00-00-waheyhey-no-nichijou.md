@@ -7,7 +7,7 @@ recent: １６ページ目
 project-class: cartoon
 aname: waheyhey-no-nichijou
 url-initial: https://twitter.com/non_archimedean/status/1188811202962477056
-url-all: https://twitter.com/non_archimedean/status/1188811202962477056
+url-all: https://p-adic.github.io/waheyhey-no-nichijou-full/
 url-final: https://twitter.com/non_archimedean/status/1232316444823547907
 tags: [漫画,ワヘイヘイ,数学]
 ---
