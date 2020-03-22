@@ -56,7 +56,7 @@ S & \mapsto \textrm{GetNum}(S)
   </tr>
 </table>
 
-変化記号のクラス`HenKaKiGou`および関係する関数たちを以下のように宣言します。
+{{ subtitle }}のクラスおよび関係する関数たちを以下のように宣言します。
 
 ~~~c++
 
