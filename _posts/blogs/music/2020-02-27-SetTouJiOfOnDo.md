@@ -56,7 +56,7 @@ $$\textrm{ZeroIndexedDoSuu} = \mathbb{N}$$と置き、$$\textrm{PitchDifference}
   </tr>
 </table>
 
-音名のクラス`SetTouJiOfOnDo`および関係する関数たちを以下のように宣言します。
+音度の接頭辞のクラス`SetTouJiOfOnDo`および関係する関数たちを以下のように宣言します。
 
 ~~~c++
 
