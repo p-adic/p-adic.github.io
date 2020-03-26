@@ -71,6 +71,9 @@ tags:
 <div style="padding : 10px">
   <img src="{{ site.img }}/waheyhey-no-nichijou/21.png">
 </div>
+<div style="padding : 10px">
+  <img src="{{ site.img }}/waheyhey-no-nichijou/22.png">
+</div>
 <div style="padding : 10px" class="center">
     <span style="padding : 10px" class="center">
         <a class="btn zoombtn" href="{{ site.url }}/{{ page.parent }}">
