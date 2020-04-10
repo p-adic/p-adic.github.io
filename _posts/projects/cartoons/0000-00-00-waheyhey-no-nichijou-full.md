@@ -8,86 +8,117 @@ tags:
 ---
 
 <div style="background-color:black">
+{% assign i = 1 %}
 <div style="padding : 10px">
-  <img src="{{ site.img }}/waheyhey-no-nichijou/1.png">
+  <img src="{{ site.img }}/waheyhey-no-nichijou/{{ i }}.png">
 </div>
+{% assign i = i | plus: 1 %}
 <div style="padding : 10px">
-  <img src="{{ site.img }}/waheyhey-no-nichijou/2.png">
+  <img src="{{ site.img }}/waheyhey-no-nichijou/{{ i }}.png">
 </div>
+{% assign i = i | plus: 1 %}
 <div style="padding : 10px">
-  <img src="{{ site.img }}/waheyhey-no-nichijou/3.png">
+  <img src="{{ site.img }}/waheyhey-no-nichijou/{{ i }}.png">
 </div>
+{% assign i = i | plus: 1 %}
 <div style="padding : 10px">
-  <img src="{{ site.img }}/waheyhey-no-nichijou/4.png">
+  <img src="{{ site.img }}/waheyhey-no-nichijou/{{ i }}.png">
 </div>
+{% assign i = i | plus: 1 %}
 <div style="padding : 10px">
-  <img src="{{ site.img }}/waheyhey-no-nichijou/5.png">
+  <img src="{{ site.img }}/waheyhey-no-nichijou/{{ i }}.png">
 </div>
+{% assign i = i | plus: 1 %}
 <div style="padding : 10px">
-  <img src="{{ site.img }}/waheyhey-no-nichijou/6.png">
+  <img src="{{ site.img }}/waheyhey-no-nichijou/{{ i }}.png">
 </div>
+{% assign i = i | plus: 1 %}
 <div style="padding : 10px">
-  <img src="{{ site.img }}/waheyhey-no-nichijou/7.png">
+  <img src="{{ site.img }}/waheyhey-no-nichijou/{{ i }}.png">
 </div>
+{% assign i = i | plus: 1 %}
 <div style="padding : 10px">
-  <img src="{{ site.img }}/waheyhey-no-nichijou/8.png">
+  <img src="{{ site.img }}/waheyhey-no-nichijou/{{ i }}.png">
 </div>
+{% assign i = i | plus: 1 %}
 <div style="padding : 10px">
-  <img src="{{ site.img }}/waheyhey-no-nichijou/9.png">
+  <img src="{{ site.img }}/waheyhey-no-nichijou/{{ i }}.png">
 </div>
+{% assign i = i | plus: 1 %}
 <div style="padding : 10px">
-  <img src="{{ site.img }}/waheyhey-no-nichijou/10.png">
+  <img src="{{ site.img }}/waheyhey-no-nichijou/{{ i }}.png">
 </div>
+{% assign i = i | plus: 1 %}
 <div style="padding : 10px">
-  <img src="{{ site.img }}/waheyhey-no-nichijou/11.png">
+  <img src="{{ site.img }}/waheyhey-no-nichijou/{{ i }}.png">
 </div>
+{% assign i = i | plus: 1 %}
 <div style="padding : 10px">
-  <img src="{{ site.img }}/waheyhey-no-nichijou/12.png">
+  <img src="{{ site.img }}/waheyhey-no-nichijou/{{ i }}.png">
 </div>
+{% assign i = i | plus: 1 %}
 <div style="padding : 10px">
-  <img src="{{ site.img }}/waheyhey-no-nichijou/13.png">
+  <img src="{{ site.img }}/waheyhey-no-nichijou/{{ i }}.png">
 </div>
+{% assign i = i | plus: 1 %}
 <div style="padding : 10px">
-  <img src="{{ site.img }}/waheyhey-no-nichijou/14.png">
+  <img src="{{ site.img }}/waheyhey-no-nichijou/{{ i }}.png">
 </div>
+{% assign i = i | plus: 1 %}
 <div style="padding : 10px">
-  <img src="{{ site.img }}/waheyhey-no-nichijou/15.png">
+  <img src="{{ site.img }}/waheyhey-no-nichijou/{{ i }}.png">
 </div>
+{% assign i = i | plus: 1 %}
 <div style="padding : 10px">
-  <img src="{{ site.img }}/waheyhey-no-nichijou/16.png">
+  <img src="{{ site.img }}/waheyhey-no-nichijou/{{ i }}.png">
 </div>
+{% assign i = i | plus: 1 %}
 <div style="padding : 10px">
-  <img src="{{ site.img }}/waheyhey-no-nichijou/17.png">
+  <img src="{{ site.img }}/waheyhey-no-nichijou/{{ i }}.png">
 </div>
+{% assign i = i | plus: 1 %}
 <div style="padding : 10px">
-  <img src="{{ site.img }}/waheyhey-no-nichijou/18.png">
+  <img src="{{ site.img }}/waheyhey-no-nichijou/{{ i }}.png">
 </div>
+{% assign i = i | plus: 1 %}
 <div style="padding : 10px">
-  <img src="{{ site.img }}/waheyhey-no-nichijou/19.png">
+  <img src="{{ site.img }}/waheyhey-no-nichijou/{{ i }}.png">
 </div>
+{% assign i = i | plus: 1 %}
 <div style="padding : 10px">
-  <img src="{{ site.img }}/waheyhey-no-nichijou/20.png">
+  <img src="{{ site.img }}/waheyhey-no-nichijou/{{ i }}.png">
 </div>
+{% assign i = i | plus: 1 %}
 <div style="padding : 10px">
-  <img src="{{ site.img }}/waheyhey-no-nichijou/21.png">
+  <img src="{{ site.img }}/waheyhey-no-nichijou/{{ i }}.png">
 </div>
+{% assign i = i | plus: 1 %}
 <div style="padding : 10px">
-  <img src="{{ site.img }}/waheyhey-no-nichijou/22.png">
+  <img src="{{ site.img }}/waheyhey-no-nichijou/{{ i }}.png">
 </div>
+{% assign i = i | plus: 1 %}
 <div style="padding : 10px">
-  <img src="{{ site.img }}/waheyhey-no-nichijou/23.png">
+  <img src="{{ site.img }}/waheyhey-no-nichijou/{{ i }}.png">
 </div>
+{% assign i = i | plus: 1 %}
 <div style="padding : 10px">
-  <img src="{{ site.img }}/waheyhey-no-nichijou/24.png">
+  <img src="{{ site.img }}/waheyhey-no-nichijou/{{ i }}.png">
 </div>
+{% assign i = i | plus: 1 %}
 <div style="padding : 10px">
-  <img src="{{ site.img }}/waheyhey-no-nichijou/25.png">
+  <img src="{{ site.img }}/waheyhey-no-nichijou/{{ i }}.png">
 </div>
+{% assign i = i | plus: 1 %}
 <div style="padding : 10px">
-  <img src="{{ site.img }}/waheyhey-no-nichijou/26.png">
+  <img src="{{ site.img }}/waheyhey-no-nichijou/{{ i }}.png">
 </div>
+{% assign i = i | plus: 1 %}
 <div style="padding : 10px">
-  <img src="{{ site.img }}/waheyhey-no-nichijou/27.png">
+  <img src="{{ site.img }}/waheyhey-no-nichijou/{{ i }}.png">
+</div>
+{% assign i = i | plus: 1 %}
+<div style="padding : 10px">
+  <img src="{{ site.img }}/waheyhey-no-nichijou/{{ i }}.png">
 </div>
 <div style="padding : 10px" class="center">
     <span style="padding : 10px" class="center">
