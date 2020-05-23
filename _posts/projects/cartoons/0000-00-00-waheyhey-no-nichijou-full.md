@@ -16,6 +16,10 @@ tags:
 <div style="padding : 10px">
   <img src="{{ site.img }}/waheyhey-no-nichijou/{{ i }}.png">
 </div>
+{% assign i = 1 %}
+<div style="padding : 10px">
+  <img src="{{ site.img }}/waheyhey-no-nichijou/{{ i }}.png">
+</div>
 {% assign i = i | plus: 1 %}
 <div style="padding : 10px">
   <img src="{{ site.img }}/waheyhey-no-nichijou/{{ i }}.png">
