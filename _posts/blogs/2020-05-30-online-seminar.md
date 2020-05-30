@@ -24,7 +24,7 @@ tags: [数学]
 	</tr>
 	<tr>
 		<td align="center">
-			[東工大　数論・幾何学セミナー](http://www.math.titech.ac.jp/~purkait/AGS/AGSeminarTIT.html)
+			<a href = "http://www.math.titech.ac.jp/~purkait/AGS/AGSeminarTIT.html">東工大　数論・幾何学セミナー</a>
 		</td>
 		<td align="center">
 			不明 <br> （去年までは原則金曜だが、 <br> 6/10水曜16:00～17:00の予定あり）
@@ -35,7 +35,7 @@ tags: [数学]
 	</tr>
 	<tr>
 		<td align="center">
-			[北陸数論セミナー](http://ntw.sci.u-toyama.ac.jp/hokurikunt/)
+			<a href = "http://ntw.sci.u-toyama.ac.jp/hokurikunt/">北陸数論セミナー</a>
 		</td>
 		<td align="center">
 			木曜 <br> （時間未定。既に開催した5/21は17:30～）
@@ -46,7 +46,7 @@ tags: [数学]
 	</tr>
 	<tr>
 		<td align="center">
-			[数論合同セミナー](https://www.math.kyoto-u.ac.jp/~tetsushi/nt_seminar.html)
+			<a href = "https://www.math.kyoto-u.ac.jp/~tetsushi/nt_seminar.html">数論合同セミナー</a>
 		</td>
 		<td align="center">
 			金曜13:30～14:30
@@ -57,7 +57,7 @@ tags: [数学]
 	</tr>
 	<tr>
 		<td align="center">
-			[Friday Tea Time Zoom Seminar](https://sites.google.com/view/fridayteatime/)
+			<a href = "https://sites.google.com/view/fridayteatime/">Friday Tea Time Zoom Seminar</a>
 		</td>
 		<td align="center">
 			金曜15:00～16:30 <br> （ただしお茶会15:00～15:30）
