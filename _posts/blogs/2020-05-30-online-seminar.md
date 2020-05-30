@@ -13,7 +13,7 @@ tags: [数学]
 <table border="1" cellpadding="5">
 	<tr>
 		<th align="center">
-			推定セミナー名 <br> 推定webページ
+			推定セミナー名 <br> <font size = "1">推定webページ</font>
 		</th>
 		<th align="center">
 			推定開催日時
