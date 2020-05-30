@@ -27,7 +27,7 @@ tags: [数学]
 			東工大　数論・幾何学セミナー <br> <font size = "1">http://www.math.titech.ac.jp/~purkait/AGS/AGSeminarTIT.html</font>
 		</td>
 		<td align="center">
-			不明 <br> （去年までは原則金曜だが、 <br> 6/10水曜16:00～17:00の予定あり）
+			不明 <br> （去年までは原則金曜だが、 <br> 次回6/10水曜16:00～17:00）
 		</td>
 		<td align="center">
 			不明 <br> （月1～2回？）
@@ -38,7 +38,7 @@ tags: [数学]
 			北陸数論セミナー <br> <font size = "1">http://ntw.sci.u-toyama.ac.jp/hokurikunt/</font>
 		</td>
 		<td align="center">
-			木曜 <br> （時間未定。 <br> 既に開催した5/21は17:30～）
+			木曜 <br> （次回6/4時間未定。 <br> <br> 過去5/21は17:30～でした）
 		</td>
 		<td align="center">
 			不明 <br> （隔週？）
@@ -49,7 +49,7 @@ tags: [数学]
 			数論合同セミナー <br> <font size = "1">https://www.math.kyoto-u.ac.jp/~tetsushi/nt_seminar.html</font>
 		</td>
 		<td align="center">
-			金曜13:30～14:30
+			金曜13:30～14:30 <br> （次回6/12）
 		</td>
 		<td align="center">
 			不定 <br> （月2～3回？）
