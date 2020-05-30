@@ -38,7 +38,7 @@ tags: [数学]
 			北陸数論セミナー <br> <font size = "1">http://ntw.sci.u-toyama.ac.jp/hokurikunt/</font>
 		</td>
 		<td align="center">
-			木曜 <br> （時間未定。既に開催した5/21は17:30～）
+			木曜 <br> （時間未定。 <br> 既に開催した5/21は17:30～）
 		</td>
 		<td align="center">
 			不明 <br> （隔週？）
