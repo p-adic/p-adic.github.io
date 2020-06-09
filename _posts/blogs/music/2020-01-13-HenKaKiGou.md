@@ -56,7 +56,7 @@ S & \mapsto \textrm{GetNum}(S)
   </tr>
 </table>
 
-{{ subtitle }}のクラスおよび関係する関数たちを以下のように宣言します。
+{{ page.subtitle }}のクラスおよび関係する関数たちを以下のように宣言します。
 
 ~~~c++
 
