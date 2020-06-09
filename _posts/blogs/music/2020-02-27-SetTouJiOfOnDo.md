@@ -56,7 +56,7 @@ $$\textrm{ZeroIndexedDoSuu} = \mathbb{N}$$と置き、$$\textrm{PitchDifference}
   </tr>
 </table>
 
-{{ subtitle }}のクラスおよび関係する関数たちを以下のように宣言します。
+{{ page.subtitle }}のクラスおよび関係する関数たちを以下のように宣言します。
 
 ~~~c++
 
