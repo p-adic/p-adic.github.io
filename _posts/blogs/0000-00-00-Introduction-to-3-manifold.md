@@ -54,7 +54,7 @@ tags: [数学]
 
 この修正を踏まえて、この本の流儀における単体的複体の定義を要約します。単体の集合$$K$$が単体的複体であるとは、以下の$$3$$条件を満たすもののことです：
 
-(1) 任意の$$\sigma \in K$$と$\tau \subset \sigma$に対し、$$\tau$$が$$\sigma$$の面であるならば$$\tau \in K$である。
+(1) 任意の$$\sigma \in K$$と$$\tau \subset \sigma$$に対し、$$\tau$$が$$\sigma$$の面であるならば$$\tau \in K$である。
 
 (2) 任意の$$\tau_1, \tau_2 \in K$$に対し、$$\tau_1 \cap \tau_2 \neq \emptyset$$であるならば、$$\tau_1 \cap \tau_2$$は$$\tau_1$$と$$\tau_2$$の面である。
 
