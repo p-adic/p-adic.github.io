@@ -100,8 +100,8 @@ tags: [数学]
 
 後日他の方に教えていただきましたところ、Hauptvermutungにおいては多面体が一致するのではなく単に同相なだけの状況を考えていることになるので、全く違う設定となっているとのことです。確かに多面体同士が同相であっても、その同相がアフィン変換等のきれいな同相で与えられている保証はなく、片方の多面体内の単体が同相で写った結果もう片方の多面体内の単体になる保証すらないので、かなり自由度の高い設定を考えているわけですね。さて、Hauptvermutungとの設定の違いが分かったところで定理1.2を示していきます。
 
-  ***定理1.2の証明：***
-  $$K_1$$と$$K_2$$を単体的複体とし、$$\lvert K_1 \rvert = \lvert K_2 \rvert$$と仮定する。$$K := \{U \in \mathcal{P}(\lvert K_1 \rvert) \mid \exists x \in \lvert K_1 \rvert, U = \{x\}\}$$と置くと、$$K$$は単体的複体である。$$K$$が$$K_1$$と$$K_2$$の共通細分であることを示す。$$\tau \in K$$とする。$$K$$の定義から$$\tau = \{x\}$$を満たす$$x \in \lvert K_1 \rvert$$が存在する。$$x \in \lvert K_1 \rvert = \lvert K_2 \rvert$$であることから、ある$$\tau_1 \in K_1$$と$$\tau_2 \in K_2$$が存在して$$x \in \tau_1$$かつ$$x \in \tau_2$$である。従って$$\tau \subset \tau_1$$かつ$$\tau \subset \tau_2$$である。以上より、$$K$$は$$K_1$$と$$K_2$$の共通細分である。***□***
+  **定理1.2の証明：**
+  $$K_1$$と$$K_2$$を単体的複体とし、$$\lvert K_1 \rvert = \lvert K_2 \rvert$$と仮定する。$$K := \{U \in \mathcal{P}(\lvert K_1 \rvert) \mid \exists x \in \lvert K_1 \rvert, U = \{x\}\}$$と置くと、$$K$$は単体的複体である。$$K$$が$$K_1$$と$$K_2$$の共通細分であることを示す。$$\tau \in K$$とする。$$K$$の定義から$$\tau = \{x\}$$を満たす$$x \in \lvert K_1 \rvert$$が存在する。$$x \in \lvert K_1 \rvert = \lvert K_2 \rvert$$であることから、ある$$\tau_1 \in K_1$$と$$\tau_2 \in K_2$$が存在して$$x \in \tau_1$$かつ$$x \in \tau_2$$である。従って$$\tau \subset \tau_1$$かつ$$\tau \subset \tau_2$$である。以上より、$$K$$は$$K_1$$と$$K_2$$の共通細分である。**□**
 
 {% assign i = i | plus: 1 %}
 ### {{i}}：曖昧
