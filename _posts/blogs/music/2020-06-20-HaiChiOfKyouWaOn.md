@@ -83,10 +83,9 @@ public:
 - `void HaiChiOfKyouWaOn::SetValidity( const Chou& N , const KaiMei& n , const uint& bas_num , const uint& bas_octave , const uint& ten_num , const uint& ten_octave , const uint& alt_num , const uint& alt_octave , const uint& sop_num , const uint& sop_octave ) noexcept`は以下のように定める：
 1. `bas_num == 5`または`! IsNaturallyOrdered()`または`GetNumberOfOnMei() != 3`または`CheckValidKaiMei( N , n )`の時は`return;`と定める。
 1. そうでない時、`CheckHasDoubleDaiSanOn( bas_num , ten_num , alt_num , sop_num )`であるとする：
-  1. `N.GetOnKai() == ChouOnKai()`であるとする。
-    1. `n == KaiMei::V()`である時は`return;`と定める。
-    1. そうでない時は`m_goodness = 1;`と`m_valid = true;`としてから`return;``と定める。
-    1. `N.GetOnKai() == ChouOnKai()`である時は`return;`と定め、そうでない時は`m_goodness = 1;` , `m_valid = true;`としてから`return;``と定める。
-  1. そうでない時、`m_goodness = 2;` , `m_valid = true;`としてから、`return;`と定める。
+    1. `N.GetOnKai() == ChouOnKai()`であるとする。
+        1. `n == KaiMei::V()`である時は`return;`と定める。
+        1. そうでない時は`m_goodness = 1;`と`m_valid = true;`としてから`return;``と定める。
+    1. そうでない時、`m_goodness = 2;` , `m_valid = true;`としてから、`return;`と定める。
 1. そうでない時、`m_goodness = 4;` , `m_valid = true;`としてから`return;`と定める。
 - `inline const OnMei& HaiChiOfKyouWaOn::GetOnMei( const uint& i ) const noexcept`は`KyouWaOn::GetNeOn()` , `KyouWaOn::GetDaiSanOn()` , `KyouWaOn::GetDaiGoOn()`のうち$$i$$番目の戻り値で定める。
