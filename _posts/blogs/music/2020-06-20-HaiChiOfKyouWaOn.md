@@ -85,7 +85,7 @@ public:
 1. そうでない時、`CheckHasDoubleDaiSanOn( bas_num , ten_num , alt_num , sop_num )`であるとする：
     1. `N.GetOnKai() == ChouOnKai()`であるとする。
         1. `n == KaiMei::V()`である時は`return;`と定める。
-        1. そうでない時は`m_goodness = 1;`と`m_valid = true;`としてから`return;``と定める。
+        1. そうでない時は`m_goodness = 1;`と`m_valid = true;`としてから`return;`と定める。
     1. そうでない時、`m_goodness = 2;` , `m_valid = true;`としてから、`return;`と定める。
 1. そうでない時、`m_goodness = 4;` , `m_valid = true;`としてから`return;`と定める。
 - `inline const OnMei& HaiChiOfKyouWaOn::GetOnMei( const uint& i ) const noexcept`は`KyouWaOn::GetNeOn()` , `KyouWaOn::GetDaiSanOn()` , `KyouWaOn::GetDaiGoOn()`のうち$$i$$番目の戻り値で定める。
