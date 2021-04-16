@@ -3,7 +3,7 @@ layout: 404
 title: 巨大数たん幻想入り
 excerpt: "上海アリス幻樂団様の「東方Project」の二次創作作品です。巨大数たんが幻想入りして古明地こいしさんにペットとして拾われ、巨大数を広めながらのびのびと暮らしていくお話です。"
 date: 2021-04-08
-recent: 『巨大数たん幻想入り』その３０　「高価な靴箱ｷｮﾀﾞ」
+recent: その３１　「押し付けるのはやめるｷｮﾀﾞ」
 project-class: cartoon
 aname: kyodaisuutan-gensouiri
 url-initial: https://www.pixiv.net/artworks/68652620
