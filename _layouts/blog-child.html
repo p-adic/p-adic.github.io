@@ -49,6 +49,32 @@ layout: compress
                     {% endif %}
                 </div>
                 {{ content }}
+                <div class="post-title {% if page.feature %} feature {% endif %}">
+                    <span style="padding : 10px">
+                        <a class="btn zoombtn" href="{{ site.url }}">
+                            トップページ
+                        </a>
+                    </span>
+                    {% if page.prev-child != null %}
+                        <span style="padding : 10px">
+                            <a class="btn zoombtn" href="{{ site.url }}/{{ page.prev-child }}">
+                                前の記事
+                            </a>
+                        </span>
+                    {% endif %}
+                    <span style="padding : 10px">
+                        <a class="btn zoombtn" href="{{ site.url }}/{{ page.parent }}">
+                            親記事
+                        </a>
+                    </span>
+                    {% if page.next-child != null %}
+                        <span style="padding : 10px">
+                            <a class="btn zoombtn" href="{{ site.url }}/{{ page.next-child }}">
+                                次の記事
+                            </a>
+                        </span>
+                    {% endif %}
+                </div>
             </div>
         </div>
     </header>
