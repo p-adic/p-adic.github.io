@@ -8,7 +8,7 @@ project-class: cartoon
 aname: kyodaisuutan-gensouiri
 url-initial: https://www.pixiv.net/artworks/68652620
 url-all: https://www.pixiv.net/user/20006473/series/35747
-url-final: https://www.pixiv.net/artworks/96628541
+url-final: https://www.pixiv.net/artworks/96629081
 tags: [漫画,巨大数,東方,巨大数たん,巨大数たん幻想入り]
 ---
 
