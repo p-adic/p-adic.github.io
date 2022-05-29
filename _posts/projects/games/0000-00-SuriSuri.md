@@ -1,0 +1,12 @@
+---
+layout: 404
+title: ｽﾘｽﾘ
+excerpt: "人気数学系YouTuber/VTuberの[ワヘイヘイさん](https://twitter.com/waheyhey)と[叶数理さん](https://twitter.com/kano_suuri)と[アイシア＝ソリッドさん](https://twitter.com/AIcia_Solid)をモチーフとしたキャラクターたちを攻略対象とした数学系シミュレーションゲームです。まだプレイはできませんが下のリンクからキャラクターデザインを確認できます。"
+date: 2021-08-26
+recent: 平和ちゃんのキャラデザ
+project-class: game
+aname: surisuri
+url: https://twitter.com/non_archimedean/status/1430881130304086017
+url-description: キャラデザ
+tags: [ゲーム,妹グレ]
+---
