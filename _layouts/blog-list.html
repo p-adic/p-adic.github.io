@@ -29,7 +29,7 @@ layout: compress
                         {% if post.blog %}
                             <ul>
                                 <li class="wow fadeInLeft" data-wow-delay="0.1s" data-wow-duration="1.5s">
-                                    <a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>（最終更新日： {{ page.date | date: '%Y/%m/%d' }} ）
+                                    <a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a><font size = "1">（最終更新日： {{ page.date | date: '%Y/%m/%d' }} ）</font>
                                     <p>{{ post.excerpt }}</p>
                                     <a href="{{ site.url }}{{ post.url }}" class="btn zoombtn">もっと読む</a>
                                 </li>
