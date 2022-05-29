@@ -24,7 +24,7 @@ $(document).ready(function() {
     if ($(".wrapper").hasClass('fadeOut')) {
         $(".wrapper").removeClass("fadeOut").addClass("fadeIn");
     }
-    $('a:not([target], .tag)').click(function() {
+    $('a:not([target], .non-fade, .tag)').click(function() {
         $(".container").removeClass("fadeIn").addClass("fadeOut");
         $(".wrapper").removeClass("fadeIn").addClass("fadeOut");
     });
