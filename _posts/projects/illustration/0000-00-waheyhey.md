@@ -1,0 +1,13 @@
+---
+layout: 404
+title: ワヘイヘイイラスト一覧
+excerpt: "ワヘイヘイさんのイラスト一覧です。"
+date: 2021-10-!3
+thumbnail: C97『Draw Mathematics!』
+recent: ワヘイヘイさんvs叶数理さん
+project-class: illustration
+aname: illustration-waheyhey
+url-all: https://www.pixiv.net/users/20006473/illustrations/%E3%83%AF%E3%83%98%E3%82%A4%E3%83%98%E3%82%A4
+url-final: https://www.pixiv.net/artworks/93425606
+tags: [イラスト,ワヘイヘイ]
+---
