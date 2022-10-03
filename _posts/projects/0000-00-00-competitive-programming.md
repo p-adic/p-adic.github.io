@@ -4,8 +4,8 @@ title: 競技プログラミング作問一覧
 excerpt: "競技プログラミングの自作問題へのリンク集です。"
 date: 2022-10-03
 project: true
-class-name: 巨大数
-tags: [巨大数,数学]
+class-name: 狭義プログラミング
+tags: [競技プログラミング,プログラミング,数学]
 ---
 
 
