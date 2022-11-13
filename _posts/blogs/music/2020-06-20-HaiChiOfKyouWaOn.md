@@ -1,7 +1,7 @@
 ---
 layout: blog-child
 title: 機能和声の実装 － 協和音の配置
-subtitle: 配置
+subtitle: 協和音の配置
 date: 2020-06-20
 excerpt: "協和音の配置のクラスを実装します。"
 blog: true
