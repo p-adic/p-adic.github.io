@@ -2,7 +2,7 @@
 layout: project
 title: 競技プログラミング作問一覧
 excerpt: "競技プログラミングの自作問題へのリンク集です。"
-date: 2022-12-05
+date: 2023-01-09
 project: true
 class-name: 競技プログラミング
 tags: [競技プログラミング,プログラミング,数学]
@@ -34,12 +34,13 @@ tags: [競技プログラミング,プログラミング,数学]
 - レベル★4.5
   - 未公開
 - レベル★5
-  - 未公開
+  - [No.2168 停止性問題（双頭ヒドラゲーム）](https://yukicoder.me/problems/no/2168)
 
 単著コンテスト一覧
-- [yukicoder contest 362](https://yukicoder.me/contests/405)
+- [yukicoder contest 373](https://yukicoder.me/contests/418)
 - [yukicoder contest 367](https://yukicoder.me/contests/411)
+- [yukicoder contest 362](https://yukicoder.me/contests/405)
 
 共著コンテスト一覧
-- [yukicoder contest 369](https://yukicoder.me/contests/409)
-- [Advent Calendar Contest 2022](https://yukicoder.me/contests/416)
+- [Advent Calendar Contest 2022](https://yukicoder.me/contests/416)（U問題）
+- [yukicoder contest 369](https://yukicoder.me/contests/409)（A問題）
