@@ -32,7 +32,7 @@ tags: [競技プログラミング,プログラミング,数学]
   - [No.2089 置換の符号](https://yukicoder.me/problems/no/2089)
 - レベル★3
   - [No.2191 	一元二次式 mod 奇素数](https://yukicoder.me/problems/no/2191)
-  - [No.2190 平方数の下桁](https://yukicoder.me/problems/no/2190)
+  - [No.2190 平方数の下１２桁](https://yukicoder.me/problems/no/2190)
 - レベル★3.5
   - [No.2192 平方数の下１４桁](https://yukicoder.me/problems/no/2192)
   - [No.2121 帰属関係と充足可能性](https://yukicoder.me/problems/no/2121)
