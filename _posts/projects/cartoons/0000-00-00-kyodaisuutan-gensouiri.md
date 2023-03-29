@@ -2,7 +2,7 @@
 layout: 404
 title: 巨大数たん幻想入り
 excerpt: "上海アリス幻樂団様の「東方Project」の二次創作作品です。巨大数たんが幻想入りして古明地こいしさんにペットとして拾われ、巨大数を広めながらのびのびと暮らしていくお話です。"
-date: 2022-03-07
+date: 2023-03-07
 recent: ６６：さとり様の本気ｷｮﾀﾞ
 project-class: cartoon
 aname: kyodaisuutan-gensouiri
