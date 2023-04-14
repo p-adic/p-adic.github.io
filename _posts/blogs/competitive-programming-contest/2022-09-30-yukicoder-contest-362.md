@@ -20,12 +20,12 @@ tags: [競技プログラミング,数学]
         <table border="1" rules="none" cellpadding="15">
           <tr>
             <th colspan="3" align="center">
-              <h1>{{ post.order }}: {{ post.title }}</h1>
+              <h1>{{ post.order }} No.{{ post.num }} {{ post.title }}</h1>
             </th>
           </tr>
           <tr>
             <td>
-              <p>問題リンク：<a href="https://yukicoder.me/problems/no/{{ post.num }}">yukicoder No.{{ post.num }} {{ post.title }}</a></p>
+              <p>問題リンク：<a href="https://yukicoder.me/problems/no/{{ post.num }}">https://yukicoder.me/problems/no/{{ post.num }}</a></p>
               <p>tester：{{ post.tester }}</p>
             </td>
           </tr>
