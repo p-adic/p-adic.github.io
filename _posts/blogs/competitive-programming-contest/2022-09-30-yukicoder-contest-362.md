@@ -12,36 +12,35 @@ own: 単著
 tags: [競技プログラミング,数学]
 ---
 
-<table>
-  <tr>
-    <th>
-      <h2>A: A+B問題</h2>
-    </th>
-  </tr>
-</table>
 
-問題へのリンク：https://yukicoder.me/problems/no/2086
-
-多倍長の足し算を実装する問題です。加法の通常の再帰式では実行時間制限をオーバーしてしまうので、筆算を実装する必要があります。
-
-この問題を通じて、（何進法かに依存する）筆算が（何進法かに依存しない）通常の再帰式と比べて利点があるということを改めて認識していただき、位取り記法（そしてゆくゆくは$p$進）のありがたさの１つを知っていただければと思い出題させていただきました。
-
-Python使いの方々には肩透かしとなってしまったと思いますがご容赦ください。
-
-
-<table>
-  <tr>
-    <th>
-      <h2>B: 基数の変換</h2>
-    </th>
-  </tr>
-</table>
-
-問題へのリンク：https://yukicoder.me/problems/no/2087
-
-位取り記法で基数の変換を行う問題です。$p$進法で記述する方法を復習することで$p$進を学ぶ第一歩となればと思い出題させていただきました。
-
-なお、$0$を$p$進法で表示する時に無を出力しないようにご注意ください。
-
-WIP
+<div>
+  {% for post in site.posts %}
+    {% if post.blog-class != null %}{% if post.blog-class == '{{ subtitle }}' %}
+      <div class="content" id="{{ post.aname }}">
+        <table border="1" rules="none" cellpadding="15">
+          <tr>
+            <th colspan="3" align="center">
+              <h1>{{ post.order }}: {{ post.title }}</h1>
+            </th>
+          </tr>
+          <tr>
+            <td align="right">
+              <p>問題URL：https://yukicoder.me/problems/no/{{ num }}</p>
+              <p>tester：{{ post.tester }}</p>
+            </td>
+            <td>
+              <p>{{ post.date | date: '%Y/%m/%d' }}</p>
+              <p>{{ post.recent }}</p>
+            </td>
+          </tr>
+          <tr>
+            <td colspan="3">
+              {{ post }}
+            </td>
+          </tr>
+        </table>
+      </div>
+    {% endif %}{% endif %}
+  {% endfor %}
+</div>
 
