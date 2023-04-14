@@ -25,13 +25,13 @@ tags: [競技プログラミング,数学]
           </tr>
           <tr>
             <td>
-              <p>問題URL：https://yukicoder.me/problems/no/{{ num }}</p>
+              <p>問題URL：https://yukicoder.me/problems/no/{{ post.num }}</p>
               <p>tester：{{ post.tester }}</p>
             </td>
           </tr>
           <tr>
             <td colspan="3">
-              {{ post.body }}
+              {{ post.content }}
             </td>
           </tr>
         </table>
