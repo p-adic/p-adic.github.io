@@ -24,18 +24,14 @@ tags: [競技プログラミング,数学]
             </th>
           </tr>
           <tr>
-            <td align="right">
+            <td>
               <p>問題URL：https://yukicoder.me/problems/no/{{ num }}</p>
               <p>tester：{{ post.tester }}</p>
-            </td>
-            <td>
-              <p>{{ post.date | date: '%Y/%m/%d' }}</p>
-              <p>{{ post.recent }}</p>
             </td>
           </tr>
           <tr>
             <td colspan="3">
-              {{ post }}
+              {{ post.body }}
             </td>
           </tr>
         </table>
