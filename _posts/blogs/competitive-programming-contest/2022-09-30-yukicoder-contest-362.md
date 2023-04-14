@@ -25,7 +25,7 @@ tags: [競技プログラミング,数学]
           </tr>
           <tr>
             <td>
-              <p>問題URL：<a href="https://yukicoder.me/problems/no/{{ post.num }}">yukicoder No.{{ post.num }} {{ post.title }}</a></p>
+              <p>問題リンク：<a href="https://yukicoder.me/problems/no/{{ post.num }}">yukicoder No.{{ post.num }} {{ post.title }}</a></p>
               <p>tester：{{ post.tester }}</p>
             </td>
           </tr>
