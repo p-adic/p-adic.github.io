@@ -1,8 +1,8 @@
 ---
-layout: blog-child
+layout: competitive-programming-contest
+title: yukicoder contest 362開催記
 subtitle: yukicoder contest 362
-title: {{ page.subtitle }}開催記
-excerpt: "{{ page.subtitle }}の開催記です。"
+excerpt: "yukicoder contest 362の開催記です。"
 date: 2022-09-30
 parent: competitive-programming-contest/
 prev-child:
