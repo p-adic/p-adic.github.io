@@ -1,5 +1,5 @@
 ---
-layout: competitive-programming-contest
+layout: blog-child
 subtitle: yukicoder contest 362
 title: {{ page.subtitle }}開催記
 excerpt: "{{ page.subtitle }}の開催記です。"
