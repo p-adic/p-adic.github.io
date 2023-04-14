@@ -1,11 +1,53 @@
 ---
-layout: blog-child
-title: {{ page.subtitle }}開催記
-excerpt: "{{ page.subtitle }}の開催記です。"
-parent: competitive-programming-contest/
-blog: true
-tags: [競技プログラミング,数学]
+layout: compress
 ---
+<!DOCTYPE html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"><!--<![endif]-->
+<head>
+    {% include head.html %}
+</head>
+<body>
+    {% include nav.html %}
+    <!-- Header -->
+    <header class="header" role="banner">
+        <div class="wrapper animated fadeIn">
+            <div class="content">
+                <div class="post-title {% if page.feature %} feature {% endif %}">
+                    <h1>{{ page.title }}</h1>
+                    <h4>{{ page.date | date: '%Y/%m/%d' }}</h4>
+                    {% if site.reading_time %}
+                        <p class="reading-time">
+                            {% include read-time.html %}
+                        </p><!-- /.entry-reading-time -->
+                    {% endif %}
+                    <span style="padding : 10px">
+                        <a class="btn zoombtn" href="{{ site.url }}">
+                            トップページ
+                        </a>
+                    </span>
+                    {% if page.prev-child != null %}
+                        <span style="padding : 10px">
+                            <a class="btn zoombtn" href="{{ site.url }}/{{ page.prev-child }}">
+                                前の記事
+                            </a>
+                        </span>
+                    {% endif %}
+                    <span style="padding : 10px">
+                        <a class="btn zoombtn" href="{{ site.url }}/{{ page.parent }}">
+                            親記事
+                        </a>
+                    </span>
+                    {% if page.next-child != null %}
+                        <span style="padding : 10px">
+                            <a class="btn zoombtn" href="{{ site.url }}/{{ page.next-child }}">
+                                次の記事
+                            </a>
+                        </span>
+                    {% endif %}
+                </div>
 
 <div>
   {% for post in site.posts %}
@@ -33,4 +75,40 @@ tags: [競技プログラミング,数学]
     {% endif %}{% endif %}
   {% endfor %}
 </div>
-
+              
+                <div class="post-title {% if page.feature %} feature {% endif %}">
+                    <span style="padding : 10px">
+                        <a class="btn zoombtn" href="{{ site.url }}">
+                            トップページ
+                        </a>
+                    </span>
+                    {% if page.prev-child != null %}
+                        <span style="padding : 10px">
+                            <a class="btn zoombtn" href="{{ site.url }}/{{ page.prev-child }}">
+                                前の記事
+                            </a>
+                        </span>
+                    {% endif %}
+                    <span style="padding : 10px">
+                        <a class="btn zoombtn" href="{{ site.url }}/{{ page.parent }}">
+                            親記事
+                        </a>
+                    </span>
+                    {% if page.next-child != null %}
+                        <span style="padding : 10px">
+                            <a class="btn zoombtn" href="{{ site.url }}/{{ page.next-child }}">
+                                次の記事
+                            </a>
+                        </span>
+                    {% endif %}
+                </div>
+            </div>
+        </div>
+    </header>
+    {% include scripts.html %}
+    {% if site.mathjax == true %}
+    <!-- MathJax -->
+    <script async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    {% endif %}
+</body>
+</html>
