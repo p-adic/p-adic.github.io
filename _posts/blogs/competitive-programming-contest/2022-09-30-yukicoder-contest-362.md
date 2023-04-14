@@ -15,7 +15,7 @@ tags: [競技プログラミング,数学]
 
 <div>
   {% for post in site.posts %}
-    {% if post.blog-class != null %}{% if post.blog-class == 'yukicoder contest 362' %}
+    {% if post.blog-class != null %}{% if post.blog-class == page.subtitle %}
       <div class="content" id="{{ post.aname }}">
         <table border="1" rules="none" cellpadding="15">
           <tr>
