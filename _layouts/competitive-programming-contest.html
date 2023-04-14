@@ -48,7 +48,7 @@ layout: compress
                         </span>
                     {% endif %}
                 </div>
-
+                {{ content }}
                 <div>
                   {% for post in site.posts %}
                     {% if post.blog-class != null %}{% if post.blog-class == page.subtitle %}
