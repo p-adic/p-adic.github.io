@@ -4,6 +4,7 @@ title: yukicoder contest 362開催記
 subtitle: yukicoder contest 362
 excerpt: "yukicoder contest 362の開催記です。"
 date: 2022-09-30
+num: 405
 parent: competitive-programming-contest/
 prev-child:
 next-child: yukicoder-contest-367/
