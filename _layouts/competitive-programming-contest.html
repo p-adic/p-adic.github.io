@@ -48,7 +48,11 @@ layout: compress
                         </span>
                     {% endif %}
                 </div>
+                <div>
+                コンテストURL: <a href="https://yukicoder.me/contests/{{ page.num }}">https://yukicoder.me/contests/{{ page.num }}</a>
+                
                 {{ content }}
+                </div>
                 <div>
                   {% for post in site.posts %}
                     {% if post.blog-class != null %}{% if post.blog-class == page.subtitle %}
