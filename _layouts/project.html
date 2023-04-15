@@ -47,6 +47,14 @@ layout: compress
     {% if site.mathjax == true %}
     <!-- MathJax -->
     <script async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    <!-- markdownの数式 -->
+    <script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+    tex2jax: {
+    inlineMath: [['$','$'], ['\\(','\\)']],
+    }
+    });
+    </script>
     {% endif %}
 </body>
 </html>
