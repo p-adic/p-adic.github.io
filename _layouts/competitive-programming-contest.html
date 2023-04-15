@@ -49,12 +49,14 @@ layout: compress
                     {% endif %}
                 </div>
                 <div>
-                コンテストURL: <a href="https://yukicoder.me/contests/{{ page.num }}">https://yukicoder.me/contests/{{ page.num }}</a>
-                
-                {{ content }}
+                    <p>
+                        コンテストURL: <a href="https://yukicoder.me/contests/{{ page.num }}">https://yukicoder.me/contests/{{ page.num }}</a>
+                    </p>
+                    {{ content }}
+                    
                 </div>
                 <div>
-                  {% for post in site.posts %}
+                  {% for post in site.posts reversed %}
                     {% if post.blog-class != null %}{% if post.blog-class == page.subtitle %}
                       <div class="content" id="{{ post.aname }}">
                         <table border="1" rules="none" cellpadding="15">
