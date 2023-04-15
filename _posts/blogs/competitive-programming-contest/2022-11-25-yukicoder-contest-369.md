@@ -8,7 +8,7 @@ num: 409
 parent: competitive-programming-contest/
 prev-child: yukicoder-contest-367/
 next-child: yukicoder-contest-369/
-own: 共著
+own: A問題
 blog: true
 tags: [競技プログラミング,数学]
 ---
