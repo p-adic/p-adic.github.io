@@ -1,8 +1,8 @@
 ---
 layout: competitive-programming-contest
-title: yukicoder contest 369開催記
+title: yukicoder contest 369参戦記
 subtitle: yukicoder contest 369
-excerpt: "yukicoder contest 369の開催記です。"
+excerpt: "yukicoder contest 369の参戦記です。"
 date: 2022-11-25
 num: 409
 parent: competitive-programming-contest/
