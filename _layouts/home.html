@@ -60,7 +60,7 @@ layout: compress
 		    </tr>
 		    {% assign i = 0 %}
                     {% for post in site.posts %}
-			{% if i < 4 and post.layout != 404 }
+			{% if i < 4 }
 			    <tr>
 			        <td>
 				    {{ post.date | date: '%Y/%m/%d' }}
