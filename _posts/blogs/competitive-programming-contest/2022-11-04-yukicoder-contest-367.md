@@ -1,6 +1,7 @@
 ---
 layout: competitive-programming-contest
 title: yukicoder contest 367開催記
+subtitle: yukicoder contest 367
 suburl: yukicoder-contest-367
 excerpt: "yukicoder contest 367の開催記です。"
 date: 2022-11-04
