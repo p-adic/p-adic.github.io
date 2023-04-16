@@ -59,7 +59,7 @@ layout: compress
                 </div>
                 <div>
                   {% for post in site.posts reversed %}
-                    {% if post.blog-class != null %}{% if post.blog-class == page.subtitle %}
+                    {% if post.blog-class != null %}{% if post.blog-class == page.suburl %}
                       <div class="content" id="{{ post.aname }}">
                         <table border="1" rules="none" cellpadding="15">
                           <tr>
