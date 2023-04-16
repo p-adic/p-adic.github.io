@@ -53,10 +53,10 @@ tags: [競技プログラミング,プログラミング,数学]
 - レベル★5
   - [No.2168 停止性問題（双頭ヒドラゲーム）](https://yukicoder.me/problems/no/2168)
 
-コンテスト一覧
-{% for post in site.posts reversed %}
+コンテスト一覧および開催記
+{% for post in site.posts %}
 {% if post.parent != null %}{% if post.parent == "competitive-programming-contest/" %}
 - [{{ post.subtitle }}](https://yukicoder.me/contests/{{ post.num }})（{{ post.own }}）
 {% endif %}{% endif %}
 {% endfor %}
-- [コンテスト開催記]({{ site.url }}competitive-programming-contest/)
+- [開催記]({{ site.url }}competitive-programming-contest/)
