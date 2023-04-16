@@ -11,6 +11,6 @@ yukicoderでコンテストを開催した時の記録へのリンク集です�
 
 {% for post in site.posts %}
 {% if post.parent != null %}{% if post.parent == "competitive-programming-contest/" %}
-- [{{ post.subtitle }}]({{ site.url }}{{ post.url }})（{{ post.own }}）
+- [{{ post.title }}]({{ site.url }}{{ post.url }})（{{ post.own }}）
 {% endif %}{% endif %}
 {% endfor %}
