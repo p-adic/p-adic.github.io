@@ -2,7 +2,7 @@
 layout: project
 title: 競技プログラミング作問一覧
 excerpt: "競技プログラミングの自作問題へのリンク集です。"
-date: 2023-01-16
+date: 2023-04-16
 project: true
 class-name: 競技プログラミング
 tags: [競技プログラミング,プログラミング,数学]
