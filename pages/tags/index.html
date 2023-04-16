@@ -30,12 +30,12 @@ title: タグ一覧
     <h2 id="{{ this_word }}" class="tag-heading">{{ this_word }}</h2>
     <ul>
       {% for post in site.tags[this_word] %}
-	{% if post.project-class == null && post.title != null %}
+	{% if post.project-class == null and post.title != null %}
           <li class="entry-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
         {% endif %}
       {% endfor %}
       {% for post in site.tags[this_word] %}
-	{% if post.project-class != null && post.title != null %}
+	{% if post.project-class != null and post.title != null %}
           <li class="entry-title"><a href="{{ site.url }}/{{ post.project-class }}/index.html#{{ post.aname }}" title="{{ post.title }}">{{ post.title }}</a></li>
         {% endif %}
       {% endfor %}
