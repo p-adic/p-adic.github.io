@@ -7,7 +7,7 @@ date: 2022-11-04
 num: 411
 parent: competitive-programming-contest/
 prev-child: yukicoder-contest-362/
-next-child: yukicoder-contest-367/
+next-child: yukicoder-contest-369/
 own: 単著
 blog: true
 tags: [競技プログラミング,数学]
