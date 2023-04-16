@@ -1,7 +1,7 @@
 ---
 layout: competitive-programming-contest
 title: yukicoder contest 369参戦記
-subtitle: yukicoder contest 369
+suburl: yukicoder-contest-369
 excerpt: "yukicoder contest 369の参戦記です。"
 date: 2022-11-25
 num: 409
