@@ -53,3 +53,5 @@ tags: [競技プログラミング,プログラミング,数学]
 共著コンテスト一覧
 - [Advent Calendar Contest 2022](https://yukicoder.me/contests/416)（U問題）
 - [yukicoder contest 369](https://yukicoder.me/contests/409)（A問題）
+
+[コンテスト開催記](https://p-adic.github.io/competitive-programming-contest/)
