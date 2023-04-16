@@ -1,7 +1,7 @@
 ---
 layout: competitive-programming-contest
 title: yukicoder contest 384参戦記
-subtitle: yukicoder contest 384
+suburl: yukicoder-contest-384
 excerpt: "yukicoder contest 384の参戦記です。"
 date: 2023-04-14
 num: 431
