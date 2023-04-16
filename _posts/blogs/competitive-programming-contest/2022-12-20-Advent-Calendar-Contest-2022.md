@@ -1,7 +1,7 @@
 ---
 layout: competitive-programming-contest
 title: Advent Calendar Contest 2022参戦記
-subtitle: Advent Calendar Contest 2022
+suburl: Advent-Calendar-Contest-2022
 excerpt: "Advent Calendar Contest 2022の参戦記です。"
 date: 2022-12-20
 num: 416
