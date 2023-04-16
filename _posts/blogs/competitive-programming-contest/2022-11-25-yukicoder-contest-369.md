@@ -7,7 +7,7 @@ date: 2022-11-25
 num: 409
 parent: competitive-programming-contest/
 prev-child: yukicoder-contest-367/
-next-child: yukicoder-contest-369/
+next-child: Advent-Calendar-Contest-2022/
 own: A問題
 blog: true
 tags: [競技プログラミング,数学]
