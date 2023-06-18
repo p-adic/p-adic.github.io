@@ -9,9 +9,9 @@ tags: [競技プログラミング,プログラミング,数学]
 ---
 
 
-公開済み問題一覧（31問）は[こちらのリンク](https://yukicoder.me/users/5376/problems)です。現在の未公開問題は43問です。大半はtesterさんが見つかっておらず[こちらのツイート](https://twitter.com/non_archimedean/status/1669840394513952768)で募集中ですのでご応募くださると幸いです。
+現在の未公開問題は43問です。大半はtesterさんが見つかっておらず[こちらのツイート](https://twitter.com/non_archimedean/status/1669840394513952768)で募集中ですのでご応募くださると幸いです。
 
-以下、公開済み問題のレベル別一覧です。
+以下はyukicoderの公開済み問題一覧（31問）です。[こちらのリンク](https://yukicoder.me/users/5376/problems)からもご確認いただけます。
 
 - レベル★1
   - [No.2184 A○B問題](https://yukicoder.me/problems/no/2184)
