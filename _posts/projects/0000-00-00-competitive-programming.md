@@ -9,7 +9,7 @@ tags: [競技プログラミング,プログラミング,数学]
 ---
 
 
-現在の未公開問題は43問です。大半はtesterさんが見つかっておらず[こちらのツイート](https://twitter.com/non_archimedean/status/1669840394513952768)で募集中ですのでご応募くださると幸いです。
+現在の未公開問題は43問です。大半はtesterさんが見つかっておらず[こちらのツイート](https://twitter.com/non_archimedean/status/1669840394513952768)で募集中ですのでご応募くださると嬉しいです。
 
 以下はyukicoderの公開済み問題一覧（31問）です。[こちらのリンク](https://yukicoder.me/users/5376/problems)からもご確認いただけます。
 
