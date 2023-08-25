@@ -5,7 +5,7 @@ subtitle: yukicoder contest 402
 suburl: yukicoder-contest-402
 excerpt: "yukicoder contest 402の開催記です。"
 date: 2023-08-25
-num: 452
+num: 454
 parent: competitive-programming-contest/
 prev-child: yukicoder-contest-399/
 next-child: 
