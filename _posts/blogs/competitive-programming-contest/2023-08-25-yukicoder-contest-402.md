@@ -1,13 +1,13 @@
 ---
 layout: competitive-programming-contest
-title: yukicoder contest 399開催記
-subtitle: yukicoder contest 399
+title: yukicoder contest 402開催記
+subtitle: yukicoder contest 402
 suburl: yukicoder-contest-402
-excerpt: "yukicoder contest 399の開催記です。"
+excerpt: "yukicoder contest 402の開催記です。"
 date: 2023-08-25
 num: 452
 parent: competitive-programming-contest/
-prev-child: yukicoder-contest-384/
+prev-child: yukicoder-contest-399/
 next-child: 
 own: 単著
 blog: true
