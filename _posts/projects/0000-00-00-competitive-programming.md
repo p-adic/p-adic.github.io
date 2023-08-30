@@ -17,7 +17,7 @@ tags: [競技プログラミング,プログラミング,数学]
   <li> レベル★1 </li>
   <ul>
     {% for post in site.posts reversed %}
-      {% if post.blog-class != null %}{% if post.blog-class == page.suburl %}{% if post.difficulty == "★" %}
+      {% if post.blog-class != null %}{% if post.blog-class == page.suburl %}{% if post.difficulty == ★ %}
         <li>  - <a href="https://yukicoder.me/problems/no/{{ post.num }}">No.{{ post.num }} {{ post.title }}</a></li>
       {% endif %}{% endif %}{% endif %}
     {% endfor %}
