@@ -13,11 +13,21 @@ tags: [競技プログラミング,プログラミング,数学]
 
 以下はyukicoderの公開済み問題一覧（45問）です。[こちらのリンク](https://yukicoder.me/users/5376/problems)からもご確認いただけます。
 
+{% capture competitive_programming %}競技プログラミング{% endcapture %}
+{% capture level_1 %}★{% endcapture %}
+{% capture level_1_5 %}★☆{% endcapture %}
+{% capture level_2 %}★★{% endcapture %}
+{% capture level_2_5 %}★★☆{% endcapture %}
+{% capture level_3 %}★★★{% endcapture %}
+{% capture level_3_5 %}★★★☆{% endcapture %}
+{% capture level_4 %}★★★★{% endcapture %}
+{% capture level_4_5 %}★★★★☆{% endcapture %}
+{% capture level_5 %}★★★★★{% endcapture %}
 <ul>
   <li> レベル★1 </li>
   <ul>
-    {% for post in site.posts reversed %}
-      {% if post.blog-class != null %}{% if post.difficulty != null %}{% if post.difficulty == ★ %}
+    {% for post in site.tags[competitive_programming] reversed %}
+      {% if post.blog-class != null %}{% if post.difficulty != null %}{% if post.difficulty == level_1 %}
         <li>  - <a href="https://yukicoder.me/problems/no/{{ post.num }}">No.{{ post.num }} {{ post.title }}</a></li>
       {% endif %}{% endif %}{% endif %}
     {% endfor %}
