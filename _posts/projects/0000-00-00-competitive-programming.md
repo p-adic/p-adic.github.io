@@ -17,13 +17,13 @@ tags: [競技プログラミング,プログラミング,数学]
   - [No.2441 行列累乗](https://yukicoder.me/problems/no/2441)
   - [No.2184 A○B問題](https://yukicoder.me/problems/no/2184)
   - [No.2117 中国剰余定理入門](https://yukicoder.me/problems/no/2117)
-<div>
+<ul>
   {% for post in site.posts reversed %}
     {% if post.blog-class != null %}{% if post.blog-class == page.suburl %}{% if post.difficulty == "★" %}
-      <p>  - <a href="https://yukicoder.me/problems/no/{{ post.num }}">No.{{ post.num }} {{ post.title }}</a></p>
+      <li>  - <a href="https://yukicoder.me/problems/no/{{ post.num }}">No.{{ post.num }} {{ post.title }}</a></li>
     {% endif %}{% endif %}{% endif %}
   {% endfor %}
-</div>
+</ul>
 - レベル★1.5
   - [No.2392 二平方和](https://yukicoder.me/problems/no/2392)
   - [No.2267 群の公理](https://yukicoder.me/problems/no/2267)
