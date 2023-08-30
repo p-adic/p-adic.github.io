@@ -17,7 +17,7 @@ difficulty-list: [★,★☆,★★,★★☆,★★★,★★★☆,★★★�
 {% for post in site.tags[competitive_programming] %}
   {% if post.blog-class != null %}{% if post.difficulty != null %}
     {% assign count_problem = count_problem + 1 %}
-  {% endif %}{% endif %}{% endif %}
+  {% endif %}{% endif %}
 {% endfor %}
 
 以下はyukicoderの公開済み問題一覧（{{ count_problem }}問）です。[こちらのリンク](https://yukicoder.me/users/5376/problems)からもご確認いただけます。
