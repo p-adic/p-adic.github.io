@@ -34,7 +34,7 @@ difficulty-list: [★,★☆,★★,★★☆,★★★,★★★☆,★★★�
     </ul>
   </ul>
 {% endfor %}
-
+<p>　</p>
 
 コンテスト一覧（[開催記はこちら]({{ site.url }}/competitive-programming-contest/)）
 {% for post in site.posts %}
