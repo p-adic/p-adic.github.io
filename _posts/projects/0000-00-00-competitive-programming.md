@@ -6,33 +6,43 @@ date: 2023-08-30
 project: true
 class-name: 競技プログラミング
 tags: [競技プログラミング,プログラミング,数学]
+difficulty-list: [★,★☆,★★,★★☆,★★★,★★★☆,★★★★,★★★★☆,★★★★★]
 ---
 
 
 2023/8/30現在の未公開問題は38問です。大半はtesterさんが見つかっておらず[こちらのツイート](https://twitter.com/non_archimedean/status/1695264287986749668)で募集中ですのでご応募くださると嬉しいです。
 
-以下はyukicoderの公開済み問題一覧（45問）です。[こちらのリンク](https://yukicoder.me/users/5376/problems)からもご確認いただけます。
-
 {% capture competitive_programming %}競技プログラミング{% endcapture %}
-{% capture level_1 %}★{% endcapture %}
-{% capture level_1_5 %}★☆{% endcapture %}
-{% capture level_2 %}★★{% endcapture %}
-{% capture level_2_5 %}★★☆{% endcapture %}
-{% capture level_3 %}★★★{% endcapture %}
-{% capture level_3_5 %}★★★☆{% endcapture %}
-{% capture level_4 %}★★★★{% endcapture %}
-{% capture level_4_5 %}★★★★☆{% endcapture %}
-{% capture level_5 %}★★★★★{% endcapture %}
-<ul>
-  <li> レベル★1 </li>
+{% assign count_problem = 0 %}
+{% for post in site.tags[competitive_programming] %}
+  {% if post.blog-class != null %}{% if post.difficulty != null %}
+    {% assign count_problem = count_problem + 1 %}
+  {% endif %}{% endif %}{% endif %}
+{% endfor %}
+
+以下はyukicoderの公開済み問題一覧（{{ count_problem }}問）です。[こちらのリンク](https://yukicoder.me/users/5376/problems)からもご確認いただけます。
+
+{% for level in page.difficulty-list %}
   <ul>
-    {% for post in site.tags[competitive_programming] reversed %}
-      {% if post.blog-class != null %}{% if post.difficulty != null %}{% if post.difficulty == level_1 %}
-        <li>  - <a href="https://yukicoder.me/problems/no/{{ post.num }}">No.{{ post.num }} {{ post.title }}</a></li>
-      {% endif %}{% endif %}{% endif %}
-    {% endfor %}
+    <li> 難易度：level </li>
+    <ul>
+      {% for post in site.tags[competitive_programming] %}
+        {% if post.blog-class != null %}{% if post.difficulty != null %}{% if post.difficulty == level %}
+          <li>  - <a href="https://yukicoder.me/problems/no/{{ post.num }}">No.{{ post.num }} {{ post.title }}</a></li>
+        {% endif %}{% endif %}{% endif %}
+      {% endfor %}
+    </ul>
   </ul>
-</ul>
+{% endfor %}
+{% assign level = "★☆" %}
+{% assign level = "★★" %}
+{% assign level = "★★☆" %}
+{% assign level = "★★★" %}
+{% assign level = "★★★☆" %}
+{% assign level = "★★★★" %}
+{% assign level = "★★★★☆" %}
+{% assign level = "★★★★★" %}
+
 - レベル★1
   - [No.2441 行列累乗](https://yukicoder.me/problems/no/2441)
   - [No.2184 A○B問題](https://yukicoder.me/problems/no/2184)
