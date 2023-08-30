@@ -1,9 +1,9 @@
 ---
 layout: competitive-programming-contest
-title: yukicoder contest 402開催記
+title: yukicoder contest 402（線形代数コンテスト）開催記
 subtitle: yukicoder contest 402（線形代数コンテスト）
 suburl: yukicoder-contest-402
-excerpt: "yukicoder contest 402の開催記です。"
+excerpt: "yukicoder contest 402（線形代数コンテスト）の開催記です。"
 date: 2023-08-25
 num: 454
 parent: competitive-programming-contest/
