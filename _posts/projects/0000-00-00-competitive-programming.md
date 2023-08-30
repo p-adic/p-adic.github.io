@@ -14,6 +14,13 @@ tags: [競技プログラミング,プログラミング,数学]
 以下はyukicoderの公開済み問題一覧（45問）です。[こちらのリンク](https://yukicoder.me/users/5376/problems)からもご確認いただけます。
 
 - レベル★1
+<div>
+  {% for post in site.posts reversed %}
+    {% if post.blog-class != null %}{% if post.blog-class == page.suburl %}{% if post.difficulty == ★ %}
+      <p>  - <a href="https://yukicoder.me/problems/no/{{ post.num }}">No.{{ post.num }} {{ post.title }}</a></p>
+    {% endif %}{% endif %}{% endif %}
+  {% endfor %}
+</div>
   - [No.2441 行列累乗](https://yukicoder.me/problems/no/2441)
   - [No.2184 A○B問題](https://yukicoder.me/problems/no/2184)
   - [No.2117 中国剰余定理入門](https://yukicoder.me/problems/no/2117)
