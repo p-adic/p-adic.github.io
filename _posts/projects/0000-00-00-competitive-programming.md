@@ -16,7 +16,7 @@ difficulty-list: [★,★☆,★★,★★☆,★★★,★★★☆,★★★�
 {% assign count-problem = 0 %}
 {% for post in site.tags[competitive-programming] %}
   {% if post.blog-class != null %}{% if post.difficulty != null %}
-    {% assign count-problem = count-problem + 1 %}
+    {% assign count-problem = count-problem | plus: 1 %}
   {% endif %}{% endif %}
 {% endfor %}
 
