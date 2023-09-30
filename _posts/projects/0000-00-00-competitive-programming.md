@@ -2,7 +2,7 @@
 layout: project
 title: 競技プログラミング作問一覧
 excerpt: "競技プログラミングの自作問題へのリンク集です。"
-date: 2023-09-07
+date: 2023-09-30
 project: true
 class-name: 競技プログラミング
 tags: [競技プログラミング,プログラミング,数学]
@@ -10,7 +10,7 @@ difficulty-list: [★,★☆,★★,★★☆,★★★,★★★☆,★★★�
 ---
 
 
-2023/09/07現在の未公開問題は40問です。大半はtesterさんが見つかっておらず[こちらのツイート](https://twitter.com/non_archimedean/status/1699562297293975881)で募集中ですのでご応募くださると嬉しいです。
+2023/09/40現在の未公開問題は41問です。大半はtesterさんが見つかっておらず[こちらのツイート](https://twitter.com/non_archimedean/status/1706868485492822463)で募集中ですのでご応募くださると嬉しいです。
 
 {% capture competitive-programming %}競技プログラミング{% endcapture %}
 {% assign count-problem = 0 %}
