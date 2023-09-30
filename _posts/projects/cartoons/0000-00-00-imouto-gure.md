@@ -9,5 +9,6 @@ aname: imouto-gure
 url-initial: https://www.pixiv.net/artworks/60841883
 url-all: https://www.pixiv.net/user/20006473/series/8073
 url-final: https://www.pixiv.net/artworks/73557223
+redirect_to: https://p-adic.github.io/cartoon/index.html#imouto-gure
 tags: [漫画,グレ妹,妹グレ]
 ---
