@@ -25,6 +25,8 @@ mathjax:            true
 sass:
   sass_dir:         _sass
   style:            compressed
+plugins:
+  - jekyll-redirect-from
 
 # Social
 twitter:            non_archimedean
@@ -40,6 +42,7 @@ gems:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-gist
+  - jekyll-redirect-from
 
 jekyll-mentions:
     base_url: https://github.com
