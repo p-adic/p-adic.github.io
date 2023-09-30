@@ -28,7 +28,7 @@ difficulty-list: [★,★☆,★★,★★☆,★★★,★★★☆,★★★�
     <ul>
       {% for post in site.tags[competitive-programming] %}
         {% if post.blog-class != null %}{% if post.difficulty != null %}{% if post.difficulty == level %}
-          <li>  - <a href="https://yukicoder.me/problems/no/{{ post.num }}">No.{{ post.num }} {{ post.title }}</a></li>
+          <li> <a href="https://yukicoder.me/problems/no/{{ post.num }}">No.{{ post.num }} {{ post.title }}</a></li>
         {% endif %}{% endif %}{% endif %}
       {% endfor %}
     </ul>
