@@ -63,32 +63,27 @@ tags: [競技プログラミング]
 
 ## 既出問題・オマージュ問題の例
 
-- [yukicoder contest 402 E問題 - 奇行列式](https://yukicoder.me/problems/no/2445)
+### [yukicoder contest 402 E問題 - 奇行列式](https://yukicoder.me/problems/no/2445)
 
 [解説](https://yukicoder.me/problems/no/2445/editorial)に明記されているように[Advent Calendar Contest 2022 (yukicoder) I問題 - [Cherry Anniversary 2] 19 Petals of Cherry](https://yukicoder.me/problems/no/2152)のオマージュ問題です。
 
-
-- [yukicoder contest 362 A問題 - A+B問題](https://yukicoder.me/problems/no/2086)
+### [yukicoder contest 362 A問題 - A+B問題](https://yukicoder.me/problems/no/2086)
 
 問題文に明記されているように[yukicoder No.1088 A+B Problem](https://yukicoder.me/problems/no/1088)のオマージュ問題です。
 
-
-- [Japan Alumni Group Summer Camp 2023 Day 2 J問題 - Knight Game](https://yukicoder.me/problems/no/2476)
+### [Japan Alumni Group Summer Camp 2023 Day 2 J問題 - Knight Game](https://yukicoder.me/problems/no/2476)
 
 Knight' tour問題という有名問題の２人プレイヤー版で、検索すると類題がいくつか引っかかります。特に[そのうちの１つ](https://math.stackexchange.com/questions/897092/who-has-a-winning-strategy-in-knight-and-why)で２手目から始める問題と完全に一致します。類題も含めれば解説がブログから動画までたくさん出回っているので恐らく意図的なオマージュだと思いますが、解説は記事執筆時点で「後程追記します」と一言書かれているだけで特に引用もなかったので、本当にオマージュなのかたまたま知らなかったのかは分かりません。
 
-
-- [AtCoder Regular Contest 165 A問題 - Sum equals LCM](https://atcoder.jp/contests/arc165/tasks/arc165_a)
+### [AtCoder Regular Contest 165 A問題 - Sum equals LCM](https://atcoder.jp/contests/arc165/tasks/arc165_a)
 
 [writerさんの日記](https://chineristac.hatenablog.com/entry/2023/09/26/230309)に明記されているように[yukicoder No.2384 Permutations of Permutations](https://yukicoder.me/problems/no/2384)を元ネタとする問題です。
 
-
-- [yukicoder contest 360 G - Concon Substrings (ConVersion)](https://yukicoder.me/problems/no/2076)
+### [yukicoder contest 360 G - Concon Substrings (ConVersion)](https://yukicoder.me/problems/no/2076)
 
 明記はされていませんが[writerさんのツイート](https://twitter.com/sad_eight)を参考にすると恐らく[AtCoder Regular Contest 140 B - Shorten ARC](https://atcoder.jp/contests/arc140/tasks/arc140_b)の改題のようです。
 
-
-- [yukicoder No.2085 Directed Complete Graph](https://yukicoder.me/problems/no/2085)
+### [yukicoder No.2085 Directed Complete Graph](https://yukicoder.me/problems/no/2085)
 
 リアクティブ要素を除けば[stackexchange](https://math.stackexchange.com/questions/810380/longest-path-in-directed-complete-graph)で解法まで完全に解説されています。検索で上位に引っかかりますが解説などにはオマージュ元として明記されていないので、たまたま既出の問題と被ってしまったのでしょうね。
 
@@ -103,7 +98,7 @@ Knight' tour問題という有名問題の２人プレイヤー版で、検索�
 
 ## 未定義語や定義通りでない語の使用例
 
-- (名詞)(変数)
+### (名詞)(変数)
 
 具体例：[yukicoder contest 371 (Asakatsu Presents) C - みちらcolor](https://yukicoder.me/problems/no/2155)
 
@@ -123,8 +118,7 @@ Knight' tour問題という有名問題の２人プレイヤー版で、検索�
 1. [箱さんのツイート](https://twitter.com/hako111223/status/1696392538222154033)
 1. [チルノさんのツイート](https://twitter.com/CuriousFairy315/status/1696403531216097347)
 
-
-- (記号)_(添字)
+### (記号)_(添字)
 
 具体例１：[yukicoder contest 358 G - Sum of Subset mod 999630629](https://yukicoder.me/problems/no/2062)
 
@@ -138,8 +132,7 @@ $A_i$という記号が数式の中に唐突に現れますが、これは頻出
 
 ただしLibrary Checkerは競技プログラミングサイトではなく、別件に対する[yosupoさんのコメント](https://github.com/yosupo06/library-checker-problems/issues/919#issuecomment-1476056383)によりますと「競プロをそれなりにやっていてライブラリをベリファイしたい人が、問題文を読んで誤解を招かない」なら問題文として十分だと考えた上で提供されているサービスであるため、このような措置が競技プログラミングで一般的であるという保証はありません。
 
-
-- 誤差の侘び寂び
+### 誤差の侘び寂び
 
 具体例：[yukicoder No.3072 Sum of sqrt(x)](https://yukicoder.me/problems/no/3072)
 
@@ -162,8 +155,7 @@ $A_i$という記号が数式の中に唐突に現れますが、これは頻出
 1. [えびちゃんさんのツイート](https://twitter.com/rsk0315_h4x/status/1708440803599888550)
 1. [桃音モモさんのブログ](https://259-momone.hatenablog.com/entry/2022/01/19/021925)
 
-
-- 多項式の侘び寂び
+### 多項式の侘び寂び
 
 具体例：[Division of Polynomials (Library Checker)](https://judge.yosupo.jp/problem/division_of_polynomials)
 
