@@ -1,7 +1,7 @@
 ---
 layout: competitive-programming-contest
-title: yukicoder contest 411開催記
-subtitle: yukicoder contest 411
+title: yukicoder contest 411（基礎論コンテスト）開催記
+subtitle: yukicoder contest 411（基礎論コンテスト）
 suburl: yukicoder-contest-411
 excerpt: "yukicoder contest 411の開催記です。"
 date: 2023-11-10
