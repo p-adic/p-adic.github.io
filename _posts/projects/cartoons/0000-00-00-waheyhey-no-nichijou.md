@@ -2,7 +2,7 @@
 layout: redirect
 title: ワヘイヘイの日常
 excerpt: "実在の数学者であり漫画家でもあるワヘイヘイさんを題材にした作品です。数学者の日常を描きました。"
-date: 2024-02-29
+date: 2024-03-08
 recent: ３－２５
 project-class: cartoon
 aname: waheyhey-no-nichijou
