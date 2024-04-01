@@ -9,7 +9,7 @@ num: 489
 parent: competitive-programming-contest/
 prev-child: yukicoder-contest-412/
 next-child: 
-own: 共著
+own: F問題
 blog: true
 tags: [競技プログラミング,数学]
 ---
