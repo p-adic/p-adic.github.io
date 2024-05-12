@@ -28,17 +28,39 @@ layout: compress
                             トップページ
                         </a>
                     </span>
-                    <span style="padding : 10px">
-                        {% if page.project %}
-                            <a class="btn zoombtn" href="{{site.url}}/pages/projects/">
-                                作品一覧
-                            </a>
-                        {% else %}
-                            <a class="btn zoombtn" href="{{site.url}}/pages/blogs/">
-                                記事一覧
-                            </a>
+                    {% if page.parent != null %}
+                        {% if page.prev-child != null %}
+                            <span style="padding : 10px">
+                                <a class="btn zoombtn" href="{{ site.url }}/{{ page.prev-child }}">
+                                    前の関連記事
+                                </a>
+                            </span>
                         {% endif %}
-                    </span>
+                        <span style="padding : 10px">
+                            <a class="btn zoombtn" href="{{ site.url }}/{{ page.parent }}">
+                                親記事
+                            </a>
+                        </span>
+                        {% if page.next-child != null %}
+                            <span style="padding : 10px">
+                                <a class="btn zoombtn" href="{{ site.url }}/{{ page.next-child }}">
+                                    次の関連記事
+                                </a>
+                            </span>
+                        {% endif %}
+                    {% else %}
+                        <span style="padding : 10px">
+                            {% if page.project %}
+                                <a class="btn zoombtn" href="{{site.url}}/pages/projects/">
+                                    作品一覧
+                                </a>
+                            {% else %}
+                                <a class="btn zoombtn" href="{{site.url}}/pages/blogs/">
+                                    記事一覧
+                                </a>
+                            {% endif %}
+                        </span>
+                    {% endif %}
                 </div>
                 {{ content }}
             </div>
