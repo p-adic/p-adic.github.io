@@ -11,6 +11,6 @@ tags: [競技プログラミング]
 
 {% for post in site.posts %}
 {% if post.parent != null %}{% if post.parent == "competitive-programming-blog/" %}
-- [{{ post.title }}]({{ site.url }}{{ post.url }})（{{ post.own }}）
+- [{{ post.title }}]({{ site.url }}{{ post.url }})
 {% endif %}{% endif %}
 {% endfor %}
