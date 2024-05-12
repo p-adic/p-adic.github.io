@@ -3,7 +3,6 @@ layout: blog
 title: 競技プログラミング関連記事リンク集
 date: 2024-05-12
 excerpt: "競技プログラミング関連記事のリンク集です。"
-parent
 blog: true
 tags: [競技プログラミング]
 ---
