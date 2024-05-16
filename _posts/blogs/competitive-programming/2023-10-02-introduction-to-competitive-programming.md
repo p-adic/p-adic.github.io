@@ -5,7 +5,7 @@ date: 2023-10-02
 excerpt: "数学者向けの競技プログラミング入門記事です。"
 parent: competitive-programming-blog/
 prev-child: competitive-programming-contest
-next-child: creating-prolems-for-competitive-programming
+next-child: ruling-on-creating-prolems-for-competitive-programming
 blog: true
 tags: [競技プログラミング]
 ---
