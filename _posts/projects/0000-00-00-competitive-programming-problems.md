@@ -9,8 +9,7 @@ tags: [競技プログラミング,プログラミング,数学]
 difficulty-list: [★,★☆,★★,★★☆,★★★,★★★☆,★★★★,★★★★☆,★★★★★]
 ---
 
-
-{{ page.date | date: '%Y/%m/%d' }}現在の未公開問題は52問です。大半はtesterさんが見つかっておらず[こちらのツイート](https://twitter.com/non_archimedean/status/1787995375405834722)で募集中ですのでご応募くださると嬉しいです。
+未公開問題については[作問状況のページ]({{ site }}/competitive-programming-creating-problem-status/)をご覧ください。testerさんも募集中です。
 
 {% capture competitive-programming %}競技プログラミング{% endcapture %}
 {% assign count-problem = 0 %}
