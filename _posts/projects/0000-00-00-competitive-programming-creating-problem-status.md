@@ -8,7 +8,7 @@ class-name: 競技プログラミング
 tags: [競技プログラミング,プログラミング,数学]
 ---
 
-競技プログラミングの未公開問題の作問状況をまとめたページです。公開済み問題は[作問一覧のページ]({{ site }}/competitive-programming-problems)をご覧ください。
+競技プログラミングの未公開問題の作問状況をまとめたページです。公開済み問題は[こちら]({{ site.url }}/competitive-programming-problems)をご覧ください。
 
 {{ page.date | date: '%Y/%m/%d' }}現在の未公開問題は57問です。大半はtesterさんが見つかっておらず[こちらのツイート](https://twitter.com/non_archimedean/status/1787995375405834722)で募集中ですのでご応募くださると嬉しいです。
 
