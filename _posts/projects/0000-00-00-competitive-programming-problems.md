@@ -9,7 +9,7 @@ tags: [競技プログラミング,プログラミング,数学]
 difficulty-list: [★,★☆,★★,★★☆,★★★,★★★☆,★★★★,★★★★☆,★★★★★]
 ---
 
-未公開問題については[作問状況のページ]({{ site }}/competitive-programming-creating-problem-status/)をご覧ください。testerさんも募集中です。
+競技プログラミングの公開済み問題をまとめたページです。未公開問題は[作問状況のページ]({{ site }}/competitive-programming-creating-problem-status/)をご覧ください。そちらに記載の通りtesterさんも募集中です。
 
 {% capture competitive-programming %}競技プログラミング{% endcapture %}
 {% assign count-problem = 0 %}
