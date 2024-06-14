@@ -8,7 +8,7 @@ date: 2024-05-10
 num: 494
 parent: competitive-programming-contest/
 prev-child: yukicoder-April-Fool-Contest-2014
-next-child: 
+next-child: yukicoder-contest-433
 own: A,D,E,G問題
 blog: true
 tags: [競技プログラミング,数学]
