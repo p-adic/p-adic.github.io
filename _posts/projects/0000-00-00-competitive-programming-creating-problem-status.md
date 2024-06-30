@@ -2,7 +2,7 @@
 layout: project
 title: 競技プログラミング作問状況
 excerpt: "競技プログラミングの作問状況の情報をまとめたページです。"
-date: 2024-07-01
+date: 2024-06-30
 project: true
 class-name: 競技プログラミング
 tags: [競技プログラミング,プログラミング,数学]
