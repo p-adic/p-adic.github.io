@@ -2,7 +2,7 @@
 layout: project
 title: 競技プログラミング作問状況
 excerpt: "競技プログラミングの作問状況の情報をまとめたページです。"
-date: 2024-07-16
+date: 2024-07-17
 project: true
 class-name: 競技プログラミング
 tags: [競技プログラミング,プログラミング,数学]
@@ -10,7 +10,7 @@ tags: [競技プログラミング,プログラミング,数学]
 
 競技プログラミングの未公開問題の作問状況をまとめたページです。公開済み問題は[こちら]({{ site.url }}/competitive-programming-problems)をご覧ください。
 
-{{ page.date | date: '%Y/%m/%d' }}現在の未公開問題は58問です。大半はtesterさんが見つかっておらず[こちらのツイート](https://twitter.com/non_archimedean/status/1810623222880362726)で募集中ですのでご応募くださると嬉しいです。
+{{ page.date | date: '%Y/%m/%d' }}現在の未公開問題は58問です。大半はtesterさんが見つかっておらず[こちらのツイート](https://twitter.com/non_archimedean/status/1813499865525272601)で募集中ですのでご応募くださると嬉しいです。
 
 ## コンテスト予定
 
