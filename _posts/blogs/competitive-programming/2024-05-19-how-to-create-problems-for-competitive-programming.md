@@ -5,7 +5,7 @@ date: 2024-05-19
 excerpt: "どのように競技プログラミング作問をしているかを書いていきます。"
 parent: competitive-programming-blog/
 prev-child: ruling-on-creating-prolems-for-competitive-programming
-next-child: 
+next-child: category-on-segtree?
 blog: true
 tags: [競技プログラミング]
 ---
