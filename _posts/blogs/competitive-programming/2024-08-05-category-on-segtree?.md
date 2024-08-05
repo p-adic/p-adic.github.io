@@ -30,7 +30,7 @@ tags: [競技プログラミング]
 
 なお、上で述べている圏とは小圏のことです。小圏（small category）は圏の中でも特別なものなのですが、小圏のみを指す文脈でも圏（category）と呼ぶ慣習がある（その場合は小圏でない圏をbig categoryと呼ぶ）ためにそのようにしています。
 
-例えば競技プログラミングでもおなじみの[種の理論](https://en.wikipedia.org/wiki/Combinatorial_species)では小圏でない圏$\textrm{FSet}$を使います。他にも競技プログラミングでおなじみの[マトロイド](https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%88%E3%83%AD%E3%82%A4%E3%83%89)と関係の深い[単体的集合](https://en.wikipedia.org/wiki/Simplicial_set)は、小圏$\Delta$から小圏でない圏$\textrm{Set}$への反変関手を使います。
+例えば競技プログラミングでもおなじみの[種の理論](https://en.wikipedia.org/wiki/Combinatorial_species)では小圏でない圏$\mathbb{B}$を使います。他にも競技プログラミングでおなじみの[マトロイド](https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%88%E3%83%AD%E3%82%A4%E3%83%89)と関係の深い[単体的集合](https://en.wikipedia.org/wiki/Simplicial_set)は、小圏$\Delta$から小圏でない圏$\textrm{Set}$への反変関手を使います。
 
 とはいえせっかくなので以下ではきちんと圏と小圏を区別して説明します。
 
