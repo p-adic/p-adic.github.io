@@ -249,5 +249,5 @@ $N$を非負整数として、全順序集合$\mathbb{Z} \cap [0,N)$は狭義プ
 ## 出典
 
 1. Kimiyuki Onaka and Shiho Midorikawa, [セグメント木と代数構造の理論](https://elliptic-shiho.github.io/segtree/segtree.pdf), 2024-02-12.
-2. tatyam (@tatyam_prime), ["計算不能" を集合に入れてしまえばモノイドになってしまうという話は，ある](https://twitter.com/tatyam_prime/status/1790626129017237552), twitter, 2024-05-15.
+2. tatyam (tatyam_prime), ["計算不能" を集合に入れてしまえばモノイドになってしまうという話は，ある](https://twitter.com/tatyam_prime/status/1790626129017237552), twitter, 2024-05-15.
 
