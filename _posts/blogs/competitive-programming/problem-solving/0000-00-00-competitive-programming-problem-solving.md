@@ -12,10 +12,10 @@ tags: [競技プログラミング,数学]
 
 競技プログラミングの問題に挑戦した時の記録（感想や解説など）へのリンク集です。
 
-解法に触れることがありますので、ネタバレにご注意ください。（[コンテスト開催記一覧はこちら]({{ site.url }}/competitive-programming-problem-solving/)）
+解法に触れることがありますので、ネタバレにご注意ください。（[コンテスト開催記一覧はこちら]({{ site.url }}/competitive-programming-contest/)）
 
 {% for post in site.posts %}
-{% if post.parent != null %}{% if post.parent == "competitive-programming-trial/" %}
+{% if post.parent != null %}{% if post.parent == "competitive-programming-problem-solving/" %}
 - [{{ post.title }}]({{ site.url }}{{ post.url }})（{{ post.own }}）
 {% endif %}{% endif %}
 {% endfor %}
