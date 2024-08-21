@@ -5,7 +5,7 @@ date: 2024-08-05
 excerpt: "セグメント木に圏が乗るという言説について書いていきます。"
 parent: competitive-programming-blog/
 prev-child: how-to-create-problems-for-competitive-programming
-next-child: 
+next-child: competitive-programming-problem-solving
 blog: true
 tags: [競技プログラミング]
 ---
