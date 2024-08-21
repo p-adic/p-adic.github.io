@@ -16,6 +16,6 @@ tags: [競技プログラミング,数学]
 
 {% for post in site.posts %}
 {% if post.parent != null %}{% if post.parent == "competitive-programming-problem-solving/" %}
-- [{{ post.title }}]({{ site.url }}{{ post.url }})（{{ post.own }}）
+- [{{ post.title }}]({{ site.url }}{{ post.url }})
 {% endif %}{% endif %}
 {% endfor %}
