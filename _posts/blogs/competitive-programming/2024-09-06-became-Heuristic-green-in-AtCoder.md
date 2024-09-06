@@ -48,13 +48,21 @@ yukicoderにはレーティングシステムの代わりにサイトへの貢�
 
 人から伝授していただいたアルゴリズムには愛着が湧きます。okkuuさんから教わった[BIT](https://github.com/p-adic/cpp/tree/master/Mathematics/SetTheory/DirectProduct/AffineSpace/BIT)と、えこってさんやチルノさんから教わった[平方分割](https://github.com/p-adic/cpp/tree/master/Mathematics/SetTheory/DirectProduct/AffineSpace/SqrtDecomposition)を、これでもかというほどに使い倒しています。
 
-hotmanさんやNyaanさんやTKOさんや（多すぎて全員挙げられない）から教わった[多項式・形式冪級数周りのアルゴリズム](https://github.com/p-adic/cpp/tree/master/Mathematics/Polynomial)も[Sum of Subset mod 999630629](https://yukicoder.me/problems/no/2062)と[Paint and Fill](https://yukicoder.me/problems/no/2166)での苦戦から深い思い入れがありますが、残念ながら★3以下で使う機会がほとんどないので全然応用力を培えていません。
+<details>
+<summary>
+hotmanさんやNyaanさんやTKOさんや（多すぎて全員挙げられない）から教わった[多項式・形式冪級数周りのアルゴリズム](https://github.com/p-adic/cpp/tree/master/Mathematics/Polynomial)も以下の問題（ネタバレ防止用にクリックで開く）での苦戦から深い思い入れがありますが、残念ながら★3以下で使う機会がほとんどないので全然応用力を培えていません。
+</summary>
+<ul>
+<li>[Sum of Subset mod 999630629](https://yukicoder.me/problems/no/2062)</li>
+<li>[Paint and Fill](https://yukicoder.me/problems/no/2166)</li>
+</ul>
+</details>
 
 また代入を体現したようなアルゴリズムである[UnionFind](https://github.com/p-adic/cpp/tree/master/Mathematics/Geometry/Graph/Algorithm/UnionFindForest)と、単射を抽象化したような問題設定である[最大二部マッチングの求解アルゴリズム](https://github.com/p-adic/cpp/tree/master/Mathematics/Geometry/Graph/Algorithm/HopcroftKarp)は、代入や単射の数学における重要性から一目置いています。
 
 あと競技プログラミングとは違う文脈で知っていた[マーラー変換](https://github.com/p-adic/cpp/tree/master/Mathematics/Combinatorial/ZetaTransform/MahlerTransform)や[順序数表記](https://googology.fandom.com/wiki/User_blog:P%E9%80%B2%E5%A4%A7%E5%A5%BD%E3%81%8Dbot/Relation_between_an_OCF_and_an_Ordinal_Notation#Ordinal_Notation)も好きなのですが、競技プログラミングでの出題頻度は低いので自分で作問しています。
 
-他にも[グレブナー基底](https://github.com/p-adic/cpp/tree/master/Mathematics/Polynomial/GroebnerBasis)の同人誌やゲームを制作しています。グレブナー基底大好きbotさんの書籍「[妹がグレブナー基底に興味を持ち始めたのだが。](https://shosen.tokyo/?pid=171797363)」のシリーズのどこかに何箇所か絵を載せていただいているのでぜひ探してみてください。
+他にも[グレブナー基底](https://github.com/p-adic/cpp/tree/master/Mathematics/Polynomial/GroebnerBasis)の同人誌やゲームを制作しています。グレブナー基底大好きbotさんの書籍「[妹がグレブナー基底に興味を持ち始めたのだが。](https://shosen.tokyo/?pid=171797363)」のシリーズのどこかにも何箇所か絵を載せていただいているのでぜひ探してみてください。
 
 
 ## 苦手なアルゴリズム
@@ -76,8 +84,15 @@ BITに親しみを覚えすぎているので、[累積和](https://github.com/p
 
 $4$年後の$2022$年、知り合いのokkuuさんがyukicoderで作問をなさったけれどまだあまり解かれていらっしゃらないという話を聞き、久しぶりに競技プログラミングの問題に挑戦してみようと思いました。思い出深い[K色問題](https://yukicoder.me/problems/no/1815)です。
 
-自力で解くことを目標に、$1$ヶ月近くかけてようやくACを取れた時の爽快感は今でも忘れません。たまたま問題が高度な知識を要求しない定数倍高速化を問うものだったことがとても幸運で、そうでなかったら手も足も出ずまた競技プログラミングを諦めるところでした。結果的に解けたおかげで大きな励みになり、これが競技プログラミングを始めたきっかけとなりました。
+<details>
+<summary>
+自力で解くことを目標に、$1$ヶ月近くかけてようやくACを取れた時の爽快感は今でも忘れません。（ネタバレあり。クリックで開く）
+</summary>
+<p>　</p>
+たまたま問題が高度な知識を要求しない定数倍高速化を問うものだったことがとても幸運で、そうでなかったら手も足も出ずまた競技プログラミングを諦めるところでした。
+</details>
 
+結果的に解けたおかげで大きな励みになり、これが競技プログラミングを始めたきっかけとなりました。
 
 ## 競技プログラミングの勉強
 
