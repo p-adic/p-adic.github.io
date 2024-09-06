@@ -50,7 +50,7 @@ yukicoderにはレーティングシステムの代わりにサイトへの貢�
 
 hotmanさんやNyaanさんやTKOさんや（多すぎて全員挙げられない）から教わった[多項式・形式冪級数周りのアルゴリズム](https://github.com/p-adic/cpp/tree/master/Mathematics/Polynomial)も[Sum of Subset mod 999630629](https://yukicoder.me/problems/no/2062)と[Paint and Fill](https://yukicoder.me/problems/no/2166)での苦戦から深い思い入れがありますが、残念ながら★3以下で使う機会がほとんどないので全然応用力を培えていません。
 
-また代入を体現したようなデータ構造である[UnionFind](https://github.com/p-adic/cpp/tree/master/Mathematics/Geometry/Graph/Algorithm/UnionFindForest)と、単射を抽象化したような問題設定である[最大二部マッチングの求解アルゴリズム](https://github.com/p-adic/cpp/tree/master/Mathematics/Geometry/Graph/Algorithm/HopcroftKarp)は、代入や単射の数学における重要性から一目置いています。
+また代入を体現したようなアルゴリズムである[UnionFind](https://github.com/p-adic/cpp/tree/master/Mathematics/Geometry/Graph/Algorithm/UnionFindForest)と、単射を抽象化したような問題設定である[最大二部マッチングの求解アルゴリズム](https://github.com/p-adic/cpp/tree/master/Mathematics/Geometry/Graph/Algorithm/HopcroftKarp)は、代入や単射の数学における重要性から一目置いています。
 
 あと競技プログラミングとは違う文脈で知っていた[マーラー変換](https://github.com/p-adic/cpp/tree/master/Mathematics/Combinatorial/ZetaTransform/MahlerTransform)や[順序数表記](https://googology.fandom.com/wiki/User_blog:P%E9%80%B2%E5%A4%A7%E5%A5%BD%E3%81%8Dbot/Relation_between_an_OCF_and_an_Ordinal_Notation#Ordinal_Notation)も好きなのですが、競技プログラミングでの出題頻度は低いので自分で作問しています。
 
@@ -93,7 +93,7 @@ yukicoderの問題の難易度はwriterさんが自由につけるのですが�
 
 たまに「数学が得意ならば競技プログラミングに向いている」という言説を聞きますが、どうやらその反例が筆者のようです（数学が得意であることに疑義がありましたらすみません）。強い競技プログラマーを見てると数学に長けている人が多い一方で、逆は必ずしも成り立たないようです。というか強い競技プログラマーは数学に限らず色々なことに長けているように見えるのでひたすら脱帽です。学科選択や大学院進学の話題になるたび、「え？　数学専攻じゃないの？」という驚きと寂しさ（数学を専攻してほしかったなぁ）を覚えます。SSRSさんとか。
 
-一応★2までの練習はしやすく感じたので、そこに数学の恩恵があるかもしれません。また作問に慣れている人の解説は★4でも読解しやすく感じるので、そこにも数学の恩恵がありそうです。でも★2.5を解けるようにはならなんですよねぇ。単に練習量が相対的に足りていなさそうで、数学が得意であるだけでは練習量の不足を補えなさそうです。
+一応★2までの練習はしやすく感じたので、そこに数学の恩恵があるかもしれません。また作問に慣れている人の解説は★4でも読解しやすく感じるので、そこにも数学の恩恵がありそうです。でも★2.5を解けるようにはならないんですよねぇ。単に練習量が相対的に足りていなさそうで、数学が得意であるだけでは練習量の不足を補えなさそうです。競技プログラマーの練習量がすごい！
 
 そんなこんなで、競技プログラミングを始めてからずっと★2.5の壁に悩まされ続けている現状です。いつか乗り越えられると良いな。こんな成長の乏しい筆者でも師事させていただける競技プログラマーを募集中です。
 
