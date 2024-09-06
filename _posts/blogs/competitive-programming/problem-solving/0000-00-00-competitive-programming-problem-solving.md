@@ -5,7 +5,7 @@ date: 2024-08-21
 excerpt: "競技プログラミング挑戦記のリンク集です。"
 parent: competitive-programming-blog/
 prev-child: category-on-segtree?
-next-child: 
+next-child: became-Heuristic-green-in-AtCoder
 blog: true
 tags: [競技プログラミング,数学]
 ---
