@@ -48,9 +48,11 @@ yukicoderにはレーティングシステムの代わりにサイトへの貢�
 
 人から伝授していただいたアルゴリズムには愛着が湧きます。okkuuさんから教わった[BIT](https://github.com/p-adic/cpp/tree/master/Mathematics/SetTheory/DirectProduct/AffineSpace/BIT)と、えこってさんやチルノさんから教わった[平方分割](https://github.com/p-adic/cpp/tree/master/Mathematics/SetTheory/DirectProduct/AffineSpace/SqrtDecomposition)を、これでもかというほどに使い倒しています。
 
+hotmanさんやNyaanさんやTKOさんや（多すぎて全員挙げられない）から教わった[多項式・形式冪級数周りのアルゴリズム](https://github.com/p-adic/cpp/tree/master/Mathematics/Polynomial)も深い思い入れがありますが、残念ながら★3以下で使う機会がほとんどないので全然応用力を培えていません。
+
 <details>
 <summary>
-hotmanさんやNyaanさんやTKOさんや（多すぎて全員挙げられない）から教わった[多項式・形式冪級数周りのアルゴリズム](https://github.com/p-adic/cpp/tree/master/Mathematics/Polynomial)も以下の問題（ネタバレ防止用にクリックで開く）での苦戦から深い思い入れがありますが、残念ながら★3以下で使う機会がほとんどないので全然応用力を培えていません。
+※ちなみに思い入れがあるのは以下の問題での苦戦からです。（ネタバレ防止用にクリックで開く）
 </summary>
 <ul>
 <li>[Sum of Subset mod 999630629](https://yukicoder.me/problems/no/2062)</li>
@@ -88,7 +90,6 @@ $4$年後の$2022$年、知り合いのokkuuさんがyukicoderで作問をなさ
 <summary>
 自力で解くことを目標に、$1$ヶ月近くかけてようやくACを取れた時の爽快感は今でも忘れません。（ネタバレあり。クリックで開く）
 </summary>
-<p>　</p>
 たまたま問題が高度な知識を要求しない定数倍高速化を問うものだったことがとても幸運で、そうでなかったら手も足も出ずまた競技プログラミングを諦めるところでした。
 </details>
 
