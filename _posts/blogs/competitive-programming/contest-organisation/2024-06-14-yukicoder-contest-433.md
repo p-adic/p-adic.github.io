@@ -8,7 +8,7 @@ date: 2024-06-14
 num: 500
 parent: competitive-programming-contest/
 prev-child: yukicoder-contest-429
-next-child: 
+next-child: yukicoder-contest-447
 own: A,B,D,E,G問題
 blog: true
 tags: [競技プログラミング,数学]
