@@ -14,7 +14,7 @@ blog: true
 tags: [競技プログラミング,数学]
 ---
 
-幾何コンテスト、久しぶりの単著です！　前回の単著は2023/11/10の[yukicoder contest 412（基礎論コンテスト）]https://yukicoder.me/contests/468)、実におよそ１年前です。
+幾何コンテスト、久しぶりの単著です！　前回の単著は2023/11/10の[yukicoder contest 412（基礎論コンテスト）](https://yukicoder.me/contests/468)、実におよそ１年前です。
 
 振り返ると本当に長い１年でした。
 
