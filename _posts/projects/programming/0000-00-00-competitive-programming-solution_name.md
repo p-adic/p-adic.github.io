@@ -1,7 +1,7 @@
 ---
 layout: project
-title: yukicoder過去問解法別難易度統計ページの解法名解説
-date: 2024-10-10
+title: 一般的でない解法名解説
+date: 2024-10-08
 excerpt: "yukicoderの過去問の解法別難易度統計ページに記載した解法名の解説です。"
 project: true
 parent: competitive-programming-project/
@@ -12,7 +12,7 @@ tags: [競技プログラミング,数学]
 ---
 
 
-[解法別難易度統計のページ]({{ site.url }}/yukicoder-difficulty-statistics)で用いた一般的でない解法名の解説ページです。
+[yukicoderの過去問の解法別難易度統計のページ]({{ site.url }}/yukicoder-difficulty-statistics)で用いた、一般的でない解法名の解説ページです。
 
 ## 上界決め打ち二分探索
 
