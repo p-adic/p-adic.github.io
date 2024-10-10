@@ -79,7 +79,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 
 はこちらの自動化処理の都合
 
-- No.2403 "Eight" Bridges of Koenigsberg
+- No.2403 "Eight" Bridges of K"onigsberg
 - No.2473 Fraises dans une bo^ite
 - No.2878 IGNITION
 
