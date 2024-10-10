@@ -1,6 +1,6 @@
 ---
 layout: project
-title: 一般的でない解法名解説
+title: yukicoder過去問解法別難易度統計の解法名解説
 date: 2024-10-08
 excerpt: "yukicoderの過去問の解法別難易度統計ページに記載した解法名の解説です。"
 project: true
