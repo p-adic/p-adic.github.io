@@ -3,10 +3,10 @@ layout: project
 title: yukicoder過去問解法別難易度統計2024-10-10
 date: 
 excerpt: "yukicoderの過去問の解法別の難易度に関する統計データです。"
-parent: competitive-programming/
-prev-child: became-Heuristic-green-in-AtCoder/
-next-child: 
 project: true
+parent: competitive-programming-project/
+prev-child: competitive-programming-creating-problem-status
+next-child: 
 image-directory: competitive-programming
 tags: [競技プログラミング,数学]
 ---
