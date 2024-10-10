@@ -6,7 +6,7 @@ excerpt: "yukicoderの過去問の解法別の難易度に関する統計デー�
 project: true
 parent: competitive-programming-project/
 prev-child: competitive-programming-creating-problem-status
-next-child: 
+next-child: competitive-programming-solution-name
 image-directory: competitive-programming
 tags: [競技プログラミング,数学]
 ---
