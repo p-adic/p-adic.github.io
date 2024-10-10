@@ -1,6 +1,6 @@
 ---
 layout: project
-title: yukicoder過去問解法別難易度統計2024-10-10
+title: yukicoder過去問解法別難易度統計
 date: 2024-10-10
 excerpt: "yukicoderの過去問の解法別の難易度に関する統計データです。"
 project: true
