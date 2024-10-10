@@ -6,7 +6,7 @@ date: 2024-10-05
 project: true
 parent: competitive-programming-project/
 prev-child: competitive-programming-problems
-next-child: 
+next-child: yukicoder-difficulty-statistics
 class-name: 競技プログラミング
 tags: [競技プログラミング,プログラミング,数学]
 ---
