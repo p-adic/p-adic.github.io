@@ -594,7 +594,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 
 ### 難易度統計
 
-「表示可能性DP」を主たる解法に含む問題の難易度統計です。
+「[表示可能性DP](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#表示可能性DP)」を主たる解法に含む問題の難易度統計です。
 - コンテスト平均難易度/difficulty: 2.5/1641
 - 2024年のコンテスト平均難易度/difficulty: データなし
 - 2023年のコンテスト平均難易度/difficulty: データなし
@@ -602,7 +602,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 
 ### 難易度別問題一覧
 
-「表示可能性DP」を主たる解法に含む問題の難易度ごとの一覧です。
+「[表示可能性DP](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#表示可能性DP)」を主たる解法に含む問題の難易度ごとの一覧です。
 
 ##### ★★☆
 
@@ -636,7 +636,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 
 ### 難易度統計
 
-「不変量を保つ戦略」を主たる解法に含む問題の難易度統計です。
+「[不変量を保つ戦略](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#不変量を保つ戦略)」を主たる解法に含む問題の難易度統計です。
 - コンテスト平均難易度/difficulty: 2.5/1649
 - 2024年のコンテスト平均難易度/difficulty: データなし
 - 2023年のコンテスト平均難易度/difficulty: データなし
@@ -644,7 +644,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 
 ### 難易度別問題一覧
 
-「不変量を保つ戦略」を主たる解法に含む問題の難易度ごとの一覧です。
+「[不変量を保つ戦略](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#不変量を保つ戦略)」を主たる解法に含む問題の難易度ごとの一覧です。
 
 ##### ★★☆
 
@@ -716,7 +716,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 
 ### 難易度統計
 
-「高さ奇数ニム和」を主たる解法に含む問題の難易度統計です。
+「[高さ奇数ニム和](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#高さ奇数ニム和)」を主たる解法に含む問題の難易度統計です。
 - コンテスト平均難易度/difficulty: 2.5/2008
 - 2024年のコンテスト平均難易度/difficulty: データなし
 - 2023年のコンテスト平均難易度/difficulty: データなし
@@ -724,7 +724,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 
 ### 難易度別問題一覧
 
-「高さ奇数ニム和」を主たる解法に含む問題の難易度ごとの一覧です。
+「[高さ奇数ニム和](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#高さ奇数ニム和)」を主たる解法に含む問題の難易度ごとの一覧です。
 
 ##### ★★☆
 
@@ -825,7 +825,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 
 ### 難易度統計
 
-「損をしない変形」を主たる解法に含む問題の難易度統計です。
+「[損をしない変形](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#損をしない変形)」を主たる解法に含む問題の難易度統計です。
 - コンテスト平均難易度/difficulty: 2.7/2109
 - 2024年のコンテスト平均難易度/difficulty: データなし
 - 2023年のコンテスト平均難易度/difficulty: データなし
@@ -833,7 +833,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 
 ### 難易度別問題一覧
 
-「損をしない変形」を主たる解法に含む問題の難易度ごとの一覧です。
+「[損をしない変形](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#損をしない変形)」を主たる解法に含む問題の難易度ごとの一覧です。
 
 ##### ★★
 
@@ -1090,7 +1090,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 
 ### 難易度統計
 
-「解法場合分け」を主たる解法に含む問題の難易度統計です。
+「[解法場合分け](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#解法場合分け)」を主たる解法に含む問題の難易度統計です。
 - コンテスト平均難易度/difficulty: 3/2144
 - 2024年のコンテスト平均難易度/difficulty: データなし
 - 2023年のコンテスト平均難易度/difficulty: データなし
@@ -1098,7 +1098,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 
 ### 難易度別問題一覧
 
-「解法場合分け」を主たる解法に含む問題の難易度ごとの一覧です。
+「[解法場合分け](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#解法場合分け)」を主たる解法に含む問題の難易度ごとの一覧です。
 
 ##### ★★☆
 
@@ -1458,7 +1458,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 
 ### 難易度統計
 
-「最終手番の任意性」を主たる解法に含む問題の難易度統計です。
+「[最終手番の任意性](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#最終手番の任意性)」を主たる解法に含む問題の難易度統計です。
 - コンテスト平均難易度/difficulty: 3.5/1948
 - 2024年のコンテスト平均難易度/difficulty: データなし
 - 2023年のコンテスト平均難易度/difficulty: データなし
@@ -1466,7 +1466,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 
 ### 難易度別問題一覧
 
-「最終手番の任意性」を主たる解法に含む問題の難易度ごとの一覧です。
+「[最終手番の任意性](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#最終手番の任意性)」を主たる解法に含む問題の難易度ごとの一覧です。
 
 ##### ★★★☆
 
@@ -1688,7 +1688,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 
 ### 難易度統計
 
-「数え上げの平均化」を主たる解法に含む問題の難易度統計です。
+「[数え上げの平均化](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#数え上げの平均化)」を主たる解法に含む問題の難易度統計です。
 - コンテスト平均難易度/difficulty: 4/2566
 - 2024年のコンテスト平均難易度/difficulty: データなし
 - 2023年のコンテスト平均難易度/difficulty: データなし
@@ -1696,7 +1696,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 
 ### 難易度別問題一覧
 
-「数え上げの平均化」を主たる解法に含む問題の難易度ごとの一覧です。
+「[数え上げの平均化](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#数え上げの平均化)」を主たる解法に含む問題の難易度ごとの一覧です。
 
 ##### ★★★★
 
