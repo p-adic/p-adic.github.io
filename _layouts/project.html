@@ -17,6 +17,7 @@ layout: compress
             <div class="content">
                 <div class="post-title {% if page.feature %} feature {% endif %}">
                     <h1>{{ page.title }}</h1>
+                    <h4>最終更新日: {{ page.date | date: '%Y/%m/%d' }}</h4>
                     {% if site.reading_time %}
                         <p class="reading-time">
                             {% include read-time.html %}
