@@ -14,6 +14,11 @@ tags: [競技プログラミング,数学]
 yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で筆者（$p$進大好きbot）がupsolveした問題の解法をまとめ、解法別に難易度統計をします。
 
 
+## 進捗
+
+通常問題の問題番号2056から2111まで登録し終わりました。先は長いです。
+
+
 ## 用途
 
 主にyukicoderコンテストの問題に対して
@@ -29,11 +34,6 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - コンテスト出題でない単発出題は各解法の難易度別問題一覧には掲載するものの、難易度平均計算時は集計しない。
 
 １つ目のルールの影響で、問題公開後に通常問題タグから別の問題タグに移動した問題についてはあまり直感的でない集計結果となります。例えば数学的知識問題には集計されるもの（[No.2466 Root! Root! Root!](https://yukicoder.me/problems/no/2466)）とされないもの（[No.3094 Character Table](https://yukicoder.me/problems/no/3094)）があります。
-
-
-## 進捗
-
-通常問題の問題番号2056から2101まで終わりました。先は長いです。
 
 
 ## 集計方法
@@ -90,20 +90,22 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 
 1. 特殊な入出力
 1. 実装
-1. 累積和
 1. サンプルに帰着
 1. 検索
 1. 相似
 1. カレンダー
+1. 累積和
 1. ナップサックDP
+1. 階差数列
+1. 二重和中の同じ値の纏め上げ
 1. 多項定理
 1. ソート
 1. 貪欲法
 1. DAG上の動的計画法
-1. 幅優先探索（BFS（
+1. 幅優先探索（BFS）
 1. 全探索
 1. 場合分け
-1. 素集合データ構造（UnionFind／UF／DSU（
+1. 素集合データ構造（UnionFind／UF／DSU）
 1. 操作逆順
 1. [表示可能性DP](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#表示可能性DP)
 1. 区間管理
@@ -113,11 +115,11 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 1. ニム和
 1. [高さ奇数ニム和](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#高さ奇数ニム和)
 1. １変数決め打ち
-1. 動的計画法（DP（
+1. 動的計画法（DP）
+1. 分枝限定法
 1. [損をしない変形](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#損をしない変形)
 1. 一対一対応
 1. クエリ先読み
-1. 分枝限定法
 1. 区間要素数取得
 1. 座標圧縮
 1. 平面走査
@@ -141,8 +143,8 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 1. 包除原理
 1. 約数メビウス変換
 1. 自己写像に翻訳
-1. 連長圧縮（ランレングス圧縮／RLE（
-1. フェニック木（BIT（
+1. 連長圧縮（ランレングス圧縮／RLE）
+1. フェニック木（BIT）
 1. ユークリッドの互除法
 1. 互いに素に帰着
 1. 桁DP
@@ -211,26 +213,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2109">No.2109 Special Week</a> (yukicoder contest 366 (2022-10-28) - A問題, difficulty: 1095)
 
 　
-## 3. 累積和
-
-### 難易度統計
-
-「累積和」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均難易度/difficulty: 1.5/406
-- 2024年のコンテスト平均難易度/difficulty: データなし
-- 2023年のコンテスト平均難易度/difficulty: データなし
-- 2022年のコンテスト平均難易度/difficulty: 1.5/406
-
-### 難易度別問題一覧
-
-「累積和」を主たる解法に含む問題の難易度ごとの一覧です。
-
-##### ★☆
-
-- <a href="https://yukicoder.me/problems/no/2092">No.2092 Conjugation</a> (yukicoder contest 363 (2022-10-07) - A問題, difficulty: 406)
-
-　
-## 4. サンプルに帰着
+## 3. サンプルに帰着
 
 ### 難易度統計
 
@@ -249,7 +232,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2070">No.2070 Icosahedron</a> (yukicoder contest 360 (2022-09-16) - A問題, difficulty: 588)
 
 　
-## 5. 検索
+## 4. 検索
 
 ### 難易度統計
 
@@ -272,7 +255,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2085">No.2085 Directed Complete Graph</a> (単発出題)
 
 　
-## 6. 相似
+## 5. 相似
 
 ### 難易度統計
 
@@ -291,7 +274,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2070">No.2070 Icosahedron</a> (yukicoder contest 360 (2022-09-16) - A問題, difficulty: 588)
 
 　
-## 7. カレンダー
+## 6. カレンダー
 
 ### 難易度統計
 
@@ -308,6 +291,29 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ##### ★☆
 
 - <a href="https://yukicoder.me/problems/no/2109">No.2109 Special Week</a> (yukicoder contest 366 (2022-10-28) - A問題, difficulty: 1095)
+
+　
+## 7. 累積和
+
+### 難易度統計
+
+「累積和」を主たる解法に含む問題の難易度統計です。
+- コンテスト平均難易度/difficulty: 1.7/806
+- 2024年のコンテスト平均難易度/difficulty: データなし
+- 2023年のコンテスト平均難易度/difficulty: データなし
+- 2022年のコンテスト平均難易度/difficulty: 1.7/806
+
+### 難易度別問題一覧
+
+「累積和」を主たる解法に含む問題の難易度ごとの一覧です。
+
+##### ★☆
+
+- <a href="https://yukicoder.me/problems/no/2092">No.2092 Conjugation</a> (yukicoder contest 363 (2022-10-07) - A問題, difficulty: 406)
+
+##### ★★
+
+- <a href="https://yukicoder.me/problems/no/2111">No.2111 Sum of Diff</a> (yukicoder contest 366 (2022-10-28) - C問題, difficulty: 1206)
 
 　
 ## 8. ナップサックDP
@@ -329,7 +335,45 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2093">No.2093 Shio Ramen</a> (yukicoder contest 363 (2022-10-07) - B問題, difficulty: 843)
 
 　
-## 9. 多項定理
+## 9. 階差数列
+
+### 難易度統計
+
+「階差数列」を主たる解法に含む問題の難易度統計です。
+- コンテスト平均難易度/difficulty: 2/1206
+- 2024年のコンテスト平均難易度/difficulty: データなし
+- 2023年のコンテスト平均難易度/difficulty: データなし
+- 2022年のコンテスト平均難易度/difficulty: 2/1206
+
+### 難易度別問題一覧
+
+「階差数列」を主たる解法に含む問題の難易度ごとの一覧です。
+
+##### ★★
+
+- <a href="https://yukicoder.me/problems/no/2111">No.2111 Sum of Diff</a> (yukicoder contest 366 (2022-10-28) - C問題, difficulty: 1206)
+
+　
+## 10. 二重和中の同じ値の纏め上げ
+
+### 難易度統計
+
+「二重和中の同じ値の纏め上げ」を主たる解法に含む問題の難易度統計です。
+- コンテスト平均難易度/difficulty: 2/1206
+- 2024年のコンテスト平均難易度/difficulty: データなし
+- 2023年のコンテスト平均難易度/difficulty: データなし
+- 2022年のコンテスト平均難易度/difficulty: 2/1206
+
+### 難易度別問題一覧
+
+「二重和中の同じ値の纏め上げ」を主たる解法に含む問題の難易度ごとの一覧です。
+
+##### ★★
+
+- <a href="https://yukicoder.me/problems/no/2111">No.2111 Sum of Diff</a> (yukicoder contest 366 (2022-10-28) - C問題, difficulty: 1206)
+
+　
+## 11. 多項定理
 
 ### 難易度統計
 
@@ -348,7 +392,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2079">No.2079 aaabbc</a> (yukicoder contest 361 (2022-09-25) - B問題, difficulty: 1261)
 
 　
-## 10. ソート
+## 12. ソート
 
 ### 難易度統計
 
@@ -367,7 +411,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2094">No.2094 Symmetry</a> (yukicoder contest 363 (2022-10-07) - C問題, difficulty: 1482)
 
 　
-## 11. 貪欲法
+## 13. 貪欲法
 
 ### 難易度統計
 
@@ -398,7 +442,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2073">No.2073 Concon Substrings (Swap Version)</a> (yukicoder contest 360 (2022-09-16) - D問題, difficulty: 1802)
 
 　
-## 12. DAG上の動的計画法
+## 14. DAG上の動的計画法
 
 ### 難易度統計
 
@@ -417,7 +461,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2100">No.2100 [Cherry Alpha C] Two-way Steps</a> (yukicoder contest 364 (Do you know Cherry Contest?) (2022-10-14) - D問題, difficulty: 1577)
 
 　
-## 13. 幅優先探索
+## 15. 幅優先探索
 
 ### 難易度統計
 
@@ -436,7 +480,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2064">No.2064 Smallest Sequence on Grid</a> (yukicoder contest 359 (2022-09-02) - B問題, difficulty: 1582)
 
 　
-## 14. 全探索
+## 16. 全探索
 
 ### 難易度統計
 
@@ -465,7 +509,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2083">No.2083 OR Subset</a> (yukicoder contest 361 (2022-09-25) - F問題, difficulty: 2643)
 
 　
-## 15. 場合分け
+## 17. 場合分け
 
 ### 難易度統計
 
@@ -506,7 +550,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2102">No.2102 [Cherry Alpha *] Conditional Reflection</a> (yukicoder contest 364 (Do you know Cherry Contest?) (2022-10-14) - F問題, difficulty: 1948)
 
 　
-## 16. 素集合データ構造
+## 18. 素集合データ構造
 
 ### 難易度統計
 
@@ -525,7 +569,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2072">No.2072 Anatomy</a> (yukicoder contest 360 (2022-09-16) - C問題, difficulty: 1486)
 
 　
-## 17. 操作逆順
+## 19. 操作逆順
 
 ### 難易度統計
 
@@ -544,7 +588,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2072">No.2072 Anatomy</a> (yukicoder contest 360 (2022-09-16) - C問題, difficulty: 1486)
 
 　
-## 18. 表示可能性DP
+## 20. 表示可能性DP
 
 ### 難易度統計
 
@@ -567,7 +611,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2069">No.2069 み世界数式</a> (単発出題)
 
 　
-## 19. 区間管理
+## 21. 区間管理
 
 ### 難易度統計
 
@@ -586,7 +630,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2080">No.2080 Simple Nim Query</a> (yukicoder contest 361 (2022-09-25) - C問題, difficulty: 1649)
 
 　
-## 20. 不変量を保つ戦略
+## 22. 不変量を保つ戦略
 
 ### 難易度統計
 
@@ -605,7 +649,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2080">No.2080 Simple Nim Query</a> (yukicoder contest 361 (2022-09-25) - C問題, difficulty: 1649)
 
 　
-## 21. 頻度表
+## 23. 頻度表
 
 ### 難易度統計
 
@@ -624,7 +668,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2073">No.2073 Concon Substrings (Swap Version)</a> (yukicoder contest 360 (2022-09-16) - D問題, difficulty: 1802)
 
 　
-## 22. 再帰
+## 24. 再帰
 
 ### 難易度統計
 
@@ -647,7 +691,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2067">No.2067 ±2^k operations</a> (yukicoder contest 359 (2022-09-02) - E問題, difficulty: 2737)
 
 　
-## 23. ニム和
+## 25. ニム和
 
 ### 難易度統計
 
@@ -666,7 +710,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2059">No.2059 Odd Move Nim</a> (yukicoder contest 358 (2022-08-26) - D問題, difficulty: 2008)
 
 　
-## 24. 高さ奇数ニム和
+## 26. 高さ奇数ニム和
 
 ### 難易度統計
 
@@ -685,7 +729,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2059">No.2059 Odd Move Nim</a> (yukicoder contest 358 (2022-08-26) - D問題, difficulty: 2008)
 
 　
-## 25. １変数決め打ち
+## 27. １変数決め打ち
 
 ### 難易度統計
 
@@ -708,7 +752,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2076">No.2076 Concon Substrings (ConVersion)</a> (yukicoder contest 360 (2022-09-16) - G問題, difficulty: 2620)
 
 　
-## 26. 動的計画法
+## 28. 動的計画法
 
 ### 難易度統計
 
@@ -746,7 +790,36 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2069">No.2069 み世界数式</a> (単発出題)
 
 　
-## 27. 損をしない変形
+## 29. 分枝限定法
+
+### 難易度統計
+
+「分枝限定法」を主たる解法に含む問題の難易度統計です。
+- コンテスト平均難易度/difficulty: 2.7/1943
+- 2024年のコンテスト平均難易度/difficulty: データなし
+- 2023年のコンテスト平均難易度/difficulty: データなし
+- 2022年のコンテスト平均難易度/difficulty: 2.7/1943
+
+### 難易度別問題一覧
+
+「分枝限定法」を主たる解法に含む問題の難易度ごとの一覧です。
+
+##### ★★
+
+- <a href="https://yukicoder.me/problems/no/2057">No.2057 Ising Model</a> (yukicoder contest 358 (2022-08-26) - B問題, difficulty: 1728)
+- <a href="https://yukicoder.me/problems/no/2094">No.2094 Symmetry</a> (yukicoder contest 363 (2022-10-07) - C問題, difficulty: 1482)
+- <a href="https://yukicoder.me/problems/no/2111">No.2111 Sum of Diff</a> (yukicoder contest 366 (2022-10-28) - C問題, difficulty: 1206)
+
+##### ★★★☆
+
+- <a href="https://yukicoder.me/problems/no/2067">No.2067 ±2^k operations</a> (yukicoder contest 359 (2022-09-02) - E問題, difficulty: 2737)
+
+##### ★★★★
+
+- <a href="https://yukicoder.me/problems/no/2068">No.2068 Restricted Permutation</a> (yukicoder contest 359 (2022-09-02) - F問題, difficulty: 2566)
+
+　
+## 30. 損をしない変形
 
 ### 難易度統計
 
@@ -769,7 +842,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2096">No.2096 Rage With Our Friends</a> (yukicoder contest 363 (2022-10-07) - E問題, difficulty: 2690)
 
 　
-## 28. 一対一対応
+## 31. 一対一対応
 
 ### 難易度統計
 
@@ -792,7 +865,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2061">No.2061 XOR Sort</a> (yukicoder contest 358 (2022-08-26) - F問題, difficulty: 2295)
 
 　
-## 29. クエリ先読み
+## 32. クエリ先読み
 
 ### 難易度統計
 
@@ -816,35 +889,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2101">No.2101 [Cherry Alpha N] ずっとこの数列だったらいいのに</a> (yukicoder contest 364 (Do you know Cherry Contest?) (2022-10-14) - E問題, difficulty: 2049)
 
 　
-## 30. 分枝限定法
-
-### 難易度統計
-
-「分枝限定法」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均難易度/difficulty: 2.8/2128
-- 2024年のコンテスト平均難易度/difficulty: データなし
-- 2023年のコンテスト平均難易度/difficulty: データなし
-- 2022年のコンテスト平均難易度/difficulty: 2.8/2128
-
-### 難易度別問題一覧
-
-「分枝限定法」を主たる解法に含む問題の難易度ごとの一覧です。
-
-##### ★★
-
-- <a href="https://yukicoder.me/problems/no/2057">No.2057 Ising Model</a> (yukicoder contest 358 (2022-08-26) - B問題, difficulty: 1728)
-- <a href="https://yukicoder.me/problems/no/2094">No.2094 Symmetry</a> (yukicoder contest 363 (2022-10-07) - C問題, difficulty: 1482)
-
-##### ★★★☆
-
-- <a href="https://yukicoder.me/problems/no/2067">No.2067 ±2^k operations</a> (yukicoder contest 359 (2022-09-02) - E問題, difficulty: 2737)
-
-##### ★★★★
-
-- <a href="https://yukicoder.me/problems/no/2068">No.2068 Restricted Permutation</a> (yukicoder contest 359 (2022-09-02) - F問題, difficulty: 2566)
-
-　
-## 31. 区間要素数取得
+## 33. 区間要素数取得
 
 ### 難易度統計
 
@@ -863,7 +908,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2065">No.2065 Sum of Min</a> (yukicoder contest 359 (2022-09-02) - C問題, difficulty: 1696)
 
 　
-## 32. 座標圧縮
+## 34. 座標圧縮
 
 ### 難易度統計
 
@@ -882,7 +927,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2065">No.2065 Sum of Min</a> (yukicoder contest 359 (2022-09-02) - C問題, difficulty: 1696)
 
 　
-## 33. 平面走査
+## 35. 平面走査
 
 ### 難易度統計
 
@@ -901,7 +946,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2065">No.2065 Sum of Min</a> (yukicoder contest 359 (2022-09-02) - C問題, difficulty: 1696)
 
 　
-## 34. クエリソート
+## 36. クエリソート
 
 ### 難易度統計
 
@@ -921,7 +966,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2101">No.2101 [Cherry Alpha N] ずっとこの数列だったらいいのに</a> (yukicoder contest 364 (Do you know Cherry Contest?) (2022-10-14) - E問題, difficulty: 2049)
 
 　
-## 35. ポラードの$\rho$
+## 37. ポラードの$\rho$
 
 ### 難易度統計
 
@@ -940,7 +985,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2074">No.2074 Product is Square ?</a> (yukicoder contest 360 (2022-09-16) - E問題, difficulty: 2047)
 
 　
-## 36. 剰余による確率的判定
+## 38. 剰余による確率的判定
 
 ### 難易度統計
 
@@ -959,7 +1004,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2074">No.2074 Product is Square ?</a> (yukicoder contest 360 (2022-09-16) - E問題, difficulty: 2047)
 
 　
-## 37. 平方剰余
+## 39. 平方剰余
 
 ### 難易度統計
 
@@ -978,7 +1023,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2074">No.2074 Product is Square ?</a> (yukicoder contest 360 (2022-09-16) - E問題, difficulty: 2047)
 
 　
-## 38. イベントソート
+## 40. イベントソート
 
 ### 難易度統計
 
@@ -997,7 +1042,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2101">No.2101 [Cherry Alpha N] ずっとこの数列だったらいいのに</a> (yukicoder contest 364 (Do you know Cherry Contest?) (2022-10-14) - E問題, difficulty: 2049)
 
 　
-## 39. 区間和取得
+## 41. 区間和取得
 
 ### 難易度統計
 
@@ -1016,7 +1061,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2101">No.2101 [Cherry Alpha N] ずっとこの数列だったらいいのに</a> (yukicoder contest 364 (Do you know Cherry Contest?) (2022-10-14) - E問題, difficulty: 2049)
 
 　
-## 40. アルゴリズムのリアクティブ化
+## 42. アルゴリズムのリアクティブ化
 
 ### 難易度統計
 
@@ -1039,7 +1084,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2085">No.2085 Directed Complete Graph</a> (単発出題)
 
 　
-## 41. 解法場合分け
+## 43. 解法場合分け
 
 ### 難易度統計
 
@@ -1062,7 +1107,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2066">No.2066 Simple Math !</a> (yukicoder contest 359 (2022-09-02) - D問題, difficulty: 2648)
 
 　
-## 42. ２進法
+## 44. ２進法
 
 ### 難易度統計
 
@@ -1081,7 +1126,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2081">No.2081 Make a Test Case of GCD Subset </a> (yukicoder contest 361 (2022-09-25) - D問題, difficulty: 2167)
 
 　
-## 43. 素数列挙
+## 45. 素数列挙
 
 ### 難易度統計
 
@@ -1100,7 +1145,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2081">No.2081 Make a Test Case of GCD Subset </a> (yukicoder contest 361 (2022-09-25) - D問題, difficulty: 2167)
 
 　
-## 44. 準同型
+## 46. 準同型
 
 ### 難易度統計
 
@@ -1119,7 +1164,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2061">No.2061 XOR Sort</a> (yukicoder contest 358 (2022-08-26) - F問題, difficulty: 2295)
 
 　
-## 45. DPのデータ構造高速化
+## 47. DPのデータ構造高速化
 
 ### 難易度統計
 
@@ -1138,7 +1183,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2075">No.2075 GCD Subsequence</a> (yukicoder contest 360 (2022-09-16) - F問題, difficulty: 2306)
 
 　
-## 46. ゼータ変換
+## 48. ゼータ変換
 
 ### 難易度統計
 
@@ -1157,7 +1202,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2075">No.2075 GCD Subsequence</a> (yukicoder contest 360 (2022-09-16) - F問題, difficulty: 2306)
 
 　
-## 47. メビウス変換
+## 49. メビウス変換
 
 ### 難易度統計
 
@@ -1176,7 +1221,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2075">No.2075 GCD Subsequence</a> (yukicoder contest 360 (2022-09-16) - F問題, difficulty: 2306)
 
 　
-## 48. 最小素因数前計算
+## 50. 最小素因数前計算
 
 ### 難易度統計
 
@@ -1195,7 +1240,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2075">No.2075 GCD Subsequence</a> (yukicoder contest 360 (2022-09-16) - F問題, difficulty: 2306)
 
 　
-## 49. 素因数分解
+## 51. 素因数分解
 
 ### 難易度統計
 
@@ -1214,7 +1259,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2075">No.2075 GCD Subsequence</a> (yukicoder contest 360 (2022-09-16) - F問題, difficulty: 2306)
 
 　
-## 50. 倍数ゼータ変換
+## 52. 倍数ゼータ変換
 
 ### 難易度統計
 
@@ -1233,7 +1278,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2075">No.2075 GCD Subsequence</a> (yukicoder contest 360 (2022-09-16) - F問題, difficulty: 2306)
 
 　
-## 51. 包除原理
+## 53. 包除原理
 
 ### 難易度統計
 
@@ -1252,7 +1297,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2075">No.2075 GCD Subsequence</a> (yukicoder contest 360 (2022-09-16) - F問題, difficulty: 2306)
 
 　
-## 52. 約数メビウス変換
+## 54. 約数メビウス変換
 
 ### 難易度統計
 
@@ -1271,7 +1316,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2075">No.2075 GCD Subsequence</a> (yukicoder contest 360 (2022-09-16) - F問題, difficulty: 2306)
 
 　
-## 53. 自己写像に翻訳
+## 55. 自己写像に翻訳
 
 ### 難易度統計
 
@@ -1290,7 +1335,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2082">No.2082 AND OR XOR</a> (yukicoder contest 361 (2022-09-25) - E問題, difficulty: 2501)
 
 　
-## 54. 連長圧縮
+## 56. 連長圧縮
 
 ### 難易度統計
 
@@ -1309,7 +1354,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2076">No.2076 Concon Substrings (ConVersion)</a> (yukicoder contest 360 (2022-09-16) - G問題, difficulty: 2620)
 
 　
-## 55. フェニック木
+## 57. フェニック木
 
 ### 難易度統計
 
@@ -1333,7 +1378,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2077">No.2077 Get Minimum Algorithm</a> (yukicoder contest 360 (2022-09-16) - H問題, difficulty: 2707)
 
 　
-## 56. ユークリッドの互除法
+## 58. ユークリッドの互除法
 
 ### 難易度統計
 
@@ -1357,7 +1402,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2066">No.2066 Simple Math !</a> (yukicoder contest 359 (2022-09-02) - D問題, difficulty: 2648)
 
 　
-## 57. 互いに素に帰着
+## 59. 互いに素に帰着
 
 ### 難易度統計
 
@@ -1380,7 +1425,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2066">No.2066 Simple Math !</a> (yukicoder contest 359 (2022-09-02) - D問題, difficulty: 2648)
 
 　
-## 58. 桁DP
+## 60. 桁DP
 
 ### 難易度統計
 
@@ -1407,7 +1452,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2068">No.2068 Restricted Permutation</a> (yukicoder contest 359 (2022-09-02) - F問題, difficulty: 2566)
 
 　
-## 59. 最終手番の任意性
+## 61. 最終手番の任意性
 
 ### 難易度統計
 
@@ -1426,7 +1471,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2102">No.2102 [Cherry Alpha *] Conditional Reflection</a> (yukicoder contest 364 (Do you know Cherry Contest?) (2022-10-14) - F問題, difficulty: 1948)
 
 　
-## 60. 高速フーリエ変換
+## 62. 高速フーリエ変換
 
 ### 難易度統計
 
@@ -1445,7 +1490,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2062">No.2062 Sum of Subset mod 999630629</a> (yukicoder contest 358 (2022-08-26) - G問題, difficulty: 2553)
 
 　
-## 61. 畳み込み
+## 63. 畳み込み
 
 ### 難易度統計
 
@@ -1464,7 +1509,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2062">No.2062 Sum of Subset mod 999630629</a> (yukicoder contest 358 (2022-08-26) - G問題, difficulty: 2553)
 
 　
-## 62. bitごとに計算
+## 64. bitごとに計算
 
 ### 難易度統計
 
@@ -1483,7 +1528,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2083">No.2083 OR Subset</a> (yukicoder contest 361 (2022-09-25) - F問題, difficulty: 2643)
 
 　
-## 63. 第二種スターリング数
+## 65. 第二種スターリング数
 
 ### 難易度統計
 
@@ -1502,7 +1547,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2083">No.2083 OR Subset</a> (yukicoder contest 361 (2022-09-25) - F問題, difficulty: 2643)
 
 　
-## 64. floor_sum
+## 66. floor_sum
 
 ### 難易度統計
 
@@ -1521,7 +1566,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2066">No.2066 Simple Math !</a> (yukicoder contest 359 (2022-09-02) - D問題, difficulty: 2648)
 
 　
-## 65. フロベニウスの硬貨交換問題
+## 67. フロベニウスの硬貨交換問題
 
 ### 難易度統計
 
@@ -1540,7 +1585,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2066">No.2066 Simple Math !</a> (yukicoder contest 359 (2022-09-02) - D問題, difficulty: 2648)
 
 　
-## 66. 像決め打ち二分探索
+## 68. 像決め打ち二分探索
 
 ### 難易度統計
 
@@ -1559,7 +1604,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2066">No.2066 Simple Math !</a> (yukicoder contest 359 (2022-09-02) - D問題, difficulty: 2648)
 
 　
-## 67. 二分探索
+## 69. 二分探索
 
 ### 難易度統計
 
@@ -1580,7 +1625,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2085">No.2085 Directed Complete Graph</a> (単発出題)
 
 　
-## 68. 01BFS
+## 70. 01BFS
 
 ### 難易度統計
 
@@ -1599,7 +1644,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2096">No.2096 Rage With Our Friends</a> (yukicoder contest 363 (2022-10-07) - E問題, difficulty: 2690)
 
 　
-## 69. 区間kth取得
+## 71. 区間kth取得
 
 ### 難易度統計
 
@@ -1618,7 +1663,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2077">No.2077 Get Minimum Algorithm</a> (yukicoder contest 360 (2022-09-16) - H問題, difficulty: 2707)
 
 　
-## 70. 期待値の線形性
+## 72. 期待値の線形性
 
 ### 難易度統計
 
@@ -1637,7 +1682,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2068">No.2068 Restricted Permutation</a> (yukicoder contest 359 (2022-09-02) - F問題, difficulty: 2566)
 
 　
-## 71. 数え上げの平均化
+## 73. 数え上げの平均化
 
 ### 難易度統計
 
@@ -1656,7 +1701,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2068">No.2068 Restricted Permutation</a> (yukicoder contest 359 (2022-09-02) - F問題, difficulty: 2566)
 
 　
-## 72. ハミルトン路
+## 74. ハミルトン路
 
 ### 難易度統計
 
@@ -1675,7 +1720,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2085">No.2085 Directed Complete Graph</a> (単発出題)
 
 　
-## 73. マージ
+## 75. マージ
 
 ### 難易度統計
 
@@ -1694,7 +1739,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2085">No.2085 Directed Complete Graph</a> (単発出題)
 
 　
-## 74. 構文解析
+## 76. 構文解析
 
 ### 難易度統計
 
@@ -1713,7 +1758,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2069">No.2069 み世界数式</a> (単発出題)
 
 　
-## 75. 木DP
+## 77. 木DP
 
 ### 難易度統計
 
