@@ -115,7 +115,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 1. 解の公式
 1. 同じ値の纏め上げ
 1. アルゴリズムのリアクティブ化
-1. 良いケースに帰着
+1. [良いケースに帰着](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#良いケースに帰着)
 1. 幅優先探索（BFS）
 1. 小数誤差解消
 1. 平方根
@@ -135,7 +135,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 1. [高さ奇数ニム和](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#高さ奇数ニム和)
 1. クラスカル法（Kruskal法）
 1. ダイクストラ法（Dijkstra法）
-1. 距離空間の重み付きグラフ化
+1. [距離空間の重み付きグラフ化](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#距離空間の重み付きグラフ化)
 1. 最短経路長取得
 1. 冪等重みの最短経路長取得
 1. 最終ターン数に注目
@@ -146,7 +146,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 1. 不定方程式の因数分解
 1. 必勝戦略のリアクティブ化
 1. 階差数列
-1. 押し付け戦略
+1. [押し付け戦略](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#押し付け戦略)
 1. 一対一対応
 1. 素因数分解
 1. クエリ先読み
@@ -166,7 +166,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 1. 区間要素数取得
 1. 平面走査
 1. 素数列挙
-1. 緩和
+1. [緩和](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#緩和)
 1. [解法場合分け](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#解法場合分け)
 1. bitset高速化
 1. 基底
@@ -810,7 +810,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 
 ### 難易度統計
 
-「良いケースに帰着」を主たる解法に含む問題の難易度統計です。
+「[良いケースに帰着](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#良いケースに帰着)」を主たる解法に含む問題の難易度統計です。
 - コンテスト平均難易度/difficulty: 2.2/1762
 - 2024年のコンテスト平均難易度/difficulty: データなし
 - 2023年のコンテスト平均難易度/difficulty: データなし
@@ -818,7 +818,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 
 ### 難易度別問題一覧
 
-「良いケースに帰着」を主たる解法に含む問題の難易度ごとの一覧です。
+「[良いケースに帰着](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#良いケースに帰着)」を主たる解法に含む問題の難易度ごとの一覧です。
 
 ##### ★☆
 
@@ -1263,7 +1263,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 
 ### 難易度統計
 
-「距離空間の重み付きグラフ化」を主たる解法に含む問題の難易度統計です。
+「[距離空間の重み付きグラフ化](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#距離空間の重み付きグラフ化)」を主たる解法に含む問題の難易度統計です。
 - コンテスト平均難易度/difficulty: 2.5/2044
 - 2024年のコンテスト平均難易度/difficulty: データなし
 - 2023年のコンテスト平均難易度/difficulty: 2.5/2044
@@ -1271,7 +1271,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 
 ### 難易度別問題一覧
 
-「距離空間の重み付きグラフ化」を主たる解法に含む問題の難易度ごとの一覧です。
+「[距離空間の重み付きグラフ化](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#距離空間の重み付きグラフ化)」を主たる解法に含む問題の難易度ごとの一覧です。
 
 ##### ★★☆
 
@@ -1484,7 +1484,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 
 ### 難易度統計
 
-「押し付け戦略」を主たる解法に含む問題の難易度統計です。
+「[押し付け戦略](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#押し付け戦略)」を主たる解法に含む問題の難易度統計です。
 - コンテスト平均難易度/difficulty: 2.7/1908
 - 2024年のコンテスト平均難易度/difficulty: データなし
 - 2023年のコンテスト平均難易度/difficulty: データなし
@@ -1492,7 +1492,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 
 ### 難易度別問題一覧
 
-「押し付け戦略」を主たる解法に含む問題の難易度ごとの一覧です。
+「[押し付け戦略](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#押し付け戦略)」を主たる解法に含む問題の難易度ごとの一覧です。
 
 ##### ★★☆
 
@@ -1944,7 +1944,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 
 ### 難易度統計
 
-「緩和」を主たる解法に含む問題の難易度統計です。
+「[緩和](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#緩和)」を主たる解法に含む問題の難易度統計です。
 - コンテスト平均難易度/difficulty: 3/2225
 - 2024年のコンテスト平均難易度/difficulty: データなし
 - 2023年のコンテスト平均難易度/difficulty: データなし
@@ -1952,7 +1952,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 
 ### 難易度別問題一覧
 
-「緩和」を主たる解法に含む問題の難易度ごとの一覧です。
+「[緩和](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#緩和)」を主たる解法に含む問題の難易度ごとの一覧です。
 
 ##### ★★☆
 
