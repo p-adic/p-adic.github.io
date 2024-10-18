@@ -16,7 +16,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 
 ## 進捗
 
-通常問題の問題番号2056から2213まで登録し終わりました。先は長いです。
+通常問題の問題番号2056から2215まで登録し終わりました。先は長いです。
 
 
 ## 用途
@@ -233,10 +233,14 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 1. 期待値の線形性
 1. [数え上げの平均化](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#数え上げの平均化)
 1. 付値管理
+1. キュー
+1. マージ
+1. 区間を中間で分割してマージ
 1. ２次元DPの１次元圧縮
 1. 区間最大・最小値更新
 1. 分割統治畳み込み（分割統治FFT）
 1. 遅延セグメント木（遅延セグ木）
+1. バケット分割
 1. 区間二次形式取得
 1. 区間二次式取得
 1. 最近共通祖先（LCA）
@@ -247,12 +251,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 1. 強連結成分分解
 1. 残余ネットワーク
 1. P-再帰（P-recursive）
-1. バケット分割
 1. 多点評価
 1. 評価点シフト
 1. アルゴリズム中に追加処理
 1. ハミルトン路
-1. マージ
 1. 期待値漸化式
 1. 構文解析
 
@@ -3520,7 +3522,68 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2207">No.2207 pCr検査</a> (yukicoder contest 375 (2023-02-03) - G問題, difficulty: 2567)
 
 　
-## 144. ２次元DPの１次元圧縮
+## 144. キュー
+
+### 難易度統計
+
+「キュー」を主たる解法に含む問題の難易度統計です。
+- コンテスト平均難易度/difficulty: 4/2658
+- 2024年のコンテスト平均難易度/difficulty: データなし
+- 2023年のコンテスト平均難易度/difficulty: 4/2658
+- 2022年のコンテスト平均難易度/difficulty: データなし
+
+### 難易度別問題一覧
+
+「キュー」を主たる解法に含む問題の難易度ごとの一覧です。
+
+##### ★★★★
+
+- <a href="https://yukicoder.me/problems/no/2215">No.2215 Slide Subset Sum</a> (yukicoder contest 376 (2023-02-10) - H問題, difficulty: 2658)
+
+　
+## 145. マージ
+
+### 難易度統計
+
+「マージ」を主たる解法に含む問題の難易度統計です。
+- コンテスト平均難易度/difficulty: 4/2658
+- 2024年のコンテスト平均難易度/difficulty: データなし
+- 2023年のコンテスト平均難易度/difficulty: 4/2658
+- 2022年のコンテスト平均難易度/difficulty: データなし
+
+### 難易度別問題一覧
+
+「マージ」を主たる解法に含む問題の難易度ごとの一覧です。
+
+##### ★★★☆
+
+- <a href="https://yukicoder.me/problems/no/2085">No.2085 Directed Complete Graph</a> (単発出題)
+
+##### ★★★★
+
+- <a href="https://yukicoder.me/problems/no/2215">No.2215 Slide Subset Sum</a> (yukicoder contest 376 (2023-02-10) - H問題, difficulty: 2658)
+
+　
+## 146. 区間を中間で分割してマージ
+
+### 難易度統計
+
+「区間を中間で分割してマージ」を主たる解法に含む問題の難易度統計です。
+- コンテスト平均難易度/difficulty: 4/2658
+- 2024年のコンテスト平均難易度/difficulty: データなし
+- 2023年のコンテスト平均難易度/difficulty: 4/2658
+- 2022年のコンテスト平均難易度/difficulty: データなし
+
+### 難易度別問題一覧
+
+「区間を中間で分割してマージ」を主たる解法に含む問題の難易度ごとの一覧です。
+
+##### ★★★★
+
+- <a href="https://yukicoder.me/problems/no/2215">No.2215 Slide Subset Sum</a> (yukicoder contest 376 (2023-02-10) - H問題, difficulty: 2658)
+
+　
+## 147. ２次元DPの１次元圧縮
 
 ### 難易度統計
 
@@ -3539,7 +3602,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2162">No.2162 Copy and Paste 2</a> (Advent Calendar Contest 2022 (2022-12-01) - M問題, difficulty: 2903)
 
 　
-## 145. 区間最大・最小値更新
+## 148. 区間最大・最小値更新
 
 ### 難易度統計
 
@@ -3558,7 +3621,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2162">No.2162 Copy and Paste 2</a> (Advent Calendar Contest 2022 (2022-12-01) - M問題, difficulty: 2903)
 
 　
-## 146. 分割統治畳み込み
+## 149. 分割統治畳み込み
 
 ### 難易度統計
 
@@ -3581,7 +3644,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2166">No.2166 Paint and Fill</a> (Advent Calendar Contest 2022 (2022-12-01) - S問題, difficulty: 3577)
 
 　
-## 147. 遅延セグメント木
+## 150. 遅延セグメント木
 
 ### 難易度統計
 
@@ -3604,7 +3667,30 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2163">No.2163 LCA Sum Query</a> (Advent Calendar Contest 2022 (2022-12-01) - N問題, difficulty: 3382)
 
 　
-## 148. 区間二次形式取得
+## 151. バケット分割
+
+### 難易度統計
+
+「バケット分割」を主たる解法に含む問題の難易度統計です。
+- コンテスト平均難易度/difficulty: 4.5/3117
+- 2024年のコンテスト平均難易度/difficulty: データなし
+- 2023年のコンテスト平均難易度/difficulty: 4/2658
+- 2022年のコンテスト平均難易度/difficulty: 5/3577
+
+### 難易度別問題一覧
+
+「バケット分割」を主たる解法に含む問題の難易度ごとの一覧です。
+
+##### ★★★★
+
+- <a href="https://yukicoder.me/problems/no/2215">No.2215 Slide Subset Sum</a> (yukicoder contest 376 (2023-02-10) - H問題, difficulty: 2658)
+
+##### ★★★★★
+
+- <a href="https://yukicoder.me/problems/no/2166">No.2166 Paint and Fill</a> (Advent Calendar Contest 2022 (2022-12-01) - S問題, difficulty: 3577)
+
+　
+## 152. 区間二次形式取得
 
 ### 難易度統計
 
@@ -3623,7 +3709,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2163">No.2163 LCA Sum Query</a> (Advent Calendar Contest 2022 (2022-12-01) - N問題, difficulty: 3382)
 
 　
-## 149. 区間二次式取得
+## 153. 区間二次式取得
 
 ### 難易度統計
 
@@ -3642,7 +3728,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2163">No.2163 LCA Sum Query</a> (Advent Calendar Contest 2022 (2022-12-01) - N問題, difficulty: 3382)
 
 　
-## 150. 最近共通祖先
+## 154. 最近共通祖先
 
 ### 難易度統計
 
@@ -3661,7 +3747,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2163">No.2163 LCA Sum Query</a> (Advent Calendar Contest 2022 (2022-12-01) - N問題, difficulty: 3382)
 
 　
-## 151. 重軽分解
+## 155. 重軽分解
 
 ### 難易度統計
 
@@ -3680,7 +3766,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2163">No.2163 LCA Sum Query</a> (Advent Calendar Contest 2022 (2022-12-01) - N問題, difficulty: 3382)
 
 　
-## 152. フック長公式
+## 156. フック長公式
 
 ### 難易度統計
 
@@ -3699,7 +3785,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2149">No.2149 Vanitas Vanitatum</a> (Advent Calendar Contest 2022 (2022-12-01) - F問題, difficulty: 3086)
 
 　
-## 153. ヤング図形
+## 157. ヤング図形
 
 ### 難易度統計
 
@@ -3718,7 +3804,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2149">No.2149 Vanitas Vanitatum</a> (Advent Calendar Contest 2022 (2022-12-01) - F問題, difficulty: 3086)
 
 　
-## 154. トポロジカルソート
+## 158. トポロジカルソート
 
 ### 難易度統計
 
@@ -3737,7 +3823,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2160">No.2160 みたりのDominator</a> (Advent Calendar Contest 2022 (2022-12-01) - K問題, difficulty: 3382)
 
 　
-## 155. 強連結成分分解
+## 159. 強連結成分分解
 
 ### 難易度統計
 
@@ -3756,7 +3842,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2160">No.2160 みたりのDominator</a> (Advent Calendar Contest 2022 (2022-12-01) - K問題, difficulty: 3382)
 
 　
-## 156. 残余ネットワーク
+## 160. 残余ネットワーク
 
 ### 難易度統計
 
@@ -3775,7 +3861,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2160">No.2160 みたりのDominator</a> (Advent Calendar Contest 2022 (2022-12-01) - K問題, difficulty: 3382)
 
 　
-## 157. P-再帰
+## 161. P-再帰
 
 ### 難易度統計
 
@@ -3794,26 +3880,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2166">No.2166 Paint and Fill</a> (Advent Calendar Contest 2022 (2022-12-01) - S問題, difficulty: 3577)
 
 　
-## 158. バケット分割
-
-### 難易度統計
-
-「バケット分割」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均難易度/difficulty: 5/3577
-- 2024年のコンテスト平均難易度/difficulty: データなし
-- 2023年のコンテスト平均難易度/difficulty: データなし
-- 2022年のコンテスト平均難易度/difficulty: 5/3577
-
-### 難易度別問題一覧
-
-「バケット分割」を主たる解法に含む問題の難易度ごとの一覧です。
-
-##### ★★★★★
-
-- <a href="https://yukicoder.me/problems/no/2166">No.2166 Paint and Fill</a> (Advent Calendar Contest 2022 (2022-12-01) - S問題, difficulty: 3577)
-
-　
-## 159. 多点評価
+## 162. 多点評価
 
 ### 難易度統計
 
@@ -3832,7 +3899,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2166">No.2166 Paint and Fill</a> (Advent Calendar Contest 2022 (2022-12-01) - S問題, difficulty: 3577)
 
 　
-## 160. 評価点シフト
+## 163. 評価点シフト
 
 ### 難易度統計
 
@@ -3851,7 +3918,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2166">No.2166 Paint and Fill</a> (Advent Calendar Contest 2022 (2022-12-01) - S問題, difficulty: 3577)
 
 　
-## 161. アルゴリズム中に追加処理
+## 164. アルゴリズム中に追加処理
 
 ### 難易度統計
 
@@ -3870,7 +3937,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2200">No.2200 Weird Shortest Path</a> (単発出題)
 
 　
-## 162. ハミルトン路
+## 165. ハミルトン路
 
 ### 難易度統計
 
@@ -3889,26 +3956,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2085">No.2085 Directed Complete Graph</a> (単発出題)
 
 　
-## 163. マージ
-
-### 難易度統計
-
-「マージ」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均難易度/difficulty: データなし
-- 2024年のコンテスト平均難易度/difficulty: データなし
-- 2023年のコンテスト平均難易度/difficulty: データなし
-- 2022年のコンテスト平均難易度/difficulty: データなし
-
-### 難易度別問題一覧
-
-「マージ」を主たる解法に含む問題の難易度ごとの一覧です。
-
-##### ★★★☆
-
-- <a href="https://yukicoder.me/problems/no/2085">No.2085 Directed Complete Graph</a> (単発出題)
-
-　
-## 164. 期待値漸化式
+## 166. 期待値漸化式
 
 ### 難易度統計
 
@@ -3927,7 +3975,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2123">No.2123 Chalk Breaker</a> (単発出題)
 
 　
-## 165. 構文解析
+## 167. 構文解析
 
 ### 難易度統計
 
