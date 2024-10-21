@@ -90,189 +90,189 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 
 以下の解法ごとに問題を列挙し、難易度の傾向を表示します：
 
-1. [特殊な入出力](#特殊な入出力)
-1. [数値の文字列受け取り](#数値の文字列受け取り)
-1. [64bit整数](#64bit整数)
-1. [検索](#検索)
-1. [小数誤差](#小数誤差)
-1. [相似](#相似)
-1. [連想配列](#連想配列)
-1. [三角形の成立条件](#三角形の成立条件)
-1. [カレンダー計算](#カレンダー計算)
-1. [繰り返し二乗法](#繰り返し二乗法)
-1. [動的mod](#動的mod)
-1. [累積積](#累積積)
-1. [実装](#実装)
-1. [ギャグ](#ギャグ)
-1. [累積和](#累積和)
-1. [全探索](#全探索)
-1. [サンプルから推測](#サンプルから推測)
-1. [遷移の収束](#遷移の収束)
-1. [余事象](#余事象)
-1. [充足可能性判定](#充足可能性判定)
-1. [頂点倍加](#頂点倍加)
-1. [多項定理](#多項定理)
-1. [階乗逆元](#階乗逆元)
-1. [場合の数](#場合の数)
-1. [頻度表](#頻度表)
-1. [解の公式](#解の公式)
-1. [１次式の最大・最小値](#１次式の最大・最小値)
-1. [貪欲法](#貪欲法)
-1. [実験](#実験)
-1. [深さ優先探索](#深さ優先探索)／DFS
-1. [素集合データ構造](#素集合データ構造)／UnionFind／UF／DSU
-1. [DAG上のDP](#DAG上のDP)
-1. [アルゴリズムのリアクティブ化](#アルゴリズムのリアクティブ化)
-1. [良いケースに帰着](#良いケースに帰着)（[解説ページ](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#良いケースに帰着)）
-1. [幅優先探索](#幅優先探索)／BFS
-1. [小数誤差解消](#小数誤差解消)
-1. [平方根](#平方根)
-1. [サンプルに帰着](#サンプルに帰着)
-1. [場合分け](#場合分け)
-1. [最終ターン数に注目](#最終ターン数に注目)
-1. [同じ値の纏め上げ](#同じ値の纏め上げ)
-1. [最長歩道取得](#最長歩道取得)
-1. [操作回数最小値で判定](#操作回数最小値で判定)
-1. [配列を像で管理](#配列を像で管理)
-1. [マッチ度ごとに管理](#マッチ度ごとに管理)
-1. [操作逆順](#操作逆順)
-1. [挿入ソート](#挿入ソート)
-1. [倍数メビウス変換](#倍数メビウス変換)
-1. [期待値漸化式](#期待値漸化式)
-1. [端から確定](#端から確定)
-1. [区間和の指定された区間計算](#区間和の指定された区間計算)
-1. [表示可能性DP](#表示可能性DP)（[解説ページ](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#表示可能性DP)）
-1. [区間管理](#区間管理)
-1. [部分回文列挙](#部分回文列挙)
-1. [木DP](#木DP)
-1. [imos法](#imos法)
-1. [分枝限定法](#分枝限定法)
-1. [場合分けによるmin・max計算](#場合分けによるmin・max計算)
-1. [不変量を保つ戦略](#不変量を保つ戦略)（[解説ページ](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#不変量を保つ戦略)）
-1. [損をしない変形](#損をしない変形)（[解説ページ](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#損をしない変形)）
-1. [ソート](#ソート)
-1. [ミラー戦略](#ミラー戦略)
-1. [逆元](#逆元)
-1. [積和の和積化](#積和の和積化)
-1. [最終手番の任意性](#最終手番の任意性)（[解説ページ](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#最終手番の任意性)）
-1. [多点BFS](#多点BFS)／多始点BFS
-1. [高さ奇数ニム和](#高さ奇数ニム和)（[解説ページ](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#高さ奇数ニム和)）
-1. [変数決め打ち](#変数決め打ち)
-1. [クラスカル法](#クラスカル法)／Kruskal法
-1. [ダイクストラ法](#ダイクストラ法)／Dijkstra法
-1. [最短経路長取得](#最短経路長取得)
-1. [冪等重みの最短経路長取得](#冪等重みの最短経路長取得)
-1. [ニム和](#ニム和)
-1. [不定方程式の因数分解](#不定方程式の因数分解)
-1. [必勝戦略のリアクティブ化](#必勝戦略のリアクティブ化)
-1. [シミュレーション](#シミュレーション)
-1. [操作の纏め上げ](#操作の纏め上げ)
-1. [階差数列](#階差数列)
-1. [押し付け戦略](#押し付け戦略)（[解説ページ](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#押し付け戦略)）
-1. [ゼータ変換](#ゼータ変換)
-1. [メビウス変換](#メビウス変換)
-1. [倍数ゼータ変換](#倍数ゼータ変換)
-1. [周期](#周期)
-1. [枝刈り](#枝刈り)
-1. [距離空間の重み付きグラフ化](#距離空間の重み付きグラフ化)（[解説ページ](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#距離空間の重み付きグラフ化)）
-1. [一対一対応](#一対一対応)
-1. [クエリ先読み](#クエリ先読み)
-1. [尺取り法](#尺取り法)
-1. [二分探索](#二分探索)
-1. [緩和](#緩和)（[解説ページ](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#緩和)）
-1. [不変量に注目](#不変量に注目)
-1. [動的計画法](#動的計画法)／DP
-1. [平面走査](#平面走査)
-1. [行列累乗](#行列累乗)
-1. [区間和取得](#区間和取得)
-1. [クエリソート](#クエリソート)
-1. [mex取得](#mex取得)
-1. [sorted_set](#sorted_set)
-1. [スライド最小化](#スライド最小化)
-1. [bitごとに計算](#bitごとに計算)
-1. [ポラードの$\rho$](#ポラードの$\rho$)
-1. [平方剰余](#平方剰余)
-1. [区間最大・最小値取得](#区間最大・最小値取得)
-1. [イベントソート](#イベントソート)
-1. [素因数分解](#素因数分解)
-1. [フェニック木](#フェニック木)／BIT
-1. [区間要素数取得](#区間要素数取得)
-1. [座標圧縮](#座標圧縮)／座圧
-1. [素数列挙](#素数列挙)
-1. [グリッド上の価値最大化](#グリッド上の価値最大化)
-1. [確率漸化式](#確率漸化式)
-1. [再帰](#再帰)
-1. [解法場合分け](#解法場合分け)（[解説ページ](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#解法場合分け)）
-1. [bitset高速化](#bitset高速化)
-1. [基底](#基底)
-1. [線形代数](#線形代数)
-1. [準同型](#準同型)
-1. [包除原理](#包除原理)
-1. [約数メビウス変換](#約数メビウス変換)
-1. [bitDP](#bitDP)
-1. [bit全探索](#bit全探索)
-1. [余因子展開](#余因子展開)
-1. [半分全列挙](#半分全列挙)
-1. [剰余を商に翻訳](#剰余を商に翻訳)
-1. [平方分割](#平方分割)
-1. [変数の対称性](#変数の対称性)
-1. [単調関数の像計算](#単調関数の像計算)
-1. [自己写像に翻訳](#自己写像に翻訳)
-1. [連長圧縮](#連長圧縮)／ランレングス圧縮／RLE
-1. [区間加算更新](#区間加算更新)
-1. [ユークリッドの互除法](#ユークリッドの互除法)
-1. [最大公約数](#最大公約数)／GCD
-1. [互いに素に帰着](#互いに素に帰着)
-1. [ナップサックDP](#ナップサックDP)
-1. [数え上げの平均化](#数え上げの平均化)（[解説ページ](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#数え上げの平均化)）
-1. [期待値の線形性](#期待値の線形性)
-1. [DPのデータ構造高速化](#DPのデータ構造高速化)
-1. [調和数列](#調和数列)
-1. [ベン図](#ベン図)
-1. [B進法](#B進法)
-1. [小さいケースの構築を拡張](#小さいケースの構築を拡張)
-1. [剰余による確率的判定](#剰余による確率的判定)
-1. [最小素因数前計算](#最小素因数前計算)
-1. [２進法](#２進法)
-1. [交代和](#交代和)
-1. [２次元DPの１次元圧縮](#２次元DPの１次元圧縮)
-1. [第二種スターリング数](#第二種スターリング数)
-1. [floor_sum](#floor_sum)
-1. [フロベニウスの硬貨交換問題](#フロベニウスの硬貨交換問題)
-1. [像決め打ち二分探索](#像決め打ち二分探索)
-1. [カタラン数](#カタラン数)
-1. [01BFS](#01BFS)
-1. [区間kth取得](#区間kth取得)
-1. [ローリングハッシュ](#ローリングハッシュ)
-1. [最長共通接頭辞](#最長共通接頭辞)／Z-algorithm／LCP
-1. [桁DP](#桁DP)
-1. [同値関係](#同値関係)
-1. [高速フーリエ変換](#高速フーリエ変換)／数論的変換／FTT／NTT
-1. [畳み込み](#畳み込み)
-1. [場合分けによる絶対値計算](#場合分けによる絶対値計算)
-1. [付値管理](#付値管理)
-1. [キュー](#キュー)
-1. [マージ](#マージ)
-1. [区間を中間で分割してマージ](#区間を中間で分割してマージ)
-1. [区間最大・最小値更新](#区間最大・最小値更新)
-1. [分割統治畳み込み](#分割統治畳み込み)／分割統治FFT
-1. [遅延セグメント木](#遅延セグメント木)／遅延セグ木
-1. [バケット分割](#バケット分割)
-1. [区間二次形式取得](#区間二次形式取得)
-1. [区間二次式取得](#区間二次式取得)
-1. [最近共通祖先](#最近共通祖先)／LCA
-1. [重軽分解](#重軽分解)／HL分解／HLD
-1. [フック長公式](#フック長公式)
-1. [ヤング図形](#ヤング図形)
-1. [トポロジカルソート](#トポロジカルソート)
-1. [強連結成分分解](#強連結成分分解)／SCC
-1. [残余ネットワーク](#残余ネットワーク)
-1. [P-再帰](#P-再帰)／P-recursive
-1. [多点評価](#多点評価)
-1. [評価点シフト](#評価点シフト)
-1. [アルゴリズム中に追加処理](#アルゴリズム中に追加処理)
-1. [ハミルトン路](#ハミルトン路)
-1. [構文解析](#構文解析)
+1. <a href="#特殊な入出力" class="tag">特殊な入出力</a>
+1. <a href="#数値の文字列受け取り" class="tag">数値の文字列受け取り</a>
+1. <a href="#64bit整数" class="tag">64bit整数</a>
+1. <a href="#検索" class="tag">検索</a>
+1. <a href="#小数誤差" class="tag">小数誤差</a>
+1. <a href="#相似" class="tag">相似</a>
+1. <a href="#連想配列" class="tag">連想配列</a>
+1. <a href="#三角形の成立条件" class="tag">三角形の成立条件</a>
+1. <a href="#カレンダー計算" class="tag">カレンダー計算</a>
+1. <a href="#繰り返し二乗法" class="tag">繰り返し二乗法</a>
+1. <a href="#動的mod" class="tag">動的mod</a>
+1. <a href="#累積積" class="tag">累積積</a>
+1. <a href="#実装" class="tag">実装</a>
+1. <a href="#ギャグ" class="tag">ギャグ</a>
+1. <a href="#累積和" class="tag">累積和</a>
+1. <a href="#全探索" class="tag">全探索</a>
+1. <a href="#サンプルから推測" class="tag">サンプルから推測</a>
+1. <a href="#遷移の収束" class="tag">遷移の収束</a>
+1. <a href="#余事象" class="tag">余事象</a>
+1. <a href="#充足可能性判定" class="tag">充足可能性判定</a>
+1. <a href="#頂点倍加" class="tag">頂点倍加</a>
+1. <a href="#多項定理" class="tag">多項定理</a>
+1. <a href="#階乗逆元" class="tag">階乗逆元</a>
+1. <a href="#場合の数" class="tag">場合の数</a>
+1. <a href="#頻度表" class="tag">頻度表</a>
+1. <a href="#解の公式" class="tag">解の公式</a>
+1. <a href="#１次式の最大・最小値" class="tag">１次式の最大・最小値</a>
+1. <a href="#貪欲法" class="tag">貪欲法</a>
+1. <a href="#実験" class="tag">実験</a>
+1. <a href="#深さ優先探索" class="tag">深さ優先探索</a>／DFS
+1. <a href="#素集合データ構造" class="tag">素集合データ構造</a>／UnionFind／UF／DSU
+1. <a href="#DAG上のDP" class="tag">DAG上のDP</a>
+1. <a href="#アルゴリズムのリアクティブ化" class="tag">アルゴリズムのリアクティブ化</a>
+1. <a href="#良いケースに帰着" class="tag">良いケースに帰着</a>（[解説ページ](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#良いケースに帰着)）
+1. <a href="#幅優先探索" class="tag">幅優先探索</a>／BFS
+1. <a href="#小数誤差解消" class="tag">小数誤差解消</a>
+1. <a href="#平方根" class="tag">平方根</a>
+1. <a href="#サンプルに帰着" class="tag">サンプルに帰着</a>
+1. <a href="#場合分け" class="tag">場合分け</a>
+1. <a href="#最終ターン数に注目" class="tag">最終ターン数に注目</a>
+1. <a href="#同じ値の纏め上げ" class="tag">同じ値の纏め上げ</a>
+1. <a href="#最長歩道取得" class="tag">最長歩道取得</a>
+1. <a href="#操作回数最小値で判定" class="tag">操作回数最小値で判定</a>
+1. <a href="#配列を像で管理" class="tag">配列を像で管理</a>
+1. <a href="#マッチ度ごとに管理" class="tag">マッチ度ごとに管理</a>
+1. <a href="#操作逆順" class="tag">操作逆順</a>
+1. <a href="#挿入ソート" class="tag">挿入ソート</a>
+1. <a href="#倍数メビウス変換" class="tag">倍数メビウス変換</a>
+1. <a href="#期待値漸化式" class="tag">期待値漸化式</a>
+1. <a href="#端から確定" class="tag">端から確定</a>
+1. <a href="#区間和の指定された区間計算" class="tag">区間和の指定された区間計算</a>
+1. <a href="#表示可能性DP" class="tag">表示可能性DP</a>（[解説ページ](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#表示可能性DP)）
+1. <a href="#区間管理" class="tag">区間管理</a>
+1. <a href="#部分回文列挙" class="tag">部分回文列挙</a>
+1. <a href="#木DP" class="tag">木DP</a>
+1. <a href="#imos法" class="tag">imos法</a>
+1. <a href="#分枝限定法" class="tag">分枝限定法</a>
+1. <a href="#場合分けによるmin・max計算" class="tag">場合分けによるmin・max計算</a>
+1. <a href="#不変量を保つ戦略" class="tag">不変量を保つ戦略</a>（[解説ページ](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#不変量を保つ戦略)）
+1. <a href="#損をしない変形" class="tag">損をしない変形</a>（[解説ページ](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#損をしない変形)）
+1. <a href="#ソート" class="tag">ソート</a>
+1. <a href="#ミラー戦略" class="tag">ミラー戦略</a>
+1. <a href="#逆元" class="tag">逆元</a>
+1. <a href="#積和の和積化" class="tag">積和の和積化</a>
+1. <a href="#最終手番の任意性" class="tag">最終手番の任意性</a>（[解説ページ](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#最終手番の任意性)）
+1. <a href="#多点BFS" class="tag">多点BFS</a>／多始点BFS
+1. <a href="#高さ奇数ニム和" class="tag">高さ奇数ニム和</a>（[解説ページ](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#高さ奇数ニム和)）
+1. <a href="#変数決め打ち" class="tag">変数決め打ち</a>
+1. <a href="#クラスカル法" class="tag">クラスカル法</a>／Kruskal法
+1. <a href="#ダイクストラ法" class="tag">ダイクストラ法</a>／Dijkstra法
+1. <a href="#最短経路長取得" class="tag">最短経路長取得</a>
+1. <a href="#冪等重みの最短経路長取得" class="tag">冪等重みの最短経路長取得</a>
+1. <a href="#ニム和" class="tag">ニム和</a>
+1. <a href="#不定方程式の因数分解" class="tag">不定方程式の因数分解</a>
+1. <a href="#必勝戦略のリアクティブ化" class="tag">必勝戦略のリアクティブ化</a>
+1. <a href="#シミュレーション" class="tag">シミュレーション</a>
+1. <a href="#操作の纏め上げ" class="tag">操作の纏め上げ</a>
+1. <a href="#階差数列" class="tag">階差数列</a>
+1. <a href="#押し付け戦略" class="tag">押し付け戦略</a>（[解説ページ](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#押し付け戦略)）
+1. <a href="#ゼータ変換" class="tag">ゼータ変換</a>
+1. <a href="#メビウス変換" class="tag">メビウス変換</a>
+1. <a href="#倍数ゼータ変換" class="tag">倍数ゼータ変換</a>
+1. <a href="#周期" class="tag">周期</a>
+1. <a href="#枝刈り" class="tag">枝刈り</a>
+1. <a href="#距離空間の重み付きグラフ化" class="tag">距離空間の重み付きグラフ化</a>（[解説ページ](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#距離空間の重み付きグラフ化)）
+1. <a href="#一対一対応" class="tag">一対一対応</a>
+1. <a href="#クエリ先読み" class="tag">クエリ先読み</a>
+1. <a href="#尺取り法" class="tag">尺取り法</a>
+1. <a href="#二分探索" class="tag">二分探索</a>
+1. <a href="#緩和" class="tag">緩和</a>（[解説ページ](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#緩和)）
+1. <a href="#不変量に注目" class="tag">不変量に注目</a>
+1. <a href="#動的計画法" class="tag">動的計画法</a>／DP
+1. <a href="#平面走査" class="tag">平面走査</a>
+1. <a href="#行列累乗" class="tag">行列累乗</a>
+1. <a href="#区間和取得" class="tag">区間和取得</a>
+1. <a href="#クエリソート" class="tag">クエリソート</a>
+1. <a href="#mex取得" class="tag">mex取得</a>
+1. <a href="#sorted_set" class="tag">sorted_set</a>
+1. <a href="#スライド最小化" class="tag">スライド最小化</a>
+1. <a href="#bitごとに計算" class="tag">bitごとに計算</a>
+1. <a href="#ポラードの$\rho$" class="tag">ポラードの$\rho$</a>
+1. <a href="#平方剰余" class="tag">平方剰余</a>
+1. <a href="#区間最大・最小値取得" class="tag">区間最大・最小値取得</a>
+1. <a href="#イベントソート" class="tag">イベントソート</a>
+1. <a href="#素因数分解" class="tag">素因数分解</a>
+1. <a href="#フェニック木" class="tag">フェニック木</a>／BIT
+1. <a href="#区間要素数取得" class="tag">区間要素数取得</a>
+1. <a href="#座標圧縮" class="tag">座標圧縮</a>／座圧
+1. <a href="#素数列挙" class="tag">素数列挙</a>
+1. <a href="#グリッド上の価値最大化" class="tag">グリッド上の価値最大化</a>
+1. <a href="#確率漸化式" class="tag">確率漸化式</a>
+1. <a href="#再帰" class="tag">再帰</a>
+1. <a href="#解法場合分け" class="tag">解法場合分け</a>（[解説ページ](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#解法場合分け)）
+1. <a href="#bitset高速化" class="tag">bitset高速化</a>
+1. <a href="#基底" class="tag">基底</a>
+1. <a href="#線形代数" class="tag">線形代数</a>
+1. <a href="#準同型" class="tag">準同型</a>
+1. <a href="#包除原理" class="tag">包除原理</a>
+1. <a href="#約数メビウス変換" class="tag">約数メビウス変換</a>
+1. <a href="#bitDP" class="tag">bitDP</a>
+1. <a href="#bit全探索" class="tag">bit全探索</a>
+1. <a href="#余因子展開" class="tag">余因子展開</a>
+1. <a href="#半分全列挙" class="tag">半分全列挙</a>
+1. <a href="#剰余を商に翻訳" class="tag">剰余を商に翻訳</a>
+1. <a href="#平方分割" class="tag">平方分割</a>
+1. <a href="#変数の対称性" class="tag">変数の対称性</a>
+1. <a href="#単調関数の像計算" class="tag">単調関数の像計算</a>
+1. <a href="#自己写像に翻訳" class="tag">自己写像に翻訳</a>
+1. <a href="#連長圧縮" class="tag">連長圧縮</a>／ランレングス圧縮／RLE
+1. <a href="#区間加算更新" class="tag">区間加算更新</a>
+1. <a href="#ユークリッドの互除法" class="tag">ユークリッドの互除法</a>
+1. <a href="#最大公約数" class="tag">最大公約数</a>／GCD
+1. <a href="#互いに素に帰着" class="tag">互いに素に帰着</a>
+1. <a href="#ナップサックDP" class="tag">ナップサックDP</a>
+1. <a href="#数え上げの平均化" class="tag">数え上げの平均化</a>（[解説ページ](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#数え上げの平均化)）
+1. <a href="#期待値の線形性" class="tag">期待値の線形性</a>
+1. <a href="#DPのデータ構造高速化" class="tag">DPのデータ構造高速化</a>
+1. <a href="#調和数列" class="tag">調和数列</a>
+1. <a href="#ベン図" class="tag">ベン図</a>
+1. <a href="#B進法" class="tag">B進法</a>
+1. <a href="#小さいケースの構築を拡張" class="tag">小さいケースの構築を拡張</a>
+1. <a href="#剰余による確率的判定" class="tag">剰余による確率的判定</a>
+1. <a href="#最小素因数前計算" class="tag">最小素因数前計算</a>
+1. <a href="#２進法" class="tag">２進法</a>
+1. <a href="#交代和" class="tag">交代和</a>
+1. <a href="#２次元DPの１次元圧縮" class="tag">２次元DPの１次元圧縮</a>
+1. <a href="#第二種スターリング数" class="tag">第二種スターリング数</a>
+1. <a href="#floor_sum" class="tag">floor_sum</a>
+1. <a href="#フロベニウスの硬貨交換問題" class="tag">フロベニウスの硬貨交換問題</a>
+1. <a href="#像決め打ち二分探索" class="tag">像決め打ち二分探索</a>
+1. <a href="#カタラン数" class="tag">カタラン数</a>
+1. <a href="#01BFS" class="tag">01BFS</a>
+1. <a href="#区間kth取得" class="tag">区間kth取得</a>
+1. <a href="#ローリングハッシュ" class="tag">ローリングハッシュ</a>
+1. <a href="#最長共通接頭辞" class="tag">最長共通接頭辞</a>／Z-algorithm／LCP
+1. <a href="#桁DP" class="tag">桁DP</a>
+1. <a href="#同値関係" class="tag">同値関係</a>
+1. <a href="#高速フーリエ変換" class="tag">高速フーリエ変換</a>／数論的変換／FTT／NTT
+1. <a href="#畳み込み" class="tag">畳み込み</a>
+1. <a href="#場合分けによる絶対値計算" class="tag">場合分けによる絶対値計算</a>
+1. <a href="#付値管理" class="tag">付値管理</a>
+1. <a href="#キュー" class="tag">キュー</a>
+1. <a href="#マージ" class="tag">マージ</a>
+1. <a href="#区間を中間で分割してマージ" class="tag">区間を中間で分割してマージ</a>
+1. <a href="#区間最大・最小値更新" class="tag">区間最大・最小値更新</a>
+1. <a href="#分割統治畳み込み" class="tag">分割統治畳み込み</a>／分割統治FFT
+1. <a href="#遅延セグメント木" class="tag">遅延セグメント木</a>／遅延セグ木
+1. <a href="#バケット分割" class="tag">バケット分割</a>
+1. <a href="#区間二次形式取得" class="tag">区間二次形式取得</a>
+1. <a href="#区間二次式取得" class="tag">区間二次式取得</a>
+1. <a href="#最近共通祖先" class="tag">最近共通祖先</a>／LCA
+1. <a href="#重軽分解" class="tag">重軽分解</a>／HL分解／HLD
+1. <a href="#フック長公式" class="tag">フック長公式</a>
+1. <a href="#ヤング図形" class="tag">ヤング図形</a>
+1. <a href="#トポロジカルソート" class="tag">トポロジカルソート</a>
+1. <a href="#強連結成分分解" class="tag">強連結成分分解</a>／SCC
+1. <a href="#残余ネットワーク" class="tag">残余ネットワーク</a>
+1. <a href="#P-再帰" class="tag">P-再帰</a>／P-recursive
+1. <a href="#多点評価" class="tag">多点評価</a>
+1. <a href="#評価点シフト" class="tag">評価点シフト</a>
+1. <a href="#アルゴリズム中に追加処理" class="tag">アルゴリズム中に追加処理</a>
+1. <a href="#ハミルトン路" class="tag">ハミルトン路</a>
+1. <a href="#構文解析" class="tag">構文解析</a>
 
 ただし難易度が未設定の問題があれば、★1と換算します。
 
