@@ -24,6 +24,8 @@ $(document).ready(function() {
     if ($(".wrapper").hasClass('fadeOut')) {
         $(".wrapper").removeClass("fadeOut").addClass("fadeIn");
     }
+    // ページ遷移時にフェードイン・アウト処理をしない例外
+    // 例えばページ内遷移を行うaタグ内でclass="tag"と書けばこの例外が適用される。
     $('a:not([target], .non-fade, .tag)').click(function() {
         $(".container").removeClass("fadeIn").addClass("fadeOut");
         $(".wrapper").removeClass("fadeIn").addClass("fadeOut");
