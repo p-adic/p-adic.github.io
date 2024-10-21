@@ -146,13 +146,13 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 1. <a href="#部分回文列挙" class="tag">部分回文列挙</a>
 1. <a href="#木DP" class="tag">木DP</a>
 1. <a href="#imos法" class="tag">imos法</a>
+1. <a href="#素数を法とする逆元" class="tag">素数を法とする逆元</a>
 1. <a href="#分枝限定法" class="tag">分枝限定法</a>
 1. <a href="#場合分けによるmin・max計算" class="tag">場合分けによるmin・max計算</a>
 1. <a href="#不変量を保つ戦略" class="tag">不変量を保つ戦略</a>（[解説ページ](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#不変量を保つ戦略)）
 1. <a href="#損をしない変形" class="tag">損をしない変形</a>（[解説ページ](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#損をしない変形)）
 1. <a href="#ソート" class="tag">ソート</a>
 1. <a href="#ミラー戦略" class="tag">ミラー戦略</a>
-1. <a href="#逆元" class="tag">逆元</a>
 1. <a href="#積和の和積化" class="tag">積和の和積化</a>
 1. <a href="#最終手番の任意性" class="tag">最終手番の任意性</a>（[解説ページ](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#最終手番の任意性)）
 1. <a href="#多点BFS" class="tag">多点BFS</a>／多始点BFS
@@ -1610,7 +1610,35 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2133">No.2133 Take it easy!</a> (yukicoder contest 369 (2022-11-25) - D問題, difficulty: 2649)
 
 　
-<h2 id="分枝限定法">57. 分枝限定法</h2>
+<h2 id="素数を法とする逆元">57. 素数を法とする逆元</h2>
+
+### 難易度統計
+
+「素数を法とする逆元」を主たる解法に含む問題の難易度統計です。
+- コンテスト平均難易度/difficulty: 2.5/1747
+- 2024年のコンテスト平均難易度/difficulty: データなし
+- 2023年のコンテスト平均難易度/difficulty: 2.6/1904
+- 2022年のコンテスト平均難易度/difficulty: 2/1275
+
+### 難易度別問題一覧
+
+「素数を法とする逆元」を主たる解法に含む問題の難易度ごとの一覧です。
+
+##### ★★
+
+- <a href="https://yukicoder.me/problems/no/2131">No.2131 Concon Substrings (COuNt Version)</a> (yukicoder contest 369 (2022-11-25) - B問題, difficulty: 1275)
+
+##### ★★☆
+
+- <a href="https://yukicoder.me/problems/no/2219">No.2219 Re:010</a> (yukicoder contest 377 (2023-02-17) - D問題, difficulty: 1622)
+- <a href="https://yukicoder.me/problems/no/2235">No.2235 Line Up Colored Balls</a> (yukicoder contest 379 (2023-03-03) - D問題, difficulty: 1922)
+
+##### ★★★
+
+- <a href="https://yukicoder.me/problems/no/2230">No.2230 Good Omen of White Lotus</a> (yukicoder contest 378 (2023-02-24) - G問題, difficulty: 2169)
+
+　
+<h2 id="分枝限定法">58. 分枝限定法</h2>
 
 ### 難易度統計
 
@@ -1657,7 +1685,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2068">No.2068 Restricted Permutation</a> (yukicoder contest 359 (2022-09-02) - F問題, difficulty: 2566)
 
 　
-<h2 id="場合分けによるmin・max計算">58. 場合分けによるmin・max計算</h2>
+<h2 id="場合分けによるmin・max計算">59. 場合分けによるmin・max計算</h2>
 
 ### 難易度統計
 
@@ -1676,7 +1704,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2227">No.2227 King Kraken's Attack</a> (yukicoder contest 378 (2023-02-24) - D問題, difficulty: 1773)
 
 　
-<h2 id="不変量を保つ戦略">59. 不変量を保つ戦略</h2>
+<h2 id="不変量を保つ戦略">60. 不変量を保つ戦略</h2>
 
 ### 難易度統計
 
@@ -1696,7 +1724,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2080">No.2080 Simple Nim Query</a> (yukicoder contest 361 (2022-09-25) - C問題, difficulty: 1649)
 
 　
-<h2 id="損をしない変形">60. 損をしない変形</h2>
+<h2 id="損をしない変形">61. 損をしない変形</h2>
 
 ### 難易度統計
 
@@ -1720,7 +1748,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2096">No.2096 Rage With Our Friends</a> (yukicoder contest 363 (2022-10-07) - E問題, difficulty: 2690)
 
 　
-<h2 id="ソート">61. ソート</h2>
+<h2 id="ソート">62. ソート</h2>
 
 ### 難易度統計
 
@@ -1753,7 +1781,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2062">No.2062 Sum of Subset mod 999630629</a> (yukicoder contest 358 (2022-08-26) - G問題, difficulty: 2553)
 
 　
-<h2 id="ミラー戦略">62. ミラー戦略</h2>
+<h2 id="ミラー戦略">63. ミラー戦略</h2>
 
 ### 難易度統計
 
@@ -1771,25 +1799,6 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 
 - <a href="https://yukicoder.me/problems/no/2059">No.2059 Odd Move Nim</a> (yukicoder contest 358 (2022-08-26) - D問題, difficulty: 2008)
 - <a href="https://yukicoder.me/problems/no/2126">No.2126 MEX Game</a> (yukicoder contest 368 (2022-11-18) - C問題, difficulty: 1803)
-
-　
-<h2 id="逆元">63. 逆元</h2>
-
-### 難易度統計
-
-「逆元」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均難易度/difficulty: 2.5/1922
-- 2024年のコンテスト平均難易度/difficulty: データなし
-- 2023年のコンテスト平均難易度/difficulty: 2.5/1922
-- 2022年のコンテスト平均難易度/difficulty: データなし
-
-### 難易度別問題一覧
-
-「逆元」を主たる解法に含む問題の難易度ごとの一覧です。
-
-##### ★★☆
-
-- <a href="https://yukicoder.me/problems/no/2235">No.2235 Line Up Colored Balls</a> (yukicoder contest 379 (2023-03-03) - D問題, difficulty: 1922)
 
 　
 <h2 id="積和の和積化">64. 積和の和積化</h2>
