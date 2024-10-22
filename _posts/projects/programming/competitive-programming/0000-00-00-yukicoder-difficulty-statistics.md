@@ -155,7 +155,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 1. <a href="#木DP" class="tag">木DP</a>×2問
 1. <a href="#imos法" class="tag">imos法</a>×2問
 1. <a href="#素数を法とする逆元" class="tag">素数を法とする逆元</a>×4問
-1. <a href="#VietaJumping" class="tag">VietaJumping</a>／RootFlipping×1問
+1. <a href="#Vieta Jumping" class="tag">Vieta Jumping</a>／Root Flipping×1問
 1. <a href="#場合分けによるmin・max計算" class="tag">場合分けによるmin・max計算</a>×1問
 1. <a href="#分枝限定法" class="tag">分枝限定法</a>×18問
 1. <a href="#不変量を保つ戦略" class="tag">不変量を保つ戦略</a>×2問（[解説ページ](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#不変量を保つ戦略)）
@@ -197,7 +197,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 1. <a href="#行列累乗" class="tag">行列累乗</a>×1問
 1. <a href="#クエリソート" class="tag">クエリソート</a>×2問
 1. <a href="#mex取得" class="tag">mex取得</a>×1問
-1. <a href="#sorted_set" class="tag">sorted_set</a>×2問
+1. <a href="#sorted set" class="tag">sorted set</a>×2問
 1. <a href="#スライド最小化" class="tag">スライド最小化</a>×1問
 1. <a href="#オイラー関数前計算" class="tag">オイラー関数前計算</a>×1問
 1. <a href="#bitごとに計算" class="tag">bitごとに計算</a>×4問
@@ -254,7 +254,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 1. <a href="#交代和" class="tag">交代和</a>×1問
 1. <a href="#inplace DP" class="tag">inplace DP</a>×2問
 1. <a href="#第二種スターリング数" class="tag">第二種スターリング数</a>×1問
-1. <a href="#floor_sum" class="tag">floor_sum</a>×1問
+1. <a href="#floor sum" class="tag">floor sum</a>×1問
 1. <a href="#フロベニウスの硬貨交換問題" class="tag">フロベニウスの硬貨交換問題</a>×1問
 1. <a href="#像決め打ち二分探索" class="tag">像決め打ち二分探索</a>×1問
 1. <a href="#カタラン数" class="tag">カタラン数</a>×1問
@@ -1861,11 +1861,11 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2230">No.2230 Good Omen of White Lotus</a> (yukicoder contest 378 (2023-02-24) - G問題, difficulty: 2169)
 
 　
-<h2 id="VietaJumping">66. VietaJumping</h2>
+<h2 id="Vieta Jumping">66. Vieta Jumping</h2>
 
 ### 難易度統計
 
-「VietaJumping」を主たる解法に含む問題の難易度統計です。
+「Vieta Jumping」を主たる解法に含む問題の難易度統計です。
 - コンテスト平均難易度/difficulty: 2.5/1768
 - 2024年のコンテスト平均難易度/difficulty: データなし
 - 2023年のコンテスト平均難易度/difficulty: 2.5/1768
@@ -1873,7 +1873,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 
 ### 難易度別問題一覧
 
-「VietaJumping」を主たる解法に含む問題の難易度ごとの一覧です。
+「Vieta Jumping」を主たる解法に含む問題の難易度ごとの一覧です。
 
 ##### ★★☆
 
@@ -2871,11 +2871,11 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2220">No.2220 Range Insert & Point Mex</a> (yukicoder contest 377 (2023-02-17) - E問題, difficulty: 1927)
 
 　
-<h2 id="sorted_set">108. sorted_set</h2>
+<h2 id="sorted set">108. sorted set</h2>
 
 ### 難易度統計
 
-「sorted_set」を主たる解法に含む問題の難易度統計です。
+「sorted set」を主たる解法に含む問題の難易度統計です。
 - コンテスト平均難易度/difficulty: 3/1943
 - 2024年のコンテスト平均難易度/difficulty: データなし
 - 2023年のコンテスト平均難易度/difficulty: 3/1927
@@ -2883,7 +2883,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 
 ### 難易度別問題一覧
 
-「sorted_set」を主たる解法に含む問題の難易度ごとの一覧です。
+「sorted set」を主たる解法に含む問題の難易度ごとの一覧です。
 
 ##### ★★★
 
@@ -4134,11 +4134,11 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2083">No.2083 OR Subset</a> (yukicoder contest 361 (2022-09-25) - F問題, difficulty: 2643)
 
 　
-<h2 id="floor_sum">165. floor_sum</h2>
+<h2 id="floor sum">165. floor sum</h2>
 
 ### 難易度統計
 
-「floor_sum」を主たる解法に含む問題の難易度統計です。
+「floor sum」を主たる解法に含む問題の難易度統計です。
 - コンテスト平均難易度/difficulty: 3.5/2648
 - 2024年のコンテスト平均難易度/difficulty: データなし
 - 2023年のコンテスト平均難易度/difficulty: データなし
@@ -4146,7 +4146,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 
 ### 難易度別問題一覧
 
-「floor_sum」を主たる解法に含む問題の難易度ごとの一覧です。
+「floor sum」を主たる解法に含む問題の難易度ごとの一覧です。
 
 ##### ★★★☆
 
