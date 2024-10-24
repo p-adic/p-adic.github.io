@@ -266,7 +266,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 1. <a href="#指定序数の値の計算を各値未満の数え上げに帰着" class="tag">指定序数の値の計算を各値未満の数え上げに帰着</a>×1問
 1. <a href="#約数ゼータ変換" class="tag">約数ゼータ変換</a>×1問
 1. <a href="#区間和取得" class="tag">区間和取得</a>×3問
-1. <a href="#総和計算の期待値への帰着" class="tag">総和計算の期待値への帰着</a>×3問
+1. <a href="#総和計算の期待値への帰着" class="tag">総和計算の期待値への帰着</a>×3問（[解説ページ](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#総和計算の期待値への帰着)）
 1. <a href="#期待値の線形性" class="tag">期待値の線形性</a>×3問
 1. <a href="#区間加算更新" class="tag">区間加算更新</a>×3問
 1. <a href="#ユークリッドの互除法" class="tag">ユークリッドの互除法</a>×4問
@@ -4530,7 +4530,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 
 ### 難易度統計
 
-「総和計算の期待値への帰着」を主たる解法に含む問題の難易度統計です。
+「[総和計算の期待値への帰着](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#総和計算の期待値への帰着)」を主たる解法に含む問題の難易度統計です。
 - コンテスト平均難易度/difficulty: 3.1/2119
 - 2024年のコンテスト平均難易度/difficulty: データなし
 - 2023年のコンテスト平均難易度/difficulty: 2.7/1896
@@ -4538,7 +4538,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 
 ### 難易度別問題一覧
 
-「総和計算の期待値への帰着」を主たる解法に含む問題の難易度ごとの一覧です。
+「[総和計算の期待値への帰着](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#総和計算の期待値への帰着)」を主たる解法に含む問題の難易度ごとの一覧です。
 
 ##### ★★☆
 
