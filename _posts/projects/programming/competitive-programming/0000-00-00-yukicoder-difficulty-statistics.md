@@ -94,66 +94,66 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 
 ### ★
 
-- コンテスト平均difficulty: 520
-- 2024年のコンテスト平均difficulty: 618
-- 2023年のコンテスト平均difficulty: 370
-- 2022年のコンテスト平均difficulty: 742
+- コンテスト平均difficulty: 520（66問）
+- 2024年のコンテスト平均difficulty: 618（34問）
+- 2023年のコンテスト平均difficulty: 370（28問）
+- 2022年のコンテスト平均difficulty: 742（4問）
 
 ### ★☆
 
-- コンテスト平均difficulty: 943
-- 2024年のコンテスト平均difficulty: 982
-- 2023年のコンテスト平均difficulty: 934
-- 2022年のコンテスト平均difficulty: 831
+- コンテスト平均difficulty: 943（92問）
+- 2024年のコンテスト平均difficulty: 982（42問）
+- 2023年のコンテスト平均difficulty: 934（38問）
+- 2022年のコンテスト平均difficulty: 831（12問）
 
 ### ★★
 
-- コンテスト平均difficulty: 1341
-- 2024年のコンテスト平均difficulty: 1433
-- 2023年のコンテスト平均difficulty: 1240
-- 2022年のコンテスト平均difficulty: 1389
+- コンテスト平均difficulty: 1341（130問）
+- 2024年のコンテスト平均difficulty: 1433（55問）
+- 2023年のコンテスト平均difficulty: 1240（58問）
+- 2022年のコンテスト平均difficulty: 1389（17問）
 
 ### ★★☆
 
-- コンテスト平均difficulty: 1825
-- 2024年のコンテスト平均difficulty: 1838
-- 2023年のコンテスト平均difficulty: 1798
-- 2022年のコンテスト平均difficulty: 1899
+- コンテスト平均difficulty: 1825（155問）
+- 2024年のコンテスト平均difficulty: 1838（59問）
+- 2023年のコンテスト平均difficulty: 1798（78問）
+- 2022年のコンテスト平均difficulty: 1899（18問）
 
 ### ★★★
 
-- コンテスト平均difficulty: 2238
-- 2024年のコンテスト平均difficulty: 2262
-- 2023年のコンテスト平均difficulty: 2211
-- 2022年のコンテスト平均difficulty: 2245
+- コンテスト平均difficulty: 2238（159問）
+- 2024年のコンテスト平均difficulty: 2262（70問）
+- 2023年のコンテスト平均difficulty: 2211（67問）
+- 2022年のコンテスト平均difficulty: 2245（22問）
 
 ### ★★★☆
 
-- コンテスト平均difficulty: 2575
-- 2024年のコンテスト平均difficulty: 2560
-- 2023年のコンテスト平均difficulty: 2570
-- 2022年のコンテスト平均difficulty: 2627
+- コンテスト平均difficulty: 2575（132問）
+- 2024年のコンテスト平均difficulty: 2560（49問）
+- 2023年のコンテスト平均difficulty: 2570（63問）
+- 2022年のコンテスト平均difficulty: 2627（20問）
 
 ### ★★★★
 
-- コンテスト平均difficulty: 2823
-- 2024年のコンテスト平均difficulty: 2823
-- 2023年のコンテスト平均difficulty: 2843
-- 2022年のコンテスト平均difficulty: 2724
+- コンテスト平均difficulty: 2823（70問）
+- 2024年のコンテスト平均difficulty: 2823（19問）
+- 2023年のコンテスト平均difficulty: 2843（42問）
+- 2022年のコンテスト平均difficulty: 2724（9問）
 
 ### ★★★★☆
 
-- コンテスト平均difficulty: 3155
-- 2024年のコンテスト平均difficulty: 2988
-- 2023年のコンテスト平均difficulty: 3174
-- 2022年のコンテスト平均difficulty: 3349
+- コンテスト平均difficulty: 3155（22問）
+- 2024年のコンテスト平均difficulty: 2988（7問）
+- 2023年のコンテスト平均difficulty: 3174（10問）
+- 2022年のコンテスト平均difficulty: 3349（5問）
 
 ### ★★★★★
 
-- コンテスト平均difficulty: 3263
-- 2024年のコンテスト平均difficulty: 3450
-- 2023年のコンテスト平均difficulty: 3199
-- 2022年のコンテスト平均difficulty: 3339
+- コンテスト平均difficulty: 3263（21問）
+- 2024年のコンテスト平均difficulty: 3450（2問）
+- 2023年のコンテスト平均difficulty: 3199（13問）
+- 2022年のコンテスト平均difficulty: 3339（6問）
 
 ### ★★★★★☆
 
