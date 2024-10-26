@@ -1,7 +1,7 @@
 ---
 layout: project
 title: yukicoder過去問解法別難易度統計
-date: 2024-10-25
+date: 2024-10-26
 excerpt: "yukicoderの過去問の解法別の難易度に関する統計データです。"
 parent: competitive-programming-project/
 prev-child: competitive-programming-creating-problem-status
@@ -94,66 +94,66 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 
 ### ★
 
-- コンテスト平均difficulty: 520（66問）
-- 2024年のコンテスト平均difficulty: 618（34問）
-- 2023年のコンテスト平均difficulty: 370（28問）
-- 2022年のコンテスト平均difficulty: 742（4問）
+- コンテスト平均difficulty: <font color="brown">520</font>（66問）
+- 2024年のコンテスト平均difficulty: <font color="brown">618</font>（34問）
+- 2023年のコンテスト平均difficulty: <font color="gray">370</font>（28問）
+- 2022年のコンテスト平均difficulty: <font color="brown">742</font>（4問）
 
 ### ★☆
 
-- コンテスト平均difficulty: 943（92問）
-- 2024年のコンテスト平均difficulty: 982（42問）
-- 2023年のコンテスト平均difficulty: 934（38問）
-- 2022年のコンテスト平均difficulty: 831（12問）
+- コンテスト平均difficulty: <font color="green">943</font>（92問）
+- 2024年のコンテスト平均difficulty: <font color="green">982</font>（42問）
+- 2023年のコンテスト平均difficulty: <font color="green">934</font>（38問）
+- 2022年のコンテスト平均difficulty: <font color="green">831</font>（12問）
 
 ### ★★
 
-- コンテスト平均difficulty: 1341（130問）
-- 2024年のコンテスト平均difficulty: 1433（55問）
-- 2023年のコンテスト平均difficulty: 1240（58問）
-- 2022年のコンテスト平均difficulty: 1389（17問）
+- コンテスト平均difficulty: <font color="aqua">1341</font>（130問）
+- 2024年のコンテスト平均difficulty: <font color="aqua">1433</font>（55問）
+- 2023年のコンテスト平均difficulty: <font color="aqua">1240</font>（58問）
+- 2022年のコンテスト平均difficulty: <font color="aqua">1389</font>（17問）
 
 ### ★★☆
 
-- コンテスト平均difficulty: 1825（155問）
-- 2024年のコンテスト平均difficulty: 1838（59問）
-- 2023年のコンテスト平均difficulty: 1798（78問）
-- 2022年のコンテスト平均difficulty: 1899（18問）
+- コンテスト平均difficulty: <font color="blue">1825</font>（155問）
+- 2024年のコンテスト平均difficulty: <font color="blue">1838</font>（59問）
+- 2023年のコンテスト平均difficulty: <font color="blue">1798</font>（78問）
+- 2022年のコンテスト平均difficulty: <font color="blue">1899</font>（18問）
 
 ### ★★★
 
-- コンテスト平均difficulty: 2238（159問）
-- 2024年のコンテスト平均difficulty: 2262（70問）
-- 2023年のコンテスト平均difficulty: 2211（67問）
-- 2022年のコンテスト平均difficulty: 2245（22問）
+- コンテスト平均difficulty: <font color="yellow">2238</font>（159問）
+- 2024年のコンテスト平均difficulty: <font color="yellow">2262</font>（70問）
+- 2023年のコンテスト平均difficulty: <font color="yellow">2211</font>（67問）
+- 2022年のコンテスト平均difficulty: <font color="yellow">2245</font>（22問）
 
 ### ★★★☆
 
-- コンテスト平均difficulty: 2575（132問）
-- 2024年のコンテスト平均difficulty: 2560（49問）
-- 2023年のコンテスト平均difficulty: 2570（63問）
-- 2022年のコンテスト平均difficulty: 2627（20問）
+- コンテスト平均difficulty: <font color="orange">2575</font>（132問）
+- 2024年のコンテスト平均difficulty: <font color="orange">2560</font>（49問）
+- 2023年のコンテスト平均difficulty: <font color="orange">2570</font>（63問）
+- 2022年のコンテスト平均difficulty: <font color="orange">2627</font>（20問）
 
 ### ★★★★
 
-- コンテスト平均difficulty: 2823（70問）
-- 2024年のコンテスト平均difficulty: 2823（19問）
-- 2023年のコンテスト平均difficulty: 2843（42問）
-- 2022年のコンテスト平均difficulty: 2724（9問）
+- コンテスト平均difficulty: <font color="red">2823</font>（70問）
+- 2024年のコンテスト平均difficulty: <font color="red">2823</font>（19問）
+- 2023年のコンテスト平均difficulty: <font color="red">2843</font>（42問）
+- 2022年のコンテスト平均difficulty: <font color="orange">2724</font>（9問）
 
 ### ★★★★☆
 
-- コンテスト平均difficulty: 3155（22問）
-- 2024年のコンテスト平均difficulty: 2988（7問）
-- 2023年のコンテスト平均difficulty: 3174（10問）
-- 2022年のコンテスト平均difficulty: 3349（5問）
+- コンテスト平均difficulty: <font color="red">3155</font>（22問）
+- 2024年のコンテスト平均difficulty: <font color="red">2988</font>（7問）
+- 2023年のコンテスト平均difficulty: <font color="red">3174</font>（10問）
+- 2022年のコンテスト平均difficulty: <font color="darkgoldenrod ">3349</font>（5問）
 
 ### ★★★★★
 
-- コンテスト平均difficulty: 3263（21問）
-- 2024年のコンテスト平均difficulty: 3450（2問）
-- 2023年のコンテスト平均difficulty: 3199（13問）
-- 2022年のコンテスト平均difficulty: 3339（6問）
+- コンテスト平均difficulty: <font color="darkgoldenrod ">3263</font>（21問）
+- 2024年のコンテスト平均difficulty: <font color="darkgoldenrod ">3450</font>（2問）
+- 2023年のコンテスト平均difficulty: <font color="red">3199</font>（13問）
+- 2022年のコンテスト平均difficulty: <font color="darkgoldenrod ">3339</font>（6問）
 
 ### ★★★★★☆
 
@@ -422,10 +422,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「特殊な入出力」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 1.1/791
+- コンテスト平均レベル/difficulty: 1.1/<font color="brown">791</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 1/544
-- 2022年のコンテスト平均レベル/difficulty: 1.2/915
+- 2023年のコンテスト平均レベル/difficulty: 1/<font color="brown">544</font>
+- 2022年のコンテスト平均レベル/difficulty: 1.2/<font color="green">915</font>
 
 ### レベル別問題一覧
 
@@ -446,10 +446,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「数値の文字列受け取り」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 1.2/756
+- コンテスト平均レベル/difficulty: 1.2/<font color="brown">756</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 1/544
-- 2022年のコンテスト平均レベル/difficulty: 1.5/969
+- 2023年のコンテスト平均レベル/difficulty: 1/<font color="brown">544</font>
+- 2022年のコンテスト平均レベル/difficulty: 1.5/<font color="green">969</font>
 
 ### レベル別問題一覧
 
@@ -469,10 +469,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「実装」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 1.3/752
+- コンテスト平均レベル/difficulty: 1.3/<font color="brown">752</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 1.3/741
-- 2022年のコンテスト平均レベル/difficulty: 1.3/787
+- 2023年のコンテスト平均レベル/difficulty: 1.3/<font color="brown">741</font>
+- 2022年のコンテスト平均レベル/difficulty: 1.3/<font color="brown">787</font>
 
 ### レベル別問題一覧
 
@@ -508,10 +508,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「64bit整数」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 1.4/835
+- コンテスト平均レベル/difficulty: 1.4/<font color="green">835</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 1.3/831
-- 2022年のコンテスト平均レベル/difficulty: 1.5/841
+- 2023年のコンテスト平均レベル/difficulty: 1.3/<font color="green">831</font>
+- 2022年のコンテスト平均レベル/difficulty: 1.5/<font color="green">841</font>
 
 ### レベル別問題一覧
 
@@ -534,10 +534,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「小数誤差」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 1.5/588
+- コンテスト平均レベル/difficulty: 1.5/<font color="brown">588</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
 - 2023年のコンテスト平均レベル/difficulty: データなし
-- 2022年のコンテスト平均レベル/difficulty: 1.5/588
+- 2022年のコンテスト平均レベル/difficulty: 1.5/<font color="brown">588</font>
 
 ### レベル別問題一覧
 
@@ -553,10 +553,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「相似」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 1.5/588
+- コンテスト平均レベル/difficulty: 1.5/<font color="brown">588</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
 - 2023年のコンテスト平均レベル/difficulty: データなし
-- 2022年のコンテスト平均レベル/difficulty: 1.5/588
+- 2022年のコンテスト平均レベル/difficulty: 1.5/<font color="brown">588</font>
 
 ### レベル別問題一覧
 
@@ -572,9 +572,9 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「指定序数の値の計算を桁ごとの数え上げに帰着」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 1.5/689
+- コンテスト平均レベル/difficulty: 1.5/<font color="brown">689</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 1.5/689
+- 2023年のコンテスト平均レベル/difficulty: 1.5/<font color="brown">689</font>
 - 2022年のコンテスト平均レベル/difficulty: データなし
 
 ### レベル別問題一覧
@@ -591,10 +591,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「連想配列」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 1.5/829
+- コンテスト平均レベル/difficulty: 1.5/<font color="green">829</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2/1093
-- 2022年のコンテスト平均レベル/difficulty: 1/566
+- 2023年のコンテスト平均レベル/difficulty: 2/<font color="green">1093</font>
+- 2022年のコンテスト平均レベル/difficulty: 1/<font color="brown">566</font>
 
 ### レベル別問題一覧
 
@@ -614,10 +614,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「三角形の成立条件」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 1.5/864
+- コンテスト平均レベル/difficulty: 1.5/<font color="green">864</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
 - 2023年のコンテスト平均レベル/difficulty: データなし
-- 2022年のコンテスト平均レベル/difficulty: 1.5/864
+- 2022年のコンテスト平均レベル/difficulty: 1.5/<font color="green">864</font>
 
 ### レベル別問題一覧
 
@@ -633,9 +633,9 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「場合分けによる絶対値計算」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 1.5/1060
+- コンテスト平均レベル/difficulty: 1.5/<font color="green">1060</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 1.5/1060
+- 2023年のコンテスト平均レベル/difficulty: 1.5/<font color="green">1060</font>
 - 2022年のコンテスト平均レベル/difficulty: データなし
 
 ### レベル別問題一覧
@@ -652,10 +652,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「１次式の最大・最小値」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 1.5/1073
+- コンテスト平均レベル/difficulty: 1.5/<font color="green">1073</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 1.6/1092
-- 2022年のコンテスト平均レベル/difficulty: 1/1017
+- 2023年のコンテスト平均レベル/difficulty: 1.6/<font color="green">1092</font>
+- 2022年のコンテスト平均レベル/difficulty: 1/<font color="green">1017</font>
 
 ### レベル別問題一覧
 
@@ -680,10 +680,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「カレンダー計算」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 1.5/1095
+- コンテスト平均レベル/difficulty: 1.5/<font color="green">1095</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
 - 2023年のコンテスト平均レベル/difficulty: データなし
-- 2022年のコンテスト平均レベル/difficulty: 1.5/1095
+- 2022年のコンテスト平均レベル/difficulty: 1.5/<font color="green">1095</font>
 
 ### レベル別問題一覧
 
@@ -699,9 +699,9 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「動的mod」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 1.5/1139
+- コンテスト平均レベル/difficulty: 1.5/<font color="green">1139</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 1.5/1139
+- 2023年のコンテスト平均レベル/difficulty: 1.5/<font color="green">1139</font>
 - 2022年のコンテスト平均レベル/difficulty: データなし
 
 ### レベル別問題一覧
@@ -718,9 +718,9 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「累積積」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 1.5/1139
+- コンテスト平均レベル/difficulty: 1.5/<font color="green">1139</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 1.5/1139
+- 2023年のコンテスト平均レベル/difficulty: 1.5/<font color="green">1139</font>
 - 2022年のコンテスト平均レベル/difficulty: データなし
 
 ### レベル別問題一覧
@@ -737,10 +737,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「組分けの余りに注目」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 1.6/1206
+- コンテスト平均レベル/difficulty: 1.6/<font color="aqua">1206</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 1.7/1262
-- 2022年のコンテスト平均レベル/difficulty: 1.5/1095
+- 2023年のコンテスト平均レベル/difficulty: 1.7/<font color="aqua">1262</font>
+- 2022年のコンテスト平均レベル/difficulty: 1.5/<font color="green">1095</font>
 
 ### レベル別問題一覧
 
@@ -764,9 +764,9 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「シミュレーション」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 1.9/1165
+- コンテスト平均レベル/difficulty: 1.9/<font color="green">1165</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 1.9/1165
+- 2023年のコンテスト平均レベル/difficulty: 1.9/<font color="green">1165</font>
 - 2022年のコンテスト平均レベル/difficulty: データなし
 
 ### レベル別問題一覧
@@ -794,10 +794,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「全探索」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 1.9/1356
+- コンテスト平均レベル/difficulty: 1.9/<font color="aqua">1356</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 1.8/1251
-- 2022年のコンテスト平均レベル/difficulty: 2/1689
+- 2023年のコンテスト平均レベル/difficulty: 1.8/<font color="aqua">1251</font>
+- 2022年のコンテスト平均レベル/difficulty: 2/<font color="blue">1689</font>
 
 ### レベル別問題一覧
 
@@ -853,9 +853,9 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「サンプルから推測」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2/344
+- コンテスト平均レベル/difficulty: 2/<font color="gray">344</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2/344
+- 2023年のコンテスト平均レベル/difficulty: 2/<font color="gray">344</font>
 - 2022年のコンテスト平均レベル/difficulty: データなし
 
 ### レベル別問題一覧
@@ -872,9 +872,9 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「巡回置換表示」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2/783
+- コンテスト平均レベル/difficulty: 2/<font color="brown">783</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2/783
+- 2023年のコンテスト平均レベル/difficulty: 2/<font color="brown">783</font>
 - 2022年のコンテスト平均レベル/difficulty: データなし
 
 ### レベル別問題一覧
@@ -892,9 +892,9 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「言及する成分数を最大化する質問」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2/846
+- コンテスト平均レベル/difficulty: 2/<font color="green">846</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2/846
+- 2023年のコンテスト平均レベル/difficulty: 2/<font color="green">846</font>
 - 2022年のコンテスト平均レベル/difficulty: データなし
 
 ### レベル別問題一覧
@@ -911,9 +911,9 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「グランディ数」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2/912
+- コンテスト平均レベル/difficulty: 2/<font color="green">912</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2/912
+- 2023年のコンテスト平均レベル/difficulty: 2/<font color="green">912</font>
 - 2022年のコンテスト平均レベル/difficulty: データなし
 
 ### レベル別問題一覧
@@ -930,9 +930,9 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「遷移の収束」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2/939
+- コンテスト平均レベル/difficulty: 2/<font color="green">939</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2/939
+- 2023年のコンテスト平均レベル/difficulty: 2/<font color="green">939</font>
 - 2022年のコンテスト平均レベル/difficulty: データなし
 
 ### レベル別問題一覧
@@ -949,9 +949,9 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「ド・モルガンの法則」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2/1049
+- コンテスト平均レベル/difficulty: 2/<font color="green">1049</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2/1049
+- 2023年のコンテスト平均レベル/difficulty: 2/<font color="green">1049</font>
 - 2022年のコンテスト平均レベル/difficulty: データなし
 
 ### レベル別問題一覧
@@ -968,10 +968,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「検索」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2/1178
+- コンテスト平均レベル/difficulty: 2/<font color="green">1178</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2.5/1768
-- 2022年のコンテスト平均レベル/difficulty: 1.5/588
+- 2023年のコンテスト平均レベル/difficulty: 2.5/<font color="blue">1768</font>
+- 2022年のコンテスト平均レベル/difficulty: 1.5/<font color="brown">588</font>
 
 ### レベル別問題一覧
 
@@ -995,10 +995,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「頻度表」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2/1183
+- コンテスト平均レベル/difficulty: 2/<font color="green">1183</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2/1027
-- 2022年のコンテスト平均レベル/difficulty: 2/1390
+- 2023年のコンテスト平均レベル/difficulty: 2/<font color="green">1027</font>
+- 2022年のコンテスト平均レベル/difficulty: 2/<font color="aqua">1390</font>
 
 ### レベル別問題一覧
 
@@ -1029,10 +1029,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「多項定理」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2/1261
+- コンテスト平均レベル/difficulty: 2/<font color="aqua">1261</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
 - 2023年のコンテスト平均レベル/difficulty: データなし
-- 2022年のコンテスト平均レベル/difficulty: 2/1261
+- 2022年のコンテスト平均レベル/difficulty: 2/<font color="aqua">1261</font>
 
 ### レベル別問題一覧
 
@@ -1048,10 +1048,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「場合の数」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2/1308
+- コンテスト平均レベル/difficulty: 2/<font color="aqua">1308</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
 - 2023年のコンテスト平均レベル/difficulty: データなし
-- 2022年のコンテスト平均レベル/difficulty: 2/1308
+- 2022年のコンテスト平均レベル/difficulty: 2/<font color="aqua">1308</font>
 
 ### レベル別問題一覧
 
@@ -1068,9 +1068,9 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「括弧列判定」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2/1373
+- コンテスト平均レベル/difficulty: 2/<font color="aqua">1373</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2/1373
+- 2023年のコンテスト平均レベル/difficulty: 2/<font color="aqua">1373</font>
 - 2022年のコンテスト平均レベル/difficulty: データなし
 
 ### レベル別問題一覧
@@ -1087,10 +1087,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「操作を数値に翻訳」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2/1379
+- コンテスト平均レベル/difficulty: 2/<font color="aqua">1379</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2/1308
-- 2022年のコンテスト平均レベル/difficulty: 2/1629
+- 2023年のコンテスト平均レベル/difficulty: 2/<font color="aqua">1308</font>
+- 2022年のコンテスト平均レベル/difficulty: 2/<font color="blue">1629</font>
 
 ### レベル別問題一覧
 
@@ -1123,9 +1123,9 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「階乗付値」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2/1605
+- コンテスト平均レベル/difficulty: 2/<font color="blue">1605</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2/1605
+- 2023年のコンテスト平均レベル/difficulty: 2/<font color="blue">1605</font>
 - 2022年のコンテスト平均レベル/difficulty: データなし
 
 ### レベル別問題一覧
@@ -1142,9 +1142,9 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「解の公式」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2/1856
+- コンテスト平均レベル/difficulty: 2/<font color="blue">1856</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2/1856
+- 2023年のコンテスト平均レベル/difficulty: 2/<font color="blue">1856</font>
 - 2022年のコンテスト平均レベル/difficulty: データなし
 
 ### レベル別問題一覧
@@ -1161,9 +1161,9 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「余事象」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.1/1184
+- コンテスト平均レベル/difficulty: 2.1/<font color="green">1184</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2.1/1184
+- 2023年のコンテスト平均レベル/difficulty: 2.1/<font color="green">1184</font>
 - 2022年のコンテスト平均レベル/difficulty: データなし
 
 ### レベル別問題一覧
@@ -1189,10 +1189,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「ギャグ」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.1/1310
+- コンテスト平均レベル/difficulty: 2.1/<font color="aqua">1310</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2.1/1344
-- 2022年のコンテスト平均レベル/difficulty: 2/1206
+- 2023年のコンテスト平均レベル/difficulty: 2.1/<font color="aqua">1344</font>
+- 2022年のコンテスト平均レベル/difficulty: 2/<font color="aqua">1206</font>
 
 ### レベル別問題一覧
 
@@ -1218,10 +1218,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「累積和」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.1/1311
+- コンテスト平均レベル/difficulty: 2.1/<font color="aqua">1311</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 3/2153
-- 2022年のコンテスト平均レベル/difficulty: 1.8/1100
+- 2023年のコンテスト平均レベル/difficulty: 3/<font color="yellow">2153</font>
+- 2022年のコンテスト平均レベル/difficulty: 1.8/<font color="green">1100</font>
 
 ### レベル別問題一覧
 
@@ -1250,10 +1250,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「幅優先探索」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.1/1321
+- コンテスト平均レベル/difficulty: 2.1/<font color="aqua">1321</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2.1/1277
-- 2022年のコンテスト平均レベル/difficulty: 2/1582
+- 2023年のコンテスト平均レベル/difficulty: 2.1/<font color="aqua">1277</font>
+- 2022年のコンテスト平均レベル/difficulty: 2/<font color="aqua">1582</font>
 
 ### レベル別問題一覧
 
@@ -1278,10 +1278,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「貪欲法」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.1/1323
+- コンテスト平均レベル/difficulty: 2.1/<font color="aqua">1323</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2.2/1098
-- 2022年のコンテスト平均レベル/difficulty: 2/1483
+- 2023年のコンテスト平均レベル/difficulty: 2.2/<font color="green">1098</font>
+- 2022年のコンテスト平均レベル/difficulty: 2/<font color="aqua">1483</font>
 
 ### レベル別問題一覧
 
@@ -1317,10 +1317,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「実験」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.2/1267
+- コンテスト平均レベル/difficulty: 2.2/<font color="aqua">1267</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2/344
-- 2022年のコンテスト平均レベル/difficulty: 2.5/2191
+- 2023年のコンテスト平均レベル/difficulty: 2/<font color="gray">344</font>
+- 2022年のコンテスト平均レベル/difficulty: 2.5/<font color="yellow">2191</font>
 
 ### レベル別問題一覧
 
@@ -1340,10 +1340,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「素集合データ構造」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.2/1298
+- コンテスト平均レベル/difficulty: 2.2/<font color="aqua">1298</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2.2/1266
-- 2022年のコンテスト平均レベル/difficulty: 2.5/1486
+- 2023年のコンテスト平均レベル/difficulty: 2.2/<font color="aqua">1266</font>
+- 2022年のコンテスト平均レベル/difficulty: 2.5/<font color="aqua">1486</font>
 
 ### レベル別問題一覧
 
@@ -1368,9 +1368,9 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「深さ優先探索」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.2/1351
+- コンテスト平均レベル/difficulty: 2.2/<font color="aqua">1351</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2.2/1351
+- 2023年のコンテスト平均レベル/difficulty: 2.2/<font color="aqua">1351</font>
 - 2022年のコンテスト平均レベル/difficulty: データなし
 
 ### レベル別問題一覧
@@ -1391,10 +1391,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「DAG上のDP」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.2/1388
+- コンテスト平均レベル/difficulty: 2.2/<font color="aqua">1388</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2.5/1200
-- 2022年のコンテスト平均レベル/difficulty: 2/1577
+- 2023年のコンテスト平均レベル/difficulty: 2.5/<font color="aqua">1200</font>
+- 2022年のコンテスト平均レベル/difficulty: 2/<font color="aqua">1577</font>
 
 ### レベル別問題一覧
 
@@ -1414,9 +1414,9 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「頂点倍加」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.2/1468
+- コンテスト平均レベル/difficulty: 2.2/<font color="aqua">1468</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2.2/1468
+- 2023年のコンテスト平均レベル/difficulty: 2.2/<font color="aqua">1468</font>
 - 2022年のコンテスト平均レベル/difficulty: データなし
 
 ### レベル別問題一覧
@@ -1437,10 +1437,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「場合分け」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.2/1612
+- コンテスト平均レベル/difficulty: 2.2/<font color="blue">1612</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 1.8/1281
-- 2022年のコンテスト平均レベル/difficulty: 2.5/1920
+- 2023年のコンテスト平均レベル/difficulty: 1.8/<font color="aqua">1281</font>
+- 2022年のコンテスト平均レベル/difficulty: 2.5/<font color="blue">1920</font>
 
 ### レベル別問題一覧
 
@@ -1500,10 +1500,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「アルゴリズムのリアクティブ化」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.2/1648
+- コンテスト平均レベル/difficulty: 2.2/<font color="blue">1648</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
 - 2023年のコンテスト平均レベル/difficulty: データなし
-- 2022年のコンテスト平均レベル/difficulty: 2.2/1648
+- 2022年のコンテスト平均レベル/difficulty: 2.2/<font color="blue">1648</font>
 
 ### レベル別問題一覧
 
@@ -1527,10 +1527,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「連長圧縮」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.2/1716
+- コンテスト平均レベル/difficulty: 2.2/<font color="blue">1716</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 1.5/813
-- 2022年のコンテスト平均レベル/difficulty: 3/2620
+- 2023年のコンテスト平均レベル/difficulty: 1.5/<font color="green">813</font>
+- 2022年のコンテスト平均レベル/difficulty: 3/<font color="orange">2620</font>
 
 ### レベル別問題一覧
 
@@ -1550,10 +1550,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「[良いケースに帰着](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#良いケースに帰着)」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.2/1762
+- コンテスト平均レベル/difficulty: 2.2/<font color="blue">1762</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
 - 2023年のコンテスト平均レベル/difficulty: データなし
-- 2022年のコンテスト平均レベル/difficulty: 2.2/1762
+- 2022年のコンテスト平均レベル/difficulty: 2.2/<font color="blue">1762</font>
 
 ### レベル別問題一覧
 
@@ -1573,10 +1573,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「ウノ計算」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.2/1795
+- コンテスト平均レベル/difficulty: 2.2/<font color="blue">1795</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2/1345
-- 2022年のコンテスト平均レベル/difficulty: 2.5/2246
+- 2023年のコンテスト平均レベル/difficulty: 2/<font color="aqua">1345</font>
+- 2022年のコンテスト平均レベル/difficulty: 2.5/<font color="yellow">2246</font>
 
 ### レベル別問題一覧
 
@@ -1596,9 +1596,9 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「小数誤差解消」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.2/1950
+- コンテスト平均レベル/difficulty: 2.2/<font color="blue">1950</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2.2/1950
+- 2023年のコンテスト平均レベル/difficulty: 2.2/<font color="blue">1950</font>
 - 2022年のコンテスト平均レベル/difficulty: データなし
 
 ### レベル別問題一覧
@@ -1619,10 +1619,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「連結成分取得」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.3/1415
+- コンテスト平均レベル/difficulty: 2.3/<font color="aqua">1415</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2.3/1405
-- 2022年のコンテスト平均レベル/difficulty: 2.5/1486
+- 2023年のコンテスト平均レベル/difficulty: 2.3/<font color="aqua">1405</font>
+- 2022年のコンテスト平均レベル/difficulty: 2.5/<font color="aqua">1486</font>
 
 ### レベル別問題一覧
 
@@ -1651,10 +1651,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「同じ値の纏め上げ」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.3/1573
+- コンテスト平均レベル/difficulty: 2.3/<font color="aqua">1573</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2.4/1542
-- 2022年のコンテスト平均レベル/difficulty: 2.3/1624
+- 2023年のコンテスト平均レベル/difficulty: 2.4/<font color="aqua">1542</font>
+- 2022年のコンテスト平均レベル/difficulty: 2.3/<font color="blue">1624</font>
 
 ### レベル別問題一覧
 
@@ -1690,10 +1690,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「サンプルに帰着」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.3/1591
+- コンテスト平均レベル/difficulty: 2.3/<font color="aqua">1591</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2.7/1869
-- 2022年のコンテスト平均レベル/difficulty: 2/1313
+- 2023年のコンテスト平均レベル/difficulty: 2.7/<font color="blue">1869</font>
+- 2022年のコンテスト平均レベル/difficulty: 2/<font color="aqua">1313</font>
 
 ### レベル別問題一覧
 
@@ -1718,10 +1718,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「ソート」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.3/1598
+- コンテスト平均レベル/difficulty: 2.3/<font color="aqua">1598</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2/1139
-- 2022年のコンテスト平均レベル/difficulty: 2.8/2210
+- 2023年のコンテスト平均レベル/difficulty: 2/<font color="green">1139</font>
+- 2022年のコンテスト平均レベル/difficulty: 2.8/<font color="yellow">2210</font>
 
 ### レベル別問題一覧
 
@@ -1755,10 +1755,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「階乗逆元」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.3/1736
+- コンテスト平均レベル/difficulty: 2.3/<font color="blue">1736</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2.5/2021
-- 2022年のコンテスト平均レベル/difficulty: 2.1/1546
+- 2023年のコンテスト平均レベル/difficulty: 2.5/<font color="yellow">2021</font>
+- 2022年のコンテスト平均レベル/difficulty: 2.1/<font color="aqua">1546</font>
 
 ### レベル別問題一覧
 
@@ -1781,10 +1781,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「ニム和」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.3/1803
+- コンテスト平均レベル/difficulty: 2.3/<font color="blue">1803</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2/912
-- 2022年のコンテスト平均レベル/difficulty: 2.5/2249
+- 2023年のコンテスト平均レベル/difficulty: 2/<font color="green">912</font>
+- 2022年のコンテスト平均レベル/difficulty: 2.5/<font color="yellow">2249</font>
 
 ### レベル別問題一覧
 
@@ -1805,9 +1805,9 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「平方根」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.3/1889
+- コンテスト平均レベル/difficulty: 2.3/<font color="blue">1889</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2.3/1889
+- 2023年のコンテスト平均レベル/difficulty: 2.3/<font color="blue">1889</font>
 - 2022年のコンテスト平均レベル/difficulty: データなし
 
 ### レベル別問題一覧
@@ -1829,10 +1829,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「区間管理」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.4/1614
+- コンテスト平均レベル/difficulty: 2.4/<font color="blue">1614</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2.4/1607
-- 2022年のコンテスト平均レベル/difficulty: 2.5/1649
+- 2023年のコンテスト平均レベル/difficulty: 2.4/<font color="blue">1607</font>
+- 2022年のコンテスト平均レベル/difficulty: 2.5/<font color="blue">1649</font>
 
 ### レベル別問題一覧
 
@@ -1859,10 +1859,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「[損をしない変形](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#損をしない変形)」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.4/1745
+- コンテスト平均レベル/difficulty: 2.4/<font color="blue">1745</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2.4/1696
-- 2022年のコンテスト平均レベル/difficulty: 2.5/1858
+- 2023年のコンテスト平均レベル/difficulty: 2.4/<font color="blue">1696</font>
+- 2022年のコンテスト平均レベル/difficulty: 2.5/<font color="blue">1858</font>
 
 ### レベル別問題一覧
 
@@ -1896,10 +1896,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「最終ターン数に注目」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.4/1809
+- コンテスト平均レベル/difficulty: 2.4/<font color="blue">1809</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2.5/1666
-- 2022年のコンテスト平均レベル/difficulty: 2.3/1951
+- 2023年のコンテスト平均レベル/difficulty: 2.5/<font color="blue">1666</font>
+- 2022年のコンテスト平均レベル/difficulty: 2.3/<font color="blue">1951</font>
 
 ### レベル別問題一覧
 
@@ -1926,9 +1926,9 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「最長歩道取得」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.5/1200
+- コンテスト平均レベル/difficulty: 2.5/<font color="aqua">1200</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2.5/1200
+- 2023年のコンテスト平均レベル/difficulty: 2.5/<font color="aqua">1200</font>
 - 2022年のコンテスト平均レベル/difficulty: データなし
 
 ### レベル別問題一覧
@@ -1945,9 +1945,9 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「操作回数最小値で判定」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.5/1200
+- コンテスト平均レベル/difficulty: 2.5/<font color="aqua">1200</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2.5/1200
+- 2023年のコンテスト平均レベル/difficulty: 2.5/<font color="aqua">1200</font>
 - 2022年のコンテスト平均レベル/difficulty: データなし
 
 ### レベル別問題一覧
@@ -1964,9 +1964,9 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「配列を像で管理」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.5/1200
+- コンテスト平均レベル/difficulty: 2.5/<font color="aqua">1200</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2.5/1200
+- 2023年のコンテスト平均レベル/difficulty: 2.5/<font color="aqua">1200</font>
 - 2022年のコンテスト平均レベル/difficulty: データなし
 
 ### レベル別問題一覧
@@ -1983,9 +1983,9 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「set」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.5/1302
+- コンテスト平均レベル/difficulty: 2.5/<font color="aqua">1302</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2.5/1302
+- 2023年のコンテスト平均レベル/difficulty: 2.5/<font color="aqua">1302</font>
 - 2022年のコンテスト平均レベル/difficulty: データなし
 
 ### レベル別問題一覧
@@ -2002,10 +2002,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「マッチ度ごとに管理」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.5/1436
+- コンテスト平均レベル/difficulty: 2.5/<font color="aqua">1436</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2.5/1625
-- 2022年のコンテスト平均レベル/difficulty: 2.5/1247
+- 2023年のコンテスト平均レベル/difficulty: 2.5/<font color="blue">1625</font>
+- 2022年のコンテスト平均レベル/difficulty: 2.5/<font color="aqua">1247</font>
 
 ### レベル別問題一覧
 
@@ -2030,10 +2030,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「操作逆順」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.5/1486
+- コンテスト平均レベル/difficulty: 2.5/<font color="aqua">1486</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
 - 2023年のコンテスト平均レベル/difficulty: データなし
-- 2022年のコンテスト平均レベル/difficulty: 2.5/1486
+- 2022年のコンテスト平均レベル/difficulty: 2.5/<font color="aqua">1486</font>
 
 ### レベル別問題一覧
 
@@ -2049,9 +2049,9 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「挿入ソート」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.5/1489
+- コンテスト平均レベル/difficulty: 2.5/<font color="aqua">1489</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2.5/1489
+- 2023年のコンテスト平均レベル/difficulty: 2.5/<font color="aqua">1489</font>
 - 2022年のコンテスト平均レベル/difficulty: データなし
 
 ### レベル別問題一覧
@@ -2068,9 +2068,9 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「$\ell^1$距離から$\ell^{\infty}$距離への変換」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.5/1536
+- コンテスト平均レベル/difficulty: 2.5/<font color="aqua">1536</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2.5/1536
+- 2023年のコンテスト平均レベル/difficulty: 2.5/<font color="aqua">1536</font>
 - 2022年のコンテスト平均レベル/difficulty: データなし
 
 ### レベル別問題一覧
@@ -2087,9 +2087,9 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「最遠点取得」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.5/1536
+- コンテスト平均レベル/difficulty: 2.5/<font color="aqua">1536</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2.5/1536
+- 2023年のコンテスト平均レベル/difficulty: 2.5/<font color="aqua">1536</font>
 - 2022年のコンテスト平均レベル/difficulty: データなし
 
 ### レベル別問題一覧
@@ -2106,9 +2106,9 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「符号全探索による絶対値計算」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.5/1536
+- コンテスト平均レベル/difficulty: 2.5/<font color="aqua">1536</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2.5/1536
+- 2023年のコンテスト平均レベル/difficulty: 2.5/<font color="aqua">1536</font>
 - 2022年のコンテスト平均レベル/difficulty: データなし
 
 ### レベル別問題一覧
@@ -2125,10 +2125,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「差分計算」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.5/1596
+- コンテスト平均レベル/difficulty: 2.5/<font color="aqua">1596</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2.3/1482
-- 2022年のコンテスト平均レベル/difficulty: 3/2049
+- 2023年のコンテスト平均レベル/difficulty: 2.3/<font color="aqua">1482</font>
+- 2022年のコンテスト平均レベル/difficulty: 3/<font color="yellow">2049</font>
 
 ### レベル別問題一覧
 
@@ -2154,9 +2154,9 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「倍数メビウス変換」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.5/1607
+- コンテスト平均レベル/difficulty: 2.5/<font color="blue">1607</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2.5/1607
+- 2023年のコンテスト平均レベル/difficulty: 2.5/<font color="blue">1607</font>
 - 2022年のコンテスト平均レベル/difficulty: データなし
 
 ### レベル別問題一覧
@@ -2173,9 +2173,9 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「期待値漸化式」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.5/1622
+- コンテスト平均レベル/difficulty: 2.5/<font color="blue">1622</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2.5/1622
+- 2023年のコンテスト平均レベル/difficulty: 2.5/<font color="blue">1622</font>
 - 2022年のコンテスト平均レベル/difficulty: データなし
 
 ### レベル別問題一覧
@@ -2196,10 +2196,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「端から確定」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.5/1623
+- コンテスト平均レベル/difficulty: 2.5/<font color="blue">1623</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2.5/1430
-- 2022年のコンテスト平均レベル/difficulty: 2.5/2008
+- 2023年のコンテスト平均レベル/difficulty: 2.5/<font color="aqua">1430</font>
+- 2022年のコンテスト平均レベル/difficulty: 2.5/<font color="yellow">2008</font>
 
 ### レベル別問題一覧
 
@@ -2217,9 +2217,9 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「円環の倍化実装」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.5/1628
+- コンテスト平均レベル/difficulty: 2.5/<font color="blue">1628</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2.5/1628
+- 2023年のコンテスト平均レベル/difficulty: 2.5/<font color="blue">1628</font>
 - 2022年のコンテスト平均レベル/difficulty: データなし
 
 ### レベル別問題一覧
@@ -2236,9 +2236,9 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「左右から走査」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.5/1628
+- コンテスト平均レベル/difficulty: 2.5/<font color="blue">1628</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2.5/1628
+- 2023年のコンテスト平均レベル/difficulty: 2.5/<font color="blue">1628</font>
 - 2022年のコンテスト平均レベル/difficulty: データなし
 
 ### レベル別問題一覧
@@ -2255,10 +2255,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「区間和の指定された区間計算」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.5/1632
+- コンテスト平均レベル/difficulty: 2.5/<font color="blue">1632</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
 - 2023年のコンテスト平均レベル/difficulty: データなし
-- 2022年のコンテスト平均レベル/difficulty: 2.5/1632
+- 2022年のコンテスト平均レベル/difficulty: 2.5/<font color="blue">1632</font>
 
 ### レベル別問題一覧
 
@@ -2274,10 +2274,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「尺取り法」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.5/1633
+- コンテスト平均レベル/difficulty: 2.5/<font color="blue">1633</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2.2/1367
-- 2022年のコンテスト平均レベル/difficulty: 3/1988
+- 2023年のコンテスト平均レベル/difficulty: 2.2/<font color="aqua">1367</font>
+- 2022年のコンテスト平均レベル/difficulty: 3/<font color="blue">1988</font>
 
 ### レベル別問題一覧
 
@@ -2308,10 +2308,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「[表示可能性DP](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#表示可能性DP)」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.5/1641
+- コンテスト平均レベル/difficulty: 2.5/<font color="blue">1641</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
 - 2023年のコンテスト平均レベル/difficulty: データなし
-- 2022年のコンテスト平均レベル/difficulty: 2.5/1641
+- 2022年のコンテスト平均レベル/difficulty: 2.5/<font color="blue">1641</font>
 
 ### レベル別問題一覧
 
@@ -2331,9 +2331,9 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「部分回文列挙」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.5/1661
+- コンテスト平均レベル/difficulty: 2.5/<font color="blue">1661</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2.5/1661
+- 2023年のコンテスト平均レベル/difficulty: 2.5/<font color="blue">1661</font>
 - 2022年のコンテスト平均レベル/difficulty: データなし
 
 ### レベル別問題一覧
@@ -2350,9 +2350,9 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「木DP」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.5/1661
+- コンテスト平均レベル/difficulty: 2.5/<font color="blue">1661</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2.5/1661
+- 2023年のコンテスト平均レベル/difficulty: 2.5/<font color="blue">1661</font>
 - 2022年のコンテスト平均レベル/difficulty: データなし
 
 ### レベル別問題一覧
@@ -2373,10 +2373,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「包除原理」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.5/1677
+- コンテスト平均レベル/difficulty: 2.5/<font color="blue">1677</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2/1049
-- 2022年のコンテスト平均レベル/difficulty: 3/2306
+- 2023年のコンテスト平均レベル/difficulty: 2/<font color="green">1049</font>
+- 2022年のコンテスト平均レベル/difficulty: 3/<font color="yellow">2306</font>
 
 ### レベル別問題一覧
 
@@ -2396,10 +2396,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「不変量に注目」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.5/1707
+- コンテスト平均レベル/difficulty: 2.5/<font color="blue">1707</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2.3/1363
-- 2022年のコンテスト平均レベル/difficulty: 2.8/2052
+- 2023年のコンテスト平均レベル/difficulty: 2.3/<font color="aqua">1363</font>
+- 2022年のコンテスト平均レベル/difficulty: 2.8/<font color="yellow">2052</font>
 
 ### レベル別問題一覧
 
@@ -2429,10 +2429,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「ミラー戦略」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.5/1719
+- コンテスト平均レベル/difficulty: 2.5/<font color="blue">1719</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2.5/1532
-- 2022年のコンテスト平均レベル/difficulty: 2.5/1905
+- 2023年のコンテスト平均レベル/difficulty: 2.5/<font color="aqua">1532</font>
+- 2022年のコンテスト平均レベル/difficulty: 2.5/<font color="blue">1905</font>
 
 ### レベル別問題一覧
 
@@ -2457,9 +2457,9 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「ポテンシャル付き素集合データ集合」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.5/1724
+- コンテスト平均レベル/difficulty: 2.5/<font color="blue">1724</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2.5/1724
+- 2023年のコンテスト平均レベル/difficulty: 2.5/<font color="blue">1724</font>
 - 2022年のコンテスト平均レベル/difficulty: データなし
 
 ### レベル別問題一覧
@@ -2484,9 +2484,9 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「充足可能性判定」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.5/1742
+- コンテスト平均レベル/difficulty: 2.5/<font color="blue">1742</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2.5/1742
+- 2023年のコンテスト平均レベル/difficulty: 2.5/<font color="blue">1742</font>
 - 2022年のコンテスト平均レベル/difficulty: データなし
 
 ### レベル別問題一覧
@@ -2512,10 +2512,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「周期」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.5/1755
+- コンテスト平均レベル/difficulty: 2.5/<font color="blue">1755</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2.5/1610
-- 2022年のコンテスト平均レベル/difficulty: 2.5/2191
+- 2023年のコンテスト平均レベル/difficulty: 2.5/<font color="blue">1610</font>
+- 2022年のコンテスト平均レベル/difficulty: 2.5/<font color="yellow">2191</font>
 
 ### レベル別問題一覧
 
@@ -2540,9 +2540,9 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「Vieta Jumping」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.5/1768
+- コンテスト平均レベル/difficulty: 2.5/<font color="blue">1768</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2.5/1768
+- 2023年のコンテスト平均レベル/difficulty: 2.5/<font color="blue">1768</font>
 - 2022年のコンテスト平均レベル/difficulty: データなし
 
 ### レベル別問題一覧
@@ -2559,10 +2559,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「枝刈り」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.5/1799
+- コンテスト平均レベル/difficulty: 2.5/<font color="blue">1799</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2.3/1560
-- 2022年のコンテスト平均レベル/difficulty: 3/2758
+- 2023年のコンテスト平均レベル/difficulty: 2.3/<font color="aqua">1560</font>
+- 2022年のコンテスト平均レベル/difficulty: 3/<font color="orange">2758</font>
 
 ### レベル別問題一覧
 
@@ -2588,10 +2588,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「繰り返し二乗法」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.5/1815
+- コンテスト平均レベル/difficulty: 2.5/<font color="blue">1815</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2.4/1814
-- 2022年のコンテスト平均レベル/difficulty: 2.7/1817
+- 2023年のコンテスト平均レベル/difficulty: 2.4/<font color="blue">1814</font>
+- 2022年のコンテスト平均レベル/difficulty: 2.7/<font color="blue">1817</font>
 
 ### レベル別問題一覧
 
@@ -2625,10 +2625,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「[不変量を保つ戦略](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#不変量を保つ戦略)」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.5/1828
+- コンテスト平均レベル/difficulty: 2.5/<font color="blue">1828</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
 - 2023年のコンテスト平均レベル/difficulty: データなし
-- 2022年のコンテスト平均レベル/difficulty: 2.5/1828
+- 2022年のコンテスト平均レベル/difficulty: 2.5/<font color="blue">1828</font>
 
 ### レベル別問題一覧
 
@@ -2645,9 +2645,9 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「合成数を法とする逆元計算」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.5/1838
+- コンテスト平均レベル/difficulty: 2.5/<font color="blue">1838</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2.5/1838
+- 2023年のコンテスト平均レベル/difficulty: 2.5/<font color="blue">1838</font>
 - 2022年のコンテスト平均レベル/difficulty: データなし
 
 ### レベル別問題一覧
@@ -2664,9 +2664,9 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「区間代入更新」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.5/1851
+- コンテスト平均レベル/difficulty: 2.5/<font color="blue">1851</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2.5/1851
+- 2023年のコンテスト平均レベル/difficulty: 2.5/<font color="blue">1851</font>
 - 2022年のコンテスト平均レベル/difficulty: データなし
 
 ### レベル別問題一覧
@@ -2683,9 +2683,9 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「最大・最小要素削除」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.5/1861
+- コンテスト平均レベル/difficulty: 2.5/<font color="blue">1861</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2.5/1861
+- 2023年のコンテスト平均レベル/difficulty: 2.5/<font color="blue">1861</font>
 - 2022年のコンテスト平均レベル/difficulty: データなし
 
 ### レベル別問題一覧
@@ -2702,9 +2702,9 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「優先度付きキュー」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.5/1861
+- コンテスト平均レベル/difficulty: 2.5/<font color="blue">1861</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2.5/1861
+- 2023年のコンテスト平均レベル/difficulty: 2.5/<font color="blue">1861</font>
 - 2022年のコンテスト平均レベル/difficulty: データなし
 
 ### レベル別問題一覧
@@ -2721,10 +2721,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「剰余計算」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.5/1864
+- コンテスト平均レベル/difficulty: 2.5/<font color="blue">1864</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2.4/1689
-- 2022年のコンテスト平均レベル/difficulty: 2.6/2059
+- 2023年のコンテスト平均レベル/difficulty: 2.4/<font color="blue">1689</font>
+- 2022年のコンテスト平均レベル/difficulty: 2.6/<font color="yellow">2059</font>
 
 ### レベル別問題一覧
 
@@ -2786,10 +2786,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「逆元の再帰計算」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.5/1909
+- コンテスト平均レベル/difficulty: 2.5/<font color="blue">1909</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2.6/1971
-- 2022年のコンテスト平均レベル/difficulty: 2.5/1871
+- 2023年のコンテスト平均レベル/difficulty: 2.6/<font color="blue">1971</font>
+- 2022年のコンテスト平均レベル/difficulty: 2.5/<font color="blue">1871</font>
 
 ### レベル別問題一覧
 
@@ -2818,10 +2818,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「[最終手番の任意性](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#最終手番の任意性)」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.5/1934
+- コンテスト平均レベル/difficulty: 2.5/<font color="blue">1934</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
 - 2023年のコンテスト平均レベル/difficulty: データなし
-- 2022年のコンテスト平均レベル/difficulty: 2.5/1934
+- 2022年のコンテスト平均レベル/difficulty: 2.5/<font color="blue">1934</font>
 
 ### レベル別問題一覧
 
@@ -2837,9 +2837,9 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「ダイクストラ法」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.5/1979
+- コンテスト平均レベル/difficulty: 2.5/<font color="blue">1979</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2.5/1979
+- 2023年のコンテスト平均レベル/difficulty: 2.5/<font color="blue">1979</font>
 - 2022年のコンテスト平均レベル/difficulty: データなし
 
 ### レベル別問題一覧
@@ -2857,9 +2857,9 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「最短経路長取得」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.5/1979
+- コンテスト平均レベル/difficulty: 2.5/<font color="blue">1979</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2.5/1979
+- 2023年のコンテスト平均レベル/difficulty: 2.5/<font color="blue">1979</font>
 - 2022年のコンテスト平均レベル/difficulty: データなし
 
 ### レベル別問題一覧
@@ -2878,9 +2878,9 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「場合分けによるmin・max計算」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.5/1983
+- コンテスト平均レベル/difficulty: 2.5/<font color="blue">1983</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2.5/1983
+- 2023年のコンテスト平均レベル/difficulty: 2.5/<font color="blue">1983</font>
 - 2022年のコンテスト平均レベル/difficulty: データなし
 
 ### レベル別問題一覧
@@ -2898,9 +2898,9 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「多点BFS」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.5/1989
+- コンテスト平均レベル/difficulty: 2.5/<font color="blue">1989</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2.5/1989
+- 2023年のコンテスト平均レベル/difficulty: 2.5/<font color="blue">1989</font>
 - 2022年のコンテスト平均レベル/difficulty: データなし
 
 ### レベル別問題一覧
@@ -2917,10 +2917,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「[高さ奇数ニム和](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#高さ奇数ニム和)」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.5/2008
+- コンテスト平均レベル/difficulty: 2.5/<font color="yellow">2008</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
 - 2023年のコンテスト平均レベル/difficulty: データなし
-- 2022年のコンテスト平均レベル/difficulty: 2.5/2008
+- 2022年のコンテスト平均レベル/difficulty: 2.5/<font color="yellow">2008</font>
 
 ### レベル別問題一覧
 
@@ -2936,10 +2936,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「変数決め打ち」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.5/2028
+- コンテスト平均レベル/difficulty: 2.5/<font color="yellow">2028</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2.3/1920
-- 2022年のコンテスト平均レベル/difficulty: 2.6/2172
+- 2023年のコンテスト平均レベル/difficulty: 2.3/<font color="blue">1920</font>
+- 2022年のコンテスト平均レベル/difficulty: 2.6/<font color="yellow">2172</font>
 
 ### レベル別問題一覧
 
@@ -2967,9 +2967,9 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「クラスカル法」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.5/2044
+- コンテスト平均レベル/difficulty: 2.5/<font color="yellow">2044</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2.5/2044
+- 2023年のコンテスト平均レベル/difficulty: 2.5/<font color="yellow">2044</font>
 - 2022年のコンテスト平均レベル/difficulty: データなし
 
 ### レベル別問題一覧
@@ -2987,9 +2987,9 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「冪等重みの最短経路長取得」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.5/2044
+- コンテスト平均レベル/difficulty: 2.5/<font color="yellow">2044</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2.5/2044
+- 2023年のコンテスト平均レベル/difficulty: 2.5/<font color="yellow">2044</font>
 - 2022年のコンテスト平均レベル/difficulty: データなし
 
 ### レベル別問題一覧
@@ -3007,9 +3007,9 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「２変数決め打ち」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.5/2193
+- コンテスト平均レベル/difficulty: 2.5/<font color="yellow">2193</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2.5/2193
+- 2023年のコンテスト平均レベル/difficulty: 2.5/<font color="yellow">2193</font>
 - 2022年のコンテスト平均レベル/difficulty: データなし
 
 ### レベル別問題一覧
@@ -3026,10 +3026,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「不定方程式の因数分解」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.5/2291
+- コンテスト平均レベル/difficulty: 2.5/<font color="yellow">2291</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
 - 2023年のコンテスト平均レベル/difficulty: データなし
-- 2022年のコンテスト平均レベル/difficulty: 2.5/2291
+- 2022年のコンテスト平均レベル/difficulty: 2.5/<font color="yellow">2291</font>
 
 ### レベル別問題一覧
 
@@ -3045,10 +3045,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「必勝戦略のリアクティブ化」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.5/2491
+- コンテスト平均レベル/difficulty: 2.5/<font color="orange">2491</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
 - 2023年のコンテスト平均レベル/difficulty: データなし
-- 2022年のコンテスト平均レベル/difficulty: 2.5/2491
+- 2022年のコンテスト平均レベル/difficulty: 2.5/<font color="orange">2491</font>
 
 ### レベル別問題一覧
 
@@ -3064,10 +3064,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「分枝限定法」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.6/1780
+- コンテスト平均レベル/difficulty: 2.6/<font color="blue">1780</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2.5/1596
-- 2022年のコンテスト平均レベル/difficulty: 2.7/2037
+- 2023年のコンテスト平均レベル/difficulty: 2.5/<font color="aqua">1596</font>
+- 2022年のコンテスト平均レベル/difficulty: 2.7/<font color="yellow">2037</font>
 
 ### レベル別問題一覧
 
@@ -3123,10 +3123,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「階差数列」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.6/1852
+- コンテスト平均レベル/difficulty: 2.6/<font color="blue">1852</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2.5/1851
-- 2022年のコンテスト平均レベル/difficulty: 2.7/1853
+- 2023年のコンテスト平均レベル/difficulty: 2.5/<font color="blue">1851</font>
+- 2022年のコンテスト平均レベル/difficulty: 2.7/<font color="blue">1853</font>
 
 ### レベル別問題一覧
 
@@ -3150,10 +3150,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「imos法」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.6/1865
+- コンテスト平均レベル/difficulty: 2.6/<font color="blue">1865</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 3/2237
-- 2022年のコンテスト平均レベル/difficulty: 2.5/1680
+- 2023年のコンテスト平均レベル/difficulty: 3/<font color="yellow">2237</font>
+- 2022年のコンテスト平均レベル/difficulty: 2.5/<font color="blue">1680</font>
 
 ### レベル別問題一覧
 
@@ -3177,10 +3177,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「帰属区間取得」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.6/1996
+- コンテスト平均レベル/difficulty: 2.6/<font color="blue">1996</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2.7/2170
-- 2022年のコンテスト平均レベル/difficulty: 2.5/1649
+- 2023年のコンテスト平均レベル/difficulty: 2.7/<font color="yellow">2170</font>
+- 2022年のコンテスト平均レベル/difficulty: 2.5/<font color="blue">1649</font>
 
 ### レベル別問題一覧
 
@@ -3201,10 +3201,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「素数を法とする逆元」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.6/2002
+- コンテスト平均レベル/difficulty: 2.6/<font color="yellow">2002</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2.7/2040
-- 2022年のコンテスト平均レベル/difficulty: 2.5/1964
+- 2023年のコンテスト平均レベル/difficulty: 2.7/<font color="yellow">2040</font>
+- 2022年のコンテスト平均レベル/difficulty: 2.5/<font color="blue">1964</font>
 
 ### レベル別問題一覧
 
@@ -3237,9 +3237,9 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「操作の纏め上げ」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.7/1643
+- コンテスト平均レベル/difficulty: 2.7/<font color="blue">1643</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2.7/1643
+- 2023年のコンテスト平均レベル/difficulty: 2.7/<font color="blue">1643</font>
 - 2022年のコンテスト平均レベル/difficulty: データなし
 
 ### レベル別問題一覧
@@ -3261,9 +3261,9 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「端から順に確定」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.7/1693
+- コンテスト平均レベル/difficulty: 2.7/<font color="blue">1693</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2.7/1693
+- 2023年のコンテスト平均レベル/difficulty: 2.7/<font color="blue">1693</font>
 - 2022年のコンテスト平均レベル/difficulty: データなし
 
 ### レベル別問題一覧
@@ -3284,10 +3284,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「[押し付け戦略](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#押し付け戦略)」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.7/1908
+- コンテスト平均レベル/difficulty: 2.7/<font color="blue">1908</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
 - 2023年のコンテスト平均レベル/difficulty: データなし
-- 2022年のコンテスト平均レベル/difficulty: 2.7/1908
+- 2022年のコンテスト平均レベル/difficulty: 2.7/<font color="blue">1908</font>
 
 ### レベル別問題一覧
 
@@ -3307,9 +3307,9 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「オイラー関数」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.7/1910
+- コンテスト平均レベル/difficulty: 2.7/<font color="blue">1910</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2.7/1910
+- 2023年のコンテスト平均レベル/difficulty: 2.7/<font color="blue">1910</font>
 - 2022年のコンテスト平均レベル/difficulty: データなし
 
 ### レベル別問題一覧
@@ -3330,10 +3330,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「倍数ゼータ変換」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.7/1956
+- コンテスト平均レベル/difficulty: 2.7/<font color="blue">1956</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2.5/1607
-- 2022年のコンテスト平均レベル/difficulty: 3/2306
+- 2023年のコンテスト平均レベル/difficulty: 2.5/<font color="blue">1607</font>
+- 2022年のコンテスト平均レベル/difficulty: 3/<font color="yellow">2306</font>
 
 ### レベル別問題一覧
 
@@ -3353,10 +3353,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「二分探索」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.7/1976
+- コンテスト平均レベル/difficulty: 2.7/<font color="blue">1976</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2.4/1831
-- 2022年のコンテスト平均レベル/difficulty: 3.5/2364
+- 2023年のコンテスト平均レベル/difficulty: 2.4/<font color="blue">1831</font>
+- 2022年のコンテスト平均レベル/difficulty: 3.5/<font color="yellow">2364</font>
 
 ### レベル別問題一覧
 
@@ -3392,9 +3392,9 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「[距離空間の重み付きグラフ化](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#距離空間の重み付きグラフ化)」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.7/2065
+- コンテスト平均レベル/difficulty: 2.7/<font color="yellow">2065</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2.7/2065
+- 2023年のコンテスト平均レベル/difficulty: 2.7/<font color="yellow">2065</font>
 - 2022年のコンテスト平均レベル/difficulty: データなし
 
 ### レベル別問題一覧
@@ -3415,10 +3415,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「フェルマーの小定理」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.7/2072
+- コンテスト平均レベル/difficulty: 2.7/<font color="yellow">2072</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2.6/1983
-- 2022年のコンテスト平均レベル/difficulty: 3/2430
+- 2023年のコンテスト平均レベル/difficulty: 2.6/<font color="blue">1983</font>
+- 2022年のコンテスト平均レベル/difficulty: 3/<font color="orange">2430</font>
 
 ### レベル別問題一覧
 
@@ -3444,9 +3444,9 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「積和の和積化」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.7/2079
+- コンテスト平均レベル/difficulty: 2.7/<font color="yellow">2079</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2.7/2079
+- 2023年のコンテスト平均レベル/difficulty: 2.7/<font color="yellow">2079</font>
 - 2022年のコンテスト平均レベル/difficulty: データなし
 
 ### レベル別問題一覧
@@ -3467,9 +3467,9 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「超頂点追加」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.7/2107
+- コンテスト平均レベル/difficulty: 2.7/<font color="yellow">2107</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2.7/2107
+- 2023年のコンテスト平均レベル/difficulty: 2.7/<font color="yellow">2107</font>
 - 2022年のコンテスト平均レベル/difficulty: データなし
 
 ### レベル別問題一覧
@@ -3490,10 +3490,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「最大・最小要素取得」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.8/1915
+- コンテスト平均レベル/difficulty: 2.8/<font color="blue">1915</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2.7/1894
-- 2022年のコンテスト平均レベル/difficulty: 3/1959
+- 2023年のコンテスト平均レベル/difficulty: 2.7/<font color="blue">1894</font>
+- 2022年のコンテスト平均レベル/difficulty: 3/<font color="blue">1959</font>
 
 ### レベル別問題一覧
 
@@ -3514,10 +3514,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「クエリ先読み」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.8/1930
+- コンテスト平均レベル/difficulty: 2.8/<font color="blue">1930</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 3/2489
-- 2022年のコンテスト平均レベル/difficulty: 2.8/1743
+- 2023年のコンテスト平均レベル/difficulty: 3/<font color="orange">2489</font>
+- 2022年のコンテスト平均レベル/difficulty: 2.8/<font color="blue">1743</font>
 
 ### レベル別問題一覧
 
@@ -3539,10 +3539,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「イベントソート」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.8/1945
+- コンテスト平均レベル/difficulty: 2.8/<font color="blue">1945</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2.7/1894
-- 2022年のコンテスト平均レベル/difficulty: 3/2049
+- 2023年のコンテスト平均レベル/difficulty: 2.7/<font color="blue">1894</font>
+- 2022年のコンテスト平均レベル/difficulty: 3/<font color="yellow">2049</font>
 
 ### レベル別問題一覧
 
@@ -3563,10 +3563,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「動的計画法」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.8/1978
+- コンテスト平均レベル/difficulty: 2.8/<font color="blue">1978</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2.7/1647
-- 2022年のコンテスト平均レベル/difficulty: 2.8/2101
+- 2023年のコンテスト平均レベル/difficulty: 2.7/<font color="blue">1647</font>
+- 2022年のコンテスト平均レベル/difficulty: 2.8/<font color="yellow">2101</font>
 
 ### レベル別問題一覧
 
@@ -3630,10 +3630,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「bitごとに計算」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.8/1980
+- コンテスト平均レベル/difficulty: 2.8/<font color="blue">1980</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2.8/1771
-- 2022年のコンテスト平均レベル/difficulty: 3/2328
+- 2023年のコンテスト平均レベル/difficulty: 2.8/<font color="blue">1771</font>
+- 2022年のコンテスト平均レベル/difficulty: 3/<font color="yellow">2328</font>
 
 ### レベル別問題一覧
 
@@ -3665,10 +3665,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「[緩和](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#緩和)」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.8/2019
+- コンテスト平均レベル/difficulty: 2.8/<font color="yellow">2019</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2.5/1607
-- 2022年のコンテスト平均レベル/difficulty: 3/2225
+- 2023年のコンテスト平均レベル/difficulty: 2.5/<font color="blue">1607</font>
+- 2022年のコンテスト平均レベル/difficulty: 3/<font color="yellow">2225</font>
 
 ### レベル別問題一覧
 
@@ -3689,10 +3689,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「平面走査」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.8/2019
+- コンテスト平均レベル/difficulty: 2.8/<font color="yellow">2019</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2.8/1976
-- 2022年のコンテスト平均レベル/difficulty: 3/2145
+- 2023年のコンテスト平均レベル/difficulty: 2.8/<font color="blue">1976</font>
+- 2022年のコンテスト平均レベル/difficulty: 3/<font color="yellow">2145</font>
 
 ### レベル別問題一覧
 
@@ -3718,10 +3718,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「一要素挿入」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.8/2059
+- コンテスト平均レベル/difficulty: 2.8/<font color="yellow">2059</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2.8/2092
-- 2022年のコンテスト平均レベル/difficulty: 3/1959
+- 2023年のコンテスト平均レベル/difficulty: 2.8/<font color="yellow">2092</font>
+- 2022年のコンテスト平均レベル/difficulty: 3/<font color="blue">1959</font>
 
 ### レベル別問題一覧
 
@@ -3743,10 +3743,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「区間kth取得」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.8/2069
+- コンテスト平均レベル/difficulty: 2.8/<font color="yellow">2069</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2.5/1851
-- 2022年のコンテスト平均レベル/difficulty: 3/2178
+- 2023年のコンテスト平均レベル/difficulty: 2.5/<font color="blue">1851</font>
+- 2022年のコンテスト平均レベル/difficulty: 3/<font color="yellow">2178</font>
 
 ### レベル別問題一覧
 
@@ -3767,10 +3767,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「一対一対応」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.8/2180
+- コンテスト平均レベル/difficulty: 2.8/<font color="yellow">2180</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 3/2237
-- 2022年のコンテスト平均レベル/difficulty: 2.7/2151
+- 2023年のコンテスト平均レベル/difficulty: 3/<font color="yellow">2237</font>
+- 2022年のコンテスト平均レベル/difficulty: 2.7/<font color="yellow">2151</font>
 
 ### レベル別問題一覧
 
@@ -3791,10 +3791,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「半分全列挙」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.8/2181
+- コンテスト平均レベル/difficulty: 2.8/<font color="yellow">2181</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2.7/1974
-- 2022年のコンテスト平均レベル/difficulty: 3/2595
+- 2023年のコンテスト平均レベル/difficulty: 2.7/<font color="blue">1974</font>
+- 2022年のコンテスト平均レベル/difficulty: 3/<font color="orange">2595</font>
 
 ### レベル別問題一覧
 
@@ -3815,10 +3815,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「ゼータ変換」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.8/2310
+- コンテスト平均レベル/difficulty: 2.8/<font color="yellow">2310</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2.7/2312
-- 2022年のコンテスト平均レベル/difficulty: 3/2306
+- 2023年のコンテスト平均レベル/difficulty: 2.7/<font color="yellow">2312</font>
+- 2022年のコンテスト平均レベル/difficulty: 3/<font color="yellow">2306</font>
 
 ### レベル別問題一覧
 
@@ -3839,10 +3839,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「メビウス変換」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.8/2310
+- コンテスト平均レベル/difficulty: 2.8/<font color="yellow">2310</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2.7/2312
-- 2022年のコンテスト平均レベル/difficulty: 3/2306
+- 2023年のコンテスト平均レベル/difficulty: 2.7/<font color="yellow">2312</font>
+- 2022年のコンテスト平均レベル/difficulty: 3/<font color="yellow">2306</font>
 
 ### レベル別問題一覧
 
@@ -3863,10 +3863,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「フェニック木」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 2.9/2128
+- コンテスト平均レベル/difficulty: 2.9/<font color="yellow">2128</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2.7/2157
-- 2022年のコンテスト平均レベル/difficulty: 3/2109
+- 2023年のコンテスト平均レベル/difficulty: 2.7/<font color="yellow">2157</font>
+- 2022年のコンテスト平均レベル/difficulty: 3/<font color="yellow">2109</font>
 
 ### レベル別問題一覧
 
@@ -3897,10 +3897,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「行列累乗」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 3/1220
+- コンテスト平均レベル/difficulty: 3/<font color="aqua">1220</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
 - 2023年のコンテスト平均レベル/difficulty: データなし
-- 2022年のコンテスト平均レベル/difficulty: 3/1220
+- 2022年のコンテスト平均レベル/difficulty: 3/<font color="aqua">1220</font>
 
 ### レベル別問題一覧
 
@@ -3916,10 +3916,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「ナップサックDP」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 3/1469
+- コンテスト平均レベル/difficulty: 3/<font color="aqua">1469</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 3.5/1782
-- 2022年のコンテスト平均レベル/difficulty: 2/843
+- 2023年のコンテスト平均レベル/difficulty: 3.5/<font color="blue">1782</font>
+- 2022年のコンテスト平均レベル/difficulty: 2/<font color="green">843</font>
 
 ### レベル別問題一覧
 
@@ -3943,9 +3943,9 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「サイクルと非サイクルに分割」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 3/1499
+- コンテスト平均レベル/difficulty: 3/<font color="aqua">1499</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 3/1499
+- 2023年のコンテスト平均レベル/difficulty: 3/<font color="aqua">1499</font>
 - 2022年のコンテスト平均レベル/difficulty: データなし
 
 ### レベル別問題一覧
@@ -3962,10 +3962,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「クエリソート」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 3/1872
+- コンテスト平均レベル/difficulty: 3/<font color="blue">1872</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
 - 2023年のコンテスト平均レベル/difficulty: データなし
-- 2022年のコンテスト平均レベル/difficulty: 3/1872
+- 2022年のコンテスト平均レベル/difficulty: 3/<font color="blue">1872</font>
 
 ### レベル別問題一覧
 
@@ -3982,9 +3982,9 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「mex取得」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 3/1927
+- コンテスト平均レベル/difficulty: 3/<font color="blue">1927</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 3/1927
+- 2023年のコンテスト平均レベル/difficulty: 3/<font color="blue">1927</font>
 - 2022年のコンテスト平均レベル/difficulty: データなし
 
 ### レベル別問題一覧
@@ -4001,10 +4001,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「スライド最小化」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 3/1959
+- コンテスト平均レベル/difficulty: 3/<font color="blue">1959</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
 - 2023年のコンテスト平均レベル/difficulty: データなし
-- 2022年のコンテスト平均レベル/difficulty: 3/1959
+- 2022年のコンテスト平均レベル/difficulty: 3/<font color="blue">1959</font>
 
 ### レベル別問題一覧
 
@@ -4020,9 +4020,9 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「オイラー関数前計算」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 3/1983
+- コンテスト平均レベル/difficulty: 3/<font color="blue">1983</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 3/1983
+- 2023年のコンテスト平均レベル/difficulty: 3/<font color="blue">1983</font>
 - 2022年のコンテスト平均レベル/difficulty: データなし
 
 ### レベル別問題一覧
@@ -4039,9 +4039,9 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「ループ戦略」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 3/2043
+- コンテスト平均レベル/difficulty: 3/<font color="yellow">2043</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 3/2043
+- 2023年のコンテスト平均レベル/difficulty: 3/<font color="yellow">2043</font>
 - 2022年のコンテスト平均レベル/difficulty: データなし
 
 ### レベル別問題一覧
@@ -4059,10 +4059,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「ポラードの$\rho$」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 3/2047
+- コンテスト平均レベル/difficulty: 3/<font color="yellow">2047</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
 - 2023年のコンテスト平均レベル/difficulty: データなし
-- 2022年のコンテスト平均レベル/difficulty: 3/2047
+- 2022年のコンテスト平均レベル/difficulty: 3/<font color="yellow">2047</font>
 
 ### レベル別問題一覧
 
@@ -4078,10 +4078,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「平方剰余」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 3/2047
+- コンテスト平均レベル/difficulty: 3/<font color="yellow">2047</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
 - 2023年のコンテスト平均レベル/difficulty: データなし
-- 2022年のコンテスト平均レベル/difficulty: 3/2047
+- 2022年のコンテスト平均レベル/difficulty: 3/<font color="yellow">2047</font>
 
 ### レベル別問題一覧
 
@@ -4097,9 +4097,9 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「付値管理」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 3/2062
+- コンテスト平均レベル/difficulty: 3/<font color="yellow">2062</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 3/2062
+- 2023年のコンテスト平均レベル/difficulty: 3/<font color="yellow">2062</font>
 - 2022年のコンテスト平均レベル/difficulty: データなし
 
 ### レベル別問題一覧
@@ -4124,10 +4124,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「区間最大・最小値取得」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 3/2064
+- コンテスト平均レベル/difficulty: 3/<font color="yellow">2064</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 3/2169
-- 2022年のコンテスト平均レベル/difficulty: 3/1959
+- 2023年のコンテスト平均レベル/difficulty: 3/<font color="yellow">2169</font>
+- 2022年のコンテスト平均レベル/difficulty: 3/<font color="blue">1959</font>
 
 ### レベル別問題一覧
 
@@ -4144,10 +4144,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「素因数分解」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 3/2076
+- コンテスト平均レベル/difficulty: 3/<font color="yellow">2076</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 3.1/1927
-- 2022年のコンテスト平均レベル/difficulty: 2.7/2298
+- 2023年のコンテスト平均レベル/difficulty: 3.1/<font color="blue">1927</font>
+- 2022年のコンテスト平均レベル/difficulty: 2.7/<font color="yellow">2298</font>
 
 ### レベル別問題一覧
 
@@ -4174,10 +4174,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「[総和計算の期待値への帰着](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#総和計算の期待値への帰着)」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 3/2119
+- コンテスト平均レベル/difficulty: 3/<font color="yellow">2119</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2.6/1971
-- 2022年のコンテスト平均レベル/difficulty: 4/2566
+- 2023年のコンテスト平均レベル/difficulty: 2.6/<font color="blue">1971</font>
+- 2022年のコンテスト平均レベル/difficulty: 4/<font color="orange">2566</font>
 
 ### レベル別問題一覧
 
@@ -4202,10 +4202,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「sorted set」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 3/2125
+- コンテスト平均レベル/difficulty: 3/<font color="yellow">2125</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 3/2208
-- 2022年のコンテスト平均レベル/difficulty: 3/1959
+- 2023年のコンテスト平均レベル/difficulty: 3/<font color="yellow">2208</font>
+- 2022年のコンテスト平均レベル/difficulty: 3/<font color="blue">1959</font>
 
 ### レベル別問題一覧
 
@@ -4223,10 +4223,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「一要素削除」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 3/2125
+- コンテスト平均レベル/difficulty: 3/<font color="yellow">2125</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 3/2208
-- 2022年のコンテスト平均レベル/difficulty: 3/1959
+- 2023年のコンテスト平均レベル/difficulty: 3/<font color="yellow">2208</font>
+- 2022年のコンテスト平均レベル/difficulty: 3/<font color="blue">1959</font>
 
 ### レベル別問題一覧
 
@@ -4244,10 +4244,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「区間要素数取得」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 3/2145
+- コンテスト平均レベル/difficulty: 3/<font color="yellow">2145</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
 - 2023年のコンテスト平均レベル/difficulty: データなし
-- 2022年のコンテスト平均レベル/difficulty: 3/2145
+- 2022年のコンテスト平均レベル/difficulty: 3/<font color="yellow">2145</font>
 
 ### レベル別問題一覧
 
@@ -4264,9 +4264,9 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「外積」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 3/2147
+- コンテスト平均レベル/difficulty: 3/<font color="yellow">2147</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 3/2147
+- 2023年のコンテスト平均レベル/difficulty: 3/<font color="yellow">2147</font>
 - 2022年のコンテスト平均レベル/difficulty: データなし
 
 ### レベル別問題一覧
@@ -4283,9 +4283,9 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「合成による次元削減」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 3/2147
+- コンテスト平均レベル/difficulty: 3/<font color="yellow">2147</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 3/2147
+- 2023年のコンテスト平均レベル/difficulty: 3/<font color="yellow">2147</font>
 - 2022年のコンテスト平均レベル/difficulty: データなし
 
 ### レベル別問題一覧
@@ -4302,9 +4302,9 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「区間への分割の右端区間の左端を管理」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 3/2153
+- コンテスト平均レベル/difficulty: 3/<font color="yellow">2153</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 3/2153
+- 2023年のコンテスト平均レベル/difficulty: 3/<font color="yellow">2153</font>
 - 2022年のコンテスト平均レベル/difficulty: データなし
 
 ### レベル別問題一覧
@@ -4321,10 +4321,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「区間の重複度計算」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 3/2155
+- コンテスト平均レベル/difficulty: 3/<font color="yellow">2155</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2.5/1661
-- 2022年のコンテスト平均レベル/difficulty: 3.5/2649
+- 2023年のコンテスト平均レベル/difficulty: 2.5/<font color="blue">1661</font>
+- 2022年のコンテスト平均レベル/difficulty: 3.5/<font color="orange">2649</font>
 
 ### レベル別問題一覧
 
@@ -4344,10 +4344,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「素数列挙」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 3/2167
+- コンテスト平均レベル/difficulty: 3/<font color="yellow">2167</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
 - 2023年のコンテスト平均レベル/difficulty: データなし
-- 2022年のコンテスト平均レベル/difficulty: 3/2167
+- 2022年のコンテスト平均レベル/difficulty: 3/<font color="yellow">2167</font>
 
 ### レベル別問題一覧
 
@@ -4364,9 +4364,9 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「グリッド上の価値最大化」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 3/2169
+- コンテスト平均レベル/difficulty: 3/<font color="yellow">2169</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 3/2169
+- 2023年のコンテスト平均レベル/difficulty: 3/<font color="yellow">2169</font>
 - 2022年のコンテスト平均レベル/difficulty: データなし
 
 ### レベル別問題一覧
@@ -4383,9 +4383,9 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「確率漸化式」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 3/2169
+- コンテスト平均レベル/difficulty: 3/<font color="yellow">2169</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 3/2169
+- 2023年のコンテスト平均レベル/difficulty: 3/<font color="yellow">2169</font>
 - 2022年のコンテスト平均レベル/difficulty: データなし
 
 ### レベル別問題一覧
@@ -4402,10 +4402,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「再帰」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 3/2180
+- コンテスト平均レベル/difficulty: 3/<font color="yellow">2180</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 3/1973
-- 2022年のコンテスト平均レベル/difficulty: 3/2491
+- 2023年のコンテスト平均レベル/difficulty: 3/<font color="blue">1973</font>
+- 2022年のコンテスト平均レベル/difficulty: 3/<font color="orange">2491</font>
 
 ### レベル別問題一覧
 
@@ -4435,10 +4435,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「[解法場合分け](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#解法場合分け)」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 3/2227
+- コンテスト平均レベル/difficulty: 3/<font color="yellow">2227</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
 - 2023年のコンテスト平均レベル/difficulty: データなし
-- 2022年のコンテスト平均レベル/difficulty: 3/2227
+- 2022年のコンテスト平均レベル/difficulty: 3/<font color="yellow">2227</font>
 
 ### レベル別問題一覧
 
@@ -4462,9 +4462,9 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「データ構造初期化」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 3/2237
+- コンテスト平均レベル/difficulty: 3/<font color="yellow">2237</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 3/2237
+- 2023年のコンテスト平均レベル/difficulty: 3/<font color="yellow">2237</font>
 - 2022年のコンテスト平均レベル/difficulty: データなし
 
 ### レベル別問題一覧
@@ -4481,9 +4481,9 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「一対一対応と乱択の可換性」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 3/2237
+- コンテスト平均レベル/difficulty: 3/<font color="yellow">2237</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 3/2237
+- 2023年のコンテスト平均レベル/difficulty: 3/<font color="yellow">2237</font>
 - 2022年のコンテスト平均レベル/difficulty: データなし
 
 ### レベル別問題一覧
@@ -4500,9 +4500,9 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「素集合データ集合」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 3/2237
+- コンテスト平均レベル/difficulty: 3/<font color="yellow">2237</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 3/2237
+- 2023年のコンテスト平均レベル/difficulty: 3/<font color="yellow">2237</font>
 - 2022年のコンテスト平均レベル/difficulty: データなし
 
 ### レベル別問題一覧
@@ -4519,9 +4519,9 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「頂点倍化」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 3/2237
+- コンテスト平均レベル/difficulty: 3/<font color="yellow">2237</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 3/2237
+- 2023年のコンテスト平均レベル/difficulty: 3/<font color="yellow">2237</font>
 - 2022年のコンテスト平均レベル/difficulty: データなし
 
 ### レベル別問題一覧
@@ -4538,10 +4538,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「bitset高速化」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 3/2245
+- コンテスト平均レベル/difficulty: 3/<font color="yellow">2245</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
 - 2023年のコンテスト平均レベル/difficulty: データなし
-- 2022年のコンテスト平均レベル/difficulty: 3/2245
+- 2022年のコンテスト平均レベル/difficulty: 3/<font color="yellow">2245</font>
 
 ### レベル別問題一覧
 
@@ -4557,10 +4557,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「基底」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 3/2245
+- コンテスト平均レベル/difficulty: 3/<font color="yellow">2245</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
 - 2023年のコンテスト平均レベル/difficulty: データなし
-- 2022年のコンテスト平均レベル/difficulty: 3/2245
+- 2022年のコンテスト平均レベル/difficulty: 3/<font color="yellow">2245</font>
 
 ### レベル別問題一覧
 
@@ -4576,10 +4576,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「座標圧縮」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 3/2254
+- コンテスト平均レベル/difficulty: 3/<font color="yellow">2254</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 3/2363
-- 2022年のコンテスト平均レベル/difficulty: 3/2145
+- 2023年のコンテスト平均レベル/difficulty: 3/<font color="yellow">2363</font>
+- 2022年のコンテスト平均レベル/difficulty: 3/<font color="yellow">2145</font>
 
 ### レベル別問題一覧
 
@@ -4598,9 +4598,9 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「内積の畳み込み計算」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 3/2258
+- コンテスト平均レベル/difficulty: 3/<font color="yellow">2258</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 3/2258
+- 2023年のコンテスト平均レベル/difficulty: 3/<font color="yellow">2258</font>
 - 2022年のコンテスト平均レベル/difficulty: データなし
 
 ### レベル別問題一覧
@@ -4617,9 +4617,9 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「ダブリング」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 3/2274
+- コンテスト平均レベル/difficulty: 3/<font color="yellow">2274</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 3/2274
+- 2023年のコンテスト平均レベル/difficulty: 3/<font color="yellow">2274</font>
 - 2022年のコンテスト平均レベル/difficulty: データなし
 
 ### レベル別問題一覧
@@ -4636,10 +4636,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「線形代数」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 3/2294
+- コンテスト平均レベル/difficulty: 3/<font color="yellow">2294</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
 - 2023年のコンテスト平均レベル/difficulty: データなし
-- 2022年のコンテスト平均レベル/difficulty: 3/2294
+- 2022年のコンテスト平均レベル/difficulty: 3/<font color="yellow">2294</font>
 
 ### レベル別問題一覧
 
@@ -4656,10 +4656,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「bitDP」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 3/2344
+- コンテスト平均レベル/difficulty: 3/<font color="yellow">2344</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
 - 2023年のコンテスト平均レベル/difficulty: データなし
-- 2022年のコンテスト平均レベル/difficulty: 3/2344
+- 2022年のコンテスト平均レベル/difficulty: 3/<font color="yellow">2344</font>
 
 ### レベル別問題一覧
 
@@ -4675,10 +4675,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「bit全探索」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 3/2344
+- コンテスト平均レベル/difficulty: 3/<font color="yellow">2344</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
 - 2023年のコンテスト平均レベル/difficulty: データなし
-- 2022年のコンテスト平均レベル/difficulty: 3/2344
+- 2022年のコンテスト平均レベル/difficulty: 3/<font color="yellow">2344</font>
 
 ### レベル別問題一覧
 
@@ -4694,10 +4694,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「余因子展開」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 3/2344
+- コンテスト平均レベル/difficulty: 3/<font color="yellow">2344</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
 - 2023年のコンテスト平均レベル/difficulty: データなし
-- 2022年のコンテスト平均レベル/difficulty: 3/2344
+- 2022年のコンテスト平均レベル/difficulty: 3/<font color="yellow">2344</font>
 
 ### レベル別問題一覧
 
@@ -4713,10 +4713,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「剰余を商に翻訳」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 3/2393
+- コンテスト平均レベル/difficulty: 3/<font color="yellow">2393</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
 - 2023年のコンテスト平均レベル/difficulty: データなし
-- 2022年のコンテスト平均レベル/difficulty: 3/2393
+- 2022年のコンテスト平均レベル/difficulty: 3/<font color="yellow">2393</font>
 
 ### レベル別問題一覧
 
@@ -4732,10 +4732,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「平方分割」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 3/2393
+- コンテスト平均レベル/difficulty: 3/<font color="yellow">2393</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
 - 2023年のコンテスト平均レベル/difficulty: データなし
-- 2022年のコンテスト平均レベル/difficulty: 3/2393
+- 2022年のコンテスト平均レベル/difficulty: 3/<font color="yellow">2393</font>
 
 ### レベル別問題一覧
 
@@ -4751,9 +4751,9 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「フロー」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 3/2420
+- コンテスト平均レベル/difficulty: 3/<font color="orange">2420</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 3/2420
+- 2023年のコンテスト平均レベル/difficulty: 3/<font color="orange">2420</font>
 - 2022年のコンテスト平均レベル/difficulty: データなし
 
 ### レベル別問題一覧
@@ -4770,9 +4770,9 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「完全二部マッチング」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 3/2420
+- コンテスト平均レベル/difficulty: 3/<font color="orange">2420</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 3/2420
+- 2023年のコンテスト平均レベル/difficulty: 3/<font color="orange">2420</font>
 - 2022年のコンテスト平均レベル/difficulty: データなし
 
 ### レベル別問題一覧
@@ -4789,10 +4789,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「変数の対称性」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 3/2430
+- コンテスト平均レベル/difficulty: 3/<font color="orange">2430</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
 - 2023年のコンテスト平均レベル/difficulty: データなし
-- 2022年のコンテスト平均レベル/difficulty: 3/2430
+- 2022年のコンテスト平均レベル/difficulty: 3/<font color="orange">2430</font>
 
 ### レベル別問題一覧
 
@@ -4808,9 +4808,9 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「単調関数の像計算」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 3/2471
+- コンテスト平均レベル/difficulty: 3/<font color="orange">2471</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 3/2471
+- 2023年のコンテスト平均レベル/difficulty: 3/<font color="orange">2471</font>
 - 2022年のコンテスト平均レベル/difficulty: データなし
 
 ### レベル別問題一覧
@@ -4827,9 +4827,9 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「区間削除更新」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 3/2489
+- コンテスト平均レベル/difficulty: 3/<font color="orange">2489</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 3/2489
+- 2023年のコンテスト平均レベル/difficulty: 3/<font color="orange">2489</font>
 - 2022年のコンテスト平均レベル/difficulty: データなし
 
 ### レベル別問題一覧
@@ -4846,9 +4846,9 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「区間挿入更新」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 3/2489
+- コンテスト平均レベル/difficulty: 3/<font color="orange">2489</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 3/2489
+- 2023年のコンテスト平均レベル/difficulty: 3/<font color="orange">2489</font>
 - 2022年のコンテスト平均レベル/difficulty: データなし
 
 ### レベル別問題一覧
@@ -4865,10 +4865,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「自己写像に翻訳」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 3/2501
+- コンテスト平均レベル/difficulty: 3/<font color="orange">2501</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
 - 2023年のコンテスト平均レベル/difficulty: データなし
-- 2022年のコンテスト平均レベル/difficulty: 3/2501
+- 2022年のコンテスト平均レベル/difficulty: 3/<font color="orange">2501</font>
 
 ### レベル別問題一覧
 
@@ -4884,10 +4884,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「準同型」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 3/2656
+- コンテスト平均レベル/difficulty: 3/<font color="orange">2656</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 3/3018
-- 2022年のコンテスト平均レベル/difficulty: 3/2295
+- 2023年のコンテスト平均レベル/difficulty: 3/<font color="red">3018</font>
+- 2022年のコンテスト平均レベル/difficulty: 3/<font color="yellow">2295</font>
 
 ### レベル別問題一覧
 
@@ -4908,10 +4908,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「約数メビウス変換」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 3/2662
+- コンテスト平均レベル/difficulty: 3/<font color="orange">2662</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 3/3018
-- 2022年のコンテスト平均レベル/difficulty: 3/2306
+- 2023年のコンテスト平均レベル/difficulty: 3/<font color="red">3018</font>
+- 2022年のコンテスト平均レベル/difficulty: 3/<font color="yellow">2306</font>
 
 ### レベル別問題一覧
 
@@ -4928,9 +4928,9 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「指定序数の値の計算を各値未満の数え上げに帰着」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 3/3018
+- コンテスト平均レベル/difficulty: 3/<font color="red">3018</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 3/3018
+- 2023年のコンテスト平均レベル/difficulty: 3/<font color="red">3018</font>
 - 2022年のコンテスト平均レベル/difficulty: データなし
 
 ### レベル別問題一覧
@@ -4947,9 +4947,9 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「約数ゼータ変換」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 3/3018
+- コンテスト平均レベル/difficulty: 3/<font color="red">3018</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 3/3018
+- 2023年のコンテスト平均レベル/difficulty: 3/<font color="red">3018</font>
 - 2022年のコンテスト平均レベル/difficulty: データなし
 
 ### レベル別問題一覧
@@ -4966,10 +4966,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「区間和取得」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 3.1/1980
+- コンテスト平均レベル/difficulty: 3.1/<font color="blue">1980</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 3/2153
-- 2022年のコンテスト平均レベル/difficulty: 3.2/1893
+- 2023年のコンテスト平均レベル/difficulty: 3/<font color="yellow">2153</font>
+- 2022年のコンテスト平均レベル/difficulty: 3.2/<font color="blue">1893</font>
 
 ### レベル別問題一覧
 
@@ -4990,10 +4990,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「期待値の線形性」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 3.1/2219
+- コンテスト平均レベル/difficulty: 3.1/<font color="yellow">2219</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2.7/2046
-- 2022年のコンテスト平均レベル/difficulty: 4/2566
+- 2023年のコンテスト平均レベル/difficulty: 2.7/<font color="yellow">2046</font>
+- 2022年のコンテスト平均レベル/difficulty: 4/<font color="orange">2566</font>
 
 ### レベル別問題一覧
 
@@ -5017,10 +5017,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「区間加算更新」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 3.1/2244
+- コンテスト平均レベル/difficulty: 3.1/<font color="yellow">2244</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 3/2237
-- 2022年のコンテスト平均レベル/difficulty: 3.1/2247
+- 2023年のコンテスト平均レベル/difficulty: 3/<font color="yellow">2237</font>
+- 2022年のコンテスト平均レベル/difficulty: 3.1/<font color="yellow">2247</font>
 
 ### レベル別問題一覧
 
@@ -5048,10 +5048,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「ユークリッドの互除法」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 3.1/2316
+- コンテスト平均レベル/difficulty: 3.1/<font color="yellow">2316</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
 - 2023年のコンテスト平均レベル/difficulty: データなし
-- 2022年のコンテスト平均レベル/difficulty: 3.1/2316
+- 2022年のコンテスト平均レベル/difficulty: 3.1/<font color="yellow">2316</font>
 
 ### レベル別問題一覧
 
@@ -5073,10 +5073,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「最大公約数」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 3.1/2316
+- コンテスト平均レベル/difficulty: 3.1/<font color="yellow">2316</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
 - 2023年のコンテスト平均レベル/difficulty: データなし
-- 2022年のコンテスト平均レベル/difficulty: 3.1/2316
+- 2022年のコンテスト平均レベル/difficulty: 3.1/<font color="yellow">2316</font>
 
 ### レベル別問題一覧
 
@@ -5098,10 +5098,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「互いに素に帰着」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 3.1/2375
+- コンテスト平均レベル/difficulty: 3.1/<font color="yellow">2375</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
 - 2023年のコンテスト平均レベル/difficulty: データなし
-- 2022年のコンテスト平均レベル/difficulty: 3.1/2375
+- 2022年のコンテスト平均レベル/difficulty: 3.1/<font color="yellow">2375</font>
 
 ### レベル別問題一覧
 
@@ -5122,10 +5122,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「DPのデータ構造高速化」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 3.2/2283
+- コンテスト平均レベル/difficulty: 3.2/<font color="yellow">2283</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 3/2161
-- 2022年のコンテスト平均レベル/difficulty: 3.3/2332
+- 2023年のコンテスト平均レベル/difficulty: 3/<font color="yellow">2161</font>
+- 2022年のコンテスト平均レベル/difficulty: 3.3/<font color="yellow">2332</font>
 
 ### レベル別問題一覧
 
@@ -5153,10 +5153,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「調和数列」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 3.2/2383
+- コンテスト平均レベル/difficulty: 3.2/<font color="yellow">2383</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2.7/2039
-- 2022年のコンテスト平均レベル/difficulty: 3.7/2728
+- 2023年のコンテスト平均レベル/difficulty: 2.7/<font color="yellow">2039</font>
+- 2022年のコンテスト平均レベル/difficulty: 3.7/<font color="orange">2728</font>
 
 ### レベル別問題一覧
 
@@ -5184,10 +5184,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「ベン図」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 3.2/2447
+- コンテスト平均レベル/difficulty: 3.2/<font color="orange">2447</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
 - 2023年のコンテスト平均レベル/difficulty: データなし
-- 2022年のコンテスト平均レベル/difficulty: 3.2/2447
+- 2022年のコンテスト平均レベル/difficulty: 3.2/<font color="orange">2447</font>
 
 ### レベル別問題一覧
 
@@ -5207,10 +5207,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「十分大きな法で計算」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 3.3/2290
+- コンテスト平均レベル/difficulty: 3.3/<font color="yellow">2290</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 3.5/2412
-- 2022年のコンテスト平均レベル/difficulty: 3/2047
+- 2023年のコンテスト平均レベル/difficulty: 3.5/<font color="orange">2412</font>
+- 2022年のコンテスト平均レベル/difficulty: 3/<font color="yellow">2047</font>
 
 ### レベル別問題一覧
 
@@ -5231,10 +5231,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「B進法」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 3.3/2383
+- コンテスト平均レベル/difficulty: 3.3/<font color="yellow">2383</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 2.7/2019
-- 2022年のコンテスト平均レベル/difficulty: 3.6/2529
+- 2023年のコンテスト平均レベル/difficulty: 2.7/<font color="yellow">2019</font>
+- 2022年のコンテスト平均レベル/difficulty: 3.6/<font color="orange">2529</font>
 
 ### レベル別問題一覧
 
@@ -5265,10 +5265,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「小さいケースの構築を拡張」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 3.5/2300
+- コンテスト平均レベル/difficulty: 3.5/<font color="yellow">2300</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
 - 2023年のコンテスト平均レベル/difficulty: データなし
-- 2022年のコンテスト平均レベル/difficulty: 3.5/2300
+- 2022年のコンテスト平均レベル/difficulty: 3.5/<font color="yellow">2300</font>
 
 ### レベル別問題一覧
 
@@ -5292,10 +5292,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「剰余による確率的判定」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 3.5/2307
+- コンテスト平均レベル/difficulty: 3.5/<font color="yellow">2307</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 4/2567
-- 2022年のコンテスト平均レベル/difficulty: 3/2047
+- 2023年のコンテスト平均レベル/difficulty: 4/<font color="orange">2567</font>
+- 2022年のコンテスト平均レベル/difficulty: 3/<font color="yellow">2047</font>
 
 ### レベル別問題一覧
 
@@ -5315,10 +5315,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「最小素因数前計算」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 3.5/2436
+- コンテスト平均レベル/difficulty: 3.5/<font color="orange">2436</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 4/2567
-- 2022年のコンテスト平均レベル/difficulty: 3/2306
+- 2023年のコンテスト平均レベル/difficulty: 4/<font color="orange">2567</font>
+- 2022年のコンテスト平均レベル/difficulty: 3/<font color="yellow">2306</font>
 
 ### レベル別問題一覧
 
@@ -5338,10 +5338,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「２進法」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 3.5/2464
+- コンテスト平均レベル/difficulty: 3.5/<font color="orange">2464</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 3/2175
-- 2022年のコンテスト平均レベル/difficulty: 3.6/2536
+- 2023年のコンテスト平均レベル/difficulty: 3/<font color="yellow">2175</font>
+- 2022年のコンテスト平均レベル/difficulty: 3.6/<font color="orange">2536</font>
 
 ### レベル別問題一覧
 
@@ -5367,10 +5367,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「交代和」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 3.5/2500
+- コンテスト平均レベル/difficulty: 3.5/<font color="orange">2500</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
 - 2023年のコンテスト平均レベル/difficulty: データなし
-- 2022年のコンテスト平均レベル/difficulty: 3.5/2500
+- 2022年のコンテスト平均レベル/difficulty: 3.5/<font color="orange">2500</font>
 
 ### レベル別問題一覧
 
@@ -5386,10 +5386,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「inplace DP」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 3.5/2536
+- コンテスト平均レベル/difficulty: 3.5/<font color="orange">2536</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 3/2169
-- 2022年のコンテスト平均レベル/difficulty: 4/2903
+- 2023年のコンテスト平均レベル/difficulty: 3/<font color="yellow">2169</font>
+- 2022年のコンテスト平均レベル/difficulty: 4/<font color="red">2903</font>
 
 ### レベル別問題一覧
 
@@ -5409,10 +5409,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「第二種スターリング数」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 3.5/2643
+- コンテスト平均レベル/difficulty: 3.5/<font color="orange">2643</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
 - 2023年のコンテスト平均レベル/difficulty: データなし
-- 2022年のコンテスト平均レベル/difficulty: 3.5/2643
+- 2022年のコンテスト平均レベル/difficulty: 3.5/<font color="orange">2643</font>
 
 ### レベル別問題一覧
 
@@ -5428,10 +5428,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「floor sum」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 3.5/2648
+- コンテスト平均レベル/difficulty: 3.5/<font color="orange">2648</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
 - 2023年のコンテスト平均レベル/difficulty: データなし
-- 2022年のコンテスト平均レベル/difficulty: 3.5/2648
+- 2022年のコンテスト平均レベル/difficulty: 3.5/<font color="orange">2648</font>
 
 ### レベル別問題一覧
 
@@ -5447,10 +5447,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「フロベニウスの硬貨交換問題」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 3.5/2648
+- コンテスト平均レベル/difficulty: 3.5/<font color="orange">2648</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
 - 2023年のコンテスト平均レベル/difficulty: データなし
-- 2022年のコンテスト平均レベル/difficulty: 3.5/2648
+- 2022年のコンテスト平均レベル/difficulty: 3.5/<font color="orange">2648</font>
 
 ### レベル別問題一覧
 
@@ -5466,10 +5466,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「像決め打ち二分探索」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 3.5/2648
+- コンテスト平均レベル/difficulty: 3.5/<font color="orange">2648</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
 - 2023年のコンテスト平均レベル/difficulty: データなし
-- 2022年のコンテスト平均レベル/difficulty: 3.5/2648
+- 2022年のコンテスト平均レベル/difficulty: 3.5/<font color="orange">2648</font>
 
 ### レベル別問題一覧
 
@@ -5485,10 +5485,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「カタラン数」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 3.5/2649
+- コンテスト平均レベル/difficulty: 3.5/<font color="orange">2649</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
 - 2023年のコンテスト平均レベル/difficulty: データなし
-- 2022年のコンテスト平均レベル/difficulty: 3.5/2649
+- 2022年のコンテスト平均レベル/difficulty: 3.5/<font color="orange">2649</font>
 
 ### レベル別問題一覧
 
@@ -5504,10 +5504,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「01BFS」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 3.5/2690
+- コンテスト平均レベル/difficulty: 3.5/<font color="orange">2690</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
 - 2023年のコンテスト平均レベル/difficulty: データなし
-- 2022年のコンテスト平均レベル/difficulty: 3.5/2690
+- 2022年のコンテスト平均レベル/difficulty: 3.5/<font color="orange">2690</font>
 
 ### レベル別問題一覧
 
@@ -5523,10 +5523,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「ローリングハッシュ」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 3.5/2877
+- コンテスト平均レベル/difficulty: 3.5/<font color="red">2877</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
 - 2023年のコンテスト平均レベル/difficulty: データなし
-- 2022年のコンテスト平均レベル/difficulty: 3.5/2877
+- 2022年のコンテスト平均レベル/difficulty: 3.5/<font color="red">2877</font>
 
 ### レベル別問題一覧
 
@@ -5546,10 +5546,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「最長共通接頭辞」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 3.5/2877
+- コンテスト平均レベル/difficulty: 3.5/<font color="red">2877</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
 - 2023年のコンテスト平均レベル/difficulty: データなし
-- 2022年のコンテスト平均レベル/difficulty: 3.5/2877
+- 2022年のコンテスト平均レベル/difficulty: 3.5/<font color="red">2877</font>
 
 ### レベル別問題一覧
 
@@ -5569,10 +5569,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「桁DP」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 3.6/2622
+- コンテスト平均レベル/difficulty: 3.6/<font color="orange">2622</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 3.5/2381
-- 2022年のコンテスト平均レベル/difficulty: 3.6/2683
+- 2023年のコンテスト平均レベル/difficulty: 3.5/<font color="yellow">2381</font>
+- 2022年のコンテスト平均レベル/difficulty: 3.6/<font color="orange">2683</font>
 
 ### レベル別問題一覧
 
@@ -5601,10 +5601,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「高速フーリエ変換」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 3.6/2765
+- コンテスト平均レベル/difficulty: 3.6/<font color="orange">2765</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 3/2258
-- 2022年のコンテスト平均レベル/difficulty: 3.8/2934
+- 2023年のコンテスト平均レベル/difficulty: 3/<font color="yellow">2258</font>
+- 2022年のコンテスト平均レベル/difficulty: 3.8/<font color="red">2934</font>
 
 ### レベル別問題一覧
 
@@ -5629,10 +5629,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「畳み込み」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 3.6/2765
+- コンテスト平均レベル/difficulty: 3.6/<font color="orange">2765</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 3/2258
-- 2022年のコンテスト平均レベル/difficulty: 3.8/2934
+- 2023年のコンテスト平均レベル/difficulty: 3/<font color="yellow">2258</font>
+- 2022年のコンテスト平均レベル/difficulty: 3.8/<font color="red">2934</font>
 
 ### レベル別問題一覧
 
@@ -5657,10 +5657,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「同値関係」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 3.8/2758
+- コンテスト平均レベル/difficulty: 3.8/<font color="orange">2758</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
 - 2023年のコンテスト平均レベル/difficulty: データなし
-- 2022年のコンテスト平均レベル/difficulty: 3.8/2758
+- 2022年のコンテスト平均レベル/difficulty: 3.8/<font color="orange">2758</font>
 
 ### レベル別問題一覧
 
@@ -5684,9 +5684,9 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「キュー」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 4/2658
+- コンテスト平均レベル/difficulty: 4/<font color="orange">2658</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 4/2658
+- 2023年のコンテスト平均レベル/difficulty: 4/<font color="orange">2658</font>
 - 2022年のコンテスト平均レベル/difficulty: データなし
 
 ### レベル別問題一覧
@@ -5703,9 +5703,9 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「マージ」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 4/2658
+- コンテスト平均レベル/difficulty: 4/<font color="orange">2658</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 4/2658
+- 2023年のコンテスト平均レベル/difficulty: 4/<font color="orange">2658</font>
 - 2022年のコンテスト平均レベル/difficulty: データなし
 
 ### レベル別問題一覧
@@ -5726,9 +5726,9 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「区間を中間で分割してマージ」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 4/2658
+- コンテスト平均レベル/difficulty: 4/<font color="orange">2658</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 4/2658
+- 2023年のコンテスト平均レベル/difficulty: 4/<font color="orange">2658</font>
 - 2022年のコンテスト平均レベル/difficulty: データなし
 
 ### レベル別問題一覧
@@ -5745,10 +5745,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「区間最大・最小値更新」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 4/2903
+- コンテスト平均レベル/difficulty: 4/<font color="red">2903</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
 - 2023年のコンテスト平均レベル/difficulty: データなし
-- 2022年のコンテスト平均レベル/difficulty: 4/2903
+- 2022年のコンテスト平均レベル/difficulty: 4/<font color="red">2903</font>
 
 ### レベル別問題一覧
 
@@ -5764,10 +5764,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「分割統治畳み込み」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 4/3125
+- コンテスト平均レベル/difficulty: 4/<font color="red">3125</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
 - 2023年のコンテスト平均レベル/difficulty: データなし
-- 2022年のコンテスト平均レベル/difficulty: 4/3125
+- 2022年のコンテスト平均レベル/difficulty: 4/<font color="red">3125</font>
 
 ### レベル別問題一覧
 
@@ -5787,10 +5787,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「遅延セグメント木」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 4.2/3142
+- コンテスト平均レベル/difficulty: 4.2/<font color="red">3142</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
 - 2023年のコンテスト平均レベル/difficulty: データなし
-- 2022年のコンテスト平均レベル/difficulty: 4.2/3142
+- 2022年のコンテスト平均レベル/difficulty: 4.2/<font color="red">3142</font>
 
 ### レベル別問題一覧
 
@@ -5810,10 +5810,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「バケット分割」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 4.5/3117
+- コンテスト平均レベル/difficulty: 4.5/<font color="red">3117</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: 4/2658
-- 2022年のコンテスト平均レベル/difficulty: 5/3577
+- 2023年のコンテスト平均レベル/difficulty: 4/<font color="orange">2658</font>
+- 2022年のコンテスト平均レベル/difficulty: 5/<font color="darkgoldenrod ">3577</font>
 
 ### レベル別問題一覧
 
@@ -5833,10 +5833,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「区間二次形式取得」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 4.5/3382
+- コンテスト平均レベル/difficulty: 4.5/<font color="darkgoldenrod ">3382</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
 - 2023年のコンテスト平均レベル/difficulty: データなし
-- 2022年のコンテスト平均レベル/difficulty: 4.5/3382
+- 2022年のコンテスト平均レベル/difficulty: 4.5/<font color="darkgoldenrod ">3382</font>
 
 ### レベル別問題一覧
 
@@ -5852,10 +5852,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「区間二次式取得」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 4.5/3382
+- コンテスト平均レベル/difficulty: 4.5/<font color="darkgoldenrod ">3382</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
 - 2023年のコンテスト平均レベル/difficulty: データなし
-- 2022年のコンテスト平均レベル/difficulty: 4.5/3382
+- 2022年のコンテスト平均レベル/difficulty: 4.5/<font color="darkgoldenrod ">3382</font>
 
 ### レベル別問題一覧
 
@@ -5871,10 +5871,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「最近共通祖先」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 4.5/3382
+- コンテスト平均レベル/difficulty: 4.5/<font color="darkgoldenrod ">3382</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
 - 2023年のコンテスト平均レベル/difficulty: データなし
-- 2022年のコンテスト平均レベル/difficulty: 4.5/3382
+- 2022年のコンテスト平均レベル/difficulty: 4.5/<font color="darkgoldenrod ">3382</font>
 
 ### レベル別問題一覧
 
@@ -5890,10 +5890,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「重軽分解」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 4.5/3382
+- コンテスト平均レベル/difficulty: 4.5/<font color="darkgoldenrod ">3382</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
 - 2023年のコンテスト平均レベル/difficulty: データなし
-- 2022年のコンテスト平均レベル/difficulty: 4.5/3382
+- 2022年のコンテスト平均レベル/difficulty: 4.5/<font color="darkgoldenrod ">3382</font>
 
 ### レベル別問題一覧
 
@@ -5909,10 +5909,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「フック長公式」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 5/3086
+- コンテスト平均レベル/difficulty: 5/<font color="red">3086</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
 - 2023年のコンテスト平均レベル/difficulty: データなし
-- 2022年のコンテスト平均レベル/difficulty: 5/3086
+- 2022年のコンテスト平均レベル/difficulty: 5/<font color="red">3086</font>
 
 ### レベル別問題一覧
 
@@ -5928,10 +5928,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「ヤング図形」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 5/3086
+- コンテスト平均レベル/difficulty: 5/<font color="red">3086</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
 - 2023年のコンテスト平均レベル/difficulty: データなし
-- 2022年のコンテスト平均レベル/difficulty: 5/3086
+- 2022年のコンテスト平均レベル/difficulty: 5/<font color="red">3086</font>
 
 ### レベル別問題一覧
 
@@ -5947,10 +5947,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「トポロジカルソート」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 5/3382
+- コンテスト平均レベル/difficulty: 5/<font color="darkgoldenrod ">3382</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
 - 2023年のコンテスト平均レベル/difficulty: データなし
-- 2022年のコンテスト平均レベル/difficulty: 5/3382
+- 2022年のコンテスト平均レベル/difficulty: 5/<font color="darkgoldenrod ">3382</font>
 
 ### レベル別問題一覧
 
@@ -5966,10 +5966,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「強連結成分分解」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 5/3382
+- コンテスト平均レベル/difficulty: 5/<font color="darkgoldenrod ">3382</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
 - 2023年のコンテスト平均レベル/difficulty: データなし
-- 2022年のコンテスト平均レベル/difficulty: 5/3382
+- 2022年のコンテスト平均レベル/difficulty: 5/<font color="darkgoldenrod ">3382</font>
 
 ### レベル別問題一覧
 
@@ -5985,10 +5985,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「残余ネットワーク」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 5/3382
+- コンテスト平均レベル/difficulty: 5/<font color="darkgoldenrod ">3382</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
 - 2023年のコンテスト平均レベル/difficulty: データなし
-- 2022年のコンテスト平均レベル/difficulty: 5/3382
+- 2022年のコンテスト平均レベル/difficulty: 5/<font color="darkgoldenrod ">3382</font>
 
 ### レベル別問題一覧
 
@@ -6004,10 +6004,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「P-再帰」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 5/3577
+- コンテスト平均レベル/difficulty: 5/<font color="darkgoldenrod ">3577</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
 - 2023年のコンテスト平均レベル/difficulty: データなし
-- 2022年のコンテスト平均レベル/difficulty: 5/3577
+- 2022年のコンテスト平均レベル/difficulty: 5/<font color="darkgoldenrod ">3577</font>
 
 ### レベル別問題一覧
 
@@ -6023,10 +6023,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「多点評価」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 5/3577
+- コンテスト平均レベル/difficulty: 5/<font color="darkgoldenrod ">3577</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
 - 2023年のコンテスト平均レベル/difficulty: データなし
-- 2022年のコンテスト平均レベル/difficulty: 5/3577
+- 2022年のコンテスト平均レベル/difficulty: 5/<font color="darkgoldenrod ">3577</font>
 
 ### レベル別問題一覧
 
@@ -6042,10 +6042,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「評価点シフト」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: 5/3577
+- コンテスト平均レベル/difficulty: 5/<font color="darkgoldenrod ">3577</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
 - 2023年のコンテスト平均レベル/difficulty: データなし
-- 2022年のコンテスト平均レベル/difficulty: 5/3577
+- 2022年のコンテスト平均レベル/difficulty: 5/<font color="darkgoldenrod ">3577</font>
 
 ### レベル別問題一覧
 
