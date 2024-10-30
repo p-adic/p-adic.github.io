@@ -1,7 +1,7 @@
 ---
 layout: project
 title: yukicoder過去問解法別難易度統計の解法名解説
-date: 2024-10-10
+date: 2024-10-30
 excerpt: "yukicoderの過去問の解法別難易度統計ページに記載した解法名の解説です。"
 project: true
 parent: competitive-programming-project/
@@ -13,6 +13,11 @@ tags: [競技プログラミング,数学]
 
 
 [yukicoderの過去問の解法別難易度統計のページ]({{ site.url }}/yukicoder-difficulty-statistics)で用いた、一般的でない解法名の解説ページです。
+
+
+<h2 id="不明な想定解">不明な想定解</h2>
+
+解説が存在しないために明らかにされていない想定解を構成する、何かしらの手法。少なくとも実装だけはwriter提出を見れば分かるが、どのような考察（特に正当性の証明）がなされたかが非公開となる。
 
 　
 <h2 id="緩和">緩和</h2>
