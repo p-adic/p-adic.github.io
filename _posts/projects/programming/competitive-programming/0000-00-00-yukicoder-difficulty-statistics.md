@@ -217,7 +217,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 1. <a href="#DAG上のDP" class="tag">DAG上のDP</a>×2問
 1. <a href="#頂点倍加" class="tag">頂点倍加</a>×2問
 1. <a href="#場合分け" class="tag">場合分け</a>×30問
-1. <a href="#不明な想定解" class="tag">不明な想定解</a>×2問
+1. <a href="#不明な想定解" class="tag">不明な想定解</a>×2問（[解説ページ](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#不明な想定解)）
 1. <a href="#階乗を用いた二項係数計算" class="tag">階乗を用いた二項係数計算</a>×2問
 1. <a href="#アルゴリズムのリアクティブ化" class="tag">アルゴリズムのリアクティブ化</a>×3問
 1. <a href="#連長圧縮" class="tag">連長圧縮</a>／ランレングス圧縮／RLE×2問
@@ -429,7 +429,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 1. <a href="#ハミルトン路" class="tag">ハミルトン路</a>×1問
 1. <a href="#構文解析" class="tag">構文解析</a>×1問
 
-ただしレベルがwriterに設定されていない問題があれば、★1と換算します。また解説が存在しないために想定解が不明なものは「<a href="#不明な想定解" class="tag">不明な想定解</a>」として集計しています。
+ただしレベルがwriterに設定されていない問題があれば、★1と換算します。
 
 
 　
@@ -1497,7 +1497,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 
 ### 難易度統計
 
-「不明な想定解」を主たる解法に含む問題の難易度統計です。
+「[不明な想定解](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#不明な想定解)」を主たる解法に含む問題の難易度統計です。
 - コンテスト平均レベル/difficulty: 2.2/<font color="blue">1619</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
 - 2023年のコンテスト平均レベル/difficulty: 2.2/<font color="blue">1619</font>
@@ -1505,7 +1505,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 
 ### レベル別問題一覧
 
-「不明な想定解」を主たる解法に含む問題のレベルごとの一覧です。
+「[不明な想定解](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#不明な想定解)」を主たる解法に含む問題のレベルごとの一覧です。
 
 ##### ★★
 
