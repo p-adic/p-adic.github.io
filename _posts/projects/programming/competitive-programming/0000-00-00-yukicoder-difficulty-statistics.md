@@ -196,7 +196,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 1. <a href="#multiset" class="tag">multiset</a>×1問
 1. <a href="#組分けの余りに注目" class="tag">組分けの余りに注目</a>×3問
 1. <a href="#シミュレーション" class="tag">シミュレーション</a>×11問
-1. <a href="#重複選択可ナップサック問題" class="tag">重複選択可ナップサック問題</a>×4問
+1. <a href="#重複選択可ナップサック最適化" class="tag">重複選択可ナップサック最適化</a>×4問
 1. <a href="#全探索" class="tag">全探索</a>×33問
 1. <a href="#サンプルから推測" class="tag">サンプルから推測</a>×1問
 1. <a href="#最近点取得" class="tag">最近点取得</a>×1問
@@ -212,7 +212,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 1. <a href="#多項定理" class="tag">多項定理</a>×1問
 1. <a href="#整礎性" class="tag">整礎性</a>×1問
 1. <a href="#木の頂点の次数取得" class="tag">木の頂点の次数取得</a>×1問
-1. <a href="#ナップサック問題" class="tag">ナップサック問題</a>×8問
+1. <a href="#ナップサック最適化" class="tag">ナップサック最適化</a>×8問
 1. <a href="#場合の数" class="tag">場合の数</a>×2問
 1. <a href="#構築可能性DP" class="tag">構築可能性DP</a>×1問
 1. <a href="#貪欲法" class="tag">貪欲法</a>×14問
@@ -222,8 +222,8 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 1. <a href="#素因数分解による最小公倍数計算" class="tag">素因数分解による最小公倍数計算</a>×1問
 1. <a href="#置換の合成" class="tag">置換の合成</a>×1問
 1. <a href="#階乗付値" class="tag">階乗付値</a>×1問
-1. <a href="#多次元コストナップサック問題" class="tag">多次元コストナップサック問題</a>×2問
-1. <a href="#多次元コスト重複選択可ナップサック問題" class="tag">多次元コスト重複選択可ナップサック問題</a>×2問
+1. <a href="#多次元コストナップサック最適化" class="tag">多次元コストナップサック最適化</a>×2問
+1. <a href="#多次元コスト重複選択可ナップサック最適化" class="tag">多次元コスト重複選択可ナップサック最適化</a>×2問
 1. <a href="#解の公式" class="tag">解の公式</a>×1問
 1. <a href="#余事象" class="tag">余事象</a>×4問
 1. <a href="#実験" class="tag">実験</a>×3問
@@ -292,8 +292,8 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 1. <a href="#充足可能性判定" class="tag">充足可能性判定</a>×4問
 1. <a href="#上限・下限値に言及する質問" class="tag">上限・下限値に言及する質問</a>×1問
 1. <a href="#Vieta Jumping" class="tag">Vieta Jumping</a>／Root Flipping×1問
-1. <a href="#価値上限ありナップサック問題" class="tag">価値上限ありナップサック問題</a>×1問
-1. <a href="#重複選択可価値上限ありナップサック問題" class="tag">重複選択可価値上限ありナップサック問題</a>×1問
+1. <a href="#価値上限ありナップサック最適化" class="tag">価値上限ありナップサック最適化</a>×1問
+1. <a href="#重複選択可価値上限ありナップサック最適化" class="tag">重複選択可価値上限ありナップサック最適化</a>×1問
 1. <a href="#素因数分解" class="tag">素因数分解</a>×10問
 1. <a href="#繰り返し二乗法" class="tag">繰り返し二乗法</a>×15問
 1. <a href="#剰余計算" class="tag">剰余計算</a>×47問
@@ -312,8 +312,8 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 1. <a href="#クラスカル法" class="tag">クラスカル法</a>／Kruskal法×2問
 1. <a href="#冪等重みの最短経路長取得" class="tag">冪等重みの最短経路長取得</a>×2問
 1. <a href="#オイラーグラフ判定" class="tag">オイラーグラフ判定</a>×1問
-1. <a href="#個数上限１複数ナップサック問題" class="tag">個数上限１複数ナップサック問題</a>×1問
-1. <a href="#複数ナップサック問題" class="tag">複数ナップサック問題</a>×1問
+1. <a href="#個数上限１複数ナップサック最適化" class="tag">個数上限１複数ナップサック最適化</a>×1問
+1. <a href="#複数ナップサック最適化" class="tag">複数ナップサック最適化</a>×1問
 1. <a href="#必勝戦略のリアクティブ化" class="tag">必勝戦略のリアクティブ化</a>×1問
 1. <a href="#深さ優先探索" class="tag">深さ優先探索</a>／DFS×5問
 1. <a href="#二分探索" class="tag">二分探索</a>×17問
@@ -429,7 +429,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 1. <a href="#inplace DP" class="tag">inplace DP</a>×2問
 1. <a href="#第二種スターリング数" class="tag">第二種スターリング数</a>×1問
 1. <a href="#floor sum" class="tag">floor sum</a>×1問
-1. <a href="#フロベニウスの硬貨交換問題" class="tag">フロベニウスの硬貨交換問題</a>×1問
+1. <a href="#フロベニウス数" class="tag">フロベニウス数</a>／フロベニウスの硬貨交換問題×1問
 1. <a href="#像決め打ち二分探索" class="tag">像決め打ち二分探索</a>×1問
 1. <a href="#カタラン数" class="tag">カタラン数</a>×1問
 1. <a href="#区間の重複度計算" class="tag">区間の重複度計算</a>×1問
@@ -951,11 +951,11 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2431">No.2431 Viral Hotel</a> (traP 作問ハッカソンコンテスト 001 (2023-08-18) - H問題, difficulty: <font color="orange">2628</font>)
 
 　
-<h2 id="重複選択可ナップサック問題">21. 重複選択可ナップサック問題</h2>
+<h2 id="重複選択可ナップサック最適化">21. 重複選択可ナップサック最適化</h2>
 
 ### 難易度統計
 
-「重複選択可ナップサック問題」を主たる解法に含む問題の難易度統計です。
+「重複選択可ナップサック最適化」を主たる解法に含む問題の難易度統計です。
 - コンテスト平均レベル/difficulty: 1.8/<font color="deepskyblue">1348</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
 - 2023年のコンテスト平均レベル/difficulty: 2/<font color="deepskyblue">1432</font>
@@ -963,7 +963,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 
 ### レベル別問題一覧
 
-「重複選択可ナップサック問題」を主たる解法に含む問題のレベルごとの一覧です。
+「重複選択可ナップサック最適化」を主たる解法に含む問題のレベルごとの一覧です。
 
 ##### ★
 
@@ -1336,11 +1336,11 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2427">No.2427 Tree Distance Two</a> (traP 作問ハッカソンコンテスト 001 (2023-08-18) - D問題, difficulty: <font color="deepskyblue">1273</font>)
 
 　
-<h2 id="ナップサック問題">37. ナップサック問題</h2>
+<h2 id="ナップサック最適化">37. ナップサック最適化</h2>
 
 ### 難易度統計
 
-「ナップサック問題」を主たる解法に含む問題の難易度統計です。
+「ナップサック最適化」を主たる解法に含む問題の難易度統計です。
 - コンテスト平均レベル/difficulty: 2/<font color="deepskyblue">1300</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
 - 2023年のコンテスト平均レベル/difficulty: 2.1/<font color="deepskyblue">1411</font>
@@ -1348,7 +1348,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 
 ### レベル別問題一覧
 
-「ナップサック問題」を主たる解法に含む問題のレベルごとの一覧です。
+「ナップサック最適化」を主たる解法に含む問題のレベルごとの一覧です。
 
 ##### ★
 
@@ -1598,11 +1598,11 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2326">No.2326 Factorial to the Power of Factorial to the...</a> (MMA Contest 015  (2023-05-28) - E問題, difficulty: <font color="blue">1605</font>)
 
 　
-<h2 id="多次元コストナップサック問題">47. 多次元コストナップサック問題</h2>
+<h2 id="多次元コストナップサック最適化">47. 多次元コストナップサック最適化</h2>
 
 ### 難易度統計
 
-「多次元コストナップサック問題」を主たる解法に含む問題の難易度統計です。
+「多次元コストナップサック最適化」を主たる解法に含む問題の難易度統計です。
 - コンテスト平均レベル/difficulty: 2/<font color="blue">1644</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
 - 2023年のコンテスト平均レベル/difficulty: 2.5/<font color="yellowgreen">2193</font>
@@ -1610,7 +1610,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 
 ### レベル別問題一覧
 
-「多次元コストナップサック問題」を主たる解法に含む問題のレベルごとの一覧です。
+「多次元コストナップサック最適化」を主たる解法に含む問題のレベルごとの一覧です。
 
 ##### ★☆
 
@@ -1621,11 +1621,11 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2309">No.2309 [Cherry 5th Tune D] 夏の先取り</a> (yukicoder contest 389 (Until that day when "Cherry Month" is over.) (2023-05-19) - E問題, difficulty: <font color="yellowgreen">2193</font>)
 
 　
-<h2 id="多次元コスト重複選択可ナップサック問題">48. 多次元コスト重複選択可ナップサック問題</h2>
+<h2 id="多次元コスト重複選択可ナップサック最適化">48. 多次元コスト重複選択可ナップサック最適化</h2>
 
 ### 難易度統計
 
-「多次元コスト重複選択可ナップサック問題」を主たる解法に含む問題の難易度統計です。
+「多次元コスト重複選択可ナップサック最適化」を主たる解法に含む問題の難易度統計です。
 - コンテスト平均レベル/difficulty: 2/<font color="blue">1644</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
 - 2023年のコンテスト平均レベル/difficulty: 2.5/<font color="yellowgreen">2193</font>
@@ -1633,7 +1633,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 
 ### レベル別問題一覧
 
-「多次元コスト重複選択可ナップサック問題」を主たる解法に含む問題のレベルごとの一覧です。
+「多次元コスト重複選択可ナップサック最適化」を主たる解法に含む問題のレベルごとの一覧です。
 
 ##### ★☆
 
@@ -3476,11 +3476,11 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2253">No.2253 Ignore Subtle Differences</a> (yukicoder contest 382 (2023-03-24) - B問題, difficulty: <font color="blue">1768</font>)
 
 　
-<h2 id="価値上限ありナップサック問題">117. 価値上限ありナップサック問題</h2>
+<h2 id="価値上限ありナップサック最適化">117. 価値上限ありナップサック最適化</h2>
 
 ### 難易度統計
 
-「価値上限ありナップサック問題」を主たる解法に含む問題の難易度統計です。
+「価値上限ありナップサック最適化」を主たる解法に含む問題の難易度統計です。
 - コンテスト平均レベル/difficulty: 2.5/<font color="blue">1774</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
 - 2023年のコンテスト平均レベル/difficulty: 2.5/<font color="blue">1774</font>
@@ -3488,18 +3488,18 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 
 ### レベル別問題一覧
 
-「価値上限ありナップサック問題」を主たる解法に含む問題のレベルごとの一覧です。
+「価値上限ありナップサック最適化」を主たる解法に含む問題のレベルごとの一覧です。
 
 ##### ★★☆
 
 - <a href="https://yukicoder.me/problems/no/2329">No.2329 Nafmo、イカサマをする</a> (MMA Contest 015  (2023-05-28) - H問題, difficulty: <font color="blue">1774</font>)
 
 　
-<h2 id="重複選択可価値上限ありナップサック問題">118. 重複選択可価値上限ありナップサック問題</h2>
+<h2 id="重複選択可価値上限ありナップサック最適化">118. 重複選択可価値上限ありナップサック最適化</h2>
 
 ### 難易度統計
 
-「重複選択可価値上限ありナップサック問題」を主たる解法に含む問題の難易度統計です。
+「重複選択可価値上限ありナップサック最適化」を主たる解法に含む問題の難易度統計です。
 - コンテスト平均レベル/difficulty: 2.5/<font color="blue">1774</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
 - 2023年のコンテスト平均レベル/difficulty: 2.5/<font color="blue">1774</font>
@@ -3507,7 +3507,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 
 ### レベル別問題一覧
 
-「重複選択可価値上限ありナップサック問題」を主たる解法に含む問題のレベルごとの一覧です。
+「重複選択可価値上限ありナップサック最適化」を主たる解法に含む問題のレベルごとの一覧です。
 
 ##### ★★☆
 
@@ -4006,11 +4006,11 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2403">No.2403 "Eight" Bridges of K"onigsberg</a> (yukicoder contest 400 (2023-08-04) - E問題, difficulty: <font color="yellowgreen">2123</font>)
 
 　
-<h2 id="個数上限１複数ナップサック問題">137. 個数上限１複数ナップサック問題</h2>
+<h2 id="個数上限１複数ナップサック最適化">137. 個数上限１複数ナップサック最適化</h2>
 
 ### 難易度統計
 
-「個数上限１複数ナップサック問題」を主たる解法に含む問題の難易度統計です。
+「個数上限１複数ナップサック最適化」を主たる解法に含む問題の難易度統計です。
 - コンテスト平均レベル/difficulty: 2.5/<font color="yellowgreen">2353</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
 - 2023年のコンテスト平均レベル/difficulty: 2.5/<font color="yellowgreen">2353</font>
@@ -4018,18 +4018,18 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 
 ### レベル別問題一覧
 
-「個数上限１複数ナップサック問題」を主たる解法に含む問題のレベルごとの一覧です。
+「個数上限１複数ナップサック最適化」を主たる解法に含む問題のレベルごとの一覧です。
 
 ##### ★★☆
 
 - <a href="https://yukicoder.me/problems/no/2422">No.2422 regisys?</a> (MMA Contest 016 (2023-08-12) - I問題, difficulty: <font color="yellowgreen">2353</font>)
 
 　
-<h2 id="複数ナップサック問題">138. 複数ナップサック問題</h2>
+<h2 id="複数ナップサック最適化">138. 複数ナップサック最適化</h2>
 
 ### 難易度統計
 
-「複数ナップサック問題」を主たる解法に含む問題の難易度統計です。
+「複数ナップサック最適化」を主たる解法に含む問題の難易度統計です。
 - コンテスト平均レベル/difficulty: 2.5/<font color="yellowgreen">2353</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
 - 2023年のコンテスト平均レベル/difficulty: 2.5/<font color="yellowgreen">2353</font>
@@ -4037,7 +4037,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 
 ### レベル別問題一覧
 
-「複数ナップサック問題」を主たる解法に含む問題のレベルごとの一覧です。
+「複数ナップサック最適化」を主たる解法に含む問題のレベルごとの一覧です。
 
 ##### ★★☆
 
@@ -6791,11 +6791,11 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2066">No.2066 Simple Math !</a> (yukicoder contest 359 (2022-09-02) - D問題, difficulty: <font color="orange">2648</font>)
 
 　
-<h2 id="フロベニウスの硬貨交換問題">254. フロベニウスの硬貨交換問題</h2>
+<h2 id="フロベニウス数">254. フロベニウス数</h2>
 
 ### 難易度統計
 
-「フロベニウスの硬貨交換問題」を主たる解法に含む問題の難易度統計です。
+「フロベニウス数」を主たる解法に含む問題の難易度統計です。
 - コンテスト平均レベル/difficulty: 3.5/<font color="orange">2648</font>
 - 2024年のコンテスト平均レベル/difficulty: データなし
 - 2023年のコンテスト平均レベル/difficulty: データなし
@@ -6803,7 +6803,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 
 ### レベル別問題一覧
 
-「フロベニウスの硬貨交換問題」を主たる解法に含む問題のレベルごとの一覧です。
+「フロベニウス数」を主たる解法に含む問題のレベルごとの一覧です。
 
 ##### ★★★☆
 
