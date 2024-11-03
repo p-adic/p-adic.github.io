@@ -174,313 +174,313 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 
 ## 登録済み解法一覧
 
-以下の解法ごとに問題を列挙し、難易度（writerに設定されたレベルと解かれ具合から算出されたdifficulty）の傾向を表示します：
+以下の解法ごとに問題を列挙し、年ごとの難易度の傾向を表示します（解法名横の数値は「問題数/コンテスト平均レベル/コンテスト平均difficulty」）：
 
-1. <a href="#特殊な入出力" class="tag">特殊な入出力</a>（6問、コンテスト平均レベル/difficulty: 1.1/<font color="brown">558</font>）
-1. <a href="#数値の文字列受け取り" class="tag">数値の文字列受け取り</a>（5問、コンテスト平均レベル/difficulty: 1.2/<font color="brown">498</font>）
-1. <a href="#実装" class="tag">実装</a>（27問、コンテスト平均レベル/difficulty: 1.2/<font color="brown">615</font>）
-1. <a href="#カレンダー計算" class="tag">カレンダー計算</a>（2問、コンテスト平均レベル/difficulty: 1.2/<font color="brown">704</font>）
-1. <a href="#64bit整数" class="tag">64bit整数</a>（8問、コンテスト平均レベル/difficulty: 1.4/<font color="brown">739</font>）
-1. <a href="#複素数" class="tag">複素数</a>（1問、コンテスト平均レベル/difficulty: 1.5/<font color="gray">344</font>）
-1. <a href="#基数の変換" class="tag">基数の変換</a>（2問、コンテスト平均レベル/difficulty: 1.5/<font color="brown">477</font>）
-1. <a href="#相似" class="tag">相似</a>（1問、コンテスト平均レベル/difficulty: 1.5/<font color="brown">588</font>）
-1. <a href="#指定序数の値の計算を始切片の数え上げに帰着" class="tag">指定序数の値の計算を始切片の数え上げに帰着</a>（1問、コンテスト平均レベル/difficulty: 1.5/<font color="brown">689</font>）
-1. <a href="#符号なし64bit整数" class="tag">符号なし64bit整数</a>（2問、コンテスト平均レベル/difficulty: 1.5/<font color="brown">708</font>）
-1. <a href="#連想配列" class="tag">連想配列</a>（2問、コンテスト平均レベル/difficulty: 1.5/<font color="green">829</font>）
-1. <a href="#三角形の成立条件" class="tag">三角形の成立条件</a>（1問、コンテスト平均レベル/difficulty: 1.5/<font color="green">864</font>）
-1. <a href="#試行回数の期待値を各試行の実施確率の和に帰着" class="tag">試行回数の期待値を各試行の実施確率の和に帰着</a>（1問、コンテスト平均レベル/difficulty: 1.5/<font color="green">959</font>）
-1. <a href="#等差数列と等比数列の各点積の累積和計算" class="tag">等差数列と等比数列の各点積の累積和計算</a>（1問、コンテスト平均レベル/difficulty: 1.5/<font color="green">959</font>）
-1. <a href="#場合分けによる絶対値計算" class="tag">場合分けによる絶対値計算</a>（1問、コンテスト平均レベル/difficulty: 1.5/<font color="green">1060</font>）
-1. <a href="#１次式の最大・最小値" class="tag">１次式の最大・最小値</a>（4問、コンテスト平均レベル/difficulty: 1.5/<font color="green">1073</font>）
-1. <a href="#動的mod" class="tag">動的mod</a>（1問、コンテスト平均レベル/difficulty: 1.5/<font color="green">1139</font>）
-1. <a href="#累積積" class="tag">累積積</a>（1問、コンテスト平均レベル/difficulty: 1.5/<font color="green">1139</font>）
-1. <a href="#multiset" class="tag">multiset</a>（1問、コンテスト平均レベル/difficulty: 1.5/<font color="deepskyblue">1313</font>）
-1. <a href="#組分けの余りに注目" class="tag">組分けの余りに注目</a>（3問、コンテスト平均レベル/difficulty: 1.6/<font color="deepskyblue">1206</font>）
-1. <a href="#等比数列の累積和計算" class="tag">等比数列の累積和計算</a>（2問、コンテスト平均レベル/difficulty: 1.7/<font color="green">1004</font>）
-1. <a href="#重複選択可ナップサック最適化" class="tag">重複選択可ナップサック最適化</a>（4問、コンテスト平均レベル/difficulty: 1.8/<font color="deepskyblue">1348</font>）
-1. <a href="#円周角の定理" class="tag">円周角の定理</a>／タレスの定理（1問、コンテスト平均レベル/difficulty: 2/データなし）
-1. <a href="#サンプルから推測" class="tag">サンプルから推測</a>（1問、コンテスト平均レベル/difficulty: 2/<font color="gray">344</font>）
-1. <a href="#多項定理" class="tag">多項定理</a>（2問、コンテスト平均レベル/difficulty: 2/<font color="brown">630</font>）
-1. <a href="#最近点計算" class="tag">最近点計算</a>（1問、コンテスト平均レベル/difficulty: 2/<font color="brown">657</font>）
-1. <a href="#言及する成分数を最大化する質問" class="tag">言及する成分数を最大化する質問</a>（1問、コンテスト平均レベル/difficulty: 2/<font color="green">846</font>）
-1. <a href="#多項係数と組み合わせの関係" class="tag">多項係数と組み合わせの関係</a>（3問、コンテスト平均レベル/difficulty: 2/<font color="green">872</font>）
-1. <a href="#グランディ数" class="tag">グランディ数</a>（1問、コンテスト平均レベル/difficulty: 2/<font color="green">912</font>）
-1. <a href="#遷移の収束" class="tag">遷移の収束</a>（1問、コンテスト平均レベル/difficulty: 2/<font color="green">939</font>）
-1. <a href="#ド・モルガンの法則" class="tag">ド・モルガンの法則</a>（1問、コンテスト平均レベル/difficulty: 2/<font color="green">1049</font>）
-1. <a href="#巡回置換表示" class="tag">巡回置換表示</a>（3問、コンテスト平均レベル/difficulty: 2/<font color="green">1050</font>）
-1. <a href="#頻度表" class="tag">頻度表</a>（7問、コンテスト平均レベル/difficulty: 2/<font color="green">1183</font>）
-1. <a href="#シミュレーション" class="tag">シミュレーション</a>（14問、コンテスト平均レベル/difficulty: 2/<font color="deepskyblue">1265</font>）
-1. <a href="#整礎性" class="tag">整礎性</a>（1問、コンテスト平均レベル/difficulty: 2/<font color="deepskyblue">1273</font>）
-1. <a href="#木の頂点の次数計算" class="tag">木の頂点の次数計算</a>（1問、コンテスト平均レベル/difficulty: 2/<font color="deepskyblue">1273</font>）
-1. <a href="#ナップサック最適化" class="tag">ナップサック最適化</a>（8問、コンテスト平均レベル/difficulty: 2/<font color="deepskyblue">1300</font>）
-1. <a href="#貪欲法" class="tag">貪欲法</a>（16問、コンテスト平均レベル/difficulty: 2/<font color="deepskyblue">1318</font>）
-1. <a href="#構築可能性DP" class="tag">構築可能性DP</a>（1問、コンテスト平均レベル/difficulty: 2/<font color="deepskyblue">1352</font>）
-1. <a href="#括弧列判定" class="tag">括弧列判定</a>（1問、コンテスト平均レベル/difficulty: 2/<font color="deepskyblue">1373</font>）
-1. <a href="#全探索" class="tag">全探索</a>（35問、コンテスト平均レベル/difficulty: 2/<font color="deepskyblue">1392</font>）
-1. <a href="#操作を数値に翻訳" class="tag">操作を数値に翻訳</a>（11問、コンテスト平均レベル/difficulty: 2/<font color="deepskyblue">1415</font>）
-1. <a href="#約数列挙" class="tag">約数列挙</a>（4問、コンテスト平均レベル/difficulty: 2/<font color="deepskyblue">1475</font>）
-1. <a href="#素因数分解による最小公倍数計算" class="tag">素因数分解による最小公倍数計算</a>（1問、コンテスト平均レベル/difficulty: 2/<font color="deepskyblue">1585</font>）
-1. <a href="#置換の合成" class="tag">置換の合成</a>（1問、コンテスト平均レベル/difficulty: 2/<font color="deepskyblue">1585</font>）
-1. <a href="#階乗付値" class="tag">階乗付値</a>（1問、コンテスト平均レベル/difficulty: 2/<font color="blue">1605</font>）
-1. <a href="#多次元コストナップサック最適化" class="tag">多次元コストナップサック最適化</a>（2問、コンテスト平均レベル/difficulty: 2/<font color="blue">1644</font>）
-1. <a href="#多次元コスト重複選択可ナップサック最適化" class="tag">多次元コスト重複選択可ナップサック最適化</a>（2問、コンテスト平均レベル/difficulty: 2/<font color="blue">1644</font>）
-1. <a href="#解の公式" class="tag">解の公式</a>（1問、コンテスト平均レベル/difficulty: 2/<font color="blue">1856</font>）
-1. <a href="#余事象" class="tag">余事象</a>（4問、コンテスト平均レベル/difficulty: 2.1/<font color="green">1184</font>）
-1. <a href="#実験" class="tag">実験</a>（3問、コンテスト平均レベル/difficulty: 2.1/<font color="green">1195</font>）
-1. <a href="#小数計算の整数への帰着" class="tag">小数計算の整数への帰着</a>（5問、コンテスト平均レベル/difficulty: 2.1/<font color="deepskyblue">1435</font>）
-1. <a href="#場合分け" class="tag">場合分け</a>（32問、コンテスト平均レベル/difficulty: 2.1/<font color="deepskyblue">1543</font>）
-1. <a href="#平方根" class="tag">平方根</a>（4問、コンテスト平均レベル/difficulty: 2.1/<font color="blue">1611</font>）
-1. <a href="#ナップサックDP" class="tag">ナップサックDP</a>（4問、コンテスト平均レベル/difficulty: 2.2/<font color="deepskyblue">1253</font>）
-1. <a href="#小数誤差" class="tag">小数誤差</a>（5問、コンテスト平均レベル/difficulty: 2.2/<font color="deepskyblue">1383</font>）
-1. <a href="#幅優先探索" class="tag">幅優先探索</a>／BFS（10問、コンテスト平均レベル/difficulty: 2.2/<font color="deepskyblue">1413</font>）
-1. <a href="#頂点倍加" class="tag">頂点倍加</a>（2問、コンテスト平均レベル/difficulty: 2.2/<font color="deepskyblue">1468</font>）
-1. <a href="#２変数決め打ち" class="tag">２変数決め打ち</a>（2問、コンテスト平均レベル/difficulty: 2.2/<font color="deepskyblue">1587</font>）
-1. <a href="#重複選択個数の線形関係式" class="tag">重複選択個数の線形関係式</a>（2問、コンテスト平均レベル/difficulty: 2.2/<font color="deepskyblue">1587</font>、[解説ページ](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#重複選択個数の線形関係式)））
-1. <a href="#アルゴリズムのリアクティブ化" class="tag">アルゴリズムのリアクティブ化</a>（3問、コンテスト平均レベル/difficulty: 2.2/<font color="blue">1648</font>）
-1. <a href="#連長圧縮" class="tag">連長圧縮</a>／ランレングス圧縮／RLE（2問、コンテスト平均レベル/difficulty: 2.2/<font color="blue">1716</font>）
-1. <a href="#良いケースに帰着" class="tag">良いケースに帰着</a>（2問、コンテスト平均レベル/difficulty: 2.2/<font color="blue">1762</font>、[解説ページ](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#良いケースに帰着)））
-1. <a href="#ウノ計算" class="tag">ウノ計算</a>（2問、コンテスト平均レベル/difficulty: 2.2/<font color="blue">1795</font>）
-1. <a href="#不定方程式の因数分解" class="tag">不定方程式の因数分解</a>（2問、コンテスト平均レベル/difficulty: 2.2/<font color="blue">1844</font>）
-1. <a href="#検索" class="tag">検索</a>（4問、コンテスト平均レベル/difficulty: 2.3/<font color="brown">785</font>）
-1. <a href="#操作の纏め上げ" class="tag">操作の纏め上げ</a>（6問、コンテスト平均レベル/difficulty: 2.3/<font color="deepskyblue">1244</font>）
-1. <a href="#門松列DP" class="tag">門松列DP</a>（4問、コンテスト平均レベル/difficulty: 2.3/<font color="deepskyblue">1307</font>）
-1. <a href="#ソート" class="tag">ソート</a>（12問、コンテスト平均レベル/difficulty: 2.3/<font color="deepskyblue">1413</font>）
-1. <a href="#素集合データ構造" class="tag">素集合データ構造</a>／UnionFind／UF／DSU（10問、コンテスト平均レベル/difficulty: 2.3/<font color="deepskyblue">1413</font>）
-1. <a href="#連結成分取得" class="tag">連結成分取得</a>（10問、コンテスト平均レベル/difficulty: 2.3/<font color="deepskyblue">1413</font>）
-1. <a href="#階乗を用いた二項係数計算" class="tag">階乗を用いた二項係数計算</a>（3問、コンテスト平均レベル/difficulty: 2.3/<font color="deepskyblue">1426</font>）
-1. <a href="#累積和" class="tag">累積和</a>（10問、コンテスト平均レベル/difficulty: 2.3/<font color="deepskyblue">1432</font>）
-1. <a href="#マッチ度ごとに管理" class="tag">マッチ度ごとに管理</a>（8問、コンテスト平均レベル/difficulty: 2.3/<font color="deepskyblue">1449</font>）
-1. <a href="#ギャグ" class="tag">ギャグ</a>（9問、コンテスト平均レベル/difficulty: 2.3/<font color="deepskyblue">1572</font>）
-1. <a href="#サンプルに帰着" class="tag">サンプルに帰着</a>（4問、コンテスト平均レベル/difficulty: 2.3/<font color="deepskyblue">1591</font>）
-1. <a href="#階乗逆元" class="tag">階乗逆元</a>（6問、コンテスト平均レベル/difficulty: 2.3/<font color="blue">1613</font>）
-1. <a href="#同じ値の纏め上げ" class="tag">同じ値の纏め上げ</a>（10問、コンテスト平均レベル/difficulty: 2.3/<font color="blue">1638</font>）
-1. <a href="#階差数列" class="tag">階差数列</a>（4問、コンテスト平均レベル/difficulty: 2.3/<font color="blue">1678</font>）
-1. <a href="#素数列挙" class="tag">素数列挙</a>（5問、コンテスト平均レベル/difficulty: 2.3/<font color="blue">1759</font>）
-1. <a href="#ニム和" class="tag">ニム和</a>（3問、コンテスト平均レベル/difficulty: 2.3/<font color="blue">1803</font>）
-1. <a href="#区間管理" class="tag">区間管理</a>（8問、コンテスト平均レベル/difficulty: 2.4/<font color="blue">1604</font>）
-1. <a href="#不変量に注目" class="tag">不変量に注目</a>（7問、コンテスト平均レベル/difficulty: 2.4/<font color="blue">1629</font>）
-1. <a href="#損をしない変形" class="tag">損をしない変形</a>（13問、コンテスト平均レベル/difficulty: 2.4/<font color="blue">1766</font>、[解説ページ](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#損をしない変形)））
-1. <a href="#最終ターン数に注目" class="tag">最終ターン数に注目</a>（6問、コンテスト平均レベル/difficulty: 2.4/<font color="blue">1809</font>）
-1. <a href="#変数決め打ち" class="tag">変数決め打ち</a>（12問、コンテスト平均レベル/difficulty: 2.4/<font color="blue">1826</font>）
-1. <a href="#解と係数の関係" class="tag">解と係数の関係</a>（2問、コンテスト平均レベル/difficulty: 2.5/<font color="green">883</font>）
-1. <a href="#区間を切片の差に翻訳" class="tag">区間を切片の差に翻訳</a>（2問、コンテスト平均レベル/difficulty: 2.5/<font color="green">945</font>）
-1. <a href="#DAG上のDP" class="tag">DAG上のDP</a>（4問、コンテスト平均レベル/difficulty: 2.5/<font color="green">1056</font>）
-1. <a href="#不明な想定解" class="tag">不明な想定解</a>（3問、コンテスト平均レベル/difficulty: 2.5/<font color="green">1079</font>、[解説ページ](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#不明な想定解)））
-1. <a href="#最長歩道計算" class="tag">最長歩道計算</a>（1問、コンテスト平均レベル/difficulty: 2.5/<font color="deepskyblue">1200</font>）
-1. <a href="#操作回数最小値で判定" class="tag">操作回数最小値で判定</a>（1問、コンテスト平均レベル/difficulty: 2.5/<font color="deepskyblue">1200</font>）
-1. <a href="#配列を像で管理" class="tag">配列を像で管理</a>（1問、コンテスト平均レベル/difficulty: 2.5/<font color="deepskyblue">1200</font>）
-1. <a href="#B進法表記を用いた構築" class="tag">B進法表記を用いた構築</a>（1問、コンテスト平均レベル/difficulty: 2.5/<font color="deepskyblue">1318</font>）
-1. <a href="#３進法" class="tag">３進法</a>（1問、コンテスト平均レベル/difficulty: 2.5/<font color="deepskyblue">1318</font>）
-1. <a href="#範囲加算更新を１つの配列に纏め上げ" class="tag">範囲加算更新を１つの配列に纏め上げ</a>（1問、コンテスト平均レベル/difficulty: 2.5/<font color="deepskyblue">1358</font>）
-1. <a href="#合成による次元削減" class="tag">合成による次元削減</a>（2問、コンテスト平均レベル/difficulty: 2.5/<font color="deepskyblue">1402</font>、[解説ページ](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#合成による次元削減)））
-1. <a href="#ミラー戦略" class="tag">ミラー戦略</a>（6問、コンテスト平均レベル/difficulty: 2.5/<font color="deepskyblue">1430</font>）
-1. <a href="#操作逆順" class="tag">操作逆順</a>（1問、コンテスト平均レベル/difficulty: 2.5/<font color="deepskyblue">1486</font>）
-1. <a href="#余り・文字ごとに分けて管理" class="tag">余り・文字ごとに分けて管理</a>（2問、コンテスト平均レベル/difficulty: 2.5/<font color="deepskyblue">1487</font>）
-1. <a href="#挿入ソート" class="tag">挿入ソート</a>（1問、コンテスト平均レベル/difficulty: 2.5/<font color="deepskyblue">1489</font>）
-1. <a href="#$\ell^1$距離から$\ell^{\infty}$距離への変換" class="tag">$\ell^1$距離から$\ell^{\infty}$距離への変換</a>（1問、コンテスト平均レベル/difficulty: 2.5/<font color="deepskyblue">1536</font>）
-1. <a href="#最遠点計算" class="tag">最遠点計算</a>（1問、コンテスト平均レベル/difficulty: 2.5/<font color="deepskyblue">1536</font>）
-1. <a href="#符号全探索による絶対値計算" class="tag">符号全探索による絶対値計算</a>（1問、コンテスト平均レベル/difficulty: 2.5/<font color="deepskyblue">1536</font>）
-1. <a href="#指定序数の値の計算を被覆の先頭項管理で処理" class="tag">指定序数の値の計算を被覆の先頭項管理で処理</a>（2問、コンテスト平均レベル/difficulty: 2.5/<font color="deepskyblue">1544</font>、[解説ページ](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#指定序数の値の計算を被覆の先頭項管理で処理)））
-1. <a href="#差分計算" class="tag">差分計算</a>（5問、コンテスト平均レベル/difficulty: 2.5/<font color="deepskyblue">1596</font>）
-1. <a href="#倍数メビウス変換" class="tag">倍数メビウス変換</a>（1問、コンテスト平均レベル/difficulty: 2.5/<font color="blue">1607</font>）
-1. <a href="#端から確定" class="tag">端から確定</a>（3問、コンテスト平均レベル/difficulty: 2.5/<font color="blue">1623</font>）
-1. <a href="#左右から走査" class="tag">左右から走査</a>（1問、コンテスト平均レベル/difficulty: 2.5/<font color="blue">1628</font>）
-1. <a href="#区間和の指定された区間計算" class="tag">区間和の指定された区間計算</a>（1問、コンテスト平均レベル/difficulty: 2.5/<font color="blue">1632</font>）
-1. <a href="#尺取り法" class="tag">尺取り法</a>（7問、コンテスト平均レベル/difficulty: 2.5/<font color="blue">1633</font>）
-1. <a href="#表示可能性DP" class="tag">表示可能性DP</a>（2問、コンテスト平均レベル/difficulty: 2.5/<font color="blue">1641</font>、[解説ページ](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#表示可能性DP)））
-1. <a href="#部分回文列挙" class="tag">部分回文列挙</a>（1問、コンテスト平均レベル/difficulty: 2.5/<font color="blue">1661</font>）
-1. <a href="#包除原理" class="tag">包除原理</a>（2問、コンテスト平均レベル/difficulty: 2.5/<font color="blue">1677</font>）
-1. <a href="#最大・最小要素削除" class="tag">最大・最小要素削除</a>（3問、コンテスト平均レベル/difficulty: 2.5/<font color="blue">1702</font>）
-1. <a href="#繰り返し二乗法" class="tag">繰り返し二乗法</a>（17問、コンテスト平均レベル/difficulty: 2.5/<font color="blue">1719</font>）
-1. <a href="#二分探索" class="tag">二分探索</a>（19問、コンテスト平均レベル/difficulty: 2.5/<font color="blue">1722</font>）
-1. <a href="#ポテンシャル付き素集合データ構造" class="tag">ポテンシャル付き素集合データ構造</a>（3問、コンテスト平均レベル/difficulty: 2.5/<font color="blue">1724</font>）
-1. <a href="#始切片の数え上げを桁ごとの計算に帰着" class="tag">始切片の数え上げを桁ごとの計算に帰着</a>（3問、コンテスト平均レベル/difficulty: 2.5/<font color="blue">1728</font>）
-1. <a href="#充足可能性判定" class="tag">充足可能性判定</a>（4問、コンテスト平均レベル/difficulty: 2.5/<font color="blue">1742</font>）
-1. <a href="#上限・下限値に言及する質問" class="tag">上限・下限値に言及する質問</a>（1問、コンテスト平均レベル/difficulty: 2.5/<font color="blue">1743</font>）
-1. <a href="#素因数分解" class="tag">素因数分解</a>（11問、コンテスト平均レベル/difficulty: 2.5/<font color="blue">1746</font>）
-1. <a href="#分枝限定法" class="tag">分枝限定法</a>（30問、コンテスト平均レベル/difficulty: 2.5/<font color="blue">1760</font>）
-1. <a href="#Vieta Jumping" class="tag">Vieta Jumping</a>／Root Flipping（1問、コンテスト平均レベル/difficulty: 2.5/<font color="blue">1768</font>）
-1. <a href="#価値上限ありナップサック最適化" class="tag">価値上限ありナップサック最適化</a>（1問、コンテスト平均レベル/difficulty: 2.5/<font color="blue">1774</font>）
-1. <a href="#重複選択可価値上限ありナップサック最適化" class="tag">重複選択可価値上限ありナップサック最適化</a>（1問、コンテスト平均レベル/difficulty: 2.5/<font color="blue">1774</font>）
-1. <a href="#剰余計算" class="tag">剰余計算</a>（50問、コンテスト平均レベル/difficulty: 2.5/<font color="blue">1781</font>）
-1. <a href="#周期" class="tag">周期</a>（6問、コンテスト平均レベル/difficulty: 2.5/<font color="blue">1799</font>）
-1. <a href="#素数を法とする逆元の再帰計算" class="tag">素数を法とする逆元の再帰計算</a>（10問、コンテスト平均レベル/difficulty: 2.5/<font color="blue">1815</font>）
-1. <a href="#不変量を保つ戦略" class="tag">不変量を保つ戦略</a>（2問、コンテスト平均レベル/difficulty: 2.5/<font color="blue">1828</font>、[解説ページ](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#不変量を保つ戦略)））
-1. <a href="#合成数を法とする逆元のオイラー関数による計算" class="tag">合成数を法とする逆元のオイラー関数による計算</a>（1問、コンテスト平均レベル/difficulty: 2.5/<font color="blue">1838</font>）
-1. <a href="#区間代入更新" class="tag">区間代入更新</a>（1問、コンテスト平均レベル/difficulty: 2.5/<font color="blue">1851</font>）
-1. <a href="#枝刈り" class="tag">枝刈り</a>（6問、コンテスト平均レベル/difficulty: 2.5/<font color="blue">1862</font>）
-1. <a href="#１次式の累積和計算" class="tag">１次式の累積和計算</a>（1問、コンテスト平均レベル/difficulty: 2.5/<font color="blue">1891</font>）
-1. <a href="#変数の対称性" class="tag">変数の対称性</a>（2問、コンテスト平均レベル/difficulty: 2.5/<font color="blue">1913</font>）
-1. <a href="#最終手番の任意性" class="tag">最終手番の任意性</a>（1問、コンテスト平均レベル/difficulty: 2.5/<font color="blue">1934</font>、[解説ページ](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#最終手番の任意性)））
-1. <a href="#場合分けによるmin・max計算" class="tag">場合分けによるmin・max計算</a>（2問、コンテスト平均レベル/difficulty: 2.5/<font color="blue">1983</font>）
-1. <a href="#多点BFS" class="tag">多点BFS</a>／多始点BFS（1問、コンテスト平均レベル/difficulty: 2.5/<font color="blue">1989</font>）
-1. <a href="#高さ奇数ニム和" class="tag">高さ奇数ニム和</a>（1問、コンテスト平均レベル/difficulty: 2.5/<font color="yellowgreen">2008</font>、[解説ページ](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#高さ奇数ニム和)））
-1. <a href="#クラスカル法" class="tag">クラスカル法</a>／Kruskal法（2問、コンテスト平均レベル/difficulty: 2.5/<font color="yellowgreen">2044</font>）
-1. <a href="#冪等重みの最短経路長計算" class="tag">冪等重みの最短経路長計算</a>（2問、コンテスト平均レベル/difficulty: 2.5/<font color="yellowgreen">2044</font>）
-1. <a href="#オイラーグラフ判定" class="tag">オイラーグラフ判定</a>（1問、コンテスト平均レベル/difficulty: 2.5/<font color="yellowgreen">2123</font>）
-1. <a href="#個数上限１複数ナップサック最適化" class="tag">個数上限１複数ナップサック最適化</a>（1問、コンテスト平均レベル/difficulty: 2.5/<font color="yellowgreen">2353</font>）
-1. <a href="#複数ナップサック最適化" class="tag">複数ナップサック最適化</a>（1問、コンテスト平均レベル/difficulty: 2.5/<font color="yellowgreen">2353</font>）
-1. <a href="#必勝戦略のリアクティブ化" class="tag">必勝戦略のリアクティブ化</a>（1問、コンテスト平均レベル/difficulty: 2.5/<font color="orange">2491</font>）
-1. <a href="#深さ優先探索" class="tag">深さ優先探索</a>／DFS（5問、コンテスト平均レベル/difficulty: 2.6/<font color="blue">1748</font>）
-1. <a href="#動的計画法" class="tag">動的計画法</a>／DP（49問、コンテスト平均レベル/difficulty: 2.6/<font color="blue">1841</font>）
-1. <a href="#フェルマーの小定理" class="tag">フェルマーの小定理</a>（7問、コンテスト平均レベル/difficulty: 2.6/<font color="blue">1928</font>）
-1. <a href="#距離空間の重み付きグラフ化" class="tag">距離空間の重み付きグラフ化</a>（3問、コンテスト平均レベル/difficulty: 2.6/<font color="blue">1933</font>、[解説ページ](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#距離空間の重み付きグラフ化)））
-1. <a href="#帰属区間取得" class="tag">帰属区間取得</a>（4問、コンテスト平均レベル/difficulty: 2.6/<font color="blue">1944</font>）
-1. <a href="#優先度付きキュー" class="tag">優先度付きキュー</a>（4問、コンテスト平均レベル/difficulty: 2.6/<font color="yellowgreen">2011</font>）
-1. <a href="#bitDP" class="tag">bitDP</a>（3問、コンテスト平均レベル/difficulty: 2.6/<font color="yellowgreen">2049</font>）
-1. <a href="#set" class="tag">set</a>（2問、コンテスト平均レベル/difficulty: 2.7/<font color="brown">650</font>）
-1. <a href="#ダイクストラ法" class="tag">ダイクストラ法</a>／Dijkstra法（6問、コンテスト平均レベル/difficulty: 2.7/<font color="deepskyblue">1549</font>）
-1. <a href="#行列累乗" class="tag">行列累乗</a>（2問、コンテスト平均レベル/difficulty: 2.7/<font color="deepskyblue">1553</font>）
-1. <a href="#一対一対応" class="tag">一対一対応</a>（4問、コンテスト平均レベル/difficulty: 2.7/<font color="blue">1634</font>）
-1. <a href="#端から順に確定" class="tag">端から順に確定</a>（2問、コンテスト平均レベル/difficulty: 2.7/<font color="blue">1693</font>）
-1. <a href="#最大・最小要素取得" class="tag">最大・最小要素取得</a>（5問、コンテスト平均レベル/difficulty: 2.7/<font color="blue">1822</font>）
-1. <a href="#imos法" class="tag">imos法</a>（6問、コンテスト平均レベル/difficulty: 2.7/<font color="blue">1853</font>）
-1. <a href="#最短経路長計算" class="tag">最短経路長計算</a>（6問、コンテスト平均レベル/difficulty: 2.7/<font color="blue">1859</font>）
-1. <a href="#押し付け戦略" class="tag">押し付け戦略</a>（2問、コンテスト平均レベル/difficulty: 2.7/<font color="blue">1908</font>、[解説ページ](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#押し付け戦略)））
-1. <a href="#オイラー関数" class="tag">オイラー関数</a>（2問、コンテスト平均レベル/difficulty: 2.7/<font color="blue">1910</font>）
-1. <a href="#bitごとに計算" class="tag">bitごとに計算</a>（7問、コンテスト平均レベル/difficulty: 2.7/<font color="blue">1922</font>）
-1. <a href="#倍数ゼータ変換" class="tag">倍数ゼータ変換</a>（2問、コンテスト平均レベル/difficulty: 2.7/<font color="blue">1956</font>）
-1. <a href="#素数を法とする逆元のフェルマーの小定理による計算" class="tag">素数を法とする逆元のフェルマーの小定理による計算</a>（6問、コンテスト平均レベル/difficulty: 2.7/<font color="blue">1982</font>）
-1. <a href="#木DP" class="tag">木DP</a>（3問、コンテスト平均レベル/difficulty: 2.7/<font color="blue">1991</font>）
-1. <a href="#期待値漸化式" class="tag">期待値漸化式</a>（3問、コンテスト平均レベル/difficulty: 2.7/<font color="yellowgreen">2036</font>）
-1. <a href="#円環の倍化実装" class="tag">円環の倍化実装</a>（2問、コンテスト平均レベル/difficulty: 2.7/<font color="yellowgreen">2074</font>）
-1. <a href="#超頂点追加" class="tag">超頂点追加</a>（2問、コンテスト平均レベル/difficulty: 2.7/<font color="yellowgreen">2107</font>）
-1. <a href="#ナップサック割り当て数え上げ" class="tag">ナップサック割り当て数え上げ</a>（2問、コンテスト平均レベル/difficulty: 2.7/<font color="yellowgreen">2251</font>）
-1. <a href="#区間和取得" class="tag">区間和取得</a>（6問、コンテスト平均レベル/difficulty: 2.8/<font color="blue">1763</font>）
-1. <a href="#クエリ先読み" class="tag">クエリ先読み</a>（6問、コンテスト平均レベル/difficulty: 2.8/<font color="blue">1945</font>）
-1. <a href="#一要素挿入" class="tag">一要素挿入</a>（6問、コンテスト平均レベル/difficulty: 2.8/<font color="blue">1956</font>）
-1. <a href="#イベントソート" class="tag">イベントソート</a>（4問、コンテスト平均レベル/difficulty: 2.8/<font color="blue">1990</font>）
-1. <a href="#無向木の有向化" class="tag">無向木の有向化</a>（3問、コンテスト平均レベル/difficulty: 2.8/<font color="yellowgreen">2013</font>）
-1. <a href="#緩和" class="tag">緩和</a>（3問、コンテスト平均レベル/difficulty: 2.8/<font color="yellowgreen">2019</font>、[解説ページ](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#緩和)））
-1. <a href="#平面走査" class="tag">平面走査</a>（8問、コンテスト平均レベル/difficulty: 2.8/<font color="yellowgreen">2019</font>）
-1. <a href="#sorted set" class="tag">sorted set</a>（4問、コンテスト平均レベル/difficulty: 2.8/<font color="yellowgreen">2040</font>）
-1. <a href="#区間kth取得" class="tag">区間kth取得</a>（3問、コンテスト平均レベル/difficulty: 2.8/<font color="yellowgreen">2069</font>）
-1. <a href="#フェニック木" class="tag">フェニック木</a>／BIT（11問、コンテスト平均レベル/difficulty: 2.8/<font color="yellowgreen">2097</font>）
-1. <a href="#積和の和積化" class="tag">積和の和積化</a>（3問、コンテスト平均レベル/difficulty: 2.8/<font color="yellowgreen">2113</font>）
-1. <a href="#半分全列挙" class="tag">半分全列挙</a>（4問、コンテスト平均レベル/difficulty: 2.8/<font color="yellowgreen">2181</font>）
-1. <a href="#ゼータ変換" class="tag">ゼータ変換</a>（3問、コンテスト平均レベル/difficulty: 2.8/<font color="yellowgreen">2310</font>）
-1. <a href="#メビウス変換" class="tag">メビウス変換</a>（3問、コンテスト平均レベル/difficulty: 2.8/<font color="yellowgreen">2310</font>）
-1. <a href="#区間加算更新" class="tag">区間加算更新</a>（7問、コンテスト平均レベル/difficulty: 2.9/<font color="yellowgreen">2041</font>）
-1. <a href="#座標圧縮" class="tag">座標圧縮</a>／座圧（6問、コンテスト平均レベル/difficulty: 2.9/<font color="yellowgreen">2254</font>）
-1. <a href="#タイリングを用いたミラー戦略" class="tag">タイリングを用いたミラー戦略</a>（1問、コンテスト平均レベル/difficulty: 3/データなし）
-1. <a href="#既出を検索" class="tag">既出を検索</a>（2問、コンテスト平均レベル/difficulty: 3/データなし）
-1. <a href="#辺を頂点とするグラフ" class="tag">辺を頂点とするグラフ</a>（1問、コンテスト平均レベル/difficulty: 3/データなし）
-1. <a href="#サイクルと非サイクルに分割" class="tag">サイクルと非サイクルに分割</a>（1問、コンテスト平均レベル/difficulty: 3/<font color="deepskyblue">1499</font>）
-1. <a href="#クエリソート" class="tag">クエリソート</a>（2問、コンテスト平均レベル/difficulty: 3/<font color="blue">1872</font>）
-1. <a href="#偏角ソート" class="tag">偏角ソート</a>（1問、コンテスト平均レベル/difficulty: 3/<font color="blue">1919</font>）
-1. <a href="#mex取得" class="tag">mex取得</a>（1問、コンテスト平均レベル/difficulty: 3/<font color="blue">1927</font>）
-1. <a href="#スライド最小化" class="tag">スライド最小化</a>（1問、コンテスト平均レベル/difficulty: 3/<font color="blue">1959</font>）
-1. <a href="#オイラー関数前計算" class="tag">オイラー関数前計算</a>（1問、コンテスト平均レベル/difficulty: 3/<font color="blue">1983</font>）
-1. <a href="#２次元imos法" class="tag">２次元imos法</a>（1問、コンテスト平均レベル/difficulty: 3/<font color="blue">1998</font>）
-1. <a href="#２次元累積和" class="tag">２次元累積和</a>（1問、コンテスト平均レベル/difficulty: 3/<font color="blue">1998</font>）
-1. <a href="#B進法" class="tag">B進法</a>（9問、コンテスト平均レベル/difficulty: 3/<font color="yellowgreen">2034</font>）
-1. <a href="#ポラードの$\rho$" class="tag">ポラードの$\rho$</a>（1問、コンテスト平均レベル/difficulty: 3/<font color="yellowgreen">2047</font>）
-1. <a href="#平方剰余" class="tag">平方剰余</a>（1問、コンテスト平均レベル/difficulty: 3/<font color="yellowgreen">2047</font>）
-1. <a href="#ループ戦略" class="tag">ループ戦略</a>（3問、コンテスト平均レベル/difficulty: 3/<font color="yellowgreen">2051</font>）
-1. <a href="#レベル祖先計算" class="tag">レベル祖先計算</a>（1問、コンテスト平均レベル/difficulty: 3/<font color="yellowgreen">2056</font>）
-1. <a href="#最近共通祖先計算" class="tag">最近共通祖先計算</a>（1問、コンテスト平均レベル/difficulty: 3/<font color="yellowgreen">2056</font>）
-1. <a href="#弾性衝突を通過に翻訳して位置関係から復元" class="tag">弾性衝突を通過に翻訳して位置関係から復元</a>（1問、コンテスト平均レベル/difficulty: 3/<font color="yellowgreen">2056</font>）
-1. <a href="#木の頂点の重さ計算" class="tag">木の頂点の重さ計算</a>（1問、コンテスト平均レベル/difficulty: 3/<font color="yellowgreen">2056</font>）
-1. <a href="#付値管理" class="tag">付値管理</a>（3問、コンテスト平均レベル/difficulty: 3/<font color="yellowgreen">2062</font>）
-1. <a href="#区間最大・最小値取得" class="tag">区間最大・最小値取得</a>（2問、コンテスト平均レベル/difficulty: 3/<font color="yellowgreen">2064</font>）
-1. <a href="#経路復元" class="tag">経路復元</a>（1問、コンテスト平均レベル/difficulty: 3/<font color="yellowgreen">2068</font>）
-1. <a href="#始点と終点からの最短経路長計算" class="tag">始点と終点からの最短経路長計算</a>（1問、コンテスト平均レベル/difficulty: 3/<font color="yellowgreen">2068</font>）
-1. <a href="#終点からの最短経路長計算" class="tag">終点からの最短経路長計算</a>（1問、コンテスト平均レベル/difficulty: 3/<font color="yellowgreen">2068</font>）
-1. <a href="#線形代数" class="tag">線形代数</a>（5問、コンテスト平均レベル/difficulty: 3/<font color="yellowgreen">2087</font>）
-1. <a href="#区間の分割の数え上げを切片の分割に帰着" class="tag">区間の分割の数え上げを切片の分割に帰着</a>（2問、コンテスト平均レベル/difficulty: 3/<font color="yellowgreen">2097</font>）
-1. <a href="#総和計算の期待値への帰着" class="tag">総和計算の期待値への帰着</a>（4問、コンテスト平均レベル/difficulty: 3/<font color="yellowgreen">2119</font>、[解説ページ](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#総和計算の期待値への帰着)））
-1. <a href="#一要素削除" class="tag">一要素削除</a>（3問、コンテスト平均レベル/difficulty: 3/<font color="yellowgreen">2125</font>）
-1. <a href="#区間要素数取得" class="tag">区間要素数取得</a>（2問、コンテスト平均レベル/difficulty: 3/<font color="yellowgreen">2145</font>）
-1. <a href="#外積" class="tag">外積</a>（1問、コンテスト平均レベル/difficulty: 3/<font color="yellowgreen">2147</font>）
-1. <a href="#区間の重複度計算" class="tag">区間の重複度計算</a>（2問、コンテスト平均レベル/difficulty: 3/<font color="yellowgreen">2155</font>）
-1. <a href="#ダブリング" class="tag">ダブリング</a>（2問、コンテスト平均レベル/difficulty: 3/<font color="yellowgreen">2165</font>）
-1. <a href="#グリッド上の価値最大化" class="tag">グリッド上の価値最大化</a>（1問、コンテスト平均レベル/difficulty: 3/<font color="yellowgreen">2169</font>）
-1. <a href="#確率漸化式" class="tag">確率漸化式</a>（1問、コンテスト平均レベル/difficulty: 3/<font color="yellowgreen">2169</font>）
-1. <a href="#コーシー・フロベニウスの補題" class="tag">コーシー・フロベニウスの補題</a>／バーンサイドの補題（1問、コンテスト平均レベル/difficulty: 3/<font color="yellowgreen">2183</font>）
-1. <a href="#二面体群" class="tag">二面体群</a>（1問、コンテスト平均レベル/difficulty: 3/<font color="yellowgreen">2183</font>）
-1. <a href="#最大公約数を用いた最小公倍数計算" class="tag">最大公約数を用いた最小公倍数計算</a>（1問、コンテスト平均レベル/difficulty: 3/<font color="yellowgreen">2191</font>）
-1. <a href="#反射の倍化実装" class="tag">反射の倍化実装</a>（1問、コンテスト平均レベル/difficulty: 3/<font color="yellowgreen">2191</font>）
-1. <a href="#解法場合分け" class="tag">解法場合分け</a>（5問、コンテスト平均レベル/difficulty: 3/<font color="yellowgreen">2228</font>、[解説ページ](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#解法場合分け)））
-1. <a href="#ユークリッドの互除法" class="tag">ユークリッドの互除法</a>（6問、コンテスト平均レベル/difficulty: 3/<font color="yellowgreen">2229</font>）
-1. <a href="#ユークリッドの互除法による最大公約数計算" class="tag">ユークリッドの互除法による最大公約数計算</a>（6問、コンテスト平均レベル/difficulty: 3/<font color="yellowgreen">2229</font>）
-1. <a href="#データ構造初期化" class="tag">データ構造初期化</a>（1問、コンテスト平均レベル/difficulty: 3/<font color="yellowgreen">2237</font>）
-1. <a href="#一対一対応と乱択の可換性" class="tag">一対一対応と乱択の可換性</a>（1問、コンテスト平均レベル/difficulty: 3/<font color="yellowgreen">2237</font>）
-1. <a href="#頂点倍化" class="tag">頂点倍化</a>（1問、コンテスト平均レベル/difficulty: 3/<font color="yellowgreen">2237</font>）
-1. <a href="#再帰" class="tag">再帰</a>（6問、コンテスト平均レベル/difficulty: 3/<font color="yellowgreen">2242</font>）
-1. <a href="#bitset高速化" class="tag">bitset高速化</a>（1問、コンテスト平均レベル/difficulty: 3/<font color="yellowgreen">2245</font>）
-1. <a href="#基底" class="tag">基底</a>（1問、コンテスト平均レベル/difficulty: 3/<font color="yellowgreen">2245</font>）
-1. <a href="#内積の畳み込み計算" class="tag">内積の畳み込み計算</a>（1問、コンテスト平均レベル/difficulty: 3/<font color="yellowgreen">2258</font>）
-1. <a href="#floor_sum" class="tag">floor_sum</a>（2問、コンテスト平均レベル/difficulty: 3/<font color="yellowgreen">2269</font>）
-1. <a href="#全方位木DP" class="tag">全方位木DP</a>（1問、コンテスト平均レベル/difficulty: 3/<font color="yellowgreen">2322</font>）
-1. <a href="#Covex Hull Trick" class="tag">Covex Hull Trick</a>（1問、コンテスト平均レベル/difficulty: 3/<font color="yellowgreen">2337</font>）
-1. <a href="#bit全探索" class="tag">bit全探索</a>（1問、コンテスト平均レベル/difficulty: 3/<font color="yellowgreen">2344</font>）
-1. <a href="#余因子展開" class="tag">余因子展開</a>（1問、コンテスト平均レベル/difficulty: 3/<font color="yellowgreen">2344</font>）
-1. <a href="#剰余を商に翻訳" class="tag">剰余を商に翻訳</a>（1問、コンテスト平均レベル/difficulty: 3/<font color="yellowgreen">2393</font>）
-1. <a href="#フロー" class="tag">フロー</a>（1問、コンテスト平均レベル/difficulty: 3/<font color="orange">2420</font>）
-1. <a href="#完全二部マッチング" class="tag">完全二部マッチング</a>（1問、コンテスト平均レベル/difficulty: 3/<font color="orange">2420</font>）
-1. <a href="#単調関数の像計算" class="tag">単調関数の像計算</a>（1問、コンテスト平均レベル/difficulty: 3/<font color="orange">2471</font>）
-1. <a href="#区間削除更新" class="tag">区間削除更新</a>（1問、コンテスト平均レベル/difficulty: 3/<font color="orange">2489</font>）
-1. <a href="#区間挿入更新" class="tag">区間挿入更新</a>（1問、コンテスト平均レベル/difficulty: 3/<font color="orange">2489</font>）
-1. <a href="#自己写像に翻訳" class="tag">自己写像に翻訳</a>（1問、コンテスト平均レベル/difficulty: 3/<font color="orange">2501</font>）
-1. <a href="#bit高速化" class="tag">bit高速化</a>（1問、コンテスト平均レベル/difficulty: 3/<font color="orange">2521</font>）
-1. <a href="#準同型" class="tag">準同型</a>（3問、コンテスト平均レベル/difficulty: 3/<font color="orange">2656</font>）
-1. <a href="#約数メビウス変換" class="tag">約数メビウス変換</a>（2問、コンテスト平均レベル/difficulty: 3/<font color="orange">2662</font>）
-1. <a href="#指定序数の値の計算を各値未満の数え上げに帰着" class="tag">指定序数の値の計算を各値未満の数え上げに帰着</a>（1問、コンテスト平均レベル/difficulty: 3/<font color="red">3018</font>）
-1. <a href="#約数ゼータ変換" class="tag">約数ゼータ変換</a>（1問、コンテスト平均レベル/difficulty: 3/<font color="red">3018</font>）
-1. <a href="#DPのデータ構造高速化" class="tag">DPのデータ構造高速化</a>（8問、コンテスト平均レベル/difficulty: 3.1/<font color="yellowgreen">2253</font>）
-1. <a href="#期待値の線形性" class="tag">期待値の線形性</a>（4問、コンテスト平均レベル/difficulty: 3.1/<font color="yellowgreen">2254</font>）
-1. <a href="#平方分割" class="tag">平方分割</a>（3問、コンテスト平均レベル/difficulty: 3.1/<font color="yellowgreen">2313</font>）
-1. <a href="#互いに素に帰着" class="tag">互いに素に帰着</a>（3問、コンテスト平均レベル/difficulty: 3.1/<font color="yellowgreen">2375</font>）
-1. <a href="#最長共通接頭辞計算" class="tag">最長共通接頭辞計算</a>（3問、コンテスト平均レベル/difficulty: 3.1/<font color="orange">2534</font>）
-1. <a href="#ヤング図形" class="tag">ヤング図形</a>（2問、コンテスト平均レベル/difficulty: 3.2/<font color="blue">1746</font>）
-1. <a href="#調和数列" class="tag">調和数列</a>（4問、コンテスト平均レベル/difficulty: 3.2/<font color="yellowgreen">2383</font>）
-1. <a href="#ベン図" class="tag">ベン図</a>（2問、コンテスト平均レベル/difficulty: 3.2/<font color="orange">2447</font>）
-1. <a href="#十分大きな法で計算" class="tag">十分大きな法で計算</a>（3問、コンテスト平均レベル/difficulty: 3.3/<font color="yellowgreen">2290</font>）
-1. <a href="#桁DP" class="tag">桁DP</a>（4問、コンテスト平均レベル/difficulty: 3.3/<font color="orange">2612</font>）
-1. <a href="#小さいケースの構築を拡張" class="tag">小さいケースの構築を拡張</a>（3問、コンテスト平均レベル/difficulty: 3.5/<font color="yellowgreen">2300</font>）
-1. <a href="#剰余による確率的判定" class="tag">剰余による確率的判定</a>（2問、コンテスト平均レベル/difficulty: 3.5/<font color="yellowgreen">2307</font>）
-1. <a href="#Moのアルゴリズム" class="tag">Moのアルゴリズム</a>（1問、コンテスト平均レベル/difficulty: 3.5/<font color="yellowgreen">2381</font>）
-1. <a href="#最小素因数前計算" class="tag">最小素因数前計算</a>（2問、コンテスト平均レベル/difficulty: 3.5/<font color="orange">2436</font>）
-1. <a href="#２進法" class="tag">２進法</a>（5問、コンテスト平均レベル/difficulty: 3.5/<font color="orange">2464</font>）
-1. <a href="#交代和" class="tag">交代和</a>（1問、コンテスト平均レベル/difficulty: 3.5/<font color="orange">2500</font>）
-1. <a href="#inplace DP" class="tag">inplace DP</a>（2問、コンテスト平均レベル/difficulty: 3.5/<font color="orange">2536</font>）
-1. <a href="#第二種スターリング数" class="tag">第二種スターリング数</a>（1問、コンテスト平均レベル/difficulty: 3.5/<font color="orange">2643</font>）
-1. <a href="#フロベニウス数" class="tag">フロベニウス数</a>／フロベニウスの硬貨交換問題（1問、コンテスト平均レベル/difficulty: 3.5/<font color="orange">2648</font>）
-1. <a href="#像決め打ち二分探索" class="tag">像決め打ち二分探索</a>（1問、コンテスト平均レベル/difficulty: 3.5/<font color="orange">2648</font>）
-1. <a href="#カタラン数" class="tag">カタラン数</a>（1問、コンテスト平均レベル/difficulty: 3.5/<font color="orange">2649</font>）
-1. <a href="#01BFS" class="tag">01BFS</a>（1問、コンテスト平均レベル/difficulty: 3.5/<font color="orange">2690</font>）
-1. <a href="#階数因数分解" class="tag">階数因数分解</a>（1問、コンテスト平均レベル/difficulty: 3.5/<font color="orange">2741</font>）
-1. <a href="#階数計算" class="tag">階数計算</a>（1問、コンテスト平均レベル/difficulty: 3.5/<font color="orange">2741</font>）
-1. <a href="#行列の簡約化" class="tag">行列の簡約化</a>（1問、コンテスト平均レベル/difficulty: 3.5/<font color="orange">2741</font>）
-1. <a href="#掃き出し法" class="tag">掃き出し法</a>（1問、コンテスト平均レベル/difficulty: 3.5/<font color="orange">2741</font>）
-1. <a href="#ローリングハッシュ" class="tag">ローリングハッシュ</a>（2問、コンテスト平均レベル/difficulty: 3.5/<font color="red">2877</font>）
-1. <a href="#高速フーリエ変換" class="tag">高速フーリエ変換</a>／数論的変換／FTT／NTT（4問、コンテスト平均レベル/difficulty: 3.6/<font color="orange">2765</font>）
-1. <a href="#畳み込み" class="tag">畳み込み</a>（4問、コンテスト平均レベル/difficulty: 3.6/<font color="orange">2765</font>）
-1. <a href="#同値関係" class="tag">同値関係</a>（4問、コンテスト平均レベル/difficulty: 3.8/<font color="orange">2758</font>）
-1. <a href="#キュー" class="tag">キュー</a>（1問、コンテスト平均レベル/difficulty: 4/<font color="orange">2658</font>）
-1. <a href="#マージ" class="tag">マージ</a>（2問、コンテスト平均レベル/difficulty: 4/<font color="orange">2658</font>）
-1. <a href="#区間を中間で分割してマージ" class="tag">区間を中間で分割してマージ</a>（1問、コンテスト平均レベル/difficulty: 4/<font color="orange">2658</font>）
-1. <a href="#リュカの定理" class="tag">リュカの定理</a>（1問、コンテスト平均レベル/difficulty: 4/<font color="orange">2768</font>）
-1. <a href="#小さい法における二項係数" class="tag">小さい法における二項係数</a>（1問、コンテスト平均レベル/difficulty: 4/<font color="orange">2768</font>）
-1. <a href="#小さい法に帰着させる再帰" class="tag">小さい法に帰着させる再帰</a>（1問、コンテスト平均レベル/difficulty: 4/<font color="orange">2768</font>）
-1. <a href="#区間最大・最小値更新" class="tag">区間最大・最小値更新</a>（1問、コンテスト平均レベル/difficulty: 4/<font color="red">2903</font>）
-1. <a href="#分割統治畳み込み" class="tag">分割統治畳み込み</a>／分割統治FFT（2問、コンテスト平均レベル/difficulty: 4/<font color="red">3125</font>）
-1. <a href="#バケット分割" class="tag">バケット分割</a>（3問、コンテスト平均レベル/difficulty: 4.1/<font color="red">2872</font>）
-1. <a href="#遅延セグメント木" class="tag">遅延セグメント木</a>／遅延セグ木（2問、コンテスト平均レベル/difficulty: 4.2/<font color="red">3142</font>）
-1. <a href="#区間二次形式取得" class="tag">区間二次形式取得</a>（1問、コンテスト平均レベル/difficulty: 4.5/<font color="darkgoldenrod ">3382</font>）
-1. <a href="#区間二次式取得" class="tag">区間二次式取得</a>（1問、コンテスト平均レベル/difficulty: 4.5/<font color="darkgoldenrod ">3382</font>）
-1. <a href="#最近共通祖先" class="tag">最近共通祖先</a>（1問、コンテスト平均レベル/difficulty: 4.5/<font color="darkgoldenrod ">3382</font>）
-1. <a href="#重軽分解" class="tag">重軽分解</a>／HL分解／HLD（1問、コンテスト平均レベル/difficulty: 4.5/<font color="darkgoldenrod ">3382</font>）
-1. <a href="#フック長公式" class="tag">フック長公式</a>（1問、コンテスト平均レベル/difficulty: 5/<font color="red">3086</font>）
-1. <a href="#トポロジカルソート" class="tag">トポロジカルソート</a>（1問、コンテスト平均レベル/difficulty: 5/<font color="darkgoldenrod ">3382</font>）
-1. <a href="#強連結成分分解" class="tag">強連結成分分解</a>／SCC（1問、コンテスト平均レベル/difficulty: 5/<font color="darkgoldenrod ">3382</font>）
-1. <a href="#残余ネットワーク" class="tag">残余ネットワーク</a>（1問、コンテスト平均レベル/difficulty: 5/<font color="darkgoldenrod ">3382</font>）
-1. <a href="#P-再帰" class="tag">P-再帰</a>／P-recursive（1問、コンテスト平均レベル/difficulty: 5/<font color="darkgoldenrod ">3577</font>）
-1. <a href="#多点評価" class="tag">多点評価</a>（1問、コンテスト平均レベル/difficulty: 5/<font color="darkgoldenrod ">3577</font>）
-1. <a href="#評価点シフト" class="tag">評価点シフト</a>（1問、コンテスト平均レベル/difficulty: 5/<font color="darkgoldenrod ">3577</font>）
-1. <a href="#アルゴリズム中に追加処理" class="tag">アルゴリズム中に追加処理</a>（1問、コンテスト平均レベル/difficulty: データなし）
-1. <a href="#ハミルトン路" class="tag">ハミルトン路</a>（1問、コンテスト平均レベル/difficulty: データなし）
-1. <a href="#構文解析" class="tag">構文解析</a>（1問、コンテスト平均レベル/difficulty: データなし）
+1. <a href="#特殊な入出力" class="tag">特殊な入出力</a>（6/1.1/<font color="brown">558</font>）
+1. <a href="#数値の文字列受け取り" class="tag">数値の文字列受け取り</a>（5/1.2/<font color="brown">498</font>）
+1. <a href="#実装" class="tag">実装</a>（27/1.2/<font color="brown">615</font>）
+1. <a href="#カレンダー計算" class="tag">カレンダー計算</a>（2/1.2/<font color="brown">704</font>）
+1. <a href="#64bit整数" class="tag">64bit整数</a>（8/1.4/<font color="brown">739</font>）
+1. <a href="#複素数" class="tag">複素数</a>（1/1.5/<font color="gray">344</font>）
+1. <a href="#基数の変換" class="tag">基数の変換</a>（2/1.5/<font color="brown">477</font>）
+1. <a href="#相似" class="tag">相似</a>（1/1.5/<font color="brown">588</font>）
+1. <a href="#指定序数の値の計算を始切片の数え上げに帰着" class="tag">指定序数の値の計算を始切片の数え上げに帰着</a>（1/1.5/<font color="brown">689</font>）
+1. <a href="#符号なし64bit整数" class="tag">符号なし64bit整数</a>（2/1.5/<font color="brown">708</font>）
+1. <a href="#連想配列" class="tag">連想配列</a>（2/1.5/<font color="green">829</font>）
+1. <a href="#三角形の成立条件" class="tag">三角形の成立条件</a>（1/1.5/<font color="green">864</font>）
+1. <a href="#試行回数の期待値を各試行の実施確率の和に帰着" class="tag">試行回数の期待値を各試行の実施確率の和に帰着</a>（1/1.5/<font color="green">959</font>）
+1. <a href="#等差数列と等比数列の各点積の累積和計算" class="tag">等差数列と等比数列の各点積の累積和計算</a>（1/1.5/<font color="green">959</font>）
+1. <a href="#場合分けによる絶対値計算" class="tag">場合分けによる絶対値計算</a>（1/1.5/<font color="green">1060</font>）
+1. <a href="#１次式の最大・最小値" class="tag">１次式の最大・最小値</a>（4/1.5/<font color="green">1073</font>）
+1. <a href="#動的mod" class="tag">動的mod</a>（1/1.5/<font color="green">1139</font>）
+1. <a href="#累積積" class="tag">累積積</a>（1/1.5/<font color="green">1139</font>）
+1. <a href="#multiset" class="tag">multiset</a>（1/1.5/<font color="deepskyblue">1313</font>）
+1. <a href="#組分けの余りに注目" class="tag">組分けの余りに注目</a>（3/1.6/<font color="deepskyblue">1206</font>）
+1. <a href="#等比数列の累積和計算" class="tag">等比数列の累積和計算</a>（2/1.7/<font color="green">1004</font>）
+1. <a href="#重複選択可ナップサック最適化" class="tag">重複選択可ナップサック最適化</a>（4/1.8/<font color="deepskyblue">1348</font>）
+1. <a href="#円周角の定理" class="tag">円周角の定理</a>／タレスの定理（1/2/データなし）
+1. <a href="#サンプルから推測" class="tag">サンプルから推測</a>（1/2/<font color="gray">344</font>）
+1. <a href="#多項定理" class="tag">多項定理</a>（2/2/<font color="brown">630</font>）
+1. <a href="#最近点計算" class="tag">最近点計算</a>（1/2/<font color="brown">657</font>）
+1. <a href="#言及する成分数を最大化する質問" class="tag">言及する成分数を最大化する質問</a>（1/2/<font color="green">846</font>）
+1. <a href="#多項係数と組み合わせの関係" class="tag">多項係数と組み合わせの関係</a>（3/2/<font color="green">872</font>）
+1. <a href="#グランディ数" class="tag">グランディ数</a>（1/2/<font color="green">912</font>）
+1. <a href="#遷移の収束" class="tag">遷移の収束</a>（1/2/<font color="green">939</font>）
+1. <a href="#ド・モルガンの法則" class="tag">ド・モルガンの法則</a>（1/2/<font color="green">1049</font>）
+1. <a href="#巡回置換表示" class="tag">巡回置換表示</a>（3/2/<font color="green">1050</font>）
+1. <a href="#頻度表" class="tag">頻度表</a>（7/2/<font color="green">1183</font>）
+1. <a href="#シミュレーション" class="tag">シミュレーション</a>（14/2/<font color="deepskyblue">1265</font>）
+1. <a href="#整礎性" class="tag">整礎性</a>（1/2/<font color="deepskyblue">1273</font>）
+1. <a href="#木の頂点の次数計算" class="tag">木の頂点の次数計算</a>（1/2/<font color="deepskyblue">1273</font>）
+1. <a href="#ナップサック最適化" class="tag">ナップサック最適化</a>（8/2/<font color="deepskyblue">1300</font>）
+1. <a href="#貪欲法" class="tag">貪欲法</a>（16/2/<font color="deepskyblue">1318</font>）
+1. <a href="#構築可能性DP" class="tag">構築可能性DP</a>（1/2/<font color="deepskyblue">1352</font>）
+1. <a href="#括弧列判定" class="tag">括弧列判定</a>（1/2/<font color="deepskyblue">1373</font>）
+1. <a href="#全探索" class="tag">全探索</a>（35/2/<font color="deepskyblue">1392</font>）
+1. <a href="#操作を数値に翻訳" class="tag">操作を数値に翻訳</a>（11/2/<font color="deepskyblue">1415</font>）
+1. <a href="#約数列挙" class="tag">約数列挙</a>（4/2/<font color="deepskyblue">1475</font>）
+1. <a href="#素因数分解による最小公倍数計算" class="tag">素因数分解による最小公倍数計算</a>（1/2/<font color="deepskyblue">1585</font>）
+1. <a href="#置換の合成" class="tag">置換の合成</a>（1/2/<font color="deepskyblue">1585</font>）
+1. <a href="#階乗付値" class="tag">階乗付値</a>（1/2/<font color="blue">1605</font>）
+1. <a href="#多次元コストナップサック最適化" class="tag">多次元コストナップサック最適化</a>（2/2/<font color="blue">1644</font>）
+1. <a href="#多次元コスト重複選択可ナップサック最適化" class="tag">多次元コスト重複選択可ナップサック最適化</a>（2/2/<font color="blue">1644</font>）
+1. <a href="#解の公式" class="tag">解の公式</a>（1/2/<font color="blue">1856</font>）
+1. <a href="#余事象" class="tag">余事象</a>（4/2.1/<font color="green">1184</font>）
+1. <a href="#実験" class="tag">実験</a>（3/2.1/<font color="green">1195</font>）
+1. <a href="#小数計算の整数への帰着" class="tag">小数計算の整数への帰着</a>（5/2.1/<font color="deepskyblue">1435</font>）
+1. <a href="#場合分け" class="tag">場合分け</a>（32/2.1/<font color="deepskyblue">1543</font>）
+1. <a href="#平方根" class="tag">平方根</a>（4/2.1/<font color="blue">1611</font>）
+1. <a href="#ナップサックDP" class="tag">ナップサックDP</a>（4/2.2/<font color="deepskyblue">1253</font>）
+1. <a href="#小数誤差" class="tag">小数誤差</a>（5/2.2/<font color="deepskyblue">1383</font>）
+1. <a href="#幅優先探索" class="tag">幅優先探索</a>／BFS（10/2.2/<font color="deepskyblue">1413</font>）
+1. <a href="#頂点倍加" class="tag">頂点倍加</a>（2/2.2/<font color="deepskyblue">1468</font>）
+1. <a href="#２変数決め打ち" class="tag">２変数決め打ち</a>（2/2.2/<font color="deepskyblue">1587</font>）
+1. <a href="#重複選択個数の線形関係式" class="tag">重複選択個数の線形関係式</a>（2/2.2/<font color="deepskyblue">1587</font>、[解説ページ](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#重複選択個数の線形関係式)））
+1. <a href="#アルゴリズムのリアクティブ化" class="tag">アルゴリズムのリアクティブ化</a>（3/2.2/<font color="blue">1648</font>）
+1. <a href="#連長圧縮" class="tag">連長圧縮</a>／ランレングス圧縮／RLE（2/2.2/<font color="blue">1716</font>）
+1. <a href="#良いケースに帰着" class="tag">良いケースに帰着</a>（2/2.2/<font color="blue">1762</font>、[解説ページ](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#良いケースに帰着)））
+1. <a href="#ウノ計算" class="tag">ウノ計算</a>（2/2.2/<font color="blue">1795</font>）
+1. <a href="#不定方程式の因数分解" class="tag">不定方程式の因数分解</a>（2/2.2/<font color="blue">1844</font>）
+1. <a href="#検索" class="tag">検索</a>（4/2.3/<font color="brown">785</font>）
+1. <a href="#操作の纏め上げ" class="tag">操作の纏め上げ</a>（6/2.3/<font color="deepskyblue">1244</font>）
+1. <a href="#門松列DP" class="tag">門松列DP</a>（4/2.3/<font color="deepskyblue">1307</font>）
+1. <a href="#ソート" class="tag">ソート</a>（12/2.3/<font color="deepskyblue">1413</font>）
+1. <a href="#素集合データ構造" class="tag">素集合データ構造</a>／UnionFind／UF／DSU（10/2.3/<font color="deepskyblue">1413</font>）
+1. <a href="#連結成分取得" class="tag">連結成分取得</a>（10/2.3/<font color="deepskyblue">1413</font>）
+1. <a href="#階乗を用いた二項係数計算" class="tag">階乗を用いた二項係数計算</a>（3/2.3/<font color="deepskyblue">1426</font>）
+1. <a href="#累積和" class="tag">累積和</a>（10/2.3/<font color="deepskyblue">1432</font>）
+1. <a href="#マッチ度ごとに管理" class="tag">マッチ度ごとに管理</a>（8/2.3/<font color="deepskyblue">1449</font>）
+1. <a href="#ギャグ" class="tag">ギャグ</a>（9/2.3/<font color="deepskyblue">1572</font>）
+1. <a href="#サンプルに帰着" class="tag">サンプルに帰着</a>（4/2.3/<font color="deepskyblue">1591</font>）
+1. <a href="#階乗逆元" class="tag">階乗逆元</a>（6/2.3/<font color="blue">1613</font>）
+1. <a href="#同じ値の纏め上げ" class="tag">同じ値の纏め上げ</a>（10/2.3/<font color="blue">1638</font>）
+1. <a href="#階差数列" class="tag">階差数列</a>（4/2.3/<font color="blue">1678</font>）
+1. <a href="#素数列挙" class="tag">素数列挙</a>（5/2.3/<font color="blue">1759</font>）
+1. <a href="#ニム和" class="tag">ニム和</a>（3/2.3/<font color="blue">1803</font>）
+1. <a href="#区間管理" class="tag">区間管理</a>（8/2.4/<font color="blue">1604</font>）
+1. <a href="#不変量に注目" class="tag">不変量に注目</a>（7/2.4/<font color="blue">1629</font>）
+1. <a href="#損をしない変形" class="tag">損をしない変形</a>（13/2.4/<font color="blue">1766</font>、[解説ページ](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#損をしない変形)））
+1. <a href="#最終ターン数に注目" class="tag">最終ターン数に注目</a>（6/2.4/<font color="blue">1809</font>）
+1. <a href="#変数決め打ち" class="tag">変数決め打ち</a>（12/2.4/<font color="blue">1826</font>）
+1. <a href="#解と係数の関係" class="tag">解と係数の関係</a>（2/2.5/<font color="green">883</font>）
+1. <a href="#区間を切片の差に翻訳" class="tag">区間を切片の差に翻訳</a>（2/2.5/<font color="green">945</font>）
+1. <a href="#DAG上のDP" class="tag">DAG上のDP</a>（4/2.5/<font color="green">1056</font>）
+1. <a href="#不明な想定解" class="tag">不明な想定解</a>（3/2.5/<font color="green">1079</font>、[解説ページ](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#不明な想定解)））
+1. <a href="#最長歩道計算" class="tag">最長歩道計算</a>（1/2.5/<font color="deepskyblue">1200</font>）
+1. <a href="#操作回数最小値で判定" class="tag">操作回数最小値で判定</a>（1/2.5/<font color="deepskyblue">1200</font>）
+1. <a href="#配列を像で管理" class="tag">配列を像で管理</a>（1/2.5/<font color="deepskyblue">1200</font>）
+1. <a href="#B進法表記を用いた構築" class="tag">B進法表記を用いた構築</a>（1/2.5/<font color="deepskyblue">1318</font>）
+1. <a href="#３進法" class="tag">３進法</a>（1/2.5/<font color="deepskyblue">1318</font>）
+1. <a href="#範囲加算更新を１つの配列に纏め上げ" class="tag">範囲加算更新を１つの配列に纏め上げ</a>（1/2.5/<font color="deepskyblue">1358</font>）
+1. <a href="#合成による次元削減" class="tag">合成による次元削減</a>（2/2.5/<font color="deepskyblue">1402</font>、[解説ページ](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#合成による次元削減)））
+1. <a href="#ミラー戦略" class="tag">ミラー戦略</a>（6/2.5/<font color="deepskyblue">1430</font>）
+1. <a href="#操作逆順" class="tag">操作逆順</a>（1/2.5/<font color="deepskyblue">1486</font>）
+1. <a href="#余り・文字ごとに分けて管理" class="tag">余り・文字ごとに分けて管理</a>（2/2.5/<font color="deepskyblue">1487</font>）
+1. <a href="#挿入ソート" class="tag">挿入ソート</a>（1/2.5/<font color="deepskyblue">1489</font>）
+1. <a href="#$\ell^1$距離から$\ell^{\infty}$距離への変換" class="tag">$\ell^1$距離から$\ell^{\infty}$距離への変換</a>（1/2.5/<font color="deepskyblue">1536</font>）
+1. <a href="#最遠点計算" class="tag">最遠点計算</a>（1/2.5/<font color="deepskyblue">1536</font>）
+1. <a href="#符号全探索による絶対値計算" class="tag">符号全探索による絶対値計算</a>（1/2.5/<font color="deepskyblue">1536</font>）
+1. <a href="#指定序数の値の計算を被覆の先頭項管理で処理" class="tag">指定序数の値の計算を被覆の先頭項管理で処理</a>（2/2.5/<font color="deepskyblue">1544</font>、[解説ページ](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#指定序数の値の計算を被覆の先頭項管理で処理)））
+1. <a href="#差分計算" class="tag">差分計算</a>（5/2.5/<font color="deepskyblue">1596</font>）
+1. <a href="#倍数メビウス変換" class="tag">倍数メビウス変換</a>（1/2.5/<font color="blue">1607</font>）
+1. <a href="#端から確定" class="tag">端から確定</a>（3/2.5/<font color="blue">1623</font>）
+1. <a href="#左右から走査" class="tag">左右から走査</a>（1/2.5/<font color="blue">1628</font>）
+1. <a href="#区間和の指定された区間計算" class="tag">区間和の指定された区間計算</a>（1/2.5/<font color="blue">1632</font>）
+1. <a href="#尺取り法" class="tag">尺取り法</a>（7/2.5/<font color="blue">1633</font>）
+1. <a href="#表示可能性DP" class="tag">表示可能性DP</a>（2/2.5/<font color="blue">1641</font>、[解説ページ](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#表示可能性DP)））
+1. <a href="#部分回文列挙" class="tag">部分回文列挙</a>（1/2.5/<font color="blue">1661</font>）
+1. <a href="#包除原理" class="tag">包除原理</a>（2/2.5/<font color="blue">1677</font>）
+1. <a href="#最大・最小要素削除" class="tag">最大・最小要素削除</a>（3/2.5/<font color="blue">1702</font>）
+1. <a href="#繰り返し二乗法" class="tag">繰り返し二乗法</a>（17/2.5/<font color="blue">1719</font>）
+1. <a href="#二分探索" class="tag">二分探索</a>（19/2.5/<font color="blue">1722</font>）
+1. <a href="#ポテンシャル付き素集合データ構造" class="tag">ポテンシャル付き素集合データ構造</a>（3/2.5/<font color="blue">1724</font>）
+1. <a href="#始切片の数え上げを桁ごとの計算に帰着" class="tag">始切片の数え上げを桁ごとの計算に帰着</a>（3/2.5/<font color="blue">1728</font>）
+1. <a href="#充足可能性判定" class="tag">充足可能性判定</a>（4/2.5/<font color="blue">1742</font>）
+1. <a href="#上限・下限値に言及する質問" class="tag">上限・下限値に言及する質問</a>（1/2.5/<font color="blue">1743</font>）
+1. <a href="#素因数分解" class="tag">素因数分解</a>（11/2.5/<font color="blue">1746</font>）
+1. <a href="#分枝限定法" class="tag">分枝限定法</a>（30/2.5/<font color="blue">1760</font>）
+1. <a href="#Vieta Jumping" class="tag">Vieta Jumping</a>／Root Flipping（1/2.5/<font color="blue">1768</font>）
+1. <a href="#価値上限ありナップサック最適化" class="tag">価値上限ありナップサック最適化</a>（1/2.5/<font color="blue">1774</font>）
+1. <a href="#重複選択可価値上限ありナップサック最適化" class="tag">重複選択可価値上限ありナップサック最適化</a>（1/2.5/<font color="blue">1774</font>）
+1. <a href="#剰余計算" class="tag">剰余計算</a>（50/2.5/<font color="blue">1781</font>）
+1. <a href="#周期" class="tag">周期</a>（6/2.5/<font color="blue">1799</font>）
+1. <a href="#素数を法とする逆元の再帰計算" class="tag">素数を法とする逆元の再帰計算</a>（10/2.5/<font color="blue">1815</font>）
+1. <a href="#不変量を保つ戦略" class="tag">不変量を保つ戦略</a>（2/2.5/<font color="blue">1828</font>、[解説ページ](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#不変量を保つ戦略)））
+1. <a href="#合成数を法とする逆元のオイラー関数による計算" class="tag">合成数を法とする逆元のオイラー関数による計算</a>（1/2.5/<font color="blue">1838</font>）
+1. <a href="#区間代入更新" class="tag">区間代入更新</a>（1/2.5/<font color="blue">1851</font>）
+1. <a href="#枝刈り" class="tag">枝刈り</a>（6/2.5/<font color="blue">1862</font>）
+1. <a href="#１次式の累積和計算" class="tag">１次式の累積和計算</a>（1/2.5/<font color="blue">1891</font>）
+1. <a href="#変数の対称性" class="tag">変数の対称性</a>（2/2.5/<font color="blue">1913</font>）
+1. <a href="#最終手番の任意性" class="tag">最終手番の任意性</a>（1/2.5/<font color="blue">1934</font>、[解説ページ](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#最終手番の任意性)））
+1. <a href="#場合分けによるmin・max計算" class="tag">場合分けによるmin・max計算</a>（2/2.5/<font color="blue">1983</font>）
+1. <a href="#多点BFS" class="tag">多点BFS</a>／多始点BFS（1/2.5/<font color="blue">1989</font>）
+1. <a href="#高さ奇数ニム和" class="tag">高さ奇数ニム和</a>（1/2.5/<font color="yellowgreen">2008</font>、[解説ページ](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#高さ奇数ニム和)））
+1. <a href="#クラスカル法" class="tag">クラスカル法</a>／Kruskal法（2/2.5/<font color="yellowgreen">2044</font>）
+1. <a href="#冪等重みの最短経路長計算" class="tag">冪等重みの最短経路長計算</a>（2/2.5/<font color="yellowgreen">2044</font>）
+1. <a href="#オイラーグラフ判定" class="tag">オイラーグラフ判定</a>（1/2.5/<font color="yellowgreen">2123</font>）
+1. <a href="#個数上限１複数ナップサック最適化" class="tag">個数上限１複数ナップサック最適化</a>（1/2.5/<font color="yellowgreen">2353</font>）
+1. <a href="#複数ナップサック最適化" class="tag">複数ナップサック最適化</a>（1/2.5/<font color="yellowgreen">2353</font>）
+1. <a href="#必勝戦略のリアクティブ化" class="tag">必勝戦略のリアクティブ化</a>（1/2.5/<font color="orange">2491</font>）
+1. <a href="#深さ優先探索" class="tag">深さ優先探索</a>／DFS（5/2.6/<font color="blue">1748</font>）
+1. <a href="#動的計画法" class="tag">動的計画法</a>／DP（49/2.6/<font color="blue">1841</font>）
+1. <a href="#フェルマーの小定理" class="tag">フェルマーの小定理</a>（7/2.6/<font color="blue">1928</font>）
+1. <a href="#距離空間の重み付きグラフ化" class="tag">距離空間の重み付きグラフ化</a>（3/2.6/<font color="blue">1933</font>、[解説ページ](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#距離空間の重み付きグラフ化)））
+1. <a href="#帰属区間取得" class="tag">帰属区間取得</a>（4/2.6/<font color="blue">1944</font>）
+1. <a href="#優先度付きキュー" class="tag">優先度付きキュー</a>（4/2.6/<font color="yellowgreen">2011</font>）
+1. <a href="#bitDP" class="tag">bitDP</a>（3/2.6/<font color="yellowgreen">2049</font>）
+1. <a href="#set" class="tag">set</a>（2/2.7/<font color="brown">650</font>）
+1. <a href="#ダイクストラ法" class="tag">ダイクストラ法</a>／Dijkstra法（6/2.7/<font color="deepskyblue">1549</font>）
+1. <a href="#行列累乗" class="tag">行列累乗</a>（2/2.7/<font color="deepskyblue">1553</font>）
+1. <a href="#一対一対応" class="tag">一対一対応</a>（4/2.7/<font color="blue">1634</font>）
+1. <a href="#端から順に確定" class="tag">端から順に確定</a>（2/2.7/<font color="blue">1693</font>）
+1. <a href="#最大・最小要素取得" class="tag">最大・最小要素取得</a>（5/2.7/<font color="blue">1822</font>）
+1. <a href="#imos法" class="tag">imos法</a>（6/2.7/<font color="blue">1853</font>）
+1. <a href="#最短経路長計算" class="tag">最短経路長計算</a>（6/2.7/<font color="blue">1859</font>）
+1. <a href="#押し付け戦略" class="tag">押し付け戦略</a>（2/2.7/<font color="blue">1908</font>、[解説ページ](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#押し付け戦略)））
+1. <a href="#オイラー関数" class="tag">オイラー関数</a>（2/2.7/<font color="blue">1910</font>）
+1. <a href="#bitごとに計算" class="tag">bitごとに計算</a>（7/2.7/<font color="blue">1922</font>）
+1. <a href="#倍数ゼータ変換" class="tag">倍数ゼータ変換</a>（2/2.7/<font color="blue">1956</font>）
+1. <a href="#素数を法とする逆元のフェルマーの小定理による計算" class="tag">素数を法とする逆元のフェルマーの小定理による計算</a>（6/2.7/<font color="blue">1982</font>）
+1. <a href="#木DP" class="tag">木DP</a>（3/2.7/<font color="blue">1991</font>）
+1. <a href="#期待値漸化式" class="tag">期待値漸化式</a>（3/2.7/<font color="yellowgreen">2036</font>）
+1. <a href="#円環の倍化実装" class="tag">円環の倍化実装</a>（2/2.7/<font color="yellowgreen">2074</font>）
+1. <a href="#超頂点追加" class="tag">超頂点追加</a>（2/2.7/<font color="yellowgreen">2107</font>）
+1. <a href="#ナップサック割り当て数え上げ" class="tag">ナップサック割り当て数え上げ</a>（2/2.7/<font color="yellowgreen">2251</font>）
+1. <a href="#区間和取得" class="tag">区間和取得</a>（6/2.8/<font color="blue">1763</font>）
+1. <a href="#クエリ先読み" class="tag">クエリ先読み</a>（6/2.8/<font color="blue">1945</font>）
+1. <a href="#一要素挿入" class="tag">一要素挿入</a>（6/2.8/<font color="blue">1956</font>）
+1. <a href="#イベントソート" class="tag">イベントソート</a>（4/2.8/<font color="blue">1990</font>）
+1. <a href="#無向木の有向化" class="tag">無向木の有向化</a>（3/2.8/<font color="yellowgreen">2013</font>）
+1. <a href="#緩和" class="tag">緩和</a>（3/2.8/<font color="yellowgreen">2019</font>、[解説ページ](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#緩和)））
+1. <a href="#平面走査" class="tag">平面走査</a>（8/2.8/<font color="yellowgreen">2019</font>）
+1. <a href="#sorted set" class="tag">sorted set</a>（4/2.8/<font color="yellowgreen">2040</font>）
+1. <a href="#区間kth取得" class="tag">区間kth取得</a>（3/2.8/<font color="yellowgreen">2069</font>）
+1. <a href="#フェニック木" class="tag">フェニック木</a>／BIT（11/2.8/<font color="yellowgreen">2097</font>）
+1. <a href="#積和の和積化" class="tag">積和の和積化</a>（3/2.8/<font color="yellowgreen">2113</font>）
+1. <a href="#半分全列挙" class="tag">半分全列挙</a>（4/2.8/<font color="yellowgreen">2181</font>）
+1. <a href="#ゼータ変換" class="tag">ゼータ変換</a>（3/2.8/<font color="yellowgreen">2310</font>）
+1. <a href="#メビウス変換" class="tag">メビウス変換</a>（3/2.8/<font color="yellowgreen">2310</font>）
+1. <a href="#区間加算更新" class="tag">区間加算更新</a>（7/2.9/<font color="yellowgreen">2041</font>）
+1. <a href="#座標圧縮" class="tag">座標圧縮</a>／座圧（6/2.9/<font color="yellowgreen">2254</font>）
+1. <a href="#タイリングを用いたミラー戦略" class="tag">タイリングを用いたミラー戦略</a>（1/3/データなし）
+1. <a href="#既出を検索" class="tag">既出を検索</a>（2/3/データなし）
+1. <a href="#辺を頂点とするグラフ" class="tag">辺を頂点とするグラフ</a>（1/3/データなし）
+1. <a href="#サイクルと非サイクルに分割" class="tag">サイクルと非サイクルに分割</a>（1/3/<font color="deepskyblue">1499</font>）
+1. <a href="#クエリソート" class="tag">クエリソート</a>（2/3/<font color="blue">1872</font>）
+1. <a href="#偏角ソート" class="tag">偏角ソート</a>（1/3/<font color="blue">1919</font>）
+1. <a href="#mex取得" class="tag">mex取得</a>（1/3/<font color="blue">1927</font>）
+1. <a href="#スライド最小化" class="tag">スライド最小化</a>（1/3/<font color="blue">1959</font>）
+1. <a href="#オイラー関数前計算" class="tag">オイラー関数前計算</a>（1/3/<font color="blue">1983</font>）
+1. <a href="#２次元imos法" class="tag">２次元imos法</a>（1/3/<font color="blue">1998</font>）
+1. <a href="#２次元累積和" class="tag">２次元累積和</a>（1/3/<font color="blue">1998</font>）
+1. <a href="#B進法" class="tag">B進法</a>（9/3/<font color="yellowgreen">2034</font>）
+1. <a href="#ポラードの$\rho$" class="tag">ポラードの$\rho$</a>（1/3/<font color="yellowgreen">2047</font>）
+1. <a href="#平方剰余" class="tag">平方剰余</a>（1/3/<font color="yellowgreen">2047</font>）
+1. <a href="#ループ戦略" class="tag">ループ戦略</a>（3/3/<font color="yellowgreen">2051</font>）
+1. <a href="#レベル祖先計算" class="tag">レベル祖先計算</a>（1/3/<font color="yellowgreen">2056</font>）
+1. <a href="#最近共通祖先計算" class="tag">最近共通祖先計算</a>（1/3/<font color="yellowgreen">2056</font>）
+1. <a href="#弾性衝突を通過に翻訳して位置関係から復元" class="tag">弾性衝突を通過に翻訳して位置関係から復元</a>（1/3/<font color="yellowgreen">2056</font>）
+1. <a href="#木の頂点の重さ計算" class="tag">木の頂点の重さ計算</a>（1/3/<font color="yellowgreen">2056</font>）
+1. <a href="#付値管理" class="tag">付値管理</a>（3/3/<font color="yellowgreen">2062</font>）
+1. <a href="#区間最大・最小値取得" class="tag">区間最大・最小値取得</a>（2/3/<font color="yellowgreen">2064</font>）
+1. <a href="#経路復元" class="tag">経路復元</a>（1/3/<font color="yellowgreen">2068</font>）
+1. <a href="#始点と終点からの最短経路長計算" class="tag">始点と終点からの最短経路長計算</a>（1/3/<font color="yellowgreen">2068</font>）
+1. <a href="#終点からの最短経路長計算" class="tag">終点からの最短経路長計算</a>（1/3/<font color="yellowgreen">2068</font>）
+1. <a href="#線形代数" class="tag">線形代数</a>（5/3/<font color="yellowgreen">2087</font>）
+1. <a href="#区間の分割の数え上げを切片の分割に帰着" class="tag">区間の分割の数え上げを切片の分割に帰着</a>（2/3/<font color="yellowgreen">2097</font>）
+1. <a href="#総和計算の期待値への帰着" class="tag">総和計算の期待値への帰着</a>（4/3/<font color="yellowgreen">2119</font>、[解説ページ](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#総和計算の期待値への帰着)））
+1. <a href="#一要素削除" class="tag">一要素削除</a>（3/3/<font color="yellowgreen">2125</font>）
+1. <a href="#区間要素数取得" class="tag">区間要素数取得</a>（2/3/<font color="yellowgreen">2145</font>）
+1. <a href="#外積" class="tag">外積</a>（1/3/<font color="yellowgreen">2147</font>）
+1. <a href="#区間の重複度計算" class="tag">区間の重複度計算</a>（2/3/<font color="yellowgreen">2155</font>）
+1. <a href="#ダブリング" class="tag">ダブリング</a>（2/3/<font color="yellowgreen">2165</font>）
+1. <a href="#グリッド上の価値最大化" class="tag">グリッド上の価値最大化</a>（1/3/<font color="yellowgreen">2169</font>）
+1. <a href="#確率漸化式" class="tag">確率漸化式</a>（1/3/<font color="yellowgreen">2169</font>）
+1. <a href="#コーシー・フロベニウスの補題" class="tag">コーシー・フロベニウスの補題</a>／バーンサイドの補題（1/3/<font color="yellowgreen">2183</font>）
+1. <a href="#二面体群" class="tag">二面体群</a>（1/3/<font color="yellowgreen">2183</font>）
+1. <a href="#最大公約数を用いた最小公倍数計算" class="tag">最大公約数を用いた最小公倍数計算</a>（1/3/<font color="yellowgreen">2191</font>）
+1. <a href="#反射の倍化実装" class="tag">反射の倍化実装</a>（1/3/<font color="yellowgreen">2191</font>）
+1. <a href="#解法場合分け" class="tag">解法場合分け</a>（5/3/<font color="yellowgreen">2228</font>、[解説ページ](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#解法場合分け)））
+1. <a href="#ユークリッドの互除法" class="tag">ユークリッドの互除法</a>（6/3/<font color="yellowgreen">2229</font>）
+1. <a href="#ユークリッドの互除法による最大公約数計算" class="tag">ユークリッドの互除法による最大公約数計算</a>（6/3/<font color="yellowgreen">2229</font>）
+1. <a href="#データ構造初期化" class="tag">データ構造初期化</a>（1/3/<font color="yellowgreen">2237</font>）
+1. <a href="#一対一対応と乱択の可換性" class="tag">一対一対応と乱択の可換性</a>（1/3/<font color="yellowgreen">2237</font>）
+1. <a href="#頂点倍化" class="tag">頂点倍化</a>（1/3/<font color="yellowgreen">2237</font>）
+1. <a href="#再帰" class="tag">再帰</a>（6/3/<font color="yellowgreen">2242</font>）
+1. <a href="#bitset高速化" class="tag">bitset高速化</a>（1/3/<font color="yellowgreen">2245</font>）
+1. <a href="#基底" class="tag">基底</a>（1/3/<font color="yellowgreen">2245</font>）
+1. <a href="#内積の畳み込み計算" class="tag">内積の畳み込み計算</a>（1/3/<font color="yellowgreen">2258</font>）
+1. <a href="#floor_sum" class="tag">floor_sum</a>（2/3/<font color="yellowgreen">2269</font>）
+1. <a href="#全方位木DP" class="tag">全方位木DP</a>（1/3/<font color="yellowgreen">2322</font>）
+1. <a href="#Covex Hull Trick" class="tag">Covex Hull Trick</a>（1/3/<font color="yellowgreen">2337</font>）
+1. <a href="#bit全探索" class="tag">bit全探索</a>（1/3/<font color="yellowgreen">2344</font>）
+1. <a href="#余因子展開" class="tag">余因子展開</a>（1/3/<font color="yellowgreen">2344</font>）
+1. <a href="#剰余を商に翻訳" class="tag">剰余を商に翻訳</a>（1/3/<font color="yellowgreen">2393</font>）
+1. <a href="#フロー" class="tag">フロー</a>（1/3/<font color="orange">2420</font>）
+1. <a href="#完全二部マッチング" class="tag">完全二部マッチング</a>（1/3/<font color="orange">2420</font>）
+1. <a href="#単調関数の像計算" class="tag">単調関数の像計算</a>（1/3/<font color="orange">2471</font>）
+1. <a href="#区間削除更新" class="tag">区間削除更新</a>（1/3/<font color="orange">2489</font>）
+1. <a href="#区間挿入更新" class="tag">区間挿入更新</a>（1/3/<font color="orange">2489</font>）
+1. <a href="#自己写像に翻訳" class="tag">自己写像に翻訳</a>（1/3/<font color="orange">2501</font>）
+1. <a href="#bit高速化" class="tag">bit高速化</a>（1/3/<font color="orange">2521</font>）
+1. <a href="#準同型" class="tag">準同型</a>（3/3/<font color="orange">2656</font>）
+1. <a href="#約数メビウス変換" class="tag">約数メビウス変換</a>（2/3/<font color="orange">2662</font>）
+1. <a href="#指定序数の値の計算を各値未満の数え上げに帰着" class="tag">指定序数の値の計算を各値未満の数え上げに帰着</a>（1/3/<font color="red">3018</font>）
+1. <a href="#約数ゼータ変換" class="tag">約数ゼータ変換</a>（1/3/<font color="red">3018</font>）
+1. <a href="#DPのデータ構造高速化" class="tag">DPのデータ構造高速化</a>（8/3.1/<font color="yellowgreen">2253</font>）
+1. <a href="#期待値の線形性" class="tag">期待値の線形性</a>（4/3.1/<font color="yellowgreen">2254</font>）
+1. <a href="#平方分割" class="tag">平方分割</a>（3/3.1/<font color="yellowgreen">2313</font>）
+1. <a href="#互いに素に帰着" class="tag">互いに素に帰着</a>（3/3.1/<font color="yellowgreen">2375</font>）
+1. <a href="#最長共通接頭辞計算" class="tag">最長共通接頭辞計算</a>（3/3.1/<font color="orange">2534</font>）
+1. <a href="#ヤング図形" class="tag">ヤング図形</a>（2/3.2/<font color="blue">1746</font>）
+1. <a href="#調和数列" class="tag">調和数列</a>（4/3.2/<font color="yellowgreen">2383</font>）
+1. <a href="#ベン図" class="tag">ベン図</a>（2/3.2/<font color="orange">2447</font>）
+1. <a href="#十分大きな法で計算" class="tag">十分大きな法で計算</a>（3/3.3/<font color="yellowgreen">2290</font>）
+1. <a href="#桁DP" class="tag">桁DP</a>（4/3.3/<font color="orange">2612</font>）
+1. <a href="#小さいケースの構築を拡張" class="tag">小さいケースの構築を拡張</a>（3/3.5/<font color="yellowgreen">2300</font>）
+1. <a href="#剰余による確率的判定" class="tag">剰余による確率的判定</a>（2/3.5/<font color="yellowgreen">2307</font>）
+1. <a href="#Moのアルゴリズム" class="tag">Moのアルゴリズム</a>（1/3.5/<font color="yellowgreen">2381</font>）
+1. <a href="#最小素因数前計算" class="tag">最小素因数前計算</a>（2/3.5/<font color="orange">2436</font>）
+1. <a href="#２進法" class="tag">２進法</a>（5/3.5/<font color="orange">2464</font>）
+1. <a href="#交代和" class="tag">交代和</a>（1/3.5/<font color="orange">2500</font>）
+1. <a href="#inplace DP" class="tag">inplace DP</a>（2/3.5/<font color="orange">2536</font>）
+1. <a href="#第二種スターリング数" class="tag">第二種スターリング数</a>（1/3.5/<font color="orange">2643</font>）
+1. <a href="#フロベニウス数" class="tag">フロベニウス数</a>／フロベニウスの硬貨交換問題（1/3.5/<font color="orange">2648</font>）
+1. <a href="#像決め打ち二分探索" class="tag">像決め打ち二分探索</a>（1/3.5/<font color="orange">2648</font>）
+1. <a href="#カタラン数" class="tag">カタラン数</a>（1/3.5/<font color="orange">2649</font>）
+1. <a href="#01BFS" class="tag">01BFS</a>（1/3.5/<font color="orange">2690</font>）
+1. <a href="#階数因数分解" class="tag">階数因数分解</a>（1/3.5/<font color="orange">2741</font>）
+1. <a href="#階数計算" class="tag">階数計算</a>（1/3.5/<font color="orange">2741</font>）
+1. <a href="#行列の簡約化" class="tag">行列の簡約化</a>（1/3.5/<font color="orange">2741</font>）
+1. <a href="#掃き出し法" class="tag">掃き出し法</a>（1/3.5/<font color="orange">2741</font>）
+1. <a href="#ローリングハッシュ" class="tag">ローリングハッシュ</a>（2/3.5/<font color="red">2877</font>）
+1. <a href="#高速フーリエ変換" class="tag">高速フーリエ変換</a>／数論的変換／FTT／NTT（4/3.6/<font color="orange">2765</font>）
+1. <a href="#畳み込み" class="tag">畳み込み</a>（4/3.6/<font color="orange">2765</font>）
+1. <a href="#同値関係" class="tag">同値関係</a>（4/3.8/<font color="orange">2758</font>）
+1. <a href="#キュー" class="tag">キュー</a>（1/4/<font color="orange">2658</font>）
+1. <a href="#マージ" class="tag">マージ</a>（2/4/<font color="orange">2658</font>）
+1. <a href="#区間を中間で分割してマージ" class="tag">区間を中間で分割してマージ</a>（1/4/<font color="orange">2658</font>）
+1. <a href="#リュカの定理" class="tag">リュカの定理</a>（1/4/<font color="orange">2768</font>）
+1. <a href="#小さい法における二項係数" class="tag">小さい法における二項係数</a>（1/4/<font color="orange">2768</font>）
+1. <a href="#小さい法に帰着させる再帰" class="tag">小さい法に帰着させる再帰</a>（1/4/<font color="orange">2768</font>）
+1. <a href="#区間最大・最小値更新" class="tag">区間最大・最小値更新</a>（1/4/<font color="red">2903</font>）
+1. <a href="#分割統治畳み込み" class="tag">分割統治畳み込み</a>／分割統治FFT（2/4/<font color="red">3125</font>）
+1. <a href="#バケット分割" class="tag">バケット分割</a>（3/4.1/<font color="red">2872</font>）
+1. <a href="#遅延セグメント木" class="tag">遅延セグメント木</a>／遅延セグ木（2/4.2/<font color="red">3142</font>）
+1. <a href="#区間二次形式取得" class="tag">区間二次形式取得</a>（1/4.5/<font color="darkgoldenrod ">3382</font>）
+1. <a href="#区間二次式取得" class="tag">区間二次式取得</a>（1/4.5/<font color="darkgoldenrod ">3382</font>）
+1. <a href="#最近共通祖先" class="tag">最近共通祖先</a>（1/4.5/<font color="darkgoldenrod ">3382</font>）
+1. <a href="#重軽分解" class="tag">重軽分解</a>／HL分解／HLD（1/4.5/<font color="darkgoldenrod ">3382</font>）
+1. <a href="#フック長公式" class="tag">フック長公式</a>（1/5/<font color="red">3086</font>）
+1. <a href="#トポロジカルソート" class="tag">トポロジカルソート</a>（1/5/<font color="darkgoldenrod ">3382</font>）
+1. <a href="#強連結成分分解" class="tag">強連結成分分解</a>／SCC（1/5/<font color="darkgoldenrod ">3382</font>）
+1. <a href="#残余ネットワーク" class="tag">残余ネットワーク</a>（1/5/<font color="darkgoldenrod ">3382</font>）
+1. <a href="#P-再帰" class="tag">P-再帰</a>／P-recursive（1/5/<font color="darkgoldenrod ">3577</font>）
+1. <a href="#多点評価" class="tag">多点評価</a>（1/5/<font color="darkgoldenrod ">3577</font>）
+1. <a href="#評価点シフト" class="tag">評価点シフト</a>（1/5/<font color="darkgoldenrod ">3577</font>）
+1. <a href="#アルゴリズム中に追加処理" class="tag">アルゴリズム中に追加処理</a>（1/データなし）
+1. <a href="#ハミルトン路" class="tag">ハミルトン路</a>（1/データなし）
+1. <a href="#構文解析" class="tag">構文解析</a>（1/データなし）
 
 ただしレベルがwriterに設定されていない問題があれば、★1と換算します。
 
