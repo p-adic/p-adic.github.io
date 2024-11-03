@@ -96,66 +96,66 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 
 ### ★
 
-- コンテスト平均difficulty: <font color="brown">520</font>（66問）
-- 2024年のコンテスト平均difficulty: <font color="brown">618</font>（34問）
-- 2023年のコンテスト平均difficulty: <font color="gray">370</font>（28問）
-- 2022年のコンテスト平均difficulty: <font color="brown">742</font>（4問）
+- コンテスト平均difficulty: diff <font color="brown">520</font>（66問）
+- 2024年のコンテスト平均difficulty: diff <font color="brown">618</font>（34問）
+- 2023年のコンテスト平均difficulty: diff <font color="gray">370</font>（28問）
+- 2022年のコンテスト平均difficulty: diff <font color="brown">742</font>（4問）
 
 ### ★☆
 
-- コンテスト平均difficulty: <font color="green">943</font>（92問）
-- 2024年のコンテスト平均difficulty: <font color="green">982</font>（42問）
-- 2023年のコンテスト平均difficulty: <font color="green">934</font>（38問）
-- 2022年のコンテスト平均difficulty: <font color="green">831</font>（12問）
+- コンテスト平均difficulty: diff <font color="green">943</font>（92問）
+- 2024年のコンテスト平均difficulty: diff <font color="green">982</font>（42問）
+- 2023年のコンテスト平均difficulty: diff <font color="green">934</font>（38問）
+- 2022年のコンテスト平均difficulty: diff <font color="green">831</font>（12問）
 
 ### ★★
 
-- コンテスト平均difficulty: <font color="deepskyblue">1341</font>（130問）
-- 2024年のコンテスト平均difficulty: <font color="deepskyblue">1433</font>（55問）
-- 2023年のコンテスト平均difficulty: <font color="deepskyblue">1240</font>（58問）
-- 2022年のコンテスト平均difficulty: <font color="deepskyblue">1389</font>（17問）
+- コンテスト平均difficulty: diff <font color="deepskyblue">1341</font>（130問）
+- 2024年のコンテスト平均difficulty: diff <font color="deepskyblue">1433</font>（55問）
+- 2023年のコンテスト平均difficulty: diff <font color="deepskyblue">1240</font>（58問）
+- 2022年のコンテスト平均difficulty: diff <font color="deepskyblue">1389</font>（17問）
 
 ### ★★☆
 
-- コンテスト平均difficulty: <font color="blue">1825</font>（155問）
-- 2024年のコンテスト平均difficulty: <font color="blue">1838</font>（59問）
-- 2023年のコンテスト平均difficulty: <font color="blue">1798</font>（78問）
-- 2022年のコンテスト平均difficulty: <font color="blue">1899</font>（18問）
+- コンテスト平均difficulty: diff <font color="blue">1825</font>（155問）
+- 2024年のコンテスト平均difficulty: diff <font color="blue">1838</font>（59問）
+- 2023年のコンテスト平均difficulty: diff <font color="blue">1798</font>（78問）
+- 2022年のコンテスト平均difficulty: diff <font color="blue">1899</font>（18問）
 
 ### ★★★
 
-- コンテスト平均difficulty: <font color="yellowgreen">2238</font>（159問）
-- 2024年のコンテスト平均difficulty: <font color="yellowgreen">2262</font>（70問）
-- 2023年のコンテスト平均difficulty: <font color="yellowgreen">2211</font>（67問）
-- 2022年のコンテスト平均difficulty: <font color="yellowgreen">2245</font>（22問）
+- コンテスト平均difficulty: diff <font color="yellowgreen">2238</font>（159問）
+- 2024年のコンテスト平均difficulty: diff <font color="yellowgreen">2262</font>（70問）
+- 2023年のコンテスト平均difficulty: diff <font color="yellowgreen">2211</font>（67問）
+- 2022年のコンテスト平均difficulty: diff <font color="yellowgreen">2245</font>（22問）
 
 ### ★★★☆
 
-- コンテスト平均difficulty: <font color="orange">2575</font>（132問）
-- 2024年のコンテスト平均difficulty: <font color="orange">2560</font>（49問）
-- 2023年のコンテスト平均difficulty: <font color="orange">2570</font>（63問）
-- 2022年のコンテスト平均difficulty: <font color="orange">2627</font>（20問）
+- コンテスト平均difficulty: diff <font color="orange">2575</font>（132問）
+- 2024年のコンテスト平均difficulty: diff <font color="orange">2560</font>（49問）
+- 2023年のコンテスト平均difficulty: diff <font color="orange">2570</font>（63問）
+- 2022年のコンテスト平均difficulty: diff <font color="orange">2627</font>（20問）
 
 ### ★★★★
 
-- コンテスト平均difficulty: <font color="red">2823</font>（70問）
-- 2024年のコンテスト平均difficulty: <font color="red">2823</font>（19問）
-- 2023年のコンテスト平均difficulty: <font color="red">2843</font>（42問）
-- 2022年のコンテスト平均difficulty: <font color="orange">2724</font>（9問）
+- コンテスト平均difficulty: diff <font color="red">2823</font>（70問）
+- 2024年のコンテスト平均difficulty: diff <font color="red">2823</font>（19問）
+- 2023年のコンテスト平均difficulty: diff <font color="red">2843</font>（42問）
+- 2022年のコンテスト平均difficulty: diff <font color="orange">2724</font>（9問）
 
 ### ★★★★☆
 
-- コンテスト平均difficulty: <font color="red">3155</font>（22問）
-- 2024年のコンテスト平均difficulty: <font color="red">2988</font>（7問）
-- 2023年のコンテスト平均difficulty: <font color="red">3174</font>（10問）
-- 2022年のコンテスト平均difficulty: <font color="darkgoldenrod ">3349</font>（5問）
+- コンテスト平均difficulty: diff <font color="red">3155</font>（22問）
+- 2024年のコンテスト平均difficulty: diff <font color="red">2988</font>（7問）
+- 2023年のコンテスト平均difficulty: diff <font color="red">3174</font>（10問）
+- 2022年のコンテスト平均difficulty: diff <font color="darkgoldenrod ">3349</font>（5問）
 
 ### ★★★★★
 
-- コンテスト平均difficulty: <font color="darkgoldenrod ">3263</font>（21問）
-- 2024年のコンテスト平均difficulty: <font color="darkgoldenrod ">3450</font>（2問）
-- 2023年のコンテスト平均difficulty: <font color="red">3199</font>（13問）
-- 2022年のコンテスト平均difficulty: <font color="darkgoldenrod ">3339</font>（6問）
+- コンテスト平均difficulty: diff <font color="darkgoldenrod ">3263</font>（21問）
+- 2024年のコンテスト平均difficulty: diff <font color="darkgoldenrod ">3450</font>（2問）
+- 2023年のコンテスト平均difficulty: diff <font color="red">3199</font>（13問）
+- 2022年のコンテスト平均difficulty: diff <font color="darkgoldenrod ">3339</font>（6問）
 
 ### ★★★★★☆
 
@@ -198,7 +198,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 1. （★1.6／diff <font color="deepskyblue">1206</font>／3問）<a href="#組分けの余りに注目" class="tag">組分けの余りに注目</a>
 1. （★1.7／diff <font color="green">1004</font>／2問）<a href="#等比数列の累積和計算" class="tag">等比数列の累積和計算</a>
 1. （★1.8／diff <font color="deepskyblue">1348</font>／4問）<a href="#重複選択可ナップサック最適化" class="tag">重複選択可ナップサック最適化</a>
-1. （★2／diff データなし／1問）<a href="#円周角の定理" class="tag">円周角の定理</a>／タレスの定理
+1. （★2／データなし／1問）<a href="#円周角の定理" class="tag">円周角の定理</a>／タレスの定理
 1. （★2／diff <font color="gray">344</font>／1問）<a href="#サンプルから推測" class="tag">サンプルから推測</a>
 1. （★2／diff <font color="brown">630</font>／2問）<a href="#多項定理" class="tag">多項定理</a>
 1. （★2／diff <font color="brown">657</font>／1問）<a href="#最近点計算" class="tag">最近点計算</a>
@@ -362,9 +362,9 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 1. （★2.8／diff <font color="yellowgreen">2310</font>／3問）<a href="#メビウス変換" class="tag">メビウス変換</a>
 1. （★2.9／diff <font color="yellowgreen">2041</font>／7問）<a href="#区間加算更新" class="tag">区間加算更新</a>
 1. （★2.9／diff <font color="yellowgreen">2254</font>／6問）<a href="#座標圧縮" class="tag">座標圧縮</a>／座圧
-1. （★3／diff データなし／1問）<a href="#タイリングを用いたミラー戦略" class="tag">タイリングを用いたミラー戦略</a>
-1. （★3／diff データなし／2問）<a href="#既出を検索" class="tag">既出を検索</a>
-1. （★3／diff データなし／1問）<a href="#辺を頂点とするグラフ" class="tag">辺を頂点とするグラフ</a>
+1. （★3／データなし／1問）<a href="#タイリングを用いたミラー戦略" class="tag">タイリングを用いたミラー戦略</a>
+1. （★3／データなし／2問）<a href="#既出を検索" class="tag">既出を検索</a>
+1. （★3／データなし／1問）<a href="#辺を頂点とするグラフ" class="tag">辺を頂点とするグラフ</a>
 1. （★3／diff <font color="deepskyblue">1499</font>／1問）<a href="#サイクルと非サイクルに分割" class="tag">サイクルと非サイクルに分割</a>
 1. （★3／diff <font color="blue">1872</font>／2問）<a href="#クエリソート" class="tag">クエリソート</a>
 1. （★3／diff <font color="blue">1919</font>／1問）<a href="#偏角ソート" class="tag">偏角ソート</a>
@@ -1009,9 +1009,9 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「円周角の定理」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
-- 全体: ★2／diff データなし
+- 全体: ★2／データなし
 - 2024年: データなし／データなし
-- 2023年: ★2／diff データなし
+- 2023年: ★2／データなし
 - 2022年: データなし／データなし
 
 ### レベル別問題一覧
@@ -1020,7 +1020,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 
 ##### ★★
 
-- <a href="https://yukicoder.me/problems/no/2469">No.2469 Umbrella Queries</a> (Japan Alumni Group Summer Camp 2023 Day 2 (2023-09-17) - C問題、diff データなし)
+- <a href="https://yukicoder.me/problems/no/2469">No.2469 Umbrella Queries</a> (Japan Alumni Group Summer Camp 2023 Day 2 (2023-09-17) - C問題、データなし)
 
 　
 <h2 id="サンプルから推測">24. サンプルから推測</h2>
@@ -1049,7 +1049,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 「多項定理」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2／diff <font color="brown">630</font>
 - 2024年: データなし／データなし
-- 2023年: ★2／diff データなし
+- 2023年: ★2／データなし
 - 2022年: ★2／diff <font color="deepskyblue">1261</font>
 
 ### レベル別問題一覧
@@ -1059,7 +1059,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ##### ★★
 
 - <a href="https://yukicoder.me/problems/no/2079">No.2079 aaabbc</a> (yukicoder contest 361 (2022-09-25) - B問題、diff <font color="deepskyblue">1261</font>)
-- <a href="https://yukicoder.me/problems/no/2467">No.2467 Sum of Product of Binomial Coefficients</a> (Japan Alumni Group Summer Camp 2023 Day 2 (2023-09-17) - A問題、diff データなし)
+- <a href="https://yukicoder.me/problems/no/2467">No.2467 Sum of Product of Binomial Coefficients</a> (Japan Alumni Group Summer Camp 2023 Day 2 (2023-09-17) - A問題、データなし)
 
 　
 <h2 id="最近点計算">26. 最近点計算</h2>
@@ -1107,7 +1107,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 「多項係数と組み合わせの関係」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2／diff <font color="green">872</font>
 - 2024年: データなし／データなし
-- 2023年: ★2／diff データなし
+- 2023年: ★2／データなし
 - 2022年: ★2／diff <font color="deepskyblue">1308</font>
 
 ### レベル別問題一覧
@@ -1118,7 +1118,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 
 - <a href="https://yukicoder.me/problems/no/2079">No.2079 aaabbc</a> (yukicoder contest 361 (2022-09-25) - B問題、diff <font color="deepskyblue">1261</font>)
 - <a href="https://yukicoder.me/problems/no/2141">No.2141 Enumeratest</a> (yukicoder contest 370 (2022-12-02) - B問題、diff <font color="deepskyblue">1356</font>)
-- <a href="https://yukicoder.me/problems/no/2467">No.2467 Sum of Product of Binomial Coefficients</a> (Japan Alumni Group Summer Camp 2023 Day 2 (2023-09-17) - A問題、diff データなし)
+- <a href="https://yukicoder.me/problems/no/2467">No.2467 Sum of Product of Binomial Coefficients</a> (Japan Alumni Group Summer Camp 2023 Day 2 (2023-09-17) - A問題、データなし)
 
 　
 <h2 id="グランディ数">29. グランディ数</h2>
@@ -2173,7 +2173,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 
 ##### ★★★
 
-- <a href="https://yukicoder.me/problems/no/2476">No.2476 Knight Game</a> (Japan Alumni Group Summer Camp 2023 Day 2 (2023-09-17) - J問題、diff データなし)
+- <a href="https://yukicoder.me/problems/no/2476">No.2476 Knight Game</a> (Japan Alumni Group Summer Camp 2023 Day 2 (2023-09-17) - J問題、データなし)
 
 ##### ★★★☆
 
@@ -2279,7 +2279,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2161">No.2161 Black Market</a> (Advent Calendar Contest 2022 (2022-12-01) - L問題、diff <font color="orange">2595</font>)
 - <a href="https://yukicoder.me/problems/no/2355">No.2355 Unhappy Back Dance</a> (yukicoder contest 393 (2023-06-16) - F問題、diff <font color="blue">1919</font>)
 - <a href="https://yukicoder.me/problems/no/2370">No.2370 He ate many cakes</a> (単発出題)
-- <a href="https://yukicoder.me/problems/no/2477">No.2477 Drifting</a> (Japan Alumni Group Summer Camp 2023 Day 2 (2023-09-17) - K問題、diff データなし)
+- <a href="https://yukicoder.me/problems/no/2477">No.2477 Drifting</a> (Japan Alumni Group Summer Camp 2023 Day 2 (2023-09-17) - K問題、データなし)
 
 ##### ★★★☆
 
@@ -2860,7 +2860,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ##### ★★☆
 
 - <a href="https://yukicoder.me/problems/no/2253">No.2253 Ignore Subtle Differences</a> (yukicoder contest 382 (2023-03-24) - B問題、diff <font color="blue">1768</font>)
-- <a href="https://yukicoder.me/problems/no/2474">No.2474 Empty Quartz</a> (Japan Alumni Group Summer Camp 2023 Day 2 (2023-09-17) - H問題、diff データなし)
+- <a href="https://yukicoder.me/problems/no/2474">No.2474 Empty Quartz</a> (Japan Alumni Group Summer Camp 2023 Day 2 (2023-09-17) - H問題、データなし)
 
 　
 <h2 id="区間を切片の差に翻訳">88. 区間を切片の差に翻訳</h2>
@@ -2880,7 +2880,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ##### ★★☆
 
 - <a href="https://yukicoder.me/problems/no/2452">No.2452 Incline</a> (yukicoder contest 403 (2023-09-01) - C問題、diff <font color="blue">1891</font>)
-- <a href="https://yukicoder.me/problems/no/2474">No.2474 Empty Quartz</a> (Japan Alumni Group Summer Camp 2023 Day 2 (2023-09-17) - H問題、diff データなし)
+- <a href="https://yukicoder.me/problems/no/2474">No.2474 Empty Quartz</a> (Japan Alumni Group Summer Camp 2023 Day 2 (2023-09-17) - H問題、データなし)
 
 　
 <h2 id="DAG上のDP">89. DAG上のDP</h2>
@@ -2908,7 +2908,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 
 ##### ★★★
 
-- <a href="https://yukicoder.me/problems/no/2477">No.2477 Drifting</a> (Japan Alumni Group Summer Camp 2023 Day 2 (2023-09-17) - K問題、diff データなし)
+- <a href="https://yukicoder.me/problems/no/2477">No.2477 Drifting</a> (Japan Alumni Group Summer Camp 2023 Day 2 (2023-09-17) - K問題、データなし)
 
 　
 <h2 id="不明な想定解">90. 不明な想定解</h2>
@@ -2935,7 +2935,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 
 ##### ★★★
 
-- <a href="https://yukicoder.me/problems/no/2476">No.2476 Knight Game</a> (Japan Alumni Group Summer Camp 2023 Day 2 (2023-09-17) - J問題、diff データなし)
+- <a href="https://yukicoder.me/problems/no/2476">No.2476 Knight Game</a> (Japan Alumni Group Summer Camp 2023 Day 2 (2023-09-17) - J問題、データなし)
 
 　
 <h2 id="最長歩道計算">91. 最長歩道計算</h2>
@@ -3102,7 +3102,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ##### ★★★
 
 - <a href="https://yukicoder.me/problems/no/2278">No.2278 Time Bomb Game 2</a> (yukicoder contest 385 (2023-04-21) - D問題、diff <font color="yellowgreen">2153</font>)
-- <a href="https://yukicoder.me/problems/no/2476">No.2476 Knight Game</a> (Japan Alumni Group Summer Camp 2023 Day 2 (2023-09-17) - J問題、diff データなし)
+- <a href="https://yukicoder.me/problems/no/2476">No.2476 Knight Game</a> (Japan Alumni Group Summer Camp 2023 Day 2 (2023-09-17) - J問題、データなし)
 
 　
 <h2 id="操作逆順">99. 操作逆順</h2>
@@ -3500,7 +3500,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2326">No.2326 Factorial to the Power of Factorial to the...</a> (MMA Contest 015  (2023-05-28) - E問題、diff <font color="blue">1605</font>)
 - <a href="https://yukicoder.me/problems/no/2351">No.2351 Butterfly in Summer</a> (yukicoder contest 393 (2023-06-16) - B問題、diff <font color="brown">777</font>)
 - <a href="https://yukicoder.me/problems/no/2428">No.2428 Returning Shuffle</a> (traP 作問ハッカソンコンテスト 001 (2023-08-18) - E問題、diff <font color="deepskyblue">1585</font>)
-- <a href="https://yukicoder.me/problems/no/2467">No.2467 Sum of Product of Binomial Coefficients</a> (Japan Alumni Group Summer Camp 2023 Day 2 (2023-09-17) - A問題、diff データなし)
+- <a href="https://yukicoder.me/problems/no/2467">No.2467 Sum of Product of Binomial Coefficients</a> (Japan Alumni Group Summer Camp 2023 Day 2 (2023-09-17) - A問題、データなし)
 
 ##### ★★☆
 
@@ -3863,7 +3863,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2326">No.2326 Factorial to the Power of Factorial to the...</a> (MMA Contest 015  (2023-05-28) - E問題、diff <font color="blue">1605</font>)
 - <a href="https://yukicoder.me/problems/no/2351">No.2351 Butterfly in Summer</a> (yukicoder contest 393 (2023-06-16) - B問題、diff <font color="brown">777</font>)
 - <a href="https://yukicoder.me/problems/no/2428">No.2428 Returning Shuffle</a> (traP 作問ハッカソンコンテスト 001 (2023-08-18) - E問題、diff <font color="deepskyblue">1585</font>)
-- <a href="https://yukicoder.me/problems/no/2467">No.2467 Sum of Product of Binomial Coefficients</a> (Japan Alumni Group Summer Camp 2023 Day 2 (2023-09-17) - A問題、diff データなし)
+- <a href="https://yukicoder.me/problems/no/2467">No.2467 Sum of Product of Binomial Coefficients</a> (Japan Alumni Group Summer Camp 2023 Day 2 (2023-09-17) - A問題、データなし)
 
 ##### ★★☆
 
@@ -4395,7 +4395,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2423">No.2423 Merge Stones</a> (MMA Contest 016 (2023-08-12) - J問題、diff <font color="orange">2521</font>)
 - <a href="https://yukicoder.me/problems/no/2433">No.2433 Min Increasing Sequence</a> (traP 作問ハッカソンコンテスト 001 (2023-08-18) - J問題、diff <font color="yellowgreen">2042</font>)
 - <a href="https://yukicoder.me/problems/no/2434">No.2434 RAKUTAN de RAKUTAN</a> (traP 作問ハッカソンコンテスト 001 (2023-08-18) - K問題、diff <font color="orange">2721</font>)
-- <a href="https://yukicoder.me/problems/no/2477">No.2477 Drifting</a> (Japan Alumni Group Summer Camp 2023 Day 2 (2023-09-17) - K問題、diff データなし)
+- <a href="https://yukicoder.me/problems/no/2477">No.2477 Drifting</a> (Japan Alumni Group Summer Camp 2023 Day 2 (2023-09-17) - K問題、データなし)
 
 ##### ★★★☆
 
@@ -4561,7 +4561,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 
 ##### ★★★
 
-- <a href="https://yukicoder.me/problems/no/2477">No.2477 Drifting</a> (Japan Alumni Group Summer Camp 2023 Day 2 (2023-09-17) - K問題、diff データなし)
+- <a href="https://yukicoder.me/problems/no/2477">No.2477 Drifting</a> (Japan Alumni Group Summer Camp 2023 Day 2 (2023-09-17) - K問題、データなし)
 
 　
 <h2 id="ダイクストラ法">154. ダイクストラ法</h2>
@@ -4588,7 +4588,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 
 - <a href="https://yukicoder.me/problems/no/2366">No.2366 登校</a> (yukicoder contest 395 (2023-06-30) - C問題、diff <font color="yellowgreen">2294</font>)
 - <a href="https://yukicoder.me/problems/no/2387">No.2387 Yokan Factory</a> (yukicoder contest 398 (2023-07-21) - C問題、diff <font color="deepskyblue">1376</font>)
-- <a href="https://yukicoder.me/problems/no/2477">No.2477 Drifting</a> (Japan Alumni Group Summer Camp 2023 Day 2 (2023-09-17) - K問題、diff データなし)
+- <a href="https://yukicoder.me/problems/no/2477">No.2477 Drifting</a> (Japan Alumni Group Summer Camp 2023 Day 2 (2023-09-17) - K問題、データなし)
 
 　
 <h2 id="行列累乗">155. 行列累乗</h2>
@@ -4631,7 +4631,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ##### ★★☆
 
 - <a href="https://yukicoder.me/problems/no/2058">No.2058 Binary String</a> (yukicoder contest 358 (2022-08-26) - C問題、diff <font color="yellowgreen">2008</font>)
-- <a href="https://yukicoder.me/problems/no/2474">No.2474 Empty Quartz</a> (Japan Alumni Group Summer Camp 2023 Day 2 (2023-09-17) - H問題、diff データなし)
+- <a href="https://yukicoder.me/problems/no/2474">No.2474 Empty Quartz</a> (Japan Alumni Group Summer Camp 2023 Day 2 (2023-09-17) - H問題、データなし)
 
 ##### ★★★
 
@@ -5443,9 +5443,9 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「タイリングを用いたミラー戦略」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
-- 全体: ★3／diff データなし
+- 全体: ★3／データなし
 - 2024年: データなし／データなし
-- 2023年: ★3／diff データなし
+- 2023年: ★3／データなし
 - 2022年: データなし／データなし
 
 ### レベル別問題一覧
@@ -5454,7 +5454,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 
 ##### ★★★
 
-- <a href="https://yukicoder.me/problems/no/2476">No.2476 Knight Game</a> (Japan Alumni Group Summer Camp 2023 Day 2 (2023-09-17) - J問題、diff データなし)
+- <a href="https://yukicoder.me/problems/no/2476">No.2476 Knight Game</a> (Japan Alumni Group Summer Camp 2023 Day 2 (2023-09-17) - J問題、データなし)
 
 　
 <h2 id="既出を検索">188. 既出を検索</h2>
@@ -5462,9 +5462,9 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「既出を検索」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
-- 全体: ★3／diff データなし
+- 全体: ★3／データなし
 - 2024年: データなし／データなし
-- 2023年: ★3／diff データなし
+- 2023年: ★3／データなし
 - 2022年: データなし／データなし
 
 ### レベル別問題一覧
@@ -5473,7 +5473,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 
 ##### ★★★
 
-- <a href="https://yukicoder.me/problems/no/2476">No.2476 Knight Game</a> (Japan Alumni Group Summer Camp 2023 Day 2 (2023-09-17) - J問題、diff データなし)
+- <a href="https://yukicoder.me/problems/no/2476">No.2476 Knight Game</a> (Japan Alumni Group Summer Camp 2023 Day 2 (2023-09-17) - J問題、データなし)
 
 ##### ★★★☆
 
@@ -5485,9 +5485,9 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「辺を頂点とするグラフ」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
-- 全体: ★3／diff データなし
+- 全体: ★3／データなし
 - 2024年: データなし／データなし
-- 2023年: ★3／diff データなし
+- 2023年: ★3／データなし
 - 2022年: データなし／データなし
 
 ### レベル別問題一覧
@@ -5496,7 +5496,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 
 ##### ★★★
 
-- <a href="https://yukicoder.me/problems/no/2477">No.2477 Drifting</a> (Japan Alumni Group Summer Camp 2023 Day 2 (2023-09-17) - K問題、diff データなし)
+- <a href="https://yukicoder.me/problems/no/2477">No.2477 Drifting</a> (Japan Alumni Group Summer Camp 2023 Day 2 (2023-09-17) - K問題、データなし)
 
 　
 <h2 id="サイクルと非サイクルに分割">190. サイクルと非サイクルに分割</h2>
