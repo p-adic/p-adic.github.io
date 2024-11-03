@@ -92,84 +92,84 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 
 ## レベルごとの平均difficulty
 
-問題2056から問題2952のうちコンテスト出題であり（単発出題でなく）かつdifficultyが算出されているものを対象に★の数ごとに平均difficultyを算出したデータです。
+問題2056から問題2952のうちコンテスト出題であり（単発出題でなく）かつdifficultyが算出されているものを対象に★の数ごとにコンテスト平均difficultyを算出したデータです。
 
 ### ★
 
-- コンテスト平均difficulty: diff <font color="brown">520</font>（66問）
-- 2024年のコンテスト平均difficulty: diff <font color="brown">618</font>（34問）
-- 2023年のコンテスト平均difficulty: diff <font color="gray">370</font>（28問）
-- 2022年のコンテスト平均difficulty: diff <font color="brown">742</font>（4問）
+- 全体: diff <font color="brown">520</font>（66問）
+- 2024年: diff <font color="brown">618</font>（34問）
+- 2023年: diff <font color="gray">370</font>（28問）
+- 2022年: diff <font color="brown">742</font>（4問）
 
 ### ★☆
 
-- コンテスト平均difficulty: diff <font color="green">943</font>（92問）
-- 2024年のコンテスト平均difficulty: diff <font color="green">982</font>（42問）
-- 2023年のコンテスト平均difficulty: diff <font color="green">934</font>（38問）
-- 2022年のコンテスト平均difficulty: diff <font color="green">831</font>（12問）
+- 全体: diff <font color="green">943</font>（92問）
+- 2024年: diff <font color="green">982</font>（42問）
+- 2023年: diff <font color="green">934</font>（38問）
+- 2022年: diff <font color="green">831</font>（12問）
 
 ### ★★
 
-- コンテスト平均difficulty: diff <font color="deepskyblue">1341</font>（130問）
-- 2024年のコンテスト平均difficulty: diff <font color="deepskyblue">1433</font>（55問）
-- 2023年のコンテスト平均difficulty: diff <font color="deepskyblue">1240</font>（58問）
-- 2022年のコンテスト平均difficulty: diff <font color="deepskyblue">1389</font>（17問）
+- 全体: diff <font color="deepskyblue">1341</font>（130問）
+- 2024年: diff <font color="deepskyblue">1433</font>（55問）
+- 2023年: diff <font color="deepskyblue">1240</font>（58問）
+- 2022年: diff <font color="deepskyblue">1389</font>（17問）
 
 ### ★★☆
 
-- コンテスト平均difficulty: diff <font color="blue">1825</font>（155問）
-- 2024年のコンテスト平均difficulty: diff <font color="blue">1838</font>（59問）
-- 2023年のコンテスト平均difficulty: diff <font color="blue">1798</font>（78問）
-- 2022年のコンテスト平均difficulty: diff <font color="blue">1899</font>（18問）
+- 全体: diff <font color="blue">1825</font>（155問）
+- 2024年: diff <font color="blue">1838</font>（59問）
+- 2023年: diff <font color="blue">1798</font>（78問）
+- 2022年: diff <font color="blue">1899</font>（18問）
 
 ### ★★★
 
-- コンテスト平均difficulty: diff <font color="yellowgreen">2238</font>（159問）
-- 2024年のコンテスト平均difficulty: diff <font color="yellowgreen">2262</font>（70問）
-- 2023年のコンテスト平均difficulty: diff <font color="yellowgreen">2211</font>（67問）
-- 2022年のコンテスト平均difficulty: diff <font color="yellowgreen">2245</font>（22問）
+- 全体: diff <font color="yellowgreen">2238</font>（159問）
+- 2024年: diff <font color="yellowgreen">2262</font>（70問）
+- 2023年: diff <font color="yellowgreen">2211</font>（67問）
+- 2022年: diff <font color="yellowgreen">2245</font>（22問）
 
 ### ★★★☆
 
-- コンテスト平均difficulty: diff <font color="orange">2575</font>（132問）
-- 2024年のコンテスト平均difficulty: diff <font color="orange">2560</font>（49問）
-- 2023年のコンテスト平均difficulty: diff <font color="orange">2570</font>（63問）
-- 2022年のコンテスト平均difficulty: diff <font color="orange">2627</font>（20問）
+- 全体: diff <font color="orange">2575</font>（132問）
+- 2024年: diff <font color="orange">2560</font>（49問）
+- 2023年: diff <font color="orange">2570</font>（63問）
+- 2022年: diff <font color="orange">2627</font>（20問）
 
 ### ★★★★
 
-- コンテスト平均difficulty: diff <font color="red">2823</font>（70問）
-- 2024年のコンテスト平均difficulty: diff <font color="red">2823</font>（19問）
-- 2023年のコンテスト平均difficulty: diff <font color="red">2843</font>（42問）
-- 2022年のコンテスト平均difficulty: diff <font color="orange">2724</font>（9問）
+- 全体: diff <font color="red">2823</font>（70問）
+- 2024年: diff <font color="red">2823</font>（19問）
+- 2023年: diff <font color="red">2843</font>（42問）
+- 2022年: diff <font color="orange">2724</font>（9問）
 
 ### ★★★★☆
 
-- コンテスト平均difficulty: diff <font color="red">3155</font>（22問）
-- 2024年のコンテスト平均difficulty: diff <font color="red">2988</font>（7問）
-- 2023年のコンテスト平均difficulty: diff <font color="red">3174</font>（10問）
-- 2022年のコンテスト平均difficulty: diff <font color="darkgoldenrod ">3349</font>（5問）
+- 全体: diff <font color="red">3155</font>（22問）
+- 2024年: diff <font color="red">2988</font>（7問）
+- 2023年: diff <font color="red">3174</font>（10問）
+- 2022年: diff <font color="darkgoldenrod ">3349</font>（5問）
 
 ### ★★★★★
 
-- コンテスト平均difficulty: diff <font color="darkgoldenrod ">3263</font>（21問）
-- 2024年のコンテスト平均difficulty: diff <font color="darkgoldenrod ">3450</font>（2問）
-- 2023年のコンテスト平均difficulty: diff <font color="red">3199</font>（13問）
-- 2022年のコンテスト平均difficulty: diff <font color="darkgoldenrod ">3339</font>（6問）
+- 全体: diff <font color="darkgoldenrod ">3263</font>（21問）
+- 2024年: diff <font color="darkgoldenrod ">3450</font>（2問）
+- 2023年: diff <font color="red">3199</font>（13問）
+- 2022年: diff <font color="darkgoldenrod ">3339</font>（6問）
 
 ### ★★★★★☆
 
-- コンテスト平均difficulty: データなし
-- 2024年のコンテスト平均difficulty: データなし
-- 2023年のコンテスト平均difficulty: データなし
-- 2022年のコンテスト平均difficulty: データなし
+- 全体: データなし
+- 2024年: データなし
+- 2023年: データなし
+- 2022年: データなし
 
 ### ★★★★★★
 
-- コンテスト平均difficulty: データなし
-- 2024年のコンテスト平均difficulty: データなし
-- 2023年のコンテスト平均difficulty: データなし
-- 2022年のコンテスト平均difficulty: データなし
+- 全体: データなし
+- 2024年: データなし
+- 2023年: データなし
+- 2022年: データなし
 
 
 ## 登録済み解法一覧
