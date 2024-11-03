@@ -363,7 +363,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 1. <a href="#区間加算更新" class="tag">区間加算更新</a>×7問
 1. <a href="#座標圧縮" class="tag">座標圧縮</a>／座圧×6問
 1. <a href="#タイリングを用いたミラー戦略" class="tag">タイリングを用いたミラー戦略</a>×1問
-1. <a href="#既出を検索" class="tag">既出を検索</a>×1問
+1. <a href="#既出を検索" class="tag">既出を検索</a>×2問
 1. <a href="#辺を頂点とするグラフ" class="tag">辺を頂点とするグラフ</a>×1問
 1. <a href="#サイクルと非サイクルに分割" class="tag">サイクルと非サイクルに分割</a>×1問
 1. <a href="#クエリソート" class="tag">クエリソート</a>×2問
@@ -478,7 +478,6 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 1. <a href="#P-再帰" class="tag">P-再帰</a>／P-recursive×1問
 1. <a href="#多点評価" class="tag">多点評価</a>×1問
 1. <a href="#評価点シフト" class="tag">評価点シフト</a>×1問
-1. <a href="#,既出を検索" class="tag">,既出を検索</a>×1問
 1. <a href="#アルゴリズム中に追加処理" class="tag">アルゴリズム中に追加処理</a>×1問
 1. <a href="#ハミルトン路" class="tag">ハミルトン路</a>×1問
 1. <a href="#構文解析" class="tag">構文解析</a>×1問
@@ -5476,6 +5475,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 
 - <a href="https://yukicoder.me/problems/no/2476">No.2476 Knight Game</a> (Japan Alumni Group Summer Camp 2023 Day 2 (2023-09-17) - J問題, difficulty: データなし)
 
+##### ★★★☆
+
+- <a href="https://yukicoder.me/problems/no/2085">No.2085 Directed Complete Graph</a> (単発出題)
+
 　
 <h2 id="辺を頂点とするグラフ">189. 辺を頂点とするグラフ</h2>
 
@@ -7914,26 +7917,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2166">No.2166 Paint and Fill</a> (Advent Calendar Contest 2022 (2022-12-01) - S問題, difficulty: <font color="darkgoldenrod ">3577</font>)
 
 　
-<h2 id=",既出を検索">303. ,既出を検索</h2>
-
-### 難易度統計
-
-「,既出を検索」を主たる解法に含む問題の難易度統計です。
-- コンテスト平均レベル/difficulty: データなし
-- 2024年のコンテスト平均レベル/difficulty: データなし
-- 2023年のコンテスト平均レベル/difficulty: データなし
-- 2022年のコンテスト平均レベル/difficulty: データなし
-
-### レベル別問題一覧
-
-「,既出を検索」を主たる解法に含む問題のレベルごとの一覧です。
-
-##### ★★★☆
-
-- <a href="https://yukicoder.me/problems/no/2085">No.2085 Directed Complete Graph</a> (単発出題)
-
-　
-<h2 id="アルゴリズム中に追加処理">304. アルゴリズム中に追加処理</h2>
+<h2 id="アルゴリズム中に追加処理">303. アルゴリズム中に追加処理</h2>
 
 ### 難易度統計
 
@@ -7952,7 +7936,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2200">No.2200 Weird Shortest Path</a> (単発出題)
 
 　
-<h2 id="ハミルトン路">305. ハミルトン路</h2>
+<h2 id="ハミルトン路">304. ハミルトン路</h2>
 
 ### 難易度統計
 
@@ -7971,7 +7955,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2085">No.2085 Directed Complete Graph</a> (単発出題)
 
 　
-<h2 id="構文解析">306. 構文解析</h2>
+<h2 id="構文解析">305. 構文解析</h2>
 
 ### 難易度統計
 
