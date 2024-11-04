@@ -15,12 +15,14 @@ tags: [競技プログラミング,数学]
 [yukicoderの過去問の解法別難易度統計のページ]({{ site.url }}/yukicoder-difficulty-statistics)で用いた、一般的でない解法名の解説ページです。
 
 　
-<h2 id="不明な想定解">不明な想定解</h2>
+{% assign solution = "不明な想定解" %}
+<h2 id="{{ solution }}"><a href="{{ site.url }}/yukicoder-difficulty-statistics#{{ solution }}">{{ solution }}</a></h2>
 
 解説が存在しないために明らかにされていない想定解を構成する、何かしらの手法。少なくとも実装だけはwriter提出を見れば分かるが、どのような考察（特に正当性の証明）がなされたかが非公開となる。
 
 　
-<h2 id="緩和">緩和</h2>
+{% assign solution = "緩和" %}
+<h2 id="{{ solution }}"><a href="{{ site.url }}/yukicoder-difficulty-statistics#{{ solution }}">{{ solution }}</a></h2>
 
 束縛条件を緩めることで解を求めやすくし、その結果を用いて元の束縛条件における厳密解を求める手法。
 
@@ -34,7 +36,8 @@ tags: [競技プログラミング,数学]
 といった用途がある。二分探索は多くの場合に緩和を用いるので、二分探索の問題は緩和の考察が非自明でない限り緩和の問題として集計しない。
 
 　
-<h2 id="上界決め打ち二分探索">上界決め打ち二分探索</h2>
+{% assign solution = "上界決め打ち二分探索" %}
+<h2 id="{{ solution }}"><a href="{{ site.url }}/yukicoder-difficulty-statistics#{{ solution }}">{{ solution }}</a></h2>
 
 有限全順序集合$S$とその要素数以下の正整数$K$が与えられた時、$S$の$K$番目の要素を求める問題を考える。
 
@@ -43,7 +46,8 @@ tags: [競技プログラミング,数学]
 通常の二分探索より非自明な緩和の特別な例。
 
 　
-<h2 id="解法場合分け">解法場合分け</h2>
+{% assign solution = "解法場合分け" %}
+<h2 id="{{ solution }}"><a href="{{ site.url }}/yukicoder-difficulty-statistics#{{ solution }}">{{ solution }}</a></h2>
 
 入力が大きい場合と小さい場合で別の解法を取る手法。
 
@@ -53,7 +57,8 @@ tags: [競技プログラミング,数学]
 などが典型。
 
 　
-<h2 id="良いケースに帰着">良いケースに帰着</h2>
+{% assign solution = "良いケースに帰着" %}
+<h2 id="{{ solution }}"><a href="{{ site.url }}/yukicoder-difficulty-statistics#{{ solution }}">{{ solution }}</a></h2>
 
 操作を伴う問題で、初期状態に依存した値を計算する問題を考える。
 
@@ -65,7 +70,8 @@ tags: [競技プログラミング,数学]
 再帰の特別な例だが、再帰深度がせいぜい２程度であり一般の再帰と区別するため、良いケースに帰着させる問題は他に非自明な再帰を行わない限り再帰の問題として集計しない。
 
 　
-<h2 id="損をしない変形">損をしない変形</h2>
+{% assign solution = "損をしない変形" %}
+<h2 id="{{ solution }}"><a href="{{ site.url }}/yukicoder-difficulty-statistics#{{ solution }}">{{ solution }}</a></h2>
 
 何らかの価値を最大化する（またはコストを最小化する）組み合わせ最適化を考える。
 
@@ -77,7 +83,8 @@ tags: [競技プログラミング,数学]
 などといった目的で使われる。枝刈りの特別な例だが、他に非自明な枝刈りを行わない限り枝刈りの問題として集計しない。
 
 　
-<h2 id="操作を数値に翻訳">操作を数値に翻訳</h2>
+{% assign solution = "操作を数値に翻訳" %}
+<h2 id="{{ solution }}"><a href="{{ site.url }}/yukicoder-difficulty-statistics#{{ solution }}">{{ solution }}</a></h2>
 
 いくつかの操作が与えられ、
 
@@ -92,7 +99,8 @@ tags: [競技プログラミング,数学]
 操作を数値の固定長有限列に翻訳することで、forループなどによる操作の全探索を可能にする手法。
 
 　
-<h2 id="操作回数上限以内の達成可能性判定を操作回数最小値計算に帰着">操作回数上限以内の達成可能性判定を操作回数最小値計算に帰着</h2>
+{% assign solution = "操作回数上限以内の達成可能性判定を操作回数最小値計算に帰着" %}
+<h2 id="{{ solution }}"><a href="{{ site.url }}/yukicoder-difficulty-statistics#{{ solution }}">{{ solution }}</a></h2>
 
 複数種類の操作と正整数$K$が与えられ、操作を高々$K$回繰り返すことによって項$x$が得られるか否かを判定する問題を考える。
 
@@ -101,14 +109,16 @@ tags: [競技プログラミング,数学]
 一見当たり前だが、操作が複数種類であれば$K$回以下適用する方法は一意でなく指数関数的に増えるため$K$回以内に得られる項全体の集合は計算が困難である一方で、$x$に注目して$x$のみから一意に定まる数値である$f(x)$の計算に帰着させる考察は見落としやすいかもしれない。
 
 　
-<h2 id="距離空間の重み付きグラフ化">距離空間の重み付きグラフ化</h2>
+{% assign solution = "距離空間の重み付きグラフ化" %}
+<h2 id="{{ solution }}"><a href="{{ site.url }}/yukicoder-difficulty-statistics#{{ solution }}">{{ solution }}</a></h2>
 
 ユークリッド空間を始めとする距離空間において、距離に関する何らかの値を最小化する組み合わせ最適化を考える。
 
 問題設定に応じて距離空間から重み付きグラフ（[単位円盤グラフ](https://en.wikipedia.org/wiki/Unit_disk_graph)や[Vietoris--Rips複体](https://en.wikipedia.org/wiki/Vietoris%E2%80%93Rips_complex)の$1$次元骨格など）を構成し、それに対してグラフアルゴリズムを適用する手法。
 
 　
-<h2 id="総和計算の期待値への帰着">総和計算の期待値への帰着</h2>
+{% assign solution = "総和計算の期待値への帰着" %}
+<h2 id="{{ solution }}"><a href="{{ site.url }}/yukicoder-difficulty-statistics#{{ solution }}">{{ solution }}</a></h2>
 
 何らかの集合$S$とその部分集合$U$と$S$上の関数$f$が与えられた時に、$U$上での$f$の値の総和$\sum_{u \in U} f(u)$を求める問題を考える。
 
@@ -123,14 +133,16 @@ $f$の値の総和を直接求める代わりに、$S$の要素$s$の一様ラ�
   - $p$が自然に和に分解され、期待値の線形性が適用しやすい場合。
 
 　
-<h2 id="表示可能性DP">表示可能性DP</h2>
+{% assign solution = "表示可能性DP" %}
+<h2 id="{{ solution }}"><a href="{{ site.url }}/yukicoder-difficulty-statistics#{{ solution }}">{{ solution }}</a></h2>
 
 演算の集合$S$と配列$A$と項$t$が与えられた時、$A$の順番を変えずに$S$に属す演算を施した時に$t$が構成可能か否かを判定する問題を考える。
 
 $A$の構文木（例えば左結合なら右端を根とする線形グラフ）で葉から根に向かって頂点$i$を見ていき「$i$を根とする部分木までで打ち切った配列に$S$に属す演算を施した時に構成可能な項全体の集合$\textrm{dp}(i)$」を管理する$i$に関する木DP（例えば線形グラフなら左から途中までで打ち切って構築可能性を管理する動的計画法）。
 
 　
-<h2 id="重複選択個数の線形関係式">重複選択個数の線形関係式</h2>
+{% assign solution = "重複選択個数の線形関係式" %}
+<h2 id="{{ solution }}"><a href="{{ site.url }}/yukicoder-difficulty-statistics#{{ solution }}">{{ solution }}</a></h2>
 
 １つの項目が無制限に複数回選択可能なナップサック問題であって、各項目のコストや価値が選択回数に依存しないものを考える。
 
@@ -141,7 +153,8 @@ $(a_i)\_{i=1}^{N}$と$(b_i)\_{i=1}^{N}$を見つけるには、縦ベクトル$(
 なおコストが$1$次元であるならば、コスト上限を$C$と置くと通常の動的計画法で$O(NC)$で解くことができるので、コストが多次元である場合（例えば個数に制限のある複数個の項目を抱き合わせで選択する必要があるナップサック問題）に特に有効である。次元を$D$と置くと$(W_i)\_{i=1}^{N}$は$D \times N$行列とみなせるため、$(a_i)\_{i=1}^{N}$と$(b_i)\_{i=1}^{N}$の組を$\max \\{0,N-D\\}$次元分探すことが可能である。
 
 　
-<h2 id="合成による次元削減">合成による次元削減</h2>
+{% assign solution = "合成による次元削減" %}
+<h2 id="{{ solution }}"><a href="{{ site.url }}/yukicoder-difficulty-statistics#{{ solution }}">{{ solution }}</a></h2>
 
 非空有限集合$S$と関数$f \colon S \to \mathbb{R}$が与えられ、$\max f(S)$を求める問題を考える。$\min f(S)$を求める場合は$f$の代わりに$-f$を考えれば良い。
 
@@ -150,7 +163,8 @@ $(a_i)\_{i=1}^{N}$と$(b_i)\_{i=1}^{N}$を見つけるには、縦ベクトル$(
 平たく言えば、最大化したい関数の値を独立な項に分解してそれぞれを最大化することで全探索などの計算量を下げるテクニックである。
 
 　
-<h2 id="指定序数の値の計算を被覆の先頭項管理で処理">指定序数の値の計算を被覆の先頭項管理で処理</h2>
+{% assign solution = "指定序数の値の計算を被覆の先頭項管理で処理" %}
+<h2 id="{{ solution }}"><a href="{{ site.url }}/yukicoder-difficulty-statistics#{{ solution }}">{{ solution }}</a></h2>
 
 全順序集合$S$とその要素数$N$以下の正整数$K$が与えられ、$S$の$K$番目の要素を求める問題を考える。
 
@@ -161,7 +175,8 @@ $M$を$N$より十分小さい正整数とし、$S$が$M$個の非空部分集�
 例えば$S$が全順序集合$X,Y,Z$と辞書式順序について順序保存な写像$f \colon X \times Y \to Z$を用いて$S = f(X \times Y)$と表せる時、$S$の分割として$(f(\\{x\\} \times Y))_{x \in X}$を考えれば良い。
 
 　
-<h2 id="不変量を保つ戦略">不変量を保つ戦略</h2>
+{% assign solution = "不変量を保つ戦略" %}
+<h2 id="{{ solution }}"><a href="{{ site.url }}/yukicoder-difficulty-statistics#{{ solution }}">{{ solution }}</a></h2>
 
 合法手を失ったプレイヤーの負けとなる二人ゲームにおいて、ゲームの状態から定まる不変量が常に敗北局面の不変量と同じ値になるように相手に手番を返す必勝戦略のこと。
 
@@ -170,21 +185,24 @@ $M$を$N$より十分小さい正整数とし、$S$が$M$個の非空部分集�
 ニム和を用いたニムの必勝戦略は不変量を保つ戦略の特別な例なので、ニム和の問題は他に不変量を保つ戦略の非自明な考察がない限り不変量を保つ戦略の問題としては集計しない。
 
 　
-<h2 id="押し付け戦略">押し付け戦略</h2>
+{% assign solution = "押し付け戦略" %}
+<h2 id="{{ solution }}"><a href="{{ site.url }}/yukicoder-difficulty-statistics#{{ solution }}">{{ solution }}</a></h2>
 
 局面が与えられた時の合法手全体の集合がどちらの手番かに依存しない（勝敗の決め方は対称でなくても良い）二人ゲームを考える。
 
 プレイヤー$A$がある着手$m$を行った場合に$A$の必敗となる（$B$が$m$を行っても$B$の必敗とならなくても良い）ことが分かっている状況で、$B$が$m$を避け続けることで$A$に$m$を強制する戦略。
 
 　
-<h2 id="高さ奇数ニム和">高さ奇数ニム和</h2>
+{% assign solution = "高さ奇数ニム和" %}
+<h2 id="{{ solution }}"><a href="{{ site.url }}/yukicoder-difficulty-statistics#{{ solution }}">{{ solution }}</a></h2>
 
 有限非輪状有向グラフの頂点上に石の山があり、石を山から取り除く代わりに有向辺に沿って石を山から山に移動させるニムの亜種であって、任意の頂点$s$から出次数$0$の任意の頂点$t$への経路$p$の経路長の偶奇が$s$のみに依存し$t,p$に依存しない二人ゲームの勝敗を判定する問題を考える。
 
 このゲームの勝敗を、奇数になる$s$のみのニムに帰着させてニム和で決定する手法。
 
-
-<h2 id="最終手番の任意性">最終手番の任意性</h2>
+　
+{% assign solution = "最終手番の任意性" %}
+<h2 id="{{ solution }}"><a href="{{ site.url }}/yukicoder-difficulty-statistics#{{ solution }}">{{ solution }}</a></h2>
 
 規定の手数後の何らかの不変量の値に従って勝敗が決まる二人ゲームにおいて、最終手番で不変量を自由に変更できれば最終手番のプレイヤーが勝つことを用いた考察。
 
