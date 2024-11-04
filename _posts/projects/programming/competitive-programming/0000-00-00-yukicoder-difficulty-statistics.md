@@ -1,7 +1,7 @@
 ---
 layout: project
 title: yukicoder過去問解法別難易度統計
-date: 2024-11-03
+date: 2024-11-04
 excerpt: "yukicoderの過去問の解法別の難易度に関する統計データです。"
 parent: competitive-programming-project/
 prev-child: competitive-programming-creating-problem-status
@@ -481,8 +481,6 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 1. （★データなし／diffデータなし／1問）<a href="#アルゴリズム中に追加処理" class="tag">アルゴリズム中に追加処理</a>
 1. （★データなし／diffデータなし／1問）<a href="#ハミルトン路" class="tag">ハミルトン路</a>
 1. （★データなし／diffデータなし／1問）<a href="#構文解析" class="tag">構文解析</a>
-
-ただしレベルがwriterに設定されていない問題があれば、★1と換算します。
 
 
 　
