@@ -256,8 +256,8 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 1. （★2.3／diff <font color="blue">1678</font>／4問）<a href="#階差数列" class="tag">階差数列</a>
 1. （★2.3／diff <font color="blue">1759</font>／5問）<a href="#素数列挙" class="tag">素数列挙</a>
 1. （★2.3／diff <font color="blue">1803</font>／3問）<a href="#ニム和" class="tag">ニム和</a>
-1. （★2.3／diff <font color="blue">1865</font>／3問）<a href="#２変数決め打ち" class="tag">２変数決め打ち</a>
-1. （★2.4／diff <font color="deepskyblue">1505</font>／9問）<a href="#区間管理" class="tag">区間管理</a>
+1. （★2.3／diff <font color="blue">1898</font>／4問）<a href="#２変数決め打ち" class="tag">２変数決め打ち</a>
+1. （★2.4／diff <font color="deepskyblue">1554</font>／10問）<a href="#区間管理" class="tag">区間管理</a>
 1. （★2.4／diff <font color="blue">1629</font>／7問）<a href="#不変量に注目" class="tag">不変量に注目</a>
 1. （★2.4／diff <font color="blue">1766</font>／13問、[解説ページ](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#損をしない変形)）<a href="#損をしない変形" class="tag">損をしない変形</a>
 1. （★2.4／diff <font color="blue">1809</font>／6問）<a href="#最終ターン数に注目" class="tag">最終ターン数に注目</a>
@@ -2681,9 +2681,9 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「２変数決め打ち」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
-- 全体: ★2.3／diff <font color="blue">1865</font>
+- 全体: ★2.3／diff <font color="blue">1898</font>
 - 2024年: ★データなし／diffデータなし
-- 2023年: ★2.3／diff <font color="blue">1865</font>
+- 2023年: ★2.3／diff <font color="blue">1898</font>
 - 2022年: ★データなし／diffデータなし
 
 ### レベル別問題一覧
@@ -2698,6 +2698,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 
 - <a href="https://yukicoder.me/problems/no/2309">No.2309 [Cherry 5th Tune D] 夏の先取り</a> (yukicoder contest 389 (Until that day when "Cherry Month" is over.) (2023-05-19) - E問題、diff <font color="yellowgreen">2193</font>)
 - <a href="https://yukicoder.me/problems/no/2495">No.2495 Three Sets</a> (yukicoder contest 407 (2023-10-06) - D問題、diff <font color="orange">2421</font>)
+- <a href="https://yukicoder.me/problems/no/2500">No.2500 Products in a Range</a> (yukicoder contest 408 (2023-10-13) - A問題、diff <font color="blue">1996</font>)
 
 　
 <h2 id="区間管理">82. 区間管理</h2>
@@ -2705,9 +2706,9 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ### 難易度統計
 
 「区間管理」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
-- 全体: ★2.4／diff <font color="deepskyblue">1505</font>
+- 全体: ★2.4／diff <font color="deepskyblue">1554</font>
 - 2024年: ★データなし／diffデータなし
-- 2023年: ★2.4／diff <font color="deepskyblue">1487</font>
+- 2023年: ★2.4／diff <font color="deepskyblue">1543</font>
 - 2022年: ★2.5／diff <font color="blue">1649</font>
 
 ### レベル別問題一覧
@@ -2727,6 +2728,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2421">No.2421 entersys?</a> (MMA Contest 016 (2023-08-12) - H問題、diff <font color="blue">1788</font>)
 - <a href="https://yukicoder.me/problems/no/2462">No.2462 七人カノン</a> (yukicoder contest 404 (2023-09-08) - C問題、diff <font color="deepskyblue">1358</font>)
 - <a href="https://yukicoder.me/problems/no/2486">No.2486 Don't come next to me</a> (yukicoder contest 406 技術室奥プログラミングコンテスト#7 Day2 (2023-09-29) - A問題、diff <font color="brown">712</font>)
+- <a href="https://yukicoder.me/problems/no/2500">No.2500 Products in a Range</a> (yukicoder contest 408 (2023-10-13) - A問題、diff <font color="blue">1996</font>)
 
 ##### ★★★
 
