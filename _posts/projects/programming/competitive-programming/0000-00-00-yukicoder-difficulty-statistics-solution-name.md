@@ -178,8 +178,8 @@ $M$を$N$より十分小さい正整数とし、$S$が$M$個の非空部分集�
 「$A$の第$i$成分までで打ち切った配列に$S$に属す演算を施した時に構成可能な項全体の集合$\textrm{dp}[i]$」や「$A$の（連続とは限らない部分列$B$に$S$に属す演算を施した時に構成可能な項全体の集合$\textrm{dp}[B]$」などを管理する動的計画法。
 
 例えば$S$に属す演算が１つのモノイド演算$\oplus$（の定義域を制限したもの）と$\oplus$の単位元を返す$2$変数定数関数と$2$変数第$1$射影である場合は「第$i$成分までで打ち切った配列の連続とは限らない部分列に$\oplus$を施した時に構成可能な項全体の集合$\textrm{dp}[i]$」を管理することに他ならない。
-- 価値が非負な（価値非負上限付き）コストなし[ナップサックDP]({{ site.url }}/yukicoder-difficulty-statistics#ナップサックDP)はこの特別な場合。
-- 順番の入れ替えを許し価値に負項がありえて価値非負上限・非負下限が部分式にも適用される場合は[ヘルド・カープ法]({{ site.url }}/yukicoder-difficulty-statistics#ヘルド・カープ法)の[bitDP]({{ site.url }}/yukicoder-difficulty-statistics#bitDP)になる。
+- $\oplus$が非負順序モノイド演算で、順番の入れ替えを許さない設定での場合は（価値上限付き）コストなし[ナップサックDP]({{ site.url }}/yukicoder-difficulty-statistics#ナップサックDP)となる。
+- $\oplus$が順序モノイド構造で、順番の入れ替えを許す設定で上限・下限が部分式にも適用される場合は[ヘルド・カープ法]({{ site.url }}/yukicoder-difficulty-statistics#ヘルド・カープ法)の[bitDP]({{ site.url }}/yukicoder-difficulty-statistics#bitDP)となる。
 
 　
 {% assign solution = "不変量を保つ戦略" %}
