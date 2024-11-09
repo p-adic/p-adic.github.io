@@ -1,7 +1,7 @@
 ---
 layout: project
 title: yukicoder過去問解法別難易度統計
-date: 2024-11-08
+date: 2024-11-09
 excerpt: "yukicoderの過去問の解法別の難易度に関する統計データです。"
 parent: competitive-programming-project/
 prev-child: competitive-programming-creating-problem-status
@@ -97,7 +97,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 
 ## レベルごとの平均difficulty
 
-問題2056から問題2952のうち
+問題2056から問題2959のうち
 
 - コンテスト出題であり（単発出題でなく）かつ
 - レベルが設定されておりかつ
@@ -122,29 +122,29 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 
 ### ★★
 
-- 全体: diff <font color="deepskyblue">1341</font>（130問）
-- 2024年: diff <font color="deepskyblue">1433</font>（55問）
+- 全体: diff <font color="deepskyblue">1340</font>（131問）
+- 2024年: diff <font color="deepskyblue">1429</font>（56問）
 - 2023年: diff <font color="deepskyblue">1240</font>（58問）
 - 2022年: diff <font color="deepskyblue">1389</font>（17問）
 
 ### ★★☆
 
-- 全体: diff <font color="blue">1825</font>（155問）
-- 2024年: diff <font color="blue">1838</font>（59問）
+- 全体: diff <font color="blue">1825</font>（157問）
+- 2024年: diff <font color="blue">1838</font>（61問）
 - 2023年: diff <font color="blue">1798</font>（78問）
 - 2022年: diff <font color="blue">1899</font>（18問）
 
 ### ★★★
 
-- 全体: diff <font color="yellowgreen">2238</font>（159問）
-- 2024年: diff <font color="yellowgreen">2262</font>（70問）
+- 全体: diff <font color="yellowgreen">2241</font>（161問）
+- 2024年: diff <font color="yellowgreen">2268</font>（72問）
 - 2023年: diff <font color="yellowgreen">2211</font>（67問）
 - 2022年: diff <font color="yellowgreen">2245</font>（22問）
 
 ### ★★★☆
 
-- 全体: diff <font color="orange">2575</font>（132問）
-- 2024年: diff <font color="orange">2560</font>（49問）
+- 全体: diff <font color="orange">2577</font>（133問）
+- 2024年: diff <font color="orange">2566</font>（50問）
 - 2023年: diff <font color="orange">2570</font>（63問）
 - 2022年: diff <font color="orange">2627</font>（20問）
 
@@ -157,8 +157,8 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 
 ### ★★★★☆
 
-- 全体: diff <font color="red">3155</font>（22問）
-- 2024年: diff <font color="red">2988</font>（7問）
+- 全体: diff <font color="red">3142</font>（23問）
+- 2024年: diff <font color="red">2972</font>（8問）
 - 2023年: diff <font color="red">3174</font>（10問）
 - 2022年: diff <font color="darkgoldenrod ">3349</font>（5問）
 
