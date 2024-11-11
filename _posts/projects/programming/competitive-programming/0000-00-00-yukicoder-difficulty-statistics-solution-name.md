@@ -1,7 +1,7 @@
 ---
 layout: project
 title: yukicoder過去問解法別難易度統計の解法名解説
-date: 2024-11-09
+date: 2024-11-11
 excerpt: "yukicoderの過去問の解法別難易度統計ページに記載した解法名の解説です。"
 project: true
 parent: competitive-programming-project/
@@ -148,7 +148,7 @@ $(a_i)\_{i=1}^{N}$と$(b_i)\_{i=1}^{N}$を見つけるには、縦ベクトル$(
 といった用途がある。二分探索は多くの場合に緩和を用いるので、二分探索の問題は緩和の考察が非自明でない限り緩和の問題として集計しない。
 
 　
-{% assign solution = "指定序数の値の計算を各値未満の数え上げに帰着" %}
+{% assign solution = "指定序数の値の計算を始切片の数え上げに帰着" %}
 <h2 id="{{ solution }}"><a href="{{ site.url }}/yukicoder-difficulty-statistics#{{ solution }}">{{ solution }}</a></h2>
 
 有限全順序集合$S$とその要素数以下の正整数$K$が与えられた時、$S$の$K$番目の要素を求める問題を考える。
