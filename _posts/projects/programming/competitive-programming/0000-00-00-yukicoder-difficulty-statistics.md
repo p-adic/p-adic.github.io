@@ -531,7 +531,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 1. （★3.5／diff <font color="orange">2690</font>／1問）<a href="#01BFS" class="tag">01BFS</a>
 1. （★3.5／diff <font color="orange">2741</font>／1問）<a href="#階数因数分解" class="tag">階数因数分解</a>
 1. （★3.5／diff <font color="orange">2741</font>／1問）<a href="#階数計算" class="tag">階数計算</a>
-1. （★3.5／diff <font color="orange">2741</font>／1問）<a href="#行列の簡約化" class="tag">行列の簡約化</a>
+1. （★3.5／diff <font color="orange">2741</font>／1問）<a href="#行列の簡約階段化" class="tag">行列の簡約階段化</a>
 1. （★3.5／diff <font color="red">2819</font>／2問）<a href="#多倍長整数" class="tag">多倍長整数</a>
 1. （★3.5／diff <font color="red">2860</font>／1問）<a href="#タイリング可能性を領域の細分による不変量計算に帰着" class="tag">タイリング可能性を領域の細分による不変量計算に帰着</a>
 1. （★3.5／diff <font color="red">2906</font>／2問）<a href="#約数ゼータ変換" class="tag">約数ゼータ変換</a>
@@ -549,11 +549,11 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 1. （★4.2／diff <font color="red">2891</font>／2問）<a href="#因数定理" class="tag">因数定理</a>
 1. （★4.2／diff <font color="red">2976</font>／9問）<a href="#高速フーリエ変換" class="tag">高速フーリエ変換</a>／数論的変換／FTT／NTT
 1. （★4.2／diff <font color="red">2976</font>／9問）<a href="#畳み込み" class="tag">畳み込み</a>
+1. （★4.2／diff <font color="red">3122</font>／2問）<a href="#行列の階段化" class="tag">行列の階段化</a>
 1. （★4.2／diff <font color="red">3122</font>／2問）<a href="#掃き出し法" class="tag">掃き出し法</a>
 1. （★4.2／diff <font color="red">3142</font>／2問）<a href="#遅延セグメント木" class="tag">遅延セグメント木</a>／遅延セグ木
 1. （★4.3／diff <font color="red">3090</font>／4問）<a href="#データ構造をマージする一般的なテク" class="tag">データ構造をマージする一般的なテク</a>／マージテク
 1. （★4.3／diff <font color="red">3090</font>／4問）<a href="#演算の反復の分割統治" class="tag">演算の反復の分割統治</a>
-1. （★4.5／diff <font color="red">3103</font>／1問）<a href="#Polynomial Taylor shift" class="tag">Polynomial Taylor shift</a>
 1. （★4.5／diff <font color="red">3103</font>／1問）<a href="#ファウルハーバーの公式" class="tag">ファウルハーバーの公式</a>
 1. （★4.5／diff <font color="darkgoldenrod ">3316</font>／1問）<a href="#parallel tree contraction" class="tag">parallel tree contraction</a>／rake and compress
 1. （★4.5／diff <font color="darkgoldenrod ">3316</font>／1問）<a href="#演算の適用を１次式の合成に翻訳" class="tag">演算の適用を１次式の合成に翻訳</a>
@@ -562,6 +562,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 1. （★4.5／diff <font color="darkgoldenrod ">3382</font>／1問）<a href="#区間二次形式取得" class="tag">区間二次形式取得</a>
 1. （★4.5／diff <font color="darkgoldenrod ">3382</font>／1問）<a href="#区間二次式取得" class="tag">区間二次式取得</a>
 1. （★4.5／diff <font color="darkgoldenrod ">3382</font>／1問）<a href="#最近共通祖先" class="tag">最近共通祖先</a>
+1. （★4.7／diff <font color="darkgoldenrod ">3209</font>／2問）<a href="#Polynomial Taylor shift" class="tag">Polynomial Taylor shift</a>
 1. （★5／diff <font color="orange">2795</font>／1問）<a href="#Lindstrom-Gessel-Viennotの補題" class="tag">Lindstrom-Gessel-Viennotの補題</a>／LGV公式
 1. （★5／diff <font color="orange">2795</font>／1問）<a href="#ファンデルモンドの行列式計算" class="tag">ファンデルモンドの行列式計算</a>
 1. （★5／diff <font color="orange">2795</font>／1問）<a href="#差積計算" class="tag">差積計算</a>
@@ -577,7 +578,6 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 1. （★5／diff <font color="red">3196</font>／1問）<a href="#多項式のユークリッドの互除法" class="tag">多項式のユークリッドの互除法</a>
 1. （★5／diff <font color="red">3196</font>／1問）<a href="#多項式を法とする逆元計算" class="tag">多項式を法とする逆元計算</a>
 1. （★5／diff <font color="red">3196</font>／1問）<a href="#単位の分解" class="tag">単位の分解</a>
-1. （★5／diff <font color="darkgoldenrod ">3316</font>／1問）<a href="#Polynomial Taylor Shift" class="tag">Polynomial Taylor Shift</a>
 1. （★5／diff <font color="darkgoldenrod ">3316</font>／1問）<a href="#一次分数変換" class="tag">一次分数変換</a>
 1. （★5／diff <font color="darkgoldenrod ">3316</font>／1問）<a href="#一次分数変換と対数関数による変数変換の合成" class="tag">一次分数変換と対数関数による変数変換の合成</a>
 1. （★5／diff <font color="darkgoldenrod ">3316</font>／1問）<a href="#指数関数による変数変換と一次分数変換の合成" class="tag">指数関数による変数変換と一次分数変換の合成</a>
@@ -586,7 +586,6 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 1. （★5／diff <font color="darkgoldenrod ">3382</font>／1問）<a href="#トポロジカルソート" class="tag">トポロジカルソート</a>
 1. （★5／diff <font color="darkgoldenrod ">3382</font>／1問）<a href="#強連結成分分解" class="tag">強連結成分分解</a>／SCC
 1. （★5／diff <font color="darkgoldenrod ">3382</font>／1問）<a href="#残余ネットワーク" class="tag">残余ネットワーク</a>
-1. （★5／diff <font color="darkgoldenrod ">3503</font>／1問）<a href="#階段化" class="tag">階段化</a>
 1. （★5／diff <font color="darkgoldenrod ">3503</font>／1問）<a href="#指定序数の値の計算を桁ごとの計算に帰着" class="tag">指定序数の値の計算を桁ごとの計算に帰着</a>
 1. （★5／diff <font color="darkgoldenrod ">3503</font>／1問）<a href="#非負整数をB進法でベクトルに翻訳" class="tag">非負整数をB進法でベクトルに翻訳</a>
 1. （★5／diff <font color="darkgoldenrod ">3577</font>／1問）<a href="#P-再帰" class="tag">P-再帰</a>／P-recursive
@@ -9412,11 +9411,11 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2405">No.2405 Minimal Matrix Decomposition</a> (yukicoder contest 400 (2023-08-04) - G問題、diff <font color="orange">2741</font>)
 
 　
-<h2 id="行列の簡約化">336. 行列の簡約化</h2>
+<h2 id="行列の簡約階段化">336. 行列の簡約階段化</h2>
 
 ### 難易度統計
 
-「行列の簡約化」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
+「行列の簡約階段化」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.5／diff <font color="orange">2741</font>
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★3.5／diff <font color="orange">2741</font>
@@ -9424,7 +9423,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 
 ### レベル別問題一覧
 
-「行列の簡約化」を主たる解法に含む問題のレベルごとの一覧です。
+「行列の簡約階段化」を主たる解法に含む問題のレベルごとの一覧です。
 
 ##### ★★★☆
 
@@ -9840,7 +9839,30 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2583">No.2583 Differential Equation (Enhanced version)</a> (Advent Calendar Contest 2023 (2023-12-01) - K問題、diff <font color="darkgoldenrod ">3316</font>)
 
 　
-<h2 id="掃き出し法">354. 掃き出し法</h2>
+<h2 id="行列の階段化">354. 行列の階段化</h2>
+
+### 難易度統計
+
+「行列の階段化」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
+- 全体: ★4.2／diff <font color="red">3122</font>
+- 2024年: ★データなし／diffデータなし
+- 2023年: ★4.2／diff <font color="red">3122</font>
+- 2022年: ★データなし／diffデータなし
+
+### レベル別問題一覧
+
+「行列の階段化」を主たる解法に含む問題のレベルごとの一覧です。
+
+##### ★★★☆
+
+- <a href="https://yukicoder.me/problems/no/2405">No.2405 Minimal Matrix Decomposition</a> (yukicoder contest 400 (2023-08-04) - G問題、diff <font color="orange">2741</font>)
+
+##### ★★★★★
+
+- <a href="https://yukicoder.me/problems/no/2589">No.2589 Prepare Integers</a> (Advent Calendar Contest 2023 (2023-12-01) - Q問題、diff <font color="darkgoldenrod ">3503</font>)
+
+　
+<h2 id="掃き出し法">355. 掃き出し法</h2>
 
 ### 難易度統計
 
@@ -9863,7 +9885,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2589">No.2589 Prepare Integers</a> (Advent Calendar Contest 2023 (2023-12-01) - Q問題、diff <font color="darkgoldenrod ">3503</font>)
 
 　
-<h2 id="遅延セグメント木">355. 遅延セグメント木</h2>
+<h2 id="遅延セグメント木">356. 遅延セグメント木</h2>
 
 ### 難易度統計
 
@@ -9886,7 +9908,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2163">No.2163 LCA Sum Query</a> (Advent Calendar Contest 2022 (2022-12-01) - N問題、diff <font color="darkgoldenrod ">3382</font>)
 
 　
-<h2 id="データ構造をマージする一般的なテク">356. データ構造をマージする一般的なテク</h2>
+<h2 id="データ構造をマージする一般的なテク">357. データ構造をマージする一般的なテク</h2>
 
 ### 難易度統計
 
@@ -9914,7 +9936,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2556">No.2556 Increasing Matrix</a> (Advent Calendar Contest 2023 (2023-12-01) - B問題、diff <font color="orange">2795</font>)
 
 　
-<h2 id="演算の反復の分割統治">357. 演算の反復の分割統治</h2>
+<h2 id="演算の反復の分割統治">358. 演算の反復の分割統治</h2>
 
 ### 難易度統計
 
@@ -9940,25 +9962,6 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 
 - <a href="https://yukicoder.me/problems/no/2166">No.2166 Paint and Fill</a> (Advent Calendar Contest 2022 (2022-12-01) - S問題、diff <font color="darkgoldenrod ">3577</font>)
 - <a href="https://yukicoder.me/problems/no/2556">No.2556 Increasing Matrix</a> (Advent Calendar Contest 2023 (2023-12-01) - B問題、diff <font color="orange">2795</font>)
-
-　
-<h2 id="Polynomial Taylor shift">358. Polynomial Taylor shift</h2>
-
-### 難易度統計
-
-「Polynomial Taylor shift」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
-- 全体: ★4.5／diff <font color="red">3103</font>
-- 2024年: ★データなし／diffデータなし
-- 2023年: ★4.5／diff <font color="red">3103</font>
-- 2022年: ★データなし／diffデータなし
-
-### レベル別問題一覧
-
-「Polynomial Taylor shift」を主たる解法に含む問題のレベルごとの一覧です。
-
-##### ★★★★☆
-
-- <a href="https://yukicoder.me/problems/no/2580">No.2580 Hyperinflation</a> (Advent Calendar Contest 2023 (2023-12-01) - H問題、diff <font color="red">3103</font>)
 
 　
 <h2 id="ファウルハーバーの公式">359. ファウルハーバーの公式</h2>
@@ -10118,7 +10121,30 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2163">No.2163 LCA Sum Query</a> (Advent Calendar Contest 2022 (2022-12-01) - N問題、diff <font color="darkgoldenrod ">3382</font>)
 
 　
-<h2 id="Lindstrom-Gessel-Viennotの補題">367. Lindstrom-Gessel-Viennotの補題</h2>
+<h2 id="Polynomial Taylor shift">367. Polynomial Taylor shift</h2>
+
+### 難易度統計
+
+「Polynomial Taylor shift」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
+- 全体: ★4.7／diff <font color="darkgoldenrod ">3209</font>
+- 2024年: ★データなし／diffデータなし
+- 2023年: ★4.7／diff <font color="darkgoldenrod ">3209</font>
+- 2022年: ★データなし／diffデータなし
+
+### レベル別問題一覧
+
+「Polynomial Taylor shift」を主たる解法に含む問題のレベルごとの一覧です。
+
+##### ★★★★☆
+
+- <a href="https://yukicoder.me/problems/no/2580">No.2580 Hyperinflation</a> (Advent Calendar Contest 2023 (2023-12-01) - H問題、diff <font color="red">3103</font>)
+
+##### ★★★★★
+
+- <a href="https://yukicoder.me/problems/no/2583">No.2583 Differential Equation (Enhanced version)</a> (Advent Calendar Contest 2023 (2023-12-01) - K問題、diff <font color="darkgoldenrod ">3316</font>)
+
+　
+<h2 id="Lindstrom-Gessel-Viennotの補題">368. Lindstrom-Gessel-Viennotの補題</h2>
 
 ### 難易度統計
 
@@ -10137,7 +10163,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2556">No.2556 Increasing Matrix</a> (Advent Calendar Contest 2023 (2023-12-01) - B問題、diff <font color="orange">2795</font>)
 
 　
-<h2 id="ファンデルモンドの行列式計算">368. ファンデルモンドの行列式計算</h2>
+<h2 id="ファンデルモンドの行列式計算">369. ファンデルモンドの行列式計算</h2>
 
 ### 難易度統計
 
@@ -10156,7 +10182,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2556">No.2556 Increasing Matrix</a> (Advent Calendar Contest 2023 (2023-12-01) - B問題、diff <font color="orange">2795</font>)
 
 　
-<h2 id="差積計算">369. 差積計算</h2>
+<h2 id="差積計算">370. 差積計算</h2>
 
 ### 難易度統計
 
@@ -10175,7 +10201,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2556">No.2556 Increasing Matrix</a> (Advent Calendar Contest 2023 (2023-12-01) - B問題、diff <font color="orange">2795</font>)
 
 　
-<h2 id="半標準ヤングタブロー">370. 半標準ヤングタブロー</h2>
+<h2 id="半標準ヤングタブロー">371. 半標準ヤングタブロー</h2>
 
 ### 難易度統計
 
@@ -10194,7 +10220,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2556">No.2556 Increasing Matrix</a> (Advent Calendar Contest 2023 (2023-12-01) - B問題、diff <font color="orange">2795</font>)
 
 　
-<h2 id="半標準ヤングタブローとGelfand-Tsetlinパターンの対応">371. 半標準ヤングタブローとGelfand-Tsetlinパターンの対応</h2>
+<h2 id="半標準ヤングタブローとGelfand-Tsetlinパターンの対応">372. 半標準ヤングタブローとGelfand-Tsetlinパターンの対応</h2>
 
 ### 難易度統計
 
@@ -10213,7 +10239,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2556">No.2556 Increasing Matrix</a> (Advent Calendar Contest 2023 (2023-12-01) - B問題、diff <font color="orange">2795</font>)
 
 　
-<h2 id="半標準ヤングタブローと非交差経路の対応">372. 半標準ヤングタブローと非交差経路の対応</h2>
+<h2 id="半標準ヤングタブローと非交差経路の対応">373. 半標準ヤングタブローと非交差経路の対応</h2>
 
 ### 難易度統計
 
@@ -10232,7 +10258,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2556">No.2556 Increasing Matrix</a> (Advent Calendar Contest 2023 (2023-12-01) - B問題、diff <font color="orange">2795</font>)
 
 　
-<h2 id="微分">373. 微分</h2>
+<h2 id="微分">374. 微分</h2>
 
 ### 難易度統計
 
@@ -10251,7 +10277,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2556">No.2556 Increasing Matrix</a> (Advent Calendar Contest 2023 (2023-12-01) - B問題、diff <font color="orange">2795</font>)
 
 　
-<h2 id="フック長公式">374. フック長公式</h2>
+<h2 id="フック長公式">375. フック長公式</h2>
 
 ### 難易度統計
 
@@ -10270,7 +10296,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2149">No.2149 Vanitas Vanitatum</a> (Advent Calendar Contest 2022 (2022-12-01) - F問題、diff <font color="red">3086</font>)
 
 　
-<h2 id="標準ヤングタブロー">375. 標準ヤングタブロー</h2>
+<h2 id="標準ヤングタブロー">376. 標準ヤングタブロー</h2>
 
 ### 難易度統計
 
@@ -10289,7 +10315,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2149">No.2149 Vanitas Vanitatum</a> (Advent Calendar Contest 2022 (2022-12-01) - F問題、diff <font color="red">3086</font>)
 
 　
-<h2 id="多点評価">376. 多点評価</h2>
+<h2 id="多点評価">377. 多点評価</h2>
 
 ### 難易度統計
 
@@ -10309,7 +10335,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2556">No.2556 Increasing Matrix</a> (Advent Calendar Contest 2023 (2023-12-01) - B問題、diff <font color="orange">2795</font>)
 
 　
-<h2 id="Bostan-Mori法">377. Bostan-Mori法</h2>
+<h2 id="Bostan-Mori法">378. Bostan-Mori法</h2>
 
 ### 難易度統計
 
@@ -10328,7 +10354,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2579">No.2579 Dice Sum Infinity (制約変更版)</a> (Advent Calendar Contest 2023 (2023-12-01) - G問題、diff <font color="red">3196</font>)
 
 　
-<h2 id="巡回畳み込み">378. 巡回畳み込み</h2>
+<h2 id="巡回畳み込み">379. 巡回畳み込み</h2>
 
 ### 難易度統計
 
@@ -10347,7 +10373,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2579">No.2579 Dice Sum Infinity (制約変更版)</a> (Advent Calendar Contest 2023 (2023-12-01) - G問題、diff <font color="red">3196</font>)
 
 　
-<h2 id="多項式のユークリッドの互除法">379. 多項式のユークリッドの互除法</h2>
+<h2 id="多項式のユークリッドの互除法">380. 多項式のユークリッドの互除法</h2>
 
 ### 難易度統計
 
@@ -10366,7 +10392,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2579">No.2579 Dice Sum Infinity (制約変更版)</a> (Advent Calendar Contest 2023 (2023-12-01) - G問題、diff <font color="red">3196</font>)
 
 　
-<h2 id="多項式を法とする逆元計算">380. 多項式を法とする逆元計算</h2>
+<h2 id="多項式を法とする逆元計算">381. 多項式を法とする逆元計算</h2>
 
 ### 難易度統計
 
@@ -10385,7 +10411,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2579">No.2579 Dice Sum Infinity (制約変更版)</a> (Advent Calendar Contest 2023 (2023-12-01) - G問題、diff <font color="red">3196</font>)
 
 　
-<h2 id="単位の分解">381. 単位の分解</h2>
+<h2 id="単位の分解">382. 単位の分解</h2>
 
 ### 難易度統計
 
@@ -10402,25 +10428,6 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ##### ★★★★★
 
 - <a href="https://yukicoder.me/problems/no/2579">No.2579 Dice Sum Infinity (制約変更版)</a> (Advent Calendar Contest 2023 (2023-12-01) - G問題、diff <font color="red">3196</font>)
-
-　
-<h2 id="Polynomial Taylor Shift">382. Polynomial Taylor Shift</h2>
-
-### 難易度統計
-
-「Polynomial Taylor Shift」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
-- 全体: ★5／diff <font color="darkgoldenrod ">3316</font>
-- 2024年: ★データなし／diffデータなし
-- 2023年: ★5／diff <font color="darkgoldenrod ">3316</font>
-- 2022年: ★データなし／diffデータなし
-
-### レベル別問題一覧
-
-「Polynomial Taylor Shift」を主たる解法に含む問題のレベルごとの一覧です。
-
-##### ★★★★★
-
-- <a href="https://yukicoder.me/problems/no/2583">No.2583 Differential Equation (Enhanced version)</a> (Advent Calendar Contest 2023 (2023-12-01) - K問題、diff <font color="darkgoldenrod ">3316</font>)
 
 　
 <h2 id="一次分数変換">383. 一次分数変換</h2>
@@ -10575,26 +10582,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2160">No.2160 みたりのDominator</a> (Advent Calendar Contest 2022 (2022-12-01) - K問題、diff <font color="darkgoldenrod ">3382</font>)
 
 　
-<h2 id="階段化">391. 階段化</h2>
-
-### 難易度統計
-
-「階段化」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
-- 全体: ★5／diff <font color="darkgoldenrod ">3503</font>
-- 2024年: ★データなし／diffデータなし
-- 2023年: ★5／diff <font color="darkgoldenrod ">3503</font>
-- 2022年: ★データなし／diffデータなし
-
-### レベル別問題一覧
-
-「階段化」を主たる解法に含む問題のレベルごとの一覧です。
-
-##### ★★★★★
-
-- <a href="https://yukicoder.me/problems/no/2589">No.2589 Prepare Integers</a> (Advent Calendar Contest 2023 (2023-12-01) - Q問題、diff <font color="darkgoldenrod ">3503</font>)
-
-　
-<h2 id="指定序数の値の計算を桁ごとの計算に帰着">392. 指定序数の値の計算を桁ごとの計算に帰着</h2>
+<h2 id="指定序数の値の計算を桁ごとの計算に帰着">391. 指定序数の値の計算を桁ごとの計算に帰着</h2>
 
 ### 難易度統計
 
@@ -10613,7 +10601,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2589">No.2589 Prepare Integers</a> (Advent Calendar Contest 2023 (2023-12-01) - Q問題、diff <font color="darkgoldenrod ">3503</font>)
 
 　
-<h2 id="非負整数をB進法でベクトルに翻訳">393. 非負整数をB進法でベクトルに翻訳</h2>
+<h2 id="非負整数をB進法でベクトルに翻訳">392. 非負整数をB進法でベクトルに翻訳</h2>
 
 ### 難易度統計
 
@@ -10632,7 +10620,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2589">No.2589 Prepare Integers</a> (Advent Calendar Contest 2023 (2023-12-01) - Q問題、diff <font color="darkgoldenrod ">3503</font>)
 
 　
-<h2 id="P-再帰">394. P-再帰</h2>
+<h2 id="P-再帰">393. P-再帰</h2>
 
 ### 難易度統計
 
@@ -10651,7 +10639,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2166">No.2166 Paint and Fill</a> (Advent Calendar Contest 2022 (2022-12-01) - S問題、diff <font color="darkgoldenrod ">3577</font>)
 
 　
-<h2 id="評価点シフト">395. 評価点シフト</h2>
+<h2 id="評価点シフト">394. 評価点シフト</h2>
 
 ### 難易度統計
 
@@ -10670,7 +10658,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2166">No.2166 Paint and Fill</a> (Advent Calendar Contest 2022 (2022-12-01) - S問題、diff <font color="darkgoldenrod ">3577</font>)
 
 　
-<h2 id="ハミルトン路構築">396. ハミルトン路構築</h2>
+<h2 id="ハミルトン路構築">395. ハミルトン路構築</h2>
 
 ### 難易度統計
 
