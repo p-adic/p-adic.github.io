@@ -602,6 +602,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 1. （★5／diff <font color="darkgoldenrod ">3577</font>／1問）<a href="#評価点シフト" class="tag">評価点シフト</a>
 1. （★データなし／diffデータなし／1問）<a href="#ハミルトン路構築" class="tag">ハミルトン路構築</a>
 
+登録問題数374、登録解法数402、１問あたりの平均登録解法数5.0、１解法あたりの平均登録問題数4.7です。
 
 　
 <h2 id="実装">1. 実装</h2>
