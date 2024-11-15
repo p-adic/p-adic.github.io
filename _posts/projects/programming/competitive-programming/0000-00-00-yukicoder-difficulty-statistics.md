@@ -516,7 +516,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 1. （★3.2／diff <font color="yellowgreen">2325</font>／4問）<a href="#十分大きな法で計算" class="tag">十分大きな法で計算</a>
 1. （★3.2／diff <font color="yellowgreen">2358</font>／2問）<a href="#フロベニウス数に注目" class="tag">フロベニウス数に注目</a>
 1. （★3.2／diff <font color="yellowgreen">2383</font>／4問）<a href="#調和数列" class="tag">調和数列</a>
-1. （★3.2／diff <font color="orange">2447</font>／2問）<a href="#ベン図" class="tag">ベン図</a>
+1. （★3.2／diff <font color="orange">2447</font>／2問）<a href="#集合族による帰属関係で類別" class="tag">集合族による帰属関係で類別</a>
 1. （★3.2／diff <font color="orange">2493</font>／2問）<a href="#階数計算" class="tag">階数計算</a>
 1. （★3.2／diff <font color="orange">2493</font>／2問）<a href="#行列の簡約階段化" class="tag">行列の簡約階段化</a>
 1. （★3.2／diff <font color="orange">2641</font>／3問）<a href="#全方位木DP" class="tag">全方位木DP</a>
@@ -9284,11 +9284,11 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 - <a href="https://yukicoder.me/problems/no/2162">No.2162 Copy and Paste 2</a> (Advent Calendar Contest 2022 (2022-12-01) - M問題、diff <font color="red">2903</font>)
 
 　
-<h2 id="ベン図">318. ベン図</h2>
+<h2 id="集合族による帰属関係で類別">318. 集合族による帰属関係で類別</h2>
 
 ### 難易度統計
 
-「ベン図」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
+「集合族による帰属関係で類別」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.2／diff <font color="orange">2447</font>
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★データなし／diffデータなし
@@ -9296,7 +9296,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 
 ### レベル別問題一覧
 
-「ベン図」を主たる解法に含む問題のレベルごとの一覧です。
+「集合族による帰属関係で類別」を主たる解法に含む問題のレベルごとの一覧です。
 
 ##### ★★★
 
