@@ -328,7 +328,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 1. （★2.5／diff <font color="blue">1661</font>／1問）<a href="#部分回文列挙" class="tag">部分回文列挙</a>
 1. （★2.5／diff <font color="blue">1666</font>／4問）<a href="#B進法による構築" class="tag">B進法による構築</a>
 1. （★2.5／diff <font color="blue">1687</font>／7問）<a href="#配列を像・頻度表で管理" class="tag">配列を像・頻度表で管理</a>
-1. （★2.5／diff <font color="blue">1705</font>／3問）<a href="#枝刈り" class="tag">枝刈り</a>
+1. （★2.5／diff <font color="blue">1705</font>／2問）<a href="#枝刈り" class="tag">枝刈り</a>
 1. （★2.5／diff <font color="blue">1717</font>／1問）<a href="#ワーシャルフロイド法" class="tag">ワーシャルフロイド法</a>
 1. （★2.5／diff <font color="blue">1727</font>／3問）<a href="#円環の倍化実装" class="tag">円環の倍化実装</a>
 1. （★2.5／diff <font color="blue">1728</font>／1問）<a href="#部分集合DP" class="tag">部分集合DP</a>
@@ -4497,7 +4497,6 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 ##### ★★★
 
 - <a href="https://yukicoder.me/problems/no/2221">No.2221 Set X</a> (yukicoder contest 377 (2023-02-17) - F問題、diff <font color="orange">2471</font>)
-- <a href="https://yukicoder.me/problems/no/2690">No.2690 A present from B (Hard)</a> (単発出題、diffデータなし)
 
 　
 <h2 id="ワーシャルフロイド法">131. ワーシャルフロイド法</h2>
