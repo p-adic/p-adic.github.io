@@ -1,7 +1,7 @@
 ---
 layout: project
 title: yukicoder過去問解法別難易度統計の解法名解説
-date: 2024-11-11
+date: 2024-11-18
 excerpt: "yukicoderの過去問の解法別難易度統計ページに記載した解法名の解説です。"
 project: true
 parent: competitive-programming-project/
@@ -106,6 +106,9 @@ $f$の値の総和を直接求める代わりに、$S$の要素$s$の一様ラ�
 ユークリッド空間を始めとする距離空間において、距離に関する何らかの値を最小化する組み合わせ最適化を考える。
 
 問題設定に応じて距離空間から重み付きグラフ（[単位円盤グラフ](https://en.wikipedia.org/wiki/Unit_disk_graph)や[Vietoris--Rips複体](https://en.wikipedia.org/wiki/Vietoris%E2%80%93Rips_complex)の$1$次元骨格など）を構成し、それに対してグラフアルゴリズムを適用する手法。
+
+- 例えば$(X,d)$を距離空間とする。$X$を頂点集合とし$x_0 \neq x_1$を満たす各$(x_0,x_1) \in X^2$に重み$d(x_0,x_1)$の無向辺を貼った重み付きグラフを考える。構築は$(x_0,x_1)$の全探索により$O(\# X^2)$となる。
+- 例えば$n$を正整数とし、$d$を$n$次元格子$\mathbb{Z}^n$の$\ell^1$距離や$\ell^{\infy}$距離とし、$X$を$\mathbb{Z}^n$の部分集合とし、$L$を正整数とする。$X$を頂点集合として$x_0 \neq x_1$かつ$d(x_0,x_1) \leq L$を満たす各$(x_0,x_1) \in X^2$に重み$1$の無向辺を貼ったグラフを考える。構築は$(x_0,x_1)$の全探索または$x_0$の$L$近傍探索により$O(\# X \min \\{\# X,L^n\\})$となる。
 
 　
 {% assign solution = "重複選択個数の線形関係式" %}
