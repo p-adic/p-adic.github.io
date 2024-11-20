@@ -13,7 +13,7 @@ tags: [競技プログラミング,数学]
 
 yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をwriter別に分析しました。具体的には
 
-- writer想定レベル（★の数）と実際の難易度（difficulty）の関係
+- writer想定レベル（★の数）と実際の難易度（difficulty）の組み合わせ
 - （筆者がupsolveして解法を登録した問題に絞った上で）各解法が問われた（非想定解も含む）回数
 
 を集計しました。
@@ -21,10 +21,9 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 データ取得元、集計方法、集計の進捗状況などは[yukicode過去問解法別難易度統計]({{ site.url }}/yukicoder-difficulty-statistics)に準じます。そちらの注意点もご参照ください。同ページの[writer想定レベルごとに算出した実際の難易度の平均値]({{ site.url }}/yukicoder-difficulty-statistics#average_difficulty)も比較用に合わせてご利用ください。
 
 
-
 ## [nmnmnmnmnmnmnmさん](https://yukicoder.me/users/25)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★1／diff <font color="green">938</font>](https://yukicoder.me/problems/no/2194)
 
@@ -37,7 +36,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [snukeさん](https://yukicoder.me/users/75)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★5／diff <font color="darkgoldenrod ">3257</font>](https://yukicoder.me/problems/no/2151)
 
@@ -49,7 +48,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [startcppさん](https://yukicoder.me/users/108)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★1.5／diff <font color="gray">365</font>](https://yukicoder.me/problems/no/2614)
 - [★2／diff <font color="green">958</font>](https://yukicoder.me/problems/no/2615)
@@ -104,7 +103,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [tailsさん](https://yukicoder.me/users/385)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★2.5／diff <font color="yellowgreen">2246</font>](https://yukicoder.me/problems/no/2147)
 
@@ -119,7 +118,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [akakimidoriさん](https://yukicoder.me/users/437)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★4.5／diff <font color="red">3103</font>](https://yukicoder.me/problems/no/2580)
 - [★4.5／diff <font color="darkgoldenrod ">3382</font>](https://yukicoder.me/problems/no/2163)
@@ -142,7 +141,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [testestestさん](https://yukicoder.me/users/939)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★4／diff <font color="orange">2567</font>](https://yukicoder.me/problems/no/2207)
 
@@ -158,7 +157,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [cleanttedさん](https://yukicoder.me/users/2340)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★3／diff <font color="deepskyblue">1376</font>](https://yukicoder.me/problems/no/2387)
 
@@ -171,7 +170,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [Nafmo2さん](https://yukicoder.me/users/3130)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★1／diff <font color="gray">159</font>](https://yukicoder.me/problems/no/2706)
 - [★1／diff <font color="gray">188</font>](https://yukicoder.me/problems/no/2414)
@@ -248,7 +247,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [ei1333333さん](https://yukicoder.me/users/4746)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★2.5／diff <font color="yellowgreen">2246</font>](https://yukicoder.me/problems/no/2148)
 
@@ -261,7 +260,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [tatyamさん](https://yukicoder.me/users/5232)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★3.5／diff <font color="darkgoldenrod ">3386</font>](https://yukicoder.me/problems/no/2632)
 
@@ -272,7 +271,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [p-adic](https://yukicoder.me/users/5376)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★1／diff <font color="gray">152</font>](https://yukicoder.me/problems/no/2441)
 - [★1／diff <font color="gray">371</font>](https://yukicoder.me/problems/no/2533)
@@ -353,7 +352,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [nu50218さん](https://yukicoder.me/users/6056)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★2.5／diff <font color="blue">1920</font>](https://yukicoder.me/problems/no/2674)
 - [★3.5／diff <font color="yellowgreen">2196</font>](https://yukicoder.me/problems/no/2677)
@@ -370,7 +369,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [okkuukenkenさん](https://yukicoder.me/users/6186)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★3.5／diffデータなし](https://yukicoder.me/problems/no/2069)
 
@@ -385,7 +384,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [noshi91さん](https://yukicoder.me/users/6250)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★5／diff <font color="red">3196</font>](https://yukicoder.me/problems/no/2579)
 
@@ -405,7 +404,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [hitonanodeさん](https://yukicoder.me/users/6298)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★5／diff <font color="darkgoldenrod ">3503</font>](https://yukicoder.me/problems/no/2594)
 
@@ -416,7 +415,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [first_vilさん](https://yukicoder.me/users/6913)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★3.5／diff <font color="red">3086</font>](https://yukicoder.me/problems/no/2169)
 
@@ -427,7 +426,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [kenken714さん](https://yukicoder.me/users/7164)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★3／diff <font color="yellowgreen">2176</font>](https://yukicoder.me/problems/no/2631)
 - [★4／diff <font color="red">2884</font>](https://yukicoder.me/problems/no/2439)
@@ -445,7 +444,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [Sumitacchanさん](https://yukicoder.me/users/7400)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★2.5／diff <font color="blue">1934</font>](https://yukicoder.me/problems/no/2103)
 - [★3／diff <font color="yellowgreen">2139</font>](https://yukicoder.me/problems/no/2104)
@@ -471,7 +470,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [tko919さん](https://yukicoder.me/users/7482)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★4.5／diff <font color="darkgoldenrod ">3316</font>](https://yukicoder.me/problems/no/2597)
 - [★4.5／diff <font color="darkgoldenrod ">3382</font>](https://yukicoder.me/problems/no/2173)
@@ -483,7 +482,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [KowerKoint2010さん](https://yukicoder.me/users/7583)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★4／diff <font color="orange">2485</font>](https://yukicoder.me/problems/no/2158)
 
@@ -494,7 +493,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [NyaanNyaanさん](https://yukicoder.me/users/7896)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★5／diff <font color="darkgoldenrod ">3316</font>](https://yukicoder.me/problems/no/2583)
 - [★5／diff <font color="darkgoldenrod ">3577</font>](https://yukicoder.me/problems/no/2166)
@@ -519,7 +518,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [nullさん](https://yukicoder.me/users/8315)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★2.5／diff <font color="yellowgreen">2323</font>](https://yukicoder.me/problems/no/2577)
 - [★2.5／diff <font color="orange">2491</font>](https://yukicoder.me/problems/no/2165)
@@ -547,7 +546,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [tute7627さん](https://yukicoder.me/users/8361)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★3／diff <font color="orange">2758</font>](https://yukicoder.me/problems/no/2171)
 - [★4／diff <font color="red">3026</font>](https://yukicoder.me/problems/no/2588)
@@ -562,7 +561,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [miscalcさん](https://yukicoder.me/users/8431)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★2／diff <font color="green">831</font>](https://yukicoder.me/problems/no/2275)
 - [★2.5／diff <font color="deepskyblue">1331</font>](https://yukicoder.me/problems/no/2276)
@@ -598,7 +597,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [hotman78さん](https://yukicoder.me/users/8996)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★4.5／diff <font color="orange">2749</font>](https://yukicoder.me/problems/no/2575)
 - [★4.5／diff <font color="darkgoldenrod ">3382</font>](https://yukicoder.me/problems/no/2159)
@@ -611,7 +610,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [zer0-starさん](https://yukicoder.me/users/9206)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★2.5／diff <font color="blue">1717</font>](https://yukicoder.me/problems/no/2640)
 
@@ -624,7 +623,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [SPD_9X2さん](https://yukicoder.me/users/9323)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★1.5／diff <font color="brown">721</font>](https://yukicoder.me/problems/no/2679)
 - [★2／diffデータなし](https://yukicoder.me/problems/no/2363)
@@ -656,7 +655,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [MZKiさん](https://yukicoder.me/users/9437)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★1.5／diff <font color="green">1026</font>](https://yukicoder.me/problems/no/2750)
 - [★3／diff <font color="blue">1751</font>](https://yukicoder.me/problems/no/2756)
@@ -668,7 +667,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [timiさん](https://yukicoder.me/users/9606)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★2.5／diff <font color="blue">1803</font>](https://yukicoder.me/problems/no/2696)
 
@@ -683,7 +682,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [ebi_flyさん](https://yukicoder.me/users/9720)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★3.5／diff <font color="orange">2476</font>](https://yukicoder.me/problems/no/2634)
 
@@ -694,7 +693,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [abap34さん](https://yukicoder.me/users/9726)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★3／diff <font color="yellowgreen">2249</font>](https://yukicoder.me/problems/no/2642)
 - [★4／diff <font color="darkgoldenrod ">3227</font>](https://yukicoder.me/problems/no/2438)
@@ -711,7 +710,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [箱星さん](https://yukicoder.me/users/10052)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★1／diff <font color="green">803</font>](https://yukicoder.me/problems/no/2789)
 - [★1／diff <font color="green">1017</font>](https://yukicoder.me/problems/no/2138)
@@ -776,7 +775,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [logxさん](https://yukicoder.me/users/10223)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★2／diff <font color="deepskyblue">1352</font>](https://yukicoder.me/problems/no/2364)
 - [★3／diff <font color="yellowgreen">2294</font>](https://yukicoder.me/problems/no/2366)
@@ -799,7 +798,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [stoqさん](https://yukicoder.me/users/10224)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★2／diff <font color="gray">344</font>](https://yukicoder.me/problems/no/2216)
 - [★2.5／diffデータなし](https://yukicoder.me/problems/no/2200)
@@ -858,7 +857,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [shobonvipさん](https://yukicoder.me/users/10360)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★2／diff <font color="green">846</font>](https://yukicoder.me/problems/no/2252)
 - [★2／diff <font color="deepskyblue">1273</font>](https://yukicoder.me/problems/no/2426)
@@ -888,7 +887,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [hamamuさん](https://yukicoder.me/users/10411)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★2／diff <font color="deepskyblue">1210</font>](https://yukicoder.me/problems/no/2655)
 - [★2.5／diff <font color="blue">1726</font>](https://yukicoder.me/problems/no/2656)
@@ -919,7 +918,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [simasima_71さん](https://yukicoder.me/users/10427)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★2／diff <font color="brown">680</font>](https://yukicoder.me/problems/no/2425)
 
@@ -930,7 +929,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [蜜蜂さん](https://yukicoder.me/users/10429)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★1／diff <font color="green">1070</font>](https://yukicoder.me/problems/no/2607)
 - [★1.5／diff <font color="deepskyblue">1247</font>](https://yukicoder.me/problems/no/2608)
@@ -970,7 +969,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [SSRSさん](https://yukicoder.me/users/10449)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★1.5／diff <font color="gray">342</font>](https://yukicoder.me/problems/no/2334)
 - [★2／diff <font color="green">1025</font>](https://yukicoder.me/problems/no/2335)
@@ -1023,7 +1022,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [chineristACさん](https://yukicoder.me/users/10535)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★2.5／diff <font color="deepskyblue">1486</font>](https://yukicoder.me/problems/no/2072)
 - [★3／diff <font color="yellowgreen">2047</font>](https://yukicoder.me/problems/no/2074)
@@ -1052,7 +1051,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [noya2さん](https://yukicoder.me/users/10759)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★1／diff <font color="green">967</font>](https://yukicoder.me/problems/no/2637)
 - [★1.5／diff <font color="green">873</font>](https://yukicoder.me/problems/no/2795)
@@ -1111,7 +1110,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [kumakumaさん](https://yukicoder.me/users/11008)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★4／diff <font color="orange">2486</font>](https://yukicoder.me/problems/no/2238)
 
@@ -1122,7 +1121,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [nok0さん](https://yukicoder.me/users/11122)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★2.5／diff <font color="yellowgreen">2008</font>](https://yukicoder.me/problems/no/2059)
 - [★2.5／diff <font color="yellowgreen">2191</font>](https://yukicoder.me/problems/no/2132)
@@ -1151,7 +1150,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [deuteridayoさん](https://yukicoder.me/users/11153)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★1／diff <font color="gray">140</font>](https://yukicoder.me/problems/no/2557)
 - [★1.5／diff <font color="brown">775</font>](https://yukicoder.me/problems/no/2561)
@@ -1170,7 +1169,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [t98sliderさん](https://yukicoder.me/users/11210)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★2／diff <font color="green">849</font>](https://yukicoder.me/problems/no/2289)
 - [★2.5／diff <font color="deepskyblue">1302</font>](https://yukicoder.me/problems/no/2290)
@@ -1214,7 +1213,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [AngrySadEightさん](https://yukicoder.me/users/11268)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★1／diff <font color="gray">132</font>](https://yukicoder.me/problems/no/2407)
 - [★1／diff <font color="gray">205</font>](https://yukicoder.me/problems/no/2621)
@@ -1359,7 +1358,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [Kazunさん](https://yukicoder.me/users/11274)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★1／diff <font color="brown">783</font>](https://yukicoder.me/problems/no/2647)
 - [★1／diff <font color="green">862</font>](https://yukicoder.me/problems/no/2098)
@@ -1470,7 +1469,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [netyo715さん](https://yukicoder.me/users/11468)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★2.5／diff <font color="orange">2401</font>](https://yukicoder.me/problems/no/2585)
 
@@ -1484,7 +1483,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [amesyuさん](https://yukicoder.me/users/11512)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★2／diff <font color="deepskyblue">1535</font>](https://yukicoder.me/problems/no/2928)
 
@@ -1495,7 +1494,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [Kanten4205さん](https://yukicoder.me/users/11588)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★2／diff <font color="deepskyblue">1578</font>](https://yukicoder.me/problems/no/2374)
 
@@ -1511,7 +1510,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [tnodinoさん](https://yukicoder.me/users/11714)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★1.5／diff <font color="green">1008</font>](https://yukicoder.me/problems/no/2924)
 - [★2.5／diffデータなし](https://yukicoder.me/problems/no/2932)
@@ -1524,7 +1523,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [遭難者さん](https://yukicoder.me/users/11797)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★1.5／diff <font color="green">1158</font>](https://yukicoder.me/problems/no/2124)
 - [★2／diff <font color="deepskyblue">1397</font>](https://yukicoder.me/problems/no/2358)
@@ -1599,7 +1598,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [Cyanmondさん](https://yukicoder.me/users/11820)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★4.5／diff <font color="red">3181</font>](https://yukicoder.me/problems/no/2491)
 
@@ -1610,7 +1609,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [shiomusubi496さん](https://yukicoder.me/users/11821)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★2.5／diff <font color="blue">1706</font>](https://yukicoder.me/problems/no/2481)
 - [★3.5／diff <font color="orange">2587</font>](https://yukicoder.me/problems/no/2488)
@@ -1622,7 +1621,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [Kak1_n0_taneさん](https://yukicoder.me/users/11842)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★2.5／diff <font color="blue">1887</font>](https://yukicoder.me/problems/no/2365)
 - [★3.5／diff <font color="orange">2627</font>](https://yukicoder.me/problems/no/2369)
@@ -1644,7 +1643,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [bayashikoさん](https://yukicoder.me/users/12073)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★1.5／diff <font color="brown">689</font>](https://yukicoder.me/problems/no/2246)
 - [★1.5／diff <font color="green">1095</font>](https://yukicoder.me/problems/no/2109)
@@ -1713,7 +1712,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [magstaさん](https://yukicoder.me/users/12114)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★2.5／diff <font color="blue">1683</font>](https://yukicoder.me/problems/no/2277)
 - [★3／diff <font color="yellowgreen">2153</font>](https://yukicoder.me/problems/no/2279)
@@ -1741,7 +1740,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [だれさん](https://yukicoder.me/users/12179)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★2／diffデータなし](https://yukicoder.me/problems/no/2467)
 - [★2／diff <font color="green">939</font>](https://yukicoder.me/problems/no/2233)
@@ -1798,7 +1797,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [H20さん](https://yukicoder.me/users/12388)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★1.5／diff <font color="brown">769</font>](https://yukicoder.me/problems/no/2201)
 - [★2／diff <font color="deepskyblue">1254</font>](https://yukicoder.me/problems/no/2202)
@@ -1841,7 +1840,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [karinohitoさん](https://yukicoder.me/users/12457)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★2／diff <font color="deepskyblue">1258</font>](https://yukicoder.me/problems/no/2260)
 - [★2.5／diff <font color="deepskyblue">1536</font>](https://yukicoder.me/problems/no/2261)
@@ -1865,7 +1864,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [PCTprobabilityさん](https://yukicoder.me/users/12482)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★2.5／diff <font color="blue">1951</font>](https://yukicoder.me/problems/no/2529)
 - [★3／diff <font color="orange">2673</font>](https://yukicoder.me/problems/no/2164)
@@ -1884,7 +1883,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [Nachiaさん](https://yukicoder.me/users/12532)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★1／diff <font color="gray">222</font>](https://yukicoder.me/problems/no/2460)
 - [★1.5／diff <font color="green">959</font>](https://yukicoder.me/problems/no/2461)
@@ -1933,7 +1932,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [suisenさん](https://yukicoder.me/users/12562)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★2／diff <font color="deepskyblue">1204</font>](https://yukicoder.me/problems/no/2663)
 - [★2／diff <font color="deepskyblue">1301</font>](https://yukicoder.me/problems/no/2664)
@@ -2011,7 +2010,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [hibit_atさん](https://yukicoder.me/users/12664)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★1／diff <font color="gray">313</font>](https://yukicoder.me/problems/no/2371)
 - [★1／diff <font color="brown">566</font>](https://yukicoder.me/problems/no/2153)
@@ -2037,7 +2036,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [potato167さん](https://yukicoder.me/users/13086)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★3.5／diff <font color="orange">2681</font>](https://yukicoder.me/problems/no/2633)
 - [★3.5／diff <font color="red">2990</font>](https://yukicoder.me/problems/no/2635)
@@ -2050,7 +2049,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [NokonoKotlinさん](https://yukicoder.me/users/13116)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★2.5／diff <font color="deepskyblue">1416</font>](https://yukicoder.me/problems/no/2672)
 - [★3.5／diff <font color="orange">2615</font>](https://yukicoder.me/problems/no/2678)
@@ -2069,7 +2068,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [tassei903さん](https://yukicoder.me/users/13452)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★2／diff <font color="green">1124</font>](https://yukicoder.me/problems/no/2629)
 - [★2／diff <font color="deepskyblue">1366</font>](https://yukicoder.me/problems/no/2740)
@@ -2092,7 +2091,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [milkcoffeeさん](https://yukicoder.me/users/13469)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★1.5／diff <font color="green">819</font>](https://yukicoder.me/problems/no/2835)
 - [★1.5／diff <font color="green">864</font>](https://yukicoder.me/problems/no/2140)
@@ -2138,7 +2137,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [hahhoさん](https://yukicoder.me/users/13612)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★3.5／diff <font color="orange">2799</font>](https://yukicoder.me/problems/no/2901)
 
@@ -2149,7 +2148,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [とりゐさん](https://yukicoder.me/users/13891)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★1.5／diff <font color="green">969</font>](https://yukicoder.me/problems/no/2063)
 - [★2／diff <font color="deepskyblue">1582</font>](https://yukicoder.me/problems/no/2064)
@@ -2203,7 +2202,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [ramdosさん](https://yukicoder.me/users/13949)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★1.5／diff <font color="blue">1624</font>](https://yukicoder.me/problems/no/2638)
 - [★2／diff <font color="blue">1909</font>](https://yukicoder.me/problems/no/2150)
@@ -2223,7 +2222,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [matcharate12さん](https://yukicoder.me/users/14008)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★1.5／diff <font color="green">1132</font>](https://yukicoder.me/problems/no/2766)
 - [★2／diffデータなし](https://yukicoder.me/problems/no/2636)
@@ -2249,7 +2248,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [cho435さん](https://yukicoder.me/users/14113)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★1／diff <font color="gray">216</font>](https://yukicoder.me/problems/no/2736)
 - [★2／diff <font color="blue">1695</font>](https://yukicoder.me/problems/no/2739)
@@ -2263,7 +2262,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [Shirotsumeさん](https://yukicoder.me/users/14227)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★1／diff <font color="gray">331</font>](https://yukicoder.me/problems/no/2297)
 - [★1／diff <font color="brown">443</font>](https://yukicoder.me/problems/no/2208)
@@ -2374,7 +2373,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [ytqm3さん](https://yukicoder.me/users/14296)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★3.5／diff <font color="blue">1999</font>](https://yukicoder.me/problems/no/2343)
 - [★3.5／diff <font color="orange">2488</font>](https://yukicoder.me/problems/no/2485)
@@ -2413,7 +2412,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [taiga0629kyoproさん](https://yukicoder.me/users/14401)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★2／diff <font color="brown">683</font>](https://yukicoder.me/problems/no/2056)
 - [★2／diff <font color="deepskyblue">1261</font>](https://yukicoder.me/problems/no/2079)
@@ -2499,7 +2498,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [ecotteaさん](https://yukicoder.me/users/14450)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★1／diff <font color="brown">595</font>](https://yukicoder.me/problems/no/2714)
 - [★2／diff <font color="deepskyblue">1482</font>](https://yukicoder.me/problems/no/2715)
@@ -2538,7 +2537,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [dyktr_06さん](https://yukicoder.me/users/14510)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★1／diff <font color="brown">624</font>](https://yukicoder.me/problems/no/2850)
 - [★1／diff <font color="brown">774</font>](https://yukicoder.me/problems/no/2851)
@@ -2631,7 +2630,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [MasKoaTSさん](https://yukicoder.me/users/14952)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★1／diff <font color="gray">371</font>](https://yukicoder.me/problems/no/2515)
 - [★1／diff <font color="brown">569</font>](https://yukicoder.me/problems/no/2175)
@@ -2747,7 +2746,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [aradさん](https://yukicoder.me/users/15012)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★2.5／diff <font color="yellowgreen">2031</font>](https://yukicoder.me/problems/no/2683)
 
@@ -2766,7 +2765,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [みここさん](https://yukicoder.me/users/15018)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★2／diff <font color="green">912</font>](https://yukicoder.me/problems/no/2282)
 - [★2.5／diff <font color="blue">1628</font>](https://yukicoder.me/problems/no/2283)
@@ -2801,7 +2800,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [otoshigoさん](https://yukicoder.me/users/15158)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★3／diff <font color="yellowgreen">2042</font>](https://yukicoder.me/problems/no/2433)
 
@@ -2816,7 +2815,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [mymelochanさん](https://yukicoder.me/users/15163)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★1.5／diff <font color="brown">786</font>](https://yukicoder.me/problems/no/2923)
 
@@ -2827,7 +2826,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [sotanishyさん](https://yukicoder.me/users/15255)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★1.5／diff <font color="brown">744</font>](https://yukicoder.me/problems/no/2259)
 - [★3.5／diff <font color="orange">2512</font>](https://yukicoder.me/problems/no/2264)
@@ -2842,7 +2841,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [Kyo_s_sさん](https://yukicoder.me/users/15447)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★1／diff <font color="brown">540</font>](https://yukicoder.me/problems/no/2560)
 - [★2／diff <font color="green">1179</font>](https://yukicoder.me/problems/no/2567)
@@ -2856,7 +2855,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [kaichou243さん](https://yukicoder.me/users/15520)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★4／diff <font color="red">2871</font>](https://yukicoder.me/problems/no/2136)
 
@@ -2867,7 +2866,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [KumaTachiRenさん](https://yukicoder.me/users/15577)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★1／diff <font color="brown">422</font>](https://yukicoder.me/problems/no/2492)
 - [★1.5／diff <font color="green">1182</font>](https://yukicoder.me/problems/no/2493)
@@ -2924,7 +2923,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [kyawaさん](https://yukicoder.me/users/15779)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★3／diff <font color="orange">2438</font>](https://yukicoder.me/problems/no/2687)
 
@@ -2948,7 +2947,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [meruuu61779999さん](https://yukicoder.me/users/15780)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★3／diffデータなし](https://yukicoder.me/problems/no/2370)
 
@@ -2966,7 +2965,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [ma_twさん](https://yukicoder.me/users/15810)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★2.5／diff <font color="blue">1983</font>](https://yukicoder.me/problems/no/2685)
 - [★4／diff <font color="orange">2604</font>](https://yukicoder.me/problems/no/2688)
@@ -2984,7 +2983,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [kusirakusiraさん](https://yukicoder.me/users/15921)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★1／diff <font color="brown">406</font>](https://yukicoder.me/problems/no/2919)
 - [★1／diff <font color="brown">670</font>](https://yukicoder.me/problems/no/2921)
@@ -3007,7 +3006,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [ymmtr(せるたわーしーぷ!)さん](https://yukicoder.me/users/15955)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★2.5／diffデータなし](https://yukicoder.me/problems/no/2662)
 
@@ -3026,7 +3025,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [MMさん](https://yukicoder.me/users/16002)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★2／diff <font color="deepskyblue">1276</font>](https://yukicoder.me/problems/no/2694)
 
@@ -3043,7 +3042,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [Nzt3さん](https://yukicoder.me/users/16054)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★2／diff <font color="deepskyblue">1557</font>](https://yukicoder.me/problems/no/2741)
 - [★2.5／diff <font color="deepskyblue">1435</font>](https://yukicoder.me/problems/no/2630)
@@ -3067,7 +3066,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [ponjuiceさん](https://yukicoder.me/users/16259)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★1／diff <font color="brown">514</font>](https://yukicoder.me/problems/no/2737)
 - [★1.5／diff <font color="deepskyblue">1245</font>](https://yukicoder.me/problems/no/2738)
@@ -3088,7 +3087,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [yuyu_5510さん](https://yukicoder.me/users/16425)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★3.5／diff <font color="yellowgreen">2274</font>](https://yukicoder.me/problems/no/2435)
 
@@ -3099,7 +3098,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [nouka28さん](https://yukicoder.me/users/16467)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★2／diff <font color="blue">1727</font>](https://yukicoder.me/problems/no/2930)
 - [★2.5／diff <font color="blue">1894</font>](https://yukicoder.me/problems/no/2949)
@@ -3125,7 +3124,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [keisuke6さん](https://yukicoder.me/users/16526)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★1.5／diffデータなし](https://yukicoder.me/problems/no/2123)
 - [★1.5／diff <font color="brown">588</font>](https://yukicoder.me/problems/no/2070)
@@ -3156,7 +3155,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [Magentorさん](https://yukicoder.me/users/16545)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★1.5／diff <font color="green">905</font>](https://yukicoder.me/problems/no/2564)
 - [★1.5／diff <font color="deepskyblue">1276</font>](https://yukicoder.me/problems/no/2699)
@@ -3196,7 +3195,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [sepa38さん](https://yukicoder.me/users/16649)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★1／diff <font color="gray">198</font>](https://yukicoder.me/problems/no/2547)
 - [★1.5／diff <font color="gray">343</font>](https://yukicoder.me/problems/no/2548)
@@ -3249,7 +3248,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [srjywrdnprktさん](https://yukicoder.me/users/16741)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★1／diff <font color="gray">140</font>](https://yukicoder.me/problems/no/2450)
 - [★1.5／diff <font color="green">1158</font>](https://yukicoder.me/problems/no/2451)
@@ -3343,7 +3342,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [Michirakaraさん](https://yukicoder.me/users/16743)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★1.5／diff <font color="brown">711</font>](https://yukicoder.me/problems/no/2154)
 - [★1.5／diff <font color="deepskyblue">1235</font>](https://yukicoder.me/problems/no/2946)
@@ -3360,7 +3359,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [Mizarさん](https://yukicoder.me/users/16780)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★1.5／diff <font color="brown">650</font>](https://yukicoder.me/problems/no/2385)
 - [★3.5／diffデータなし](https://yukicoder.me/problems/no/2440)
@@ -3377,7 +3376,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [tohohogisuさん](https://yukicoder.me/users/16802)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★1.5／diffデータなし](https://yukicoder.me/problems/no/2091)
 - [★1.5／diffデータなし](https://yukicoder.me/problems/no/2312)
@@ -3398,7 +3397,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [kinugoshi8928さん](https://yukicoder.me/users/16856)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★2／diff <font color="blue">1689</font>](https://yukicoder.me/problems/no/2806)
 
@@ -3409,7 +3408,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [maguroflyさん](https://yukicoder.me/users/17109)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★1／diffデータなし](https://yukicoder.me/problems/no/2757)
 - [★1.5／diff <font color="yellowgreen">2185</font>](https://yukicoder.me/problems/no/2590)
@@ -3428,7 +3427,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [seekworserさん](https://yukicoder.me/users/17128)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★1／diff <font color="green">846</font>](https://yukicoder.me/problems/no/2886)
 - [★1.5／diff <font color="brown">769</font>](https://yukicoder.me/problems/no/2887)
@@ -3454,7 +3453,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [GlinTFrauleinさん](https://yukicoder.me/users/17194)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★2／diff <font color="green">982</font>](https://yukicoder.me/problems/no/2386)
 - [★3／diff <font color="yellowgreen">2273</font>](https://yukicoder.me/problems/no/2511)
@@ -3483,7 +3482,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [primenumber11さん](https://yukicoder.me/users/17307)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★1.5／diff <font color="deepskyblue">1313</font>](https://yukicoder.me/problems/no/2372)
 - [★2／diff <font color="blue">1779</font>](https://yukicoder.me/problems/no/2804)
@@ -3501,7 +3500,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [warabi0906さん](https://yukicoder.me/users/17391)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★3／diff <font color="yellowgreen">2278</font>](https://yukicoder.me/problems/no/2813)
 
@@ -3512,7 +3511,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [黒狗さん。さん](https://yukicoder.me/users/17393)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★2／diff <font color="blue">1720</font>](https://yukicoder.me/problems/no/2805)
 
@@ -3523,7 +3522,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [iro_さん](https://yukicoder.me/users/17440)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★3.5／diff <font color="orange">2649</font>](https://yukicoder.me/problems/no/2133)
 
@@ -3541,7 +3540,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [KA37RIさん](https://yukicoder.me/users/17678)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★1.5／diff <font color="green">1081</font>](https://yukicoder.me/problems/no/2926)
 - [★2／diff <font color="blue">1980</font>](https://yukicoder.me/problems/no/2509)
@@ -3560,7 +3559,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [poyonさん](https://yukicoder.me/users/17703)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★3／diff <font color="yellowgreen">2103</font>](https://yukicoder.me/problems/no/2377)
 
@@ -3571,7 +3570,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [dolpさん](https://yukicoder.me/users/17723)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★2／diffデータなし](https://yukicoder.me/problems/no/2174)
 
@@ -3583,7 +3582,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [hiro1729さん](https://yukicoder.me/users/17790)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★2／diff <font color="green">1050</font>](https://yukicoder.me/problems/no/2393)
 - [★2／diff <font color="yellowgreen">2275</font>](https://yukicoder.me/problems/no/2593)
@@ -3604,7 +3603,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [csharpythonさん](https://yukicoder.me/users/17904)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★2／diff <font color="green">1000</font>](https://yukicoder.me/problems/no/2234)
 
@@ -3615,7 +3614,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [hiryuNさん](https://yukicoder.me/users/17962)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★2.5／diffデータなし](https://yukicoder.me/problems/no/2449)
 
@@ -3628,7 +3627,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [Carpenters-Catさん](https://yukicoder.me/users/17987)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★3.5／diff <font color="orange">2475</font>](https://yukicoder.me/problems/no/2368)
 - [★3.5／diff <font color="orange">2627</font>](https://yukicoder.me/problems/no/2367)
@@ -3640,7 +3639,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [watasou1543さん](https://yukicoder.me/users/18009)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★2.5／diff <font color="blue">1890</font>](https://yukicoder.me/problems/no/2375)
 - [★3.5／diff <font color="orange">2433</font>](https://yukicoder.me/problems/no/2808)
@@ -3652,7 +3651,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [amentorimaruさん](https://yukicoder.me/users/18080)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★1／diff <font color="gray">340</font>](https://yukicoder.me/problems/no/2314)
 - [★1／diff <font color="gray">352</font>](https://yukicoder.me/problems/no/2599)
@@ -3724,7 +3723,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [loop0919さん](https://yukicoder.me/users/18086)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★1／diff <font color="gray">306</font>](https://yukicoder.me/problems/no/2558)
 - [★1／diff <font color="gray">311</font>](https://yukicoder.me/problems/no/2920)
@@ -3749,7 +3748,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [bluebery1001さん](https://yukicoder.me/users/18132)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★1／diff <font color="gray">306</font>](https://yukicoder.me/problems/no/2559)
 
@@ -3761,7 +3760,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [tkmsさん](https://yukicoder.me/users/18170)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★2.5／diff <font color="deepskyblue">1337</font>](https://yukicoder.me/problems/no/2695)
 
@@ -3775,7 +3774,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [Furinaさん](https://yukicoder.me/users/18331)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★3／diff <font color="blue">1961</font>](https://yukicoder.me/problems/no/2555)
 
@@ -3790,7 +3789,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [nikoro256さん](https://yukicoder.me/users/18484)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★2／diff <font color="deepskyblue">1498</font>](https://yukicoder.me/problems/no/2760)
 
@@ -3801,7 +3800,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [aplysiaSheepさん](https://yukicoder.me/users/18516)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★3.5／diff <font color="yellowgreen">2392</font>](https://yukicoder.me/problems/no/2573)
 - [★3.5／diff <font color="orange">2559</font>](https://yukicoder.me/problems/no/2574)
@@ -3813,7 +3812,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [eoeoさん](https://yukicoder.me/users/18534)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★1.5／diff <font color="green">1012</font>](https://yukicoder.me/problems/no/2671)
 - [★2.5／diff <font color="blue">1806</font>](https://yukicoder.me/problems/no/2673)
@@ -3848,7 +3847,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [Koiさん](https://yukicoder.me/users/18621)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★2.5／diff <font color="blue">1907</font>](https://yukicoder.me/problems/no/2429)
 - [★3／diff <font color="orange">2765</font>](https://yukicoder.me/problems/no/2643)
@@ -3871,7 +3870,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [lgswdnさん](https://yukicoder.me/users/18648)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★3／diff <font color="orange">2477</font>](https://yukicoder.me/problems/no/2899)
 - [★3／diff <font color="orange">2799</font>](https://yukicoder.me/problems/no/2900)
@@ -3883,7 +3882,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [rotti_coderさん](https://yukicoder.me/users/18712)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★2.5／diff <font color="blue">1778</font>](https://yukicoder.me/problems/no/2948)
 
@@ -3894,7 +3893,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [hirayuu_ycさん](https://yukicoder.me/users/18741)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★1／diff <font color="brown">424</font>](https://yukicoder.me/problems/no/2525)
 - [★1／diff <font color="green">837</font>](https://yukicoder.me/problems/no/2922)
@@ -3929,7 +3928,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [nwoさん](https://yukicoder.me/users/18753)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★1.5／diff <font color="green">1182</font>](https://yukicoder.me/problems/no/2373)
 
@@ -3941,7 +3940,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [tfltkpcさん](https://yukicoder.me/users/18804)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★1.5／diff <font color="deepskyblue">1260</font>](https://yukicoder.me/problems/no/2811)
 - [★2.5／diff <font color="yellowgreen">2004</font>](https://yukicoder.me/problems/no/2807)
@@ -3953,7 +3952,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [highlighterさん](https://yukicoder.me/users/18808)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★3.5／diff <font color="yellowgreen">2364</font>](https://yukicoder.me/problems/no/2809)
 - [★3.5／diff <font color="orange">2464</font>](https://yukicoder.me/problems/no/2817)
@@ -3967,7 +3966,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [Astral__さん](https://yukicoder.me/users/18869)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★3／diff <font color="orange">2721</font>](https://yukicoder.me/problems/no/2434)
 
@@ -3980,7 +3979,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [獅子座じゃない人さん](https://yukicoder.me/users/19068)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★1／diff <font color="gray">280</font>](https://yukicoder.me/problems/no/2399)
 - [★1.5／diff <font color="gray">344</font>](https://yukicoder.me/problems/no/2400)
@@ -4031,7 +4030,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [Yoyoyo8128さん](https://yukicoder.me/users/19113)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★2／diff <font color="blue">1698</font>](https://yukicoder.me/problems/no/2812)
 - [★3／diff <font color="orange">2676</font>](https://yukicoder.me/problems/no/2814)
@@ -4043,7 +4042,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [みどりむしさん](https://yukicoder.me/users/19141)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★2／diff <font color="deepskyblue">1596</font>](https://yukicoder.me/problems/no/2819)
 - [★2／diff <font color="blue">1807</font>](https://yukicoder.me/problems/no/2820)
@@ -4061,7 +4060,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [bortikさん](https://yukicoder.me/users/19215)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★3／diff <font color="orange">2628</font>](https://yukicoder.me/problems/no/2431)
 
@@ -4074,7 +4073,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [ragnaさん](https://yukicoder.me/users/19263)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★2.5／diff <font color="deepskyblue">1385</font>](https://yukicoder.me/problems/no/2569)
 - [★2.5／diff <font color="blue">1638</font>](https://yukicoder.me/problems/no/2570)
@@ -4097,7 +4096,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [Ayunaさん](https://yukicoder.me/users/19431)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★2.5／diff <font color="blue">1790</font>](https://yukicoder.me/problems/no/2684)
 
@@ -4112,7 +4111,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [chebrinkoさん](https://yukicoder.me/users/19439)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★1／diff <font color="brown">769</font>](https://yukicoder.me/problems/no/2424)
 
@@ -4124,7 +4123,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [Kirby0717さん](https://yukicoder.me/users/19441)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★2／diff <font color="deepskyblue">1585</font>](https://yukicoder.me/problems/no/2428)
 
@@ -4144,7 +4143,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [binapさん](https://yukicoder.me/users/19515)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★2／diff <font color="deepskyblue">1208</font>](https://yukicoder.me/problems/no/2953)
 - [★2.5／diff <font color="blue">1728</font>](https://yukicoder.me/problems/no/2955)
@@ -4211,7 +4210,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [takumaiqさん](https://yukicoder.me/users/19600)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★1.5／diff <font color="brown">779</font>](https://yukicoder.me/problems/no/2479)
 - [★2.5／diff <font color="brown">712</font>](https://yukicoder.me/problems/no/2486)
@@ -4229,7 +4228,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [YY-otterさん](https://yukicoder.me/users/19760)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★1／diff <font color="brown">650</font>](https://yukicoder.me/problems/no/2765)
 - [★2／diff <font color="deepskyblue">1351</font>](https://yukicoder.me/problems/no/2751)
@@ -4243,7 +4242,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [kjqwさん](https://yukicoder.me/users/20004)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★1.5／diff <font color="green">922</font>](https://yukicoder.me/problems/no/2680)
 
@@ -4255,7 +4254,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [kikueplさん](https://yukicoder.me/users/20056)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★1.5／diff <font color="green">934</font>](https://yukicoder.me/problems/no/2692)
 
@@ -4267,7 +4266,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [kosuke-noriさん](https://yukicoder.me/users/20075)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★3／diff <font color="yellowgreen">2031</font>](https://yukicoder.me/problems/no/2686)
 
@@ -4282,7 +4281,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [sakuraajisaiさん](https://yukicoder.me/users/20115)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★1.5／diff <font color="green">1133</font>](https://yukicoder.me/problems/no/2681)
 
@@ -4297,7 +4296,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [yuusaanさん](https://yukicoder.me/users/20148)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★1／diff <font color="gray">212</font>](https://yukicoder.me/problems/no/2773)
 - [★1／diff <font color="gray">314</font>](https://yukicoder.me/problems/no/2778)
@@ -4323,7 +4322,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [寝癖さん](https://yukicoder.me/users/20337)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★1／diff <font color="brown">544</font>](https://yukicoder.me/problems/no/2870)
 - [★1.5／diff <font color="deepskyblue">1372</font>](https://yukicoder.me/problems/no/2871)
@@ -4341,7 +4340,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [Iroha_3856さん](https://yukicoder.me/users/20569)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★1／diff <font color="brown">576</font>](https://yukicoder.me/problems/no/2878)
 - [★1.5／diff <font color="green">989</font>](https://yukicoder.me/problems/no/2879)
@@ -4359,7 +4358,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [kagakukenkyuubuさん](https://yukicoder.me/users/20669)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★1／diff <font color="green">1174</font>](https://yukicoder.me/problems/no/2945)
 
@@ -4370,7 +4369,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [ArcAkiさん](https://yukicoder.me/users/20672)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★3.5／diffデータなし](https://yukicoder.me/problems/no/2909)
 
@@ -4381,7 +4380,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [ねしんさん](https://yukicoder.me/users/20998)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★1／diff <font color="brown">735</font>](https://yukicoder.me/problems/no/2827)
 - [★1／diff <font color="green">812</font>](https://yukicoder.me/problems/no/2960)
@@ -4451,7 +4450,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [高橋ゆにさん](https://yukicoder.me/users/21277)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★4／diffデータなし](https://yukicoder.me/problems/no/2918)
 
@@ -4462,7 +4461,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ## [kazuppaさん](https://yukicoder.me/users/21418)
 
-### 過去問のレベル別難易度
+### 過去問のレベルと難易度の組み合わせ
 
 - [★1／diff <font color="brown">726</font>](https://yukicoder.me/problems/no/2938)
 - [★1／diff <font color="green">978</font>](https://yukicoder.me/problems/no/2937)
