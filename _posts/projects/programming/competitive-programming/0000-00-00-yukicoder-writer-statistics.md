@@ -539,7 +539,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 - [端から確定](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#端から確定) × 1問
 - [二分探索](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#二分探索) × 1問
 - [必勝戦略のリアクティブ化](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#必勝戦略のリアクティブ化) × 1問
-- [余事象](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#余事象) × 1問
+- [余事象に注目](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#余事象に注目) × 1問
 - [累積積](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#累積積) × 1問
 - [累積和](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#累積和) × 1問
 
@@ -768,7 +768,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 - [標準ヤングタブロー](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#標準ヤングタブロー) × 1問
 - [頻度表](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#頻度表) × 1問
 - [分割統治法](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#分割統治法) × 1問
-- [余事象](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#余事象) × 1問
+- [余事象に注目](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#余事象に注目) × 1問
 - [累積和](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#累積和) × 1問
 - [冪乗計算](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#冪乗計算) × 1問
 
@@ -1197,7 +1197,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 - [区間族管理](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#区間族管理) × 1問
 - [繰り返し二乗法](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#繰り返し二乗法) × 2問
 - [座標圧縮](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#座標圧縮) × 1問
-- [集合管理](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#集合管理) × 1問
+- [集合管理](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#集合管理) × 2問
 - [充足可能性判定](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#充足可能性判定) × 2問
 - [巡回置換表示](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#巡回置換表示) × 1問
 - [剰余計算](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#剰余計算) × 2問
@@ -1347,7 +1347,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 - [閉路検出](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#閉路検出) × 1問
 - [偏角ソート](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#偏角ソート) × 1問
 - [変数決め打ち](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#変数決め打ち) × 5問
-- [余事象](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#余事象) × 1問
+- [余事象に注目](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#余事象に注目) × 1問
 - [累積積](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#累積積) × 2問
 - [累積和](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#累積和) × 3問
 - [連想配列](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#連想配列) × 1問
@@ -1477,7 +1477,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 - [繰り返し二乗法](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#繰り返し二乗法) × 1問
 - [剰余計算](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#剰余計算) × 1問
-- [余事象](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#余事象) × 1問
+- [余事象に注目](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#余事象に注目) × 1問
 - [冪乗計算](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#冪乗計算) × 1問
 
 
@@ -1779,6 +1779,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 - [最大公約数計算](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#最大公約数計算) × 1問
 - [枝刈り](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#枝刈り) × 1問
 - [実装](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#実装) × 1問
+- [集合管理](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#集合管理) × 1問
 - [集合族による帰属関係で類別](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#集合族による帰属関係で類別) × 1問
 - [剰余計算](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#剰余計算) × 3問
 - [線形代数](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#線形代数) × 1問
@@ -1832,7 +1833,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 - [幅優先探索](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#幅優先探索) × 1問
 - [分割統治法](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#分割統治法) × 1問
 - [優先度付きキュー](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#優先度付きキュー) × 1問
-- [余事象](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#余事象) × 1問
+- [余事象に注目](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#余事象に注目) × 1問
 - [連結成分取得](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#連結成分取得) × 1問
 - [冪乗計算](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#冪乗計算) × 1問
 - [貪欲法](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#貪欲法) × 1問
@@ -2363,7 +2364,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 - [閉路検出](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#閉路検出) × 1問
 - [包除原理](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#包除原理) × 1問
 - [約数の走査を倍数の走査に帰着](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#約数の走査を倍数の走査に帰着) × 1問
-- [余事象](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#余事象) × 2問
+- [余事象に注目](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#余事象に注目) × 2問
 - [隣接不等式管理](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#隣接不等式管理) × 1問
 - [累積積](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#累積積) × 1問
 - [連想配列](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#連想配列) × 1問
@@ -2760,7 +2761,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 - [積和の和積化](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#積和の和積化) × 1問
 - [素数を法とする逆元計算](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#素数を法とする逆元計算) × 1問
 - [独立事象の確率を積で計算](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#独立事象の確率を積で計算) × 1問
-- [余事象](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#余事象) × 1問
+- [余事象に注目](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#余事象に注目) × 1問
 
 
 ## [みここさん](https://yukicoder.me/users/15018)
@@ -3692,6 +3693,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 - [試し割り法](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#試し割り法) × 1問
 - [実装](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#実装) × 3問
 - [尺取り法](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#尺取り法) × 1問
+- [集合管理](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#集合管理) × 1問
 - [巡回置換表示](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#巡回置換表示) × 1問
 - [小数計算を整数に帰着](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#小数計算を整数に帰着) × 1問
 - [剰余計算](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#剰余計算) × 3問
@@ -4103,6 +4105,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 ### 過去問の解法頻度
 
 - [set](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#set) × 1問
+- [集合管理](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#集合管理) × 1問
 - [小数計算を整数に帰着](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#小数計算を整数に帰着) × 1問
 - [全探索](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#全探索) × 1問
 - [変数決め打ち](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#変数決め打ち) × 1問
@@ -4222,7 +4225,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 - [二分探索](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#二分探索) × 1問
 - [分割統治法](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#分割統治法) × 1問
 - [平方根計算](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#平方根計算) × 1問
-- [余事象](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#余事象) × 1問
+- [余事象に注目](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#余事象に注目) × 1問
 - [貪欲法](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#貪欲法) × 1問
 
 
@@ -4441,7 +4444,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 - [約数の走査を倍数の走査に帰着](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#約数の走査を倍数の走査に帰着) × 1問
 - [約数ゼータ変換](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#約数ゼータ変換) × 1問
 - [約数列挙](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#約数列挙) × 1問
-- [余事象](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#余事象) × 1問
+- [余事象に注目](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#余事象に注目) × 1問
 - [累積積](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#累積積) × 1問
 - [累積積と階乗の比による二項係数計算](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#累積積と階乗の比による二項係数計算) × 1問
 - [累積和](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#累積和) × 2問
