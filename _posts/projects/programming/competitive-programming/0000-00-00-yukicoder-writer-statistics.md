@@ -16,7 +16,10 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 - writer想定レベル（★の数）と実際の難易度（difficulty）の関係
 - （筆者がupsolveして解法を登録した問題に絞った上で）各解法が問われた（非想定解も含む）回数
 
-を集計しました。データ取得元、集計方法、集計の進捗状況などは[yukicode過去問解法別難易度統計]({{ site.url }}/lyukicoder-difficulty-statistics)に準じます。そちらの注意点も合わせてご参照ください。
+を集計しました。
+
+データ取得元、集計方法、集計の進捗状況などは[yukicode過去問解法別難易度統計]({{ site.url }}/yukicoder-difficulty-statistics)に準じます。そちらの注意点もご参照ください。同ページの[writer想定レベルごとに算出した実際の難易度の平均値]({{ site.url }}/yukicoder-difficulty-statistics#average_difficulty)も比較用に合わせてご利用ください。
+
 
 
 ## [nmnmnmnmnmnmnmさん](https://yukicoder.me/users/25)
