@@ -11,7 +11,7 @@ image-directory: competitive-programming
 tags: [競技プログラミング,数学]
 ---
 
-yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で筆者（$p$進大好きbot）がupsolveした問題の解法をまとめ、解法別に難易度（writerに設定されたレベルおよび解かれ具合から算出されたdifficuluty）統計をします。
+yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で筆者（$p$進大好きbot）がupsolveした問題の解法をまとめ、解法別に難易度（writerに設定されたレベルおよび解かれ具合から算出されたdifficulty）統計をします。
 
 ## 進捗
 
@@ -114,7 +114,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で�
 と記載させていただきます。
 
 
-## レベルごとの平均difficulty
+<h2 id="average_difficulty">レベルごとの平均difficulty</h2>
 
 問題2056から問題2968のうち
 
