@@ -13,6 +13,9 @@ tags: [競技プログラミング,数学]
 
 yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題で筆者（$p$進大好きbot）がupsolveした問題の解法をまとめ、解法別に難易度（writerに設定されたレベルおよび解かれ具合から算出されたdifficulty）統計をします。
 
+writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statistics)をご確認ください。
+
+
 ## 進捗
 
 通常問題の問題番号2056から2746までと2953以降のupsolve済み問題を登録し終わりました。先は長いです。
