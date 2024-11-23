@@ -401,7 +401,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 1. （★2.5／diff <font color="blue">1951</font>／2問）<a href="#多変数を１変数ずつ特定" class="tag">多変数を１変数ずつ特定</a>
 1. （★2.5／diff <font color="blue">1962</font>／6問）<a href="#アルゴリズムのリアクティブ化" class="tag">アルゴリズムのリアクティブ化</a>
 1. （★2.5／diff <font color="blue">1983</font>／2問）<a href="#B進法で全探索" class="tag">B進法で全探索</a>
-1. （★2.5／diff <font color="blue">1983</font>／3問）<a href="#場合分けによるmin・max計算" class="tag">場合分けによるmin・max計算</a>
+1. （★2.5／diff <font color="blue">1983</font>／3問）<a href="#場合分けによるmax・min計算" class="tag">場合分けによるmax・min計算</a>
 1. （★2.5／diff <font color="blue">1989</font>／1問）<a href="#多点BFS" class="tag">多点BFS</a>／多始点BFS
 1. （★2.5／diff <font color="yellowgreen">2000</font>／2問）<a href="#三分探索" class="tag">三分探索</a>
 1. （★2.5／diff <font color="yellowgreen">2031</font>／1問）<a href="#独立事象の確率を積で計算" class="tag">独立事象の確率を積で計算</a>
@@ -6542,11 +6542,11 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2733">No.2733 Just K-times TSP</a> (yukicoder contest 428 (2024-04-19) - F問題、diff <font color="blue">1977</font>)
 
 　
-<h2 id="場合分けによるmin・max計算">192. 場合分けによるmin・max計算</h2>
+<h2 id="場合分けによるmax・min計算">192. 場合分けによるmax・min計算</h2>
 
 ### 難易度統計
 
-「場合分けによるmin・max計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
+「場合分けによるmax・min計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.5／diff <font color="blue">1983</font>
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★2.5／diff <font color="blue">1983</font>
@@ -6554,7 +6554,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 ### レベル別問題一覧
 
-「場合分けによるmin・max計算」を主たる解法に含む問題のレベルごとの一覧です。
+「場合分けによるmax・min計算」を主たる解法に含む問題のレベルごとの一覧です。
 
 ##### ★★☆
 
