@@ -1,12 +1,12 @@
 ---
 layout: project
 title: yukicoder過去問解法別難易度統計の解法名解説
-date: 2024-11-18
+date: 2024-11-26
 excerpt: "yukicoderの過去問の解法別難易度統計ページに記載した解法名の解説です。"
 project: true
 parent: competitive-programming-project/
 prev-child: yukicoder-difficulty-statistics
-next-child: yukicoder-writer-statistics
+next-child: 
 image-directory: 
 tags: [競技プログラミング,数学]
 ---
@@ -149,6 +149,16 @@ $(a_i)\_{i=1}^{N}$と$(b_i)\_{i=1}^{N}$を見つけるには、縦ベクトル$(
   - 得られた上・下界を実際に達成する（$g(x), h(x)$の最大・最小化を同時に達成する）$x$を構築する。
 
 といった用途がある。二分探索は多くの場合に緩和を用いるので、二分探索の問題は緩和の考察が非自明でない限り緩和の問題として集計しない。
+
+　
+{% assign solution = "場合分けによるmax・min・絶対値計算" %}
+<h2 id="{{ solution }}"><a href="{{ site.url }}/yukicoder-difficulty-statistics#{{ solution }}">{{ solution }}</a></h2>
+
+$\max \{f(x),g(x)\}$や$\min \{f(x),g(x)\}$と$|f(x)|$の最大・最小化や像・逆像計算やこれらの値を用いた更新クエリ処理を考える。
+
+$\max$や$\min$は$f(x) \leq g(x)$の場合と$f(x) > g(x)$の場合で分けて問題を解き、絶対値は$f(x) \leq 0$の場合と$f(x)$の場合で分けて問題を解く手法。
+
+一般に場合分けを定義に含む関数は直接処理することが難しいが、定義に従って場合分けをして簡単な関数に帰着させることで明示的公式やデータ構造により簡単に処理できることがある。
 
 　
 {% assign solution = "指定序数の値の計算を始切片の数え上げに帰着" %}
