@@ -204,6 +204,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 - [DAG上のDP](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#DAG上のDP) × 1問
 - [lower_bound・upper_bound取得](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#lower_bound・upper_bound取得) × 1問
 - [４重以上のループ](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#４重以上のループ) × 1問
+- [オーバーフロー回避](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#オーバーフロー回避) × 1問
 - [グリッド上の経路を01列や区間の部分集合に翻訳](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#グリッド上の経路を01列や区間の部分集合に翻訳) × 1問
 - [コストなしナップサック最適化](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#コストなしナップサック最適化) × 1問
 - [ソート](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#ソート) × 1問
@@ -237,6 +238,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 - [配列を像・頻度表で管理](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#配列を像・頻度表で管理) × 1問
 - [半分全列挙](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#半分全列挙) × 1問
 - [頻度表](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#頻度表) × 1問
+- [符号なし整数によるオーバーフロー回避](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#符号なし整数によるオーバーフロー回避) × 1問
 - [負閉路検出](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#負閉路検出) × 1問
 - [幅優先探索](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#幅優先探索) × 1問
 - [閉路検出](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#閉路検出) × 1問
@@ -670,7 +672,8 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 - [素数列挙](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#素数列挙) × 2問
 - [64bit整数](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#64bit整数) × 1問
 - [osa_k法](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#osa_k法) × 1問
-- [商を用いたオーバーフロー回避](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#商を用いたオーバーフロー回避) × 1問
+- [オーバーフロー回避](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#オーバーフロー回避) × 1問
+- [商を用いた積のオーバーフロー回避](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#商を用いた積のオーバーフロー回避) × 1問
 - [素因数分解](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#素因数分解) × 1問
 - [素集合データ構造](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#素集合データ構造) × 1問
 - [累積積による冪乗・階乗計算](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#累積積による冪乗・階乗計算) × 1問
@@ -1444,6 +1447,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 - [閉路検出](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#閉路検出) × 1問
 - [偏角ソート](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#偏角ソート) × 1問
 - [余事象に注目](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#余事象に注目) × 1問
+- [累積max・min](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#累積max・min) × 1問
 - [連長圧縮](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#連長圧縮) × 1問
 
 
@@ -2028,7 +2032,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 - [無向木の有向化](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#無向木の有向化) × 1問
 - [木DP](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#木DP) × 1問
 - [有向辺反転](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#有向辺反転) × 1問
-- [余事象](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#余事象) × 1問
+- [余事象に注目](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#余事象に注目) × 1問
 - [累積和](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#累積和) × 1問
 
 
@@ -2812,6 +2816,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 - [門松列DP](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#門松列DP) × 1問
 - [約数列挙](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#約数列挙) × 1問
 - [隣接行列による遷移計算](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#隣接行列による遷移計算) × 1問
+- [累積max・min](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#累積max・min) × 1問
 - [累積積による冪乗・階乗計算](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#累積積による冪乗・階乗計算) × 1問
 - [累積和](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#累積和) × 1問
 
@@ -3975,6 +3980,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 - [imos法](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#imos法) × 1問
 - [set](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#set) × 1問
 - [２種の数値を足し引きして１種に帰着](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#２種の数値を足し引きして１種に帰着) × 1問
+- [オーバーフロー回避](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#オーバーフロー回避) × 1問
 - [クエリ先読み](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#クエリ先読み) × 1問
 - [ソート](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#ソート) × 1問
 - [ナップサックDP](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#ナップサックDP) × 1問
