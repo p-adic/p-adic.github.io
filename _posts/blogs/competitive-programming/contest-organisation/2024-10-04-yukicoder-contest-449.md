@@ -8,7 +8,7 @@ date: 2024-10-04
 num: 514
 parent: competitive-programming-contest/
 prev-child: yukicoder-contest-447
-next-child: 
+next-child: yukicoder-contest-454
 own: 単著
 blog: true
 tags: [競技プログラミング,数学]
