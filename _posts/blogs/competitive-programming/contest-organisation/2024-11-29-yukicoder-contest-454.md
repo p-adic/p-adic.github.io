@@ -7,7 +7,7 @@ excerpt: " yukicoder contest 454の開催記です。"
 date: 2024-11-29
 num: 520
 parent: competitive-programming-contest/
-prev-child: yukicoder-contest-447
+prev-child: yukicoder-contest-449
 next-child: 
 own: 単著
 blog: true
