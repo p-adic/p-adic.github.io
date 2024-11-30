@@ -1398,7 +1398,6 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 - [01BFS](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#01BFS) × 1問
 - [inplace DP](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#inplace DP) × 1問
 - [２種の数値を足し引きして１種に帰着](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#２種の数値を足し引きして１種に帰着) × 1問
-- [３進法](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#３進法) × 1問
 - [カレンダー計算](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#カレンダー計算) × 1問
 - [ギャグ](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#ギャグ) × 1問
 - [グリッド上の価値最大化](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#グリッド上の価値最大化) × 1問
@@ -1867,11 +1866,13 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 - [繰り返し二乗法](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#繰り返し二乗法) × 2問
 - [動的計画法](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#動的計画法) × 2問
 - [冪乗計算](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#冪乗計算) × 2問
+- [01列と非負整数の対応](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#01列と非負整数の対応) × 1問
+- [01列と部分集合の対応](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#01列と部分集合の対応) × 1問
+- [01列に翻訳](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#01列に翻訳) × 1問
 - [B進法位取り記法と法Bベクトルの変換](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#B進法位取り記法と法Bベクトルの変換) × 1問
 - [DAG上のDP](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#DAG上のDP) × 1問
 - [bitset高速化](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#bitset高速化) × 1問
 - [set](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#set) × 1問
-- [２進法による整数と部分集合と01列の変換](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#２進法による整数と部分集合と01列の変換) × 1問
 - [アルゴリズムのリアクティブ化](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#アルゴリズムのリアクティブ化) × 1問
 - [シミュレーション](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#シミュレーション) × 1問
 - [ソート](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#ソート) × 1問
