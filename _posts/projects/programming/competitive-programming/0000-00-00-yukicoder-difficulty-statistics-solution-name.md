@@ -184,6 +184,7 @@ $M$を$N$より十分小さい正整数とし、$S$が$M$個の非空部分集�
 
 　
 {% assign solution = "01列に翻訳" %}
+<h2 id="{{ solution }}"><a href="{{ site.url }}/yukicoder-difficulty-statistics#{{ solution }}">{{ solution }}</a></h2>
 
 これは解法別難易度統計のための便宜的な解法名である。まず競技プログラミングでしばしば以下の対象間での相互変換が要求される。
 
