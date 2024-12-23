@@ -126,6 +126,22 @@ $f$の値の総和を直接求める代わりに、$S$の要素$s$の一様ラ�
 - 例えば$n$を正整数とし、$d$を$n$次元格子$\mathbb{Z}^n$の$\ell^1$距離や$\ell^{\infy}$距離とし、$X$を$\mathbb{Z}^n$の部分集合とし、$L$を正整数とする。$X$を頂点集合として$x_0 \neq x_1$かつ$d(x_0,x_1) \leq L$を満たす各$(x_0,x_1) \in X^2$に重み$1$の無向辺を貼ったグラフを考える。構築は$(x_0,x_1)$の全探索または$x_0$の$L$近傍探索により$O(\# X \min \\{\# X,L^n\\})$となる。
 
 　
+{% assign solution = "集合管理" %}
+<h2 id="{{ solution }}"><a href="{{ site.url }}/yukicoder-difficulty-statistics#{{ solution }}">{{ solution }}</a></h2>
+
+集合をデータ構造で管理する手法。
+
+- 配列の<a href="{{ site.url }}/yukicoder-difficulty-statistics#ソート>ソート</a>
+- <a href="{{ site.url }}/yukicoder-difficulty-statistics#キュー>キュー</a>
+- <a href="{{ site.url }}/yukicoder-difficulty-statistics#優先度付き>キュー</a>
+- <a href="{{ site.url }}/yukicoder-difficulty-statistics#set>set</a>（c++のunordered set、pythonのset）
+- <a href="{{ site.url }}/yukicoder-difficulty-statistics#multiset>multiset</a>（c++のunordered multiset）
+- <a href="{{ site.url }}/yukicoder-difficulty-statistics#sorted set>sorted set</a>（c++のset）
+- <a href="{{ site.url }}/yukicoder-difficulty-statistics#フェニック木>フェニック木</a>を用いた<a href="{{ site.url }}/yukicoder-difficulty-statistics#配列を像・頻度表で管理>像・頻度表の管理</a>
+
+などがこれに該当する。整数の二進法表記やbool値配列で集合を管理するものは含まない。
+
+　
 {% assign solution = "重複選択個数の線形関係式" %}
 <h2 id="{{ solution }}"><a href="{{ site.url }}/yukicoder-difficulty-statistics#{{ solution }}">{{ solution }}</a></h2>
 
