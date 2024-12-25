@@ -1,14 +1,14 @@
 ---
 layout: competitive-programming-contest
 title: yukicoder contest 454開催記
-subtitle:  yukicoder contest 454
-suburl:  yukicoder-contest-454
-excerpt: " yukicoder contest 454の開催記です。"
+subtitle: yukicoder contest 454
+suburl: yukicoder-contest-454
+excerpt: "yukicoder contest 454の開催記です。"
 date: 2024-11-29
 num: 520
 parent: competitive-programming-contest/
 prev-child: yukicoder-contest-449
-next-child: 
+next-child: Advent-Calendar-Contest-2024
 own: 単著
 blog: true
 tags: [競技プログラミング,数学]
