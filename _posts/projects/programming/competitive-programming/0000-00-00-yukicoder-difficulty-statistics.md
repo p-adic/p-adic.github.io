@@ -1,7 +1,7 @@
 ---
 layout: project
 title: yukicoder過去問解法別難易度統計
-date: 2024-12-26
+date: 2025-01-01
 excerpt: "yukicoderの過去問の解法別の難易度に関する統計データです。"
 parent: competitive-programming-project/
 prev-child: competitive-programming-creating-problem-status
@@ -121,7 +121,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 <h2 id="average_difficulty">レベルごとの平均difficulty</h2>
 
-問題2056から問題3000のうち
+問題2056から問題3001のうち
 
 - コンテスト出題であり（単発出題でなく）かつ
 - レベルが設定されておりかつ
@@ -133,6 +133,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 ### ★
 
 - 全体: diff <font color="brown">525</font>（67問）
+- 2025年: diffデータなし
 - 2024年: diff <font color="brown">623</font>（35問）
 - 2023年: diff <font color="gray">370</font>（28問）
 - 2022年: diff <font color="brown">742</font>（4問）
@@ -140,6 +141,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 ### ★☆
 
 - 全体: diff <font color="green">940</font>（94問）
+- 2025年: diffデータなし
 - 2024年: diff <font color="green">974</font>（44問）
 - 2023年: diff <font color="green">934</font>（38問）
 - 2022年: diff <font color="green">831</font>（12問）
@@ -147,6 +149,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 ### ★★
 
 - 全体: diff <font color="deepskyblue">1341</font>（133問）
+- 2025年: diffデータなし
 - 2024年: diff <font color="deepskyblue">1429</font>（58問）
 - 2023年: diff <font color="deepskyblue">1240</font>（58問）
 - 2022年: diff <font color="deepskyblue">1389</font>（17問）
@@ -154,6 +157,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 ### ★★☆
 
 - 全体: diff <font color="blue">1820</font>（161問）
+- 2025年: diffデータなし
 - 2024年: diff <font color="blue">1824</font>（65問）
 - 2023年: diff <font color="blue">1798</font>（78問）
 - 2022年: diff <font color="blue">1899</font>（18問）
@@ -161,6 +165,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 ### ★★★
 
 - 全体: diff <font color="yellowgreen">2243</font>（164問）
+- 2025年: diffデータなし
 - 2024年: diff <font color="yellowgreen">2272</font>（75問）
 - 2023年: diff <font color="yellowgreen">2211</font>（67問）
 - 2022年: diff <font color="yellowgreen">2245</font>（22問）
@@ -168,6 +173,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 ### ★★★☆
 
 - 全体: diff <font color="orange">2579</font>（136問）
+- 2025年: diffデータなし
 - 2024年: diff <font color="orange">2572</font>（53問）
 - 2023年: diff <font color="orange">2570</font>（63問）
 - 2022年: diff <font color="orange">2627</font>（20問）
@@ -175,6 +181,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 ### ★★★★
 
 - 全体: diff <font color="red">2826</font>（71問）
+- 2025年: diffデータなし
 - 2024年: diff <font color="red">2833</font>（20問）
 - 2023年: diff <font color="red">2843</font>（42問）
 - 2022年: diff <font color="orange">2724</font>（9問）
@@ -182,6 +189,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 ### ★★★★☆
 
 - 全体: diff <font color="red">3142</font>（23問）
+- 2025年: diffデータなし
 - 2024年: diff <font color="red">2972</font>（8問）
 - 2023年: diff <font color="red">3174</font>（10問）
 - 2022年: diff <font color="darkgoldenrod ">3349</font>（5問）
@@ -189,6 +197,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 ### ★★★★★
 
 - 全体: diff <font color="darkgoldenrod ">3263</font>（21問）
+- 2025年: diffデータなし
 - 2024年: diff <font color="darkgoldenrod ">3450</font>（2問）
 - 2023年: diff <font color="red">3199</font>（13問）
 - 2022年: diff <font color="darkgoldenrod ">3339</font>（6問）
@@ -196,6 +205,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 ### ★★★★★☆
 
 - 全体: diffデータなし
+- 2025年: diffデータなし
 - 2024年: diffデータなし
 - 2023年: diffデータなし
 - 2022年: diffデータなし
@@ -203,6 +213,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 ### ★★★★★★
 
 - 全体: diffデータなし
+- 2025年: diffデータなし
 - 2024年: diffデータなし
 - 2023年: diffデータなし
 - 2022年: diffデータなし
@@ -240,7 +251,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 1. （★1.8／diff <font color="deepskyblue">1204</font>／18問）<a href="#特殊な入出力" class="tag">特殊な入出力</a>
 1. （★1.8／diff <font color="deepskyblue">1259</font>／3問）<a href="#一次方程式・不等式の求解" class="tag">一次方程式・不等式の求解</a>
 1. （★1.8／diff <font color="deepskyblue">1279</font>／11問）<a href="#set" class="tag">set</a>
-1. （★1.9／diff <font color="deepskyblue">1213</font>／22問）<a href="#頻度表" class="tag">頻度表</a>
+1. （★1.9／diff <font color="deepskyblue">1213</font>／23問）<a href="#頻度表" class="tag">頻度表</a>
 1. （★1.9／diff <font color="deepskyblue">1300</font>／27問）<a href="#シミュレーション" class="tag">シミュレーション</a>
 1. （★1.9／diff <font color="deepskyblue">1392</font>／8問）<a href="#指定序数の値の計算や指定始切片数え上げや一次元最近点計算をソートに帰着" class="tag">指定序数の値の計算や指定始切片数え上げや一次元最近点計算をソートに帰着</a>
 1. （★2／diff <font color="green">1061</font>／3問）<a href="#文字列の構築" class="tag">文字列の構築</a>
@@ -257,7 +268,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 1. （★2／diff <font color="deepskyblue">1442</font>／3問）<a href="#順列のリアクティブによる特定" class="tag">順列のリアクティブによる特定</a>
 1. （★2／diff <font color="deepskyblue">1447</font>／1問）<a href="#最小公倍数の約数関係判定を最大公約数の最小公倍数計算に帰着" class="tag">最小公倍数の約数関係判定を最大公約数の最小公倍数計算に帰着</a>
 1. （★2／diff <font color="deepskyblue">1458</font>／4問）<a href="#入れ子の深さを記録する走査" class="tag">入れ子の深さを記録する走査</a>
-1. （★2／diff <font color="deepskyblue">1465</font>／115問）<a href="#全探索" class="tag">全探索</a>
+1. （★2／diff <font color="deepskyblue">1465</font>／116問）<a href="#全探索" class="tag">全探索</a>
 1. （★2／diff <font color="deepskyblue">1472</font>／4問）<a href="#極限の打ち切り計算" class="tag">極限の打ち切り計算</a>
 1. （★2／diff <font color="deepskyblue">1484</font>／1問）<a href="#モンテカルロ法" class="tag">モンテカルロ法</a>
 1. （★2／diff <font color="deepskyblue">1484</font>／1問）<a href="#区分求積法" class="tag">区分求積法</a>
@@ -345,7 +356,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 1. （★2.3／diff <font color="blue">1705</font>／3問）<a href="#素数判定" class="tag">素数判定</a>
 1. （★2.3／diff <font color="blue">1756</font>／3問）<a href="#部分集合の要素全探索を全体集合の要素全探索に帰着" class="tag">部分集合の要素全探索を全体集合の要素全探索に帰着</a>
 1. （★2.3／diff <font color="blue">1758</font>／4問）<a href="#ルジャンドルの公式" class="tag">ルジャンドルの公式</a>
-1. （★2.3／diff <font color="blue">1769</font>／45問）<a href="#変数決め打ち" class="tag">変数決め打ち</a>
+1. （★2.3／diff <font color="blue">1769</font>／46問）<a href="#変数決め打ち" class="tag">変数決め打ち</a>
 1. （★2.3／diff <font color="blue">1780</font>／13問）<a href="#最終手番に注目" class="tag">最終手番に注目</a>
 1. （★2.3／diff <font color="blue">1791</font>／3問）<a href="#約数計数関数による計算量評価" class="tag">約数計数関数による計算量評価</a>
 1. （★2.3／diff <font color="blue">1841</font>／3問）<a href="#貪欲法による構築" class="tag">貪欲法による構築</a>
@@ -399,7 +410,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 1. （★2.5／diff <font color="blue">1754</font>／6問）<a href="#区間を切片の差に翻訳" class="tag">区間を切片の差に翻訳</a>
 1. （★2.5／diff <font color="blue">1756</font>／17問）<a href="#深さ優先探索" class="tag">深さ優先探索</a>／DFS
 1. （★2.5／diff <font color="blue">1765</font>／11問）<a href="#一要素削除更新" class="tag">一要素削除更新</a>
-1. （★2.5／diff <font color="blue">1768</font>／20問）<a href="#試し割り法" class="tag">試し割り法</a>
+1. （★2.5／diff <font color="blue">1768</font>／21問）<a href="#試し割り法" class="tag">試し割り法</a>
 1. （★2.5／diff <font color="blue">1768</font>／1問）<a href="#Vieta Jumping" class="tag">Vieta Jumping</a>／Root Flipping
 1. （★2.5／diff <font color="blue">1771</font>／34問）<a href="#不変量に注目" class="tag">不変量に注目</a>
 1. （★2.5／diff <font color="blue">1774</font>／1問）<a href="#価値上限ありナップサック最適化" class="tag">価値上限ありナップサック最適化</a>
@@ -469,7 +480,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 1. （★2.6／diff <font color="blue">1811</font>／25問）<a href="#差分計算" class="tag">差分計算</a>
 1. （★2.6／diff <font color="blue">1824</font>／16問）<a href="#区間族管理" class="tag">区間族管理</a>
 1. （★2.6／diff <font color="blue">1824</font>／7問、[解説ページ](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#良いケースに帰着)）<a href="#良いケースに帰着" class="tag">良いケースに帰着</a>
-1. （★2.6／diff <font color="blue">1831</font>／32問）<a href="#素因数分解" class="tag">素因数分解</a>
+1. （★2.6／diff <font color="blue">1831</font>／33問）<a href="#素因数分解" class="tag">素因数分解</a>
 1. （★2.6／diff <font color="blue">1831</font>／91問）<a href="#分割統治法（広義：decrease-and-conquer）" class="tag">分割統治法（広義：decrease-and-conquer）</a>
 1. （★2.6／diff <font color="blue">1834</font>／11問、[解説ページ](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#合成による次元削減)）<a href="#合成による次元削減" class="tag">合成による次元削減</a>
 1. （★2.6／diff <font color="blue">1841</font>／20問）<a href="#ダイクストラ法" class="tag">ダイクストラ法</a>／Dijkstra法
@@ -522,7 +533,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 1. （★2.7／diff <font color="blue">1916</font>／2問）<a href="#区間スケジューリング" class="tag">区間スケジューリング</a>
 1. （★2.7／diff <font color="blue">1926</font>／2問）<a href="#コストなしナップサック割り当て数え上げ" class="tag">コストなしナップサック割り当て数え上げ</a>／部分和の指定された部分集合数え上げ
 1. （★2.7／diff <font color="blue">1956</font>／2問）<a href="#倍数ゼータ変換" class="tag">倍数ゼータ変換</a>
-1. （★2.7／diff <font color="blue">1957</font>／19問）<a href="#ユークリッドの互除法" class="tag">ユークリッドの互除法</a>
+1. （★2.7／diff <font color="blue">1957</font>／20問）<a href="#ユークリッドの互除法" class="tag">ユークリッドの互除法</a>
 1. （★2.7／diff <font color="blue">1961</font>／11問）<a href="#中国剰余定理" class="tag">中国剰余定理</a>／CRT
 1. （★2.7／diff <font color="blue">1968</font>／2問）<a href="#負閉路検出" class="tag">負閉路検出</a>
 1. （★2.7／diff <font color="blue">1975</font>／47問）<a href="#逆元の再帰計算" class="tag">逆元の再帰計算</a>
@@ -726,6 +737,9 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 1. （★3／diff <font color="orange">2765</font>／1問）<a href="#連立一次不等式の充足可能性判定" class="tag">連立一次不等式の充足可能性判定</a>
 1. （★3／diff <font color="red">2816</font>／3問）<a href="#付値と合同式による平方剰余判定" class="tag">付値と合同式による平方剰余判定</a>
 1. （★3／diff <font color="red">2833</font>／1問）<a href="#最小被覆半径計算" class="tag">最小被覆半径計算</a>
+1. （★3／diffデータなし／1問）<a href="#周期性に注目" class="tag">周期性に注目</a>
+1. （★3／diffデータなし／1問）<a href="#周期性判定を長さの素因数に帰着" class="tag">周期性判定を長さの素因数に帰着</a>
+1. （★3／diffデータなし／1問）<a href="#素数逆数和を用いた計算量評価" class="tag">素数逆数和を用いた計算量評価</a>
 1. （★3／diffデータなし／1問）<a href="#$1$の原始根を用いた文字種シフトの実装" class="tag">$1$の原始根を用いた文字種シフトの実装</a>
 1. （★3／diffデータなし／1問）<a href="#フィボナッチ数列の法B周期計算" class="tag">フィボナッチ数列の法B周期計算</a>
 1. （★3／diffデータなし／1問）<a href="#フィボナッチ数列の累積和計算" class="tag">フィボナッチ数列の累積和計算</a>
@@ -927,7 +941,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 1. （★5／diffデータなし／1問）<a href="#山登り法" class="tag">山登り法</a>
 1. （★5／diffデータなし／1問）<a href="#複数ナップサック割り当て可能性判定" class="tag">複数ナップサック割り当て可能性判定</a>
 
-登録問題数729、登録解法数714、１問あたりの平均登録解法数6.5、１解法あたりの平均登録問題数6.6です。
+登録問題数730、登録解法数717、１問あたりの平均登録解法数6.5、１解法あたりの平均登録問題数6.6です。
 
 　
 <h2 id="ゼロ除算回避">1. ゼロ除算回避</h2>
@@ -936,6 +950,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「ゼロ除算回避」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★1／diff <font color="brown">624</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★1／diff <font color="brown">624</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -955,6 +970,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「四捨五入計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★1／diff <font color="brown">783</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★1／diff <font color="brown">783</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -974,6 +990,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「カレンダー計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★1.1／diff <font color="brown">770</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★1／diff <font color="green">815</font>
 - 2023年: ★1／diff <font color="gray">313</font>
 - 2022年: ★1.5／diff <font color="green">1095</font>
@@ -1000,6 +1017,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「切り上げ」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★1.2／diff <font color="brown">646</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★1.2／diff <font color="brown">646</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -1023,6 +1041,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「実装」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★1.2／diff <font color="brown">723</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★1.2／diff <font color="green">808</font>
 - 2023年: ★1.2／diff <font color="brown">615</font>
 - 2022年: ★1.4／diff <font color="brown">747</font>
@@ -1141,6 +1160,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「貨幣計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★1.2／diff <font color="green">830</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★1.2／diff <font color="green">830</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -1164,6 +1184,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「getline」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★1.2／diff <font color="deepskyblue">1523</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★1.5／diff <font color="yellowgreen">2185</font>
 - 2022年: ★1／diff <font color="green">862</font>
@@ -1187,6 +1208,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「符号なし64bit整数」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★1.3／diff <font color="brown">798</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★1／diff <font color="green">978</font>
 - 2023年: ★1.5／diff <font color="brown">708</font>
 - 2022年: ★データなし／diffデータなし
@@ -1211,6 +1233,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「64bit整数」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★1.3／diff <font color="green">910</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★1.3／diff <font color="green">956</font>
 - 2023年: ★1.4／diff <font color="green">874</font>
 - 2022年: ★1.5／diff <font color="green">841</font>
@@ -1258,6 +1281,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「平方根のfloor計算による平方数判定」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★1.5／diff <font color="brown">426</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★1.5／diff <font color="brown">426</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -1277,6 +1301,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「コスト１ナップサック最適化」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★1.5／diff <font color="brown">774</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★1.5／diff <font color="brown">774</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -1296,6 +1321,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「再帰による多重ループ実装」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★1.5／diff <font color="brown">775</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★1.5／diff <font color="brown">775</font>
 - 2022年: ★データなし／diffデータなし
@@ -1315,6 +1341,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「全事象探索による確率・期待値計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★1.5／diff <font color="green">820</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★1.5／diff <font color="green">820</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -1338,6 +1365,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「選択順依存価値ナップサック最適化」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★1.5／diff <font color="green">919</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★1.5／diff <font color="green">919</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -1357,6 +1385,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「等差数列と等比数列の各点積の累積和計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★1.5／diff <font color="green">959</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★1.5／diff <font color="green">959</font>
 - 2022年: ★データなし／diffデータなし
@@ -1376,6 +1405,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「符号なし64bit整数によるオーバーフロー回避」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★1.5／diff <font color="green">1103</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★1／diff <font color="green">978</font>
 - 2023年: ★2／diff <font color="deepskyblue">1228</font>
 - 2022年: ★データなし／diffデータなし
@@ -1399,6 +1429,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「置換の合成」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★1.5／diff <font color="green">1157</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★1.5／diff <font color="green">1157</font>
 - 2022年: ★データなし／diffデータなし
@@ -1422,6 +1453,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「一次式の最大・最小値計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★1.6／diff <font color="green">1175</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2／diff <font color="green">1029</font>
 - 2023年: ★1.6／diff <font color="green">1092</font>
 - 2022年: ★1.5／diff <font color="deepskyblue">1372</font>
@@ -1455,6 +1487,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「組分けの余りに注目」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★1.6／diff <font color="deepskyblue">1206</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★1.7／diff <font color="deepskyblue">1262</font>
 - 2022年: ★1.5／diff <font color="green">1095</font>
@@ -1482,6 +1515,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「経路全探索」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★1.7／diff <font color="green">1135</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★1.7／diff <font color="green">1135</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -1505,6 +1539,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「連結リスト」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★1.7／diff <font color="green">1187</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★1.7／diff <font color="green">1187</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -1528,6 +1563,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「４重以上のループ」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★1.7／diff <font color="green">1187</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★1.7／diff <font color="deepskyblue">1291</font>
 - 2023年: ★1.5／diff <font color="brown">775</font>
 - 2022年: ★データなし／diffデータなし
@@ -1554,6 +1590,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「multiset」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★1.7／diff <font color="deepskyblue">1520</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2／diff <font color="blue">1727</font>
 - 2023年: ★1.5／diff <font color="deepskyblue">1313</font>
 - 2022年: ★データなし／diffデータなし
@@ -1577,6 +1614,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「剰余計算を桁の線形和に帰着」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★1.7／diff <font color="blue">1775</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★1.5／diff <font color="deepskyblue">1276</font>
 - 2023年: ★2／diff <font color="yellowgreen">2275</font>
 - 2022年: ★データなし／diffデータなし
@@ -1600,6 +1638,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「数値の文字列受け取り」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★1.8／diff <font color="green">1078</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.3／diff <font color="blue">1683</font>
 - 2023年: ★1.1／diff <font color="brown">495</font>
 - 2022年: ★1.8／diff <font color="green">830</font>
@@ -1646,6 +1685,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「特殊な入出力」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★1.8／diff <font color="deepskyblue">1204</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.8／diff <font color="yellowgreen">2089</font>
 - 2023年: ★1.2／diff <font color="brown">723</font>
 - 2022年: ★1.6／diff <font color="green">838</font>
@@ -1694,6 +1734,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「一次方程式・不等式の求解」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★1.8／diff <font color="deepskyblue">1259</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2／diff <font color="deepskyblue">1396</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★1.5／diff <font color="green">987</font>
@@ -1721,6 +1762,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「set」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★1.8／diff <font color="deepskyblue">1279</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★1.4／diff <font color="green">1014</font>
 - 2023年: ★2.4／diff <font color="blue">1675</font>
 - 2022年: ★データなし／diffデータなし
@@ -1762,6 +1804,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「頻度表」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★1.9／diff <font color="deepskyblue">1213</font>
+- 2025年: ★3／diffデータなし
 - 2024年: ★1.8／diff <font color="green">1136</font>
 - 2023年: ★2／diff <font color="deepskyblue">1277</font>
 - 2022年: ★2／diff <font color="deepskyblue">1390</font>
@@ -1806,6 +1849,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2956">No.2956 Substitute with Average</a> (yukicoder contest 452 (2024-11-08) - D問題、diff <font color="yellowgreen">2386</font>)
 - <a href="https://yukicoder.me/problems/no/2977">No.2977 Kth Xor Pair</a> (Advent Calendar Contest 2024 (2024-12-01) - A問題、diffデータなし)
 - <a href="https://yukicoder.me/problems/no/2989">No.2989 Fibonacci Prize</a> (Advent Calendar Contest 2024 (2024-12-01) - M問題、diffデータなし)
+- <a href="https://yukicoder.me/problems/no/3001">No.3001 ヘビ文字列</a> (単発出題、diffデータなし)
 
 　
 <h2 id="シミュレーション">30. シミュレーション</h2>
@@ -1814,6 +1858,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「シミュレーション」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★1.9／diff <font color="deepskyblue">1300</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★1.8／diff <font color="deepskyblue">1463</font>
 - 2023年: ★1.9／diff <font color="green">1172</font>
 - 2022年: ★2／diffデータなし
@@ -1871,6 +1916,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「指定序数の値の計算や指定始切片数え上げや一次元最近点計算をソートに帰着」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★1.9／diff <font color="deepskyblue">1392</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★1.8／diff <font color="deepskyblue">1381</font>
 - 2023年: ★2.1／diff <font color="deepskyblue">1410</font>
 - 2022年: ★データなし／diffデータなし
@@ -1903,6 +1949,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「文字列の構築」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2／diff <font color="green">1061</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★1.5／diff <font color="brown">567</font>
 - 2023年: ★3／diff <font color="yellowgreen">2050</font>
 - 2022年: ★データなし／diffデータなし
@@ -1927,6 +1974,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「底辺と高さを用いた三角形の面積計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2／diff <font color="green">1180</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2／diff <font color="deepskyblue">1208</font>
 - 2023年: ★2／diff <font color="green">1166</font>
 - 2022年: ★データなし／diffデータなし
@@ -1954,6 +2002,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「区間線形結合取得」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2／diff <font color="deepskyblue">1276</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2／diff <font color="deepskyblue">1276</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -1973,6 +2022,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「相似」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2／diff <font color="deepskyblue">1306</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.5／diff <font color="yellowgreen">2025</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★1.5／diff <font color="brown">588</font>
@@ -1996,6 +2046,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「対角線論法」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2／diff <font color="deepskyblue">1306</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★2／diff <font color="deepskyblue">1306</font>
 - 2022年: ★データなし／diffデータなし
@@ -2015,6 +2066,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「ギャグ」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2／diff <font color="deepskyblue">1340</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★1.6／diff <font color="green">824</font>
 - 2023年: ★2.5／diff <font color="blue">1685</font>
 - 2022年: ★2／diff <font color="deepskyblue">1423</font>
@@ -2061,6 +2113,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「極値計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2／diff <font color="deepskyblue">1345</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2／diff <font color="deepskyblue">1345</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -2080,6 +2133,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「極値計算による最大・最小値計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2／diff <font color="deepskyblue">1345</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2／diff <font color="deepskyblue">1345</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -2099,6 +2153,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「平方根のfloor計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2／diff <font color="deepskyblue">1348</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★1.5／diff <font color="brown">426</font>
 - 2023年: ★2／diff <font color="deepskyblue">1502</font>
 - 2022年: ★データなし／diffデータなし
@@ -2130,6 +2185,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「場合分け」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2／diff <font color="deepskyblue">1371</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★1.9／diff <font color="green">1172</font>
 - 2023年: ★2／diff <font color="deepskyblue">1323</font>
 - 2022年: ★2.3／diff <font color="blue">1805</font>
@@ -2250,6 +2306,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「非連結性を壁の８方向移動による連結性に翻訳」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2／diff <font color="deepskyblue">1379</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★1.5／diff <font color="green">844</font>
 - 2023年: ★2.5／diff <font color="blue">1915</font>
 - 2022年: ★データなし／diffデータなし
@@ -2273,6 +2330,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「順列のリアクティブによる特定」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2／diff <font color="deepskyblue">1442</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★2.2／diff <font color="deepskyblue">1584</font>
 - 2022年: ★1.5／diff <font color="green">1158</font>
@@ -2300,6 +2358,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「最小公倍数の約数関係判定を最大公約数の最小公倍数計算に帰着」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2／diff <font color="deepskyblue">1447</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2／diff <font color="deepskyblue">1447</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -2319,6 +2378,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「入れ子の深さを記録する走査」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2／diff <font color="deepskyblue">1458</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★1.7／diff <font color="green">1169</font>
 - 2023年: ★2.2／diff <font color="blue">1747</font>
 - 2022年: ★データなし／diffデータなし
@@ -2347,6 +2407,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「全探索」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2／diff <font color="deepskyblue">1465</font>
+- 2025年: ★3／diffデータなし
 - 2024年: ★2.1／diff <font color="deepskyblue">1490</font>
 - 2023年: ★2／diff <font color="deepskyblue">1409</font>
 - 2022年: ★2.1／diff <font color="blue">1655</font>
@@ -2483,6 +2544,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2858">No.2858 Make a Palindrome</a> (yukicoder contest 442 (2024-08-25) - I問題、diff <font color="yellowgreen">2147</font>)
 - <a href="https://yukicoder.me/problems/no/2956">No.2956 Substitute with Average</a> (yukicoder contest 452 (2024-11-08) - D問題、diff <font color="yellowgreen">2386</font>)
 - <a href="https://yukicoder.me/problems/no/2983">No.2983 Christmas Color Grid (Advent Calender ver.)</a> (Advent Calendar Contest 2024 (2024-12-01) - G問題、diffデータなし)
+- <a href="https://yukicoder.me/problems/no/3001">No.3001 ヘビ文字列</a> (単発出題、diffデータなし)
 
 ##### ★★★☆
 
@@ -2495,6 +2557,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「極限の打ち切り計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2／diff <font color="deepskyblue">1472</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★1.7／diff <font color="deepskyblue">1428</font>
 - 2023年: ★2.2／diff <font color="deepskyblue">1560</font>
 - 2022年: ★データなし／diffデータなし
@@ -2523,6 +2586,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「モンテカルロ法」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2／diff <font color="deepskyblue">1484</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2／diff <font color="deepskyblue">1484</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -2542,6 +2606,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「区分求積法」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2／diff <font color="deepskyblue">1484</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2／diff <font color="deepskyblue">1484</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -2561,6 +2626,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「平方数列の累積和計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2／diff <font color="deepskyblue">1488</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2／diff <font color="deepskyblue">1488</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -2580,6 +2646,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「重複選択可ナップサック最適化」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2／diff <font color="deepskyblue">1493</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.5／diff <font color="blue">1784</font>
 - 2023年: ★2／diff <font color="deepskyblue">1432</font>
 - 2022年: ★1.5／diff <font color="green">1095</font>
@@ -2610,6 +2677,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「外積計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2／diff <font color="deepskyblue">1509</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★1.2／diff <font color="brown">792</font>
 - 2023年: ★2.7／diff <font color="yellowgreen">2226</font>
 - 2022年: ★データなし／diffデータなし
@@ -2641,6 +2709,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「文字列のリアクティブによる特定」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2／diff <font color="deepskyblue">1548</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2／diff <font color="deepskyblue">1548</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -2660,6 +2729,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「ソート前の添字復元」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2／diff <font color="deepskyblue">1551</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2／diff <font color="blue">1635</font>
 - 2023年: ★2／diff <font color="deepskyblue">1426</font>
 - 2022年: ★データなし／diffデータなし
@@ -2689,6 +2759,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「素因数分解による最小公倍数計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2／diff <font color="deepskyblue">1585</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★2／diff <font color="deepskyblue">1585</font>
 - 2022年: ★データなし／diffデータなし
@@ -2708,6 +2779,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「bool値のリアクティブによる特定」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2／diff <font color="deepskyblue">1596</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2／diff <font color="deepskyblue">1596</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -2727,6 +2799,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「質問の全探索による質問決定」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2／diff <font color="deepskyblue">1596</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2／diff <font color="deepskyblue">1596</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -2746,6 +2819,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「証明をなぞる構築」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2／diff <font color="deepskyblue">1598</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★1.7／diff <font color="deepskyblue">1228</font>
 - 2023年: ★2.5／diff <font color="yellowgreen">2339</font>
 - 2022年: ★データなし／diffデータなし
@@ -2773,6 +2847,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「倍数判定を約数列挙に帰着」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2／diff <font color="blue">1659</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2／diff <font color="blue">1659</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -2792,6 +2867,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「ソフィー・ジェルマンの恒等式」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2／diff <font color="blue">1673</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2／diff <font color="blue">1673</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -2811,6 +2887,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「ミラー・ラビン素数判定法」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2／diff <font color="blue">1673</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2／diff <font color="blue">1673</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -2830,6 +2907,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「素因数分解による素数判定」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2／diff <font color="blue">1673</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2／diff <font color="blue">1673</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -2849,6 +2927,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「区間要素数取得を指定始切片数え上げに帰着」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2／diff <font color="blue">1695</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★1.5／diff <font color="green">990</font>
 - 2023年: ★2.5／diff <font color="orange">2401</font>
 - 2022年: ★データなし／diffデータなし
@@ -2872,6 +2951,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「必勝戦略のリアクティブ化」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2／diff <font color="blue">1835</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★1.5／diff <font color="green">1180</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★2.5／diff <font color="orange">2491</font>
@@ -2895,6 +2975,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「整数の構築」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2／diff <font color="blue">1847</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★2／diff <font color="blue">1847</font>
 - 2022年: ★データなし／diffデータなし
@@ -2918,6 +2999,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「マーラー変換」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2／diff <font color="yellowgreen">2148</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★2／diff <font color="yellowgreen">2148</font>
 - 2022年: ★データなし／diffデータなし
@@ -2937,6 +3019,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「トーナメントによる最大・最小値計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2／diffデータなし
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2／diffデータなし
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -2956,6 +3039,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「最大・最小値のリアクティブによる特定」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2／diffデータなし
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2／diffデータなし
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -2975,6 +3059,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「ラマヌジャンの無限根号」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2／diffデータなし
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★2／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -2994,6 +3079,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「三角形の面積計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.1／diff <font color="deepskyblue">1324</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★1.7／diff <font color="green">1071</font>
 - 2023年: ★2.3／diff <font color="deepskyblue">1493</font>
 - 2022年: ★データなし／diffデータなし
@@ -3026,6 +3112,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「単調関数のファイバーの緩和計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.1／diff <font color="deepskyblue">1332</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2／diff <font color="deepskyblue">1218</font>
 - 2023年: ★2.5／diff <font color="deepskyblue">1560</font>
 - 2022年: ★データなし／diffデータなし
@@ -3050,6 +3137,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「連想配列」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.1／diff <font color="deepskyblue">1361</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.1／diff <font color="deepskyblue">1245</font>
 - 2023年: ★2／diff <font color="blue">1664</font>
 - 2022年: ★2／diff <font color="deepskyblue">1242</font>
@@ -3103,6 +3191,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「多次元コストナップサック最適化」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.1／diff <font color="deepskyblue">1430</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2／diff <font color="deepskyblue">1557</font>
 - 2023年: ★2.5／diff <font color="deepskyblue">1534</font>
 - 2022年: ★1.5／diff <font color="green">1095</font>
@@ -3131,6 +3220,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「埋め込み」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.1／diff <font color="deepskyblue">1494</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.2／diff <font color="green">873</font>
 - 2023年: ★2／diff <font color="yellowgreen">2115</font>
 - 2022年: ★データなし／diffデータなし
@@ -3158,6 +3248,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「[操作を数値に翻訳](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#操作を数値に翻訳)」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.1／diff <font color="deepskyblue">1496</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.2／diff <font color="deepskyblue">1525</font>
 - 2023年: ★2.1／diff <font color="deepskyblue">1443</font>
 - 2022年: ★2／diff <font color="blue">1629</font>
@@ -3209,6 +3300,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「等差数列の累積和計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.1／diff <font color="deepskyblue">1521</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2／diff <font color="blue">1622</font>
 - 2023年: ★2.1／diff <font color="deepskyblue">1368</font>
 - 2022年: ★データなし／diffデータなし
@@ -3249,6 +3341,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「分割の均等化」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.1／diff <font color="deepskyblue">1533</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★2.2／diff <font color="blue">1621</font>
 - 2022年: ★2／diff <font color="deepskyblue">1356</font>
@@ -3273,6 +3366,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「決め打ちによる構築」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.1／diff <font color="deepskyblue">1587</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.5／diff <font color="blue">1703</font>
 - 2023年: ★1.5／diff <font color="deepskyblue">1356</font>
 - 2022年: ★データなし／diffデータなし
@@ -3300,6 +3394,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「多次元コストを一次元に翻訳」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.1／diff <font color="blue">1606</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.1／diff <font color="blue">1606</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -3324,6 +3419,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「括弧列判定」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.1／diff <font color="blue">1608</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2／diff <font color="deepskyblue">1330</font>
 - 2023年: ★2.2／diff <font color="blue">1747</font>
 - 2022年: ★データなし／diffデータなし
@@ -3348,6 +3444,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「連長圧縮」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.1／diff <font color="blue">1631</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2／diff <font color="deepskyblue">1574</font>
 - 2023年: ★1.5／diff <font color="green">813</font>
 - 2022年: ★3／diff <font color="orange">2620</font>
@@ -3374,6 +3471,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「01列・部分集合の構築」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.1／diff <font color="blue">1816</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.1／diff <font color="blue">1816</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -3402,6 +3500,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「隣接不等式管理」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.2／diff <font color="deepskyblue">1200</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2／diff <font color="green">912</font>
 - 2023年: ★2.5／diff <font color="deepskyblue">1488</font>
 - 2022年: ★データなし／diffデータなし
@@ -3425,6 +3524,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「平方数判定」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.2／diff <font color="deepskyblue">1236</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★1.5／diff <font color="brown">426</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★3／diff <font color="yellowgreen">2047</font>
@@ -3448,6 +3548,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「[操作回数上限以内の達成可能性判定を操作回数最小値計算に帰着](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#操作回数上限以内の達成可能性判定を操作回数最小値計算に帰着)」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.2／diff <font color="deepskyblue">1355</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2／diff <font color="deepskyblue">1510</font>
 - 2023年: ★2.5／diff <font color="deepskyblue">1200</font>
 - 2022年: ★データなし／diffデータなし
@@ -3471,6 +3572,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「最長歩道計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.2／diff <font color="deepskyblue">1395</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2／diff <font color="deepskyblue">1591</font>
 - 2023年: ★2.5／diff <font color="deepskyblue">1200</font>
 - 2022年: ★データなし／diffデータなし
@@ -3494,6 +3596,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「三角形の成立条件」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.2／diff <font color="deepskyblue">1412</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★3／diff <font color="blue">1961</font>
 - 2022年: ★1.5／diff <font color="green">864</font>
@@ -3517,6 +3620,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「DAG上のDP」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.2／diff <font color="deepskyblue">1419</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.1／diff <font color="deepskyblue">1577</font>
 - 2023年: ★2.5／diff <font color="green">1157</font>
 - 2022年: ★2／diff <font color="deepskyblue">1577</font>
@@ -3554,6 +3658,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「到達可能性判定」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.2／diff <font color="deepskyblue">1424</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.4／diff <font color="blue">1897</font>
 - 2023年: ★1.7／diff <font color="brown">716</font>
 - 2022年: ★データなし／diffデータなし
@@ -3588,6 +3693,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「サンプルに帰着」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.2／diff <font color="deepskyblue">1431</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.1／diff <font color="deepskyblue">1217</font>
 - 2023年: ★2.7／diff <font color="blue">1869</font>
 - 2022年: ★2／diff <font color="deepskyblue">1313</font>
@@ -3622,6 +3728,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「二分法」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.2／diff <font color="deepskyblue">1462</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.1／diff <font color="deepskyblue">1430</font>
 - 2023年: ★2.5／diff <font color="deepskyblue">1560</font>
 - 2022年: ★データなし／diffデータなし
@@ -3647,6 +3754,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「区間選択ナップサック最適化」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.2／diff <font color="deepskyblue">1472</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.2／diff <font color="deepskyblue">1472</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -3670,6 +3778,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「可負コストナップサック最適化」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.2／diff <font color="deepskyblue">1481</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.5／diff <font color="blue">1611</font>
 - 2023年: ★2／diff <font color="deepskyblue">1352</font>
 - 2022年: ★データなし／diffデータなし
@@ -3693,6 +3802,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「約数列挙」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.2／diff <font color="deepskyblue">1498</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.3／diff <font color="deepskyblue">1481</font>
 - 2023年: ★2.1／diff <font color="deepskyblue">1388</font>
 - 2022年: ★2.5／diff <font color="yellowgreen">2291</font>
@@ -3735,6 +3845,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「ナップサック最適化」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.2／diff <font color="deepskyblue">1499</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.3／diff <font color="deepskyblue">1581</font>
 - 2023年: ★2.3／diff <font color="deepskyblue">1515</font>
 - 2022年: ★1.7／diff <font color="green">969</font>
@@ -3788,6 +3899,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「狭義単調関数の単射性」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.2／diff <font color="deepskyblue">1516</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.2／diff <font color="deepskyblue">1516</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -3811,6 +3923,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「貪欲法」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.2／diff <font color="deepskyblue">1525</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.2／diff <font color="deepskyblue">1582</font>
 - 2023年: ★2.1／diff <font color="deepskyblue">1449</font>
 - 2022年: ★2／diff <font color="deepskyblue">1483</font>
@@ -3892,6 +4005,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「外積による三角形の面積計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.2／diff <font color="deepskyblue">1540</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★1.5／diff <font color="green">934</font>
 - 2023年: ★3／diff <font color="yellowgreen">2147</font>
 - 2022年: ★データなし／diffデータなし
@@ -3915,6 +4029,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「[重複選択個数の線形関係式](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#重複選択個数の線形関係式)」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.2／diff <font color="deepskyblue">1587</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★2.2／diff <font color="deepskyblue">1587</font>
 - 2022年: ★データなし／diffデータなし
@@ -3938,6 +4053,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「階乗による多項係数計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.2／diff <font color="blue">1607</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★2.5／diff <font color="blue">1859</font>
 - 2022年: ★2／diff <font color="deepskyblue">1356</font>
@@ -3961,6 +4077,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「多項係数計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.2／diff <font color="blue">1607</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★2.5／diff <font color="blue">1859</font>
 - 2022年: ★2／diff <font color="deepskyblue">1356</font>
@@ -3984,6 +4101,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「多変数演算に関する条件を$2$変数に帰着」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.2／diff <font color="blue">1640</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2／diff <font color="deepskyblue">1567</font>
 - 2023年: ★2.5／diff <font color="blue">1714</font>
 - 2022年: ★データなし／diffデータなし
@@ -4007,6 +4125,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「小数計算を整数に帰着」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.2／diff <font color="blue">1660</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.3／diff <font color="blue">1698</font>
 - 2023年: ★2／diff <font color="deepskyblue">1485</font>
 - 2022年: ★4／diff <font color="orange">2556</font>
@@ -4060,6 +4179,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「複数底の位取り記法表示」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.2／diff <font color="blue">1671</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2／diff <font color="green">1019</font>
 - 2023年: ★2.5／diff <font color="yellowgreen">2323</font>
 - 2022年: ★データなし／diffデータなし
@@ -4083,6 +4203,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「停止性判定」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.2／diff <font color="blue">1720</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="red">2831</font>
 - 2023年: ★1.5／diff <font color="brown">610</font>
 - 2022年: ★データなし／diffデータなし
@@ -4106,6 +4227,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「累積積」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.2／diff <font color="blue">1737</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★2.2／diff <font color="blue">1737</font>
 - 2022年: ★データなし／diffデータなし
@@ -4129,6 +4251,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「ウノ計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.2／diff <font color="blue">1795</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★2／diff <font color="deepskyblue">1345</font>
 - 2022年: ★2.5／diff <font color="yellowgreen">2246</font>
@@ -4152,6 +4275,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「冪乗による根号消去」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.2／diff <font color="blue">1800</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="orange">2419</font>
 - 2023年: ★1.5／diff <font color="green">1182</font>
 - 2022年: ★データなし／diffデータなし
@@ -4175,6 +4299,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「不定方程式の因数分解」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.2／diff <font color="blue">1844</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★2／diff <font color="deepskyblue">1397</font>
 - 2022年: ★2.5／diff <font color="yellowgreen">2291</font>
@@ -4198,6 +4323,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「高階差分」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.2／diff <font color="yellowgreen">2148</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.5／diffデータなし
 - 2023年: ★2／diff <font color="yellowgreen">2148</font>
 - 2022年: ★データなし／diffデータなし
@@ -4221,6 +4347,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「極小互換表示」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.3／diff <font color="green">1087</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.5／diffデータなし
 - 2023年: ★2／diff <font color="green">849</font>
 - 2022年: ★2.5／diff <font color="deepskyblue">1325</font>
@@ -4245,6 +4372,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「最近点計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.3／diff <font color="deepskyblue">1301</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.5／diff <font color="blue">1624</font>
 - 2023年: ★2／diff <font color="brown">657</font>
 - 2022年: ★データなし／diffデータなし
@@ -4276,6 +4404,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「巡回置換表示」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.3／diff <font color="deepskyblue">1314</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.5／diffデータなし
 - 2023年: ★2.2／diff <font color="deepskyblue">1312</font>
 - 2022年: ★2.5／diff <font color="deepskyblue">1325</font>
@@ -4305,6 +4434,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「lower_bound・upper_bound取得」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.3／diff <font color="deepskyblue">1319</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.2／diff <font color="green">990</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★2.5／diff <font color="blue">1649</font>
@@ -4332,6 +4462,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「ナップサックDP」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.3／diff <font color="deepskyblue">1468</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.3／diff <font color="blue">1684</font>
 - 2023年: ★2.3／diff <font color="deepskyblue">1410</font>
 - 2022年: ★2／diff <font color="green">843</font>
@@ -4362,6 +4493,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「最遠点計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.3／diff <font color="deepskyblue">1504</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.2／diff <font color="deepskyblue">1473</font>
 - 2023年: ★2.5／diff <font color="deepskyblue">1536</font>
 - 2022年: ★データなし／diffデータなし
@@ -4386,6 +4518,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「連結成分取得」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.3／diff <font color="deepskyblue">1513</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.5／diff <font color="blue">1739</font>
 - 2023年: ★2.2／diff <font color="deepskyblue">1345</font>
 - 2022年: ★2.5／diff <font color="deepskyblue">1486</font>
@@ -4437,6 +4570,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「素集合データ構造」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.3／diff <font color="deepskyblue">1516</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.5／diff <font color="blue">1747</font>
 - 2023年: ★2.2／diff <font color="deepskyblue">1345</font>
 - 2022年: ★2.5／diff <font color="deepskyblue">1486</font>
@@ -4488,6 +4622,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「素因数分解による約数列挙」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.3／diff <font color="deepskyblue">1565</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.5／diff <font color="blue">1651</font>
 - 2023年: ★2.1／diff <font color="deepskyblue">1388</font>
 - 2022年: ★2.5／diff <font color="yellowgreen">2291</font>
@@ -4526,6 +4661,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「余事象に注目」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.3／diff <font color="deepskyblue">1573</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.3／diff <font color="blue">1696</font>
 - 2023年: ★2.3／diff <font color="deepskyblue">1571</font>
 - 2022年: ★2／diff <font color="deepskyblue">1228</font>
@@ -4568,6 +4704,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「言及する成分数を最大化する質問」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.3／diff <font color="deepskyblue">1577</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2／diffデータなし
 - 2023年: ★2.5／diff <font color="deepskyblue">1577</font>
 - 2022年: ★データなし／diffデータなし
@@ -4592,6 +4729,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「最小公倍数計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.3／diff <font color="blue">1607</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.2／diff <font color="deepskyblue">1447</font>
 - 2023年: ★2.3／diff <font color="blue">1660</font>
 - 2022年: ★データなし／diffデータなし
@@ -4621,6 +4759,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「最大公約数による最小公倍数計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.3／diff <font color="blue">1614</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.2／diff <font color="deepskyblue">1447</font>
 - 2023年: ★2.5／diff <font color="blue">1698</font>
 - 2022年: ★データなし／diffデータなし
@@ -4649,6 +4788,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「幅優先探索」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.3／diff <font color="blue">1617</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.4／diff <font color="blue">1834</font>
 - 2023年: ★2.2／diff <font color="deepskyblue">1417</font>
 - 2022年: ★2／diff <font color="deepskyblue">1582</font>
@@ -4710,6 +4850,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「小数型」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.3／diff <font color="blue">1641</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.4／diff <font color="blue">1698</font>
 - 2023年: ★2.5／diff <font color="blue">1759</font>
 - 2022年: ★1.5／diff <font color="brown">588</font>
@@ -4756,6 +4897,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「平方根処理」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.3／diff <font color="blue">1648</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.6／diff <font color="blue">1805</font>
 - 2023年: ★2.1／diff <font color="deepskyblue">1558</font>
 - 2022年: ★データなし／diffデータなし
@@ -4798,6 +4940,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「位取り記法表示」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.3／diff <font color="blue">1670</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2／diff <font color="deepskyblue">1588</font>
 - 2023年: ★2.5／diff <font color="blue">1721</font>
 - 2022年: ★2.6／diff <font color="blue">1754</font>
@@ -4853,6 +4996,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「累積積による冪乗・階乗計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.3／diff <font color="blue">1679</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.4／diff <font color="blue">1760</font>
 - 2023年: ★2.3／diff <font color="deepskyblue">1590</font>
 - 2022年: ★2.2／diff <font color="blue">1693</font>
@@ -4935,6 +5079,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「ヘルド・カープ法」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.3／diff <font color="blue">1687</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.5／diff <font color="blue">1753</font>
 - 2023年: ★2.2／diff <font color="blue">1621</font>
 - 2022年: ★データなし／diffデータなし
@@ -4960,6 +5105,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「二・多項係数を組み合わせに翻訳」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.3／diff <font color="blue">1702</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="yellowgreen">2143</font>
 - 2023年: ★2／diffデータなし
 - 2022年: ★2／diff <font color="deepskyblue">1261</font>
@@ -4984,6 +5130,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「素数判定」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.3／diff <font color="blue">1705</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.3／diff <font color="blue">1705</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -5008,6 +5155,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「部分集合の要素全探索を全体集合の要素全探索に帰着」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.3／diff <font color="blue">1756</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.3／diff <font color="blue">1756</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -5032,6 +5180,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「ルジャンドルの公式」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.3／diff <font color="blue">1758</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="deepskyblue">1406</font>
 - 2023年: ★2.1／diff <font color="blue">1875</font>
 - 2022年: ★データなし／diffデータなし
@@ -5060,6 +5209,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「変数決め打ち」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.3／diff <font color="blue">1769</font>
+- 2025年: ★3／diffデータなし
 - 2024年: ★2.4／diff <font color="blue">1887</font>
 - 2023年: ★2.2／diff <font color="blue">1620</font>
 - 2022年: ★2.5／diff <font color="blue">1949</font>
@@ -5123,6 +5273,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2732">No.2732 Similar Permutations</a> (yukicoder contest 428 (2024-04-19) - E問題、diff <font color="yellowgreen">2203</font>)
 - <a href="https://yukicoder.me/problems/no/2858">No.2858 Make a Palindrome</a> (yukicoder contest 442 (2024-08-25) - I問題、diff <font color="yellowgreen">2147</font>)
 - <a href="https://yukicoder.me/problems/no/2956">No.2956 Substitute with Average</a> (yukicoder contest 452 (2024-11-08) - D問題、diff <font color="yellowgreen">2386</font>)
+- <a href="https://yukicoder.me/problems/no/3001">No.3001 ヘビ文字列</a> (単発出題、diffデータなし)
 
 ##### ★★★☆
 
@@ -5135,6 +5286,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「最終手番に注目」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.3／diff <font color="blue">1780</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.3／diff <font color="blue">1631</font>
 - 2023年: ★2.5／diff <font color="blue">1875</font>
 - 2022年: ★2.3／diff <font color="blue">1951</font>
@@ -5178,6 +5330,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「約数計数関数による計算量評価」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.3／diff <font color="blue">1791</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.3／diff <font color="blue">1791</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -5202,6 +5355,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「貪欲法による構築」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.3／diff <font color="blue">1841</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.7／diff <font color="yellowgreen">2373</font>
 - 2023年: ★1.5／diff <font color="brown">779</font>
 - 2022年: ★データなし／diffデータなし
@@ -5229,6 +5383,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「操作コスト最小化を最短経路長計算に帰着」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.3／diff <font color="blue">1885</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.3／diff <font color="blue">1875</font>
 - 2023年: ★2.5／diff <font color="blue">1915</font>
 - 2022年: ★データなし／diffデータなし
@@ -5254,6 +5409,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「門松列DP」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.4／diff <font color="deepskyblue">1437</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.5／diff <font color="blue">1957</font>
 - 2023年: ★2.1／diff <font color="deepskyblue">1336</font>
 - 2022年: ★3／diff <font color="deepskyblue">1220</font>
@@ -5283,6 +5439,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「配列の構築」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.4／diff <font color="deepskyblue">1584</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.5／diff <font color="blue">1830</font>
 - 2023年: ★2／diff <font color="green">1048</font>
 - 2022年: ★3／diff <font color="yellowgreen">2167</font>
@@ -5312,6 +5469,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「遷移の収束」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.4／diff <font color="deepskyblue">1588</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2／diff <font color="deepskyblue">1417</font>
 - 2023年: ★3／diff <font color="blue">1844</font>
 - 2022年: ★データなし／diffデータなし
@@ -5344,6 +5502,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「頂点倍化」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.4／diff <font color="blue">1617</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2／diff <font color="deepskyblue">1301</font>
 - 2023年: ★2.5／diff <font color="blue">1696</font>
 - 2022年: ★データなし／diffデータなし
@@ -5373,6 +5532,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「二部グラフ判定」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.4／diff <font color="blue">1617</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2／diff <font color="deepskyblue">1301</font>
 - 2023年: ★2.5／diff <font color="blue">1696</font>
 - 2022年: ★データなし／diffデータなし
@@ -5402,6 +5562,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「bool値の充足可能性判定」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.4／diff <font color="blue">1623</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.2／diff <font color="blue">1610</font>
 - 2023年: ★2.5／diff <font color="blue">1696</font>
 - 2022年: ★2.5／diff <font color="deepskyblue">1358</font>
@@ -5433,6 +5594,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「bit全探索」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.4／diff <font color="blue">1641</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.3／diff <font color="deepskyblue">1458</font>
 - 2023年: ★2.5／diff <font color="blue">1846</font>
 - 2022年: ★2.7／diff <font color="blue">1851</font>
@@ -5478,6 +5640,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「経路数え上げ」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.4／diff <font color="blue">1650</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.5／diff <font color="blue">1778</font>
 - 2023年: ★2.2／diff <font color="green">1140</font>
 - 2022年: ★データなし／diffデータなし
@@ -5516,6 +5679,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「ソート」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.4／diff <font color="blue">1697</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.3／diff <font color="deepskyblue">1542</font>
 - 2023年: ★2.3／diff <font color="blue">1742</font>
 - 2022年: ★3.3／diff <font color="orange">2412</font>
@@ -5615,6 +5779,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「ド・モルガンの法則」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.4／diff <font color="blue">1697</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.5／diff <font color="deepskyblue">1509</font>
 - 2023年: ★2.4／diff <font color="blue">1718</font>
 - 2022年: ★データなし／diffデータなし
@@ -5652,6 +5817,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「尺取り法」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.4／diff <font color="blue">1712</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.2／diff <font color="deepskyblue">1587</font>
 - 2023年: ★2.3／diff <font color="deepskyblue">1590</font>
 - 2022年: ★3／diff <font color="yellowgreen">2146</font>
@@ -5700,6 +5866,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「[集合管理](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#集合管理)」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.4／diff <font color="blue">1764</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.2／diff <font color="deepskyblue">1581</font>
 - 2023年: ★2.6／diff <font color="blue">1923</font>
 - 2022年: ★3／diff <font color="yellowgreen">2121</font>
@@ -5775,6 +5942,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「累積和」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.4／diff <font color="blue">1769</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.5／diff <font color="blue">1917</font>
 - 2023年: ★2.6／diff <font color="blue">1800</font>
 - 2022年: ★1.8／diff <font color="green">1100</font>
@@ -5833,6 +6001,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「法B係数連立一次方程式の解の存在判定」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.4／diff <font color="blue">1775</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.3／diff <font color="blue">1854</font>
 - 2023年: ★2.5／diff <font color="blue">1696</font>
 - 2022年: ★データなし／diffデータなし
@@ -5865,6 +6034,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「リアクティブによる特定」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.4／diff <font color="blue">1959</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.4／diff <font color="yellowgreen">2069</font>
 - 2023年: ★2.5／diff <font color="blue">1944</font>
 - 2022年: ★1.5／diff <font color="green">1158</font>
@@ -5910,6 +6080,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「グラフの状態や目的地の変化を有向辺に翻訳」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.4／diff <font color="blue">1975</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.4／diff <font color="blue">1975</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -5939,6 +6110,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「複数配列への範囲加算更新を１つの配列に纏め上げ」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.5／diff <font color="deepskyblue">1358</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★2.5／diff <font color="deepskyblue">1358</font>
 - 2022年: ★データなし／diffデータなし
@@ -5958,6 +6130,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「置換の符号計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.5／diff <font color="deepskyblue">1437</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★2.5／diff <font color="deepskyblue">1550</font>
 - 2022年: ★2.5／diff <font color="deepskyblue">1325</font>
@@ -5978,6 +6151,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「部分和と補部分和の差の最小化」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.5／diff <font color="deepskyblue">1469</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★2.5／diff <font color="deepskyblue">1469</font>
 - 2022年: ★データなし／diffデータなし
@@ -5997,6 +6171,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「挿入ソート」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.5／diff <font color="deepskyblue">1489</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★2.5／diff <font color="deepskyblue">1489</font>
 - 2022年: ★データなし／diffデータなし
@@ -6016,6 +6191,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「コストなしナップサック最適化」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.5／diff <font color="deepskyblue">1515</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.3／diff <font color="deepskyblue">1515</font>
 - 2023年: ★3／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -6044,6 +6220,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「符号全探索による絶対値計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.5／diff <font color="deepskyblue">1536</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★2.5／diff <font color="deepskyblue">1536</font>
 - 2022年: ★データなし／diffデータなし
@@ -6063,6 +6240,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「極小基本互換表示」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.5／diff <font color="deepskyblue">1550</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★2.5／diff <font color="deepskyblue">1550</font>
 - 2022年: ★データなし／diffデータなし
@@ -6082,6 +6260,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「素数列挙」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.5／diff <font color="deepskyblue">1553</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.5／diff <font color="deepskyblue">1553</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -6115,6 +6294,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「strategy stealing argument」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.5／diff <font color="deepskyblue">1588</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.5／diff <font color="deepskyblue">1588</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -6134,6 +6314,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「ベイズの定理」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.5／diff <font color="deepskyblue">1598</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.5／diff <font color="deepskyblue">1598</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -6153,6 +6334,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「可負コストナップサック割り当て数え上げ」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.5／diff <font color="blue">1611</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.5／diff <font color="blue">1611</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -6172,6 +6354,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「可負価値ナップサック割り当て数え上げ」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.5／diff <font color="blue">1611</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.5／diff <font color="blue">1611</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -6191,6 +6374,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「可負価値ナップサック最適化」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.5／diff <font color="blue">1611</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.5／diff <font color="blue">1611</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -6210,6 +6394,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「素数列による試し割り法」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.5／diff <font color="blue">1619</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2／diff <font color="deepskyblue">1351</font>
 - 2023年: ★2.7／diff <font color="blue">1887</font>
 - 2022年: ★データなし／diffデータなし
@@ -6237,6 +6422,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「[不明な想定解](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#不明な想定解)」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.5／diff <font color="blue">1619</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★2.5／diff <font color="blue">1619</font>
 - 2022年: ★データなし／diffデータなし
@@ -6264,6 +6450,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「中間値の定理」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.5／diff <font color="blue">1622</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.5／diff <font color="blue">1622</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -6287,6 +6474,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「位取り記法による構築」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.5／diff <font color="blue">1663</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.3／diff <font color="deepskyblue">1482</font>
 - 2023年: ★2.7／diff <font color="blue">1684</font>
 - 2022年: ★3／diff <font color="yellowgreen">2167</font>
@@ -6317,6 +6505,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「配列を像・頻度表で管理」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.5／diff <font color="blue">1671</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.4／diff <font color="deepskyblue">1595</font>
 - 2023年: ★2.6／diff <font color="blue">1760</font>
 - 2022年: ★3／diff <font color="blue">1696</font>
@@ -6354,6 +6543,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「マッチ度ごとに管理」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.5／diff <font color="blue">1678</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.8／diff <font color="yellowgreen">2135</font>
 - 2023年: ★2.3／diff <font color="deepskyblue">1517</font>
 - 2022年: ★2.5／diff <font color="deepskyblue">1247</font>
@@ -6395,6 +6585,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「エラトステネスの篩」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.5／diff <font color="blue">1694</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.5／diff <font color="blue">1620</font>
 - 2023年: ★2.7／diff <font color="blue">1887</font>
 - 2022年: ★3／diff <font color="yellowgreen">2167</font>
@@ -6434,6 +6625,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「サンプルから推測」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.5／diff <font color="blue">1708</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.5／diff <font color="blue">1890</font>
 - 2023年: ★2.7／diff <font color="deepskyblue">1346</font>
 - 2022年: ★データなし／diffデータなし
@@ -6470,6 +6662,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「指定序数の値の計算を指定始切片数え上げに帰着」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.5／diff <font color="blue">1715</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.6／diff <font color="green">1019</font>
 - 2023年: ★2.1／diff <font color="blue">1637</font>
 - 2022年: ★3.5／diff <font color="orange">2648</font>
@@ -6504,6 +6697,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「エラトステネスの篩による素数判定」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.5／diff <font color="blue">1721</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.5／diff <font color="blue">1721</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -6524,6 +6718,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「素数計数関数前計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.5／diff <font color="blue">1721</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.5／diff <font color="blue">1721</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -6544,6 +6739,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「01列と非負整数の対応」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.5／diff <font color="blue">1736</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.4／diff <font color="deepskyblue">1458</font>
 - 2023年: ★2.5／diff <font color="blue">1909</font>
 - 2022年: ★2.7／diff <font color="blue">1923</font>
@@ -6601,6 +6797,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「行列の構築」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.5／diff <font color="blue">1738</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.2／diff <font color="deepskyblue">1204</font>
 - 2023年: ★3／diff <font color="blue">1971</font>
 - 2022年: ★2.5／diff <font color="yellowgreen">2039</font>
@@ -6629,6 +6826,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「部分集合対全探索」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.5／diff <font color="blue">1740</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.5／diff <font color="blue">1753</font>
 - 2023年: ★2.5／diff <font color="blue">1714</font>
 - 2022年: ★データなし／diffデータなし
@@ -6650,6 +6848,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「ミラー戦略」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.5／diff <font color="blue">1744</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.4／diff <font color="blue">1764</font>
 - 2023年: ★2.6／diff <font color="deepskyblue">1590</font>
 - 2022年: ★2.5／diff <font color="blue">1905</font>
@@ -6690,6 +6889,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「一要素重複挿入更新」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.5／diff <font color="blue">1752</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.5／diff <font color="blue">1752</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -6709,6 +6909,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「部分集合DP」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.5／diff <font color="blue">1753</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.5／diff <font color="blue">1753</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -6729,6 +6930,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「区間を切片の差に翻訳」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.5／diff <font color="blue">1754</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.5／diff <font color="blue">1709</font>
 - 2023年: ★2.5／diff <font color="blue">1891</font>
 - 2022年: ★データなし／diffデータなし
@@ -6759,6 +6961,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「深さ優先探索」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.5／diff <font color="blue">1756</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.2／diff <font color="deepskyblue">1420</font>
 - 2023年: ★2.8／diff <font color="blue">1925</font>
 - 2022年: ★データなし／diffデータなし
@@ -6806,6 +7009,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「一要素削除更新」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.5／diff <font color="blue">1765</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.3／diff <font color="deepskyblue">1451</font>
 - 2023年: ★2.5／diff <font color="blue">1909</font>
 - 2022年: ★3.2／diff <font color="yellowgreen">2333</font>
@@ -6850,6 +7054,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「試し割り法」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.5／diff <font color="blue">1768</font>
+- 2025年: ★3／diffデータなし
 - 2024年: ★2.8／diff <font color="blue">1844</font>
 - 2023年: ★2.4／diff <font color="blue">1698</font>
 - 2022年: ★2.5／diff <font color="yellowgreen">2291</font>
@@ -6885,6 +7090,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2318">No.2318 Phys Bone Maker</a> (yukicoder contest 390 (2023-05-26) - E問題、diff <font color="yellowgreen">2016</font>)
 - <a href="https://yukicoder.me/problems/no/2798">No.2798 Multiple Chain</a> (yukicoder contest 435 (2024-06-28) - D問題、diff <font color="yellowgreen">2134</font>)
 - <a href="https://yukicoder.me/problems/no/2829">No.2829 GCD Divination</a> (yukicoder contest 439 (2024-08-02) - C問題、diff <font color="yellowgreen">2025</font>)
+- <a href="https://yukicoder.me/problems/no/3001">No.3001 ヘビ文字列</a> (単発出題、diffデータなし)
 
 ##### ★★★☆
 
@@ -6903,6 +7109,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「Vieta Jumping」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.5／diff <font color="blue">1768</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★2.5／diff <font color="blue">1768</font>
 - 2022年: ★データなし／diffデータなし
@@ -6922,6 +7129,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「不変量に注目」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.5／diff <font color="blue">1771</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.5／diff <font color="blue">1820</font>
 - 2023年: ★2.3／diff <font color="deepskyblue">1564</font>
 - 2022年: ★2.8／diff <font color="yellowgreen">2052</font>
@@ -6992,6 +7200,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「価値上限ありナップサック最適化」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.5／diff <font color="blue">1774</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★2.5／diff <font color="blue">1774</font>
 - 2022年: ★データなし／diffデータなし
@@ -7011,6 +7220,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「階乗計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.5／diff <font color="blue">1788</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.7／diff <font color="blue">1941</font>
 - 2023年: ★2.5／diff <font color="blue">1760</font>
 - 2022年: ★2.1／diff <font color="deepskyblue">1466</font>
@@ -7062,6 +7272,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「二分探索」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.5／diff <font color="blue">1799</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.4／diff <font color="blue">1850</font>
 - 2023年: ★2.4／diff <font color="blue">1697</font>
 - 2022年: ★3.3／diff <font color="yellowgreen">2185</font>
@@ -7142,6 +7353,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「２種の数値を足し引きして１種に帰着」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.5／diff <font color="blue">1803</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.5／diff <font color="blue">1803</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -7173,6 +7385,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「包除原理」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.5／diff <font color="blue">1810</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.3／diff <font color="blue">1842</font>
 - 2023年: ★2.5／diff <font color="blue">1613</font>
 - 2022年: ★3／diff <font color="yellowgreen">2306</font>
@@ -7210,6 +7423,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「[損をしない変形](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#損をしない変形)」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.5／diff <font color="blue">1813</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.6／diff <font color="blue">1823</font>
 - 2023年: ★2.4／diff <font color="blue">1734</font>
 - 2022年: ★2.6／diff <font color="yellowgreen">2083</font>
@@ -7274,6 +7488,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「mex取得」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.5／diff <font color="blue">1827</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2／diff <font color="blue">1727</font>
 - 2023年: ★3／diff <font color="blue">1927</font>
 - 2022年: ★データなし／diffデータなし
@@ -7297,6 +7512,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「多項定理」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.5／diff <font color="blue">1831</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★2.7／diff <font color="orange">2401</font>
 - 2022年: ★2／diff <font color="deepskyblue">1261</font>
@@ -7321,6 +7537,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「試行回数・順位の期待値を各試行の実施確率・各項の先着確率の和に帰着」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.5／diff <font color="blue">1832</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.5／diff <font color="yellowgreen">2191</font>
 - 2023年: ★2.5／diff <font color="blue">1653</font>
 - 2022年: ★データなし／diffデータなし
@@ -7348,6 +7565,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「オイラーの定理による逆元計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.5／diff <font color="blue">1838</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★2.5／diff <font color="blue">1838</font>
 - 2022年: ★データなし／diffデータなし
@@ -7367,6 +7585,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「Dilworthの定理」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.5／diff <font color="blue">1848</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.5／diff <font color="blue">1848</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -7386,6 +7605,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「鎖への分割数の最小化」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.5／diff <font color="blue">1848</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.5／diff <font color="blue">1848</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -7405,6 +7625,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「素数を用いた構築」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.5／diff <font color="blue">1858</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.3／diff <font color="blue">1756</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★3／diff <font color="yellowgreen">2167</font>
@@ -7433,6 +7654,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「置換の位数計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.5／diff <font color="blue">1859</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.5／diffデータなし
 - 2023年: ★2.5／diff <font color="blue">1859</font>
 - 2022年: ★データなし／diffデータなし
@@ -7453,6 +7675,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「排他的被覆数え上げ」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.5／diff <font color="blue">1859</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★2.5／diff <font color="blue">1859</font>
 - 2022年: ★データなし／diffデータなし
@@ -7472,6 +7695,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「modint型」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.5／diff <font color="blue">1862</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.5／diff <font color="blue">1854</font>
 - 2023年: ★2.5／diff <font color="blue">1818</font>
 - 2022年: ★2.6／diff <font color="yellowgreen">2015</font>
@@ -7642,6 +7866,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「ポテンシャル付き素集合データ構造」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.5／diff <font color="blue">1862</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.6／diff <font color="yellowgreen">2084</font>
 - 2023年: ★2.5／diff <font color="blue">1696</font>
 - 2022年: ★データなし／diffデータなし
@@ -7673,6 +7898,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「円環の倍化実装」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.5／diff <font color="blue">1864</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.2／diff <font color="blue">1653</font>
 - 2023年: ★2.7／diff <font color="yellowgreen">2074</font>
 - 2022年: ★データなし／diffデータなし
@@ -7701,6 +7927,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「最大・最小要素取得」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.5／diff <font color="blue">1869</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.3／diff <font color="blue">1788</font>
 - 2023年: ★2.8／diff <font color="blue">1990</font>
 - 2022年: ★3／diff <font color="blue">1959</font>
@@ -7738,6 +7965,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「充足可能性判定」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.5／diff <font color="blue">1870</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.5／diff <font color="yellowgreen">2036</font>
 - 2023年: ★2.5／diff <font color="blue">1716</font>
 - 2022年: ★3／diff <font color="blue">1842</font>
@@ -7777,6 +8005,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「等比数列の累積和計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.5／diff <font color="blue">1873</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.6／diff <font color="yellowgreen">2061</font>
 - 2023年: ★2.5／diff <font color="blue">1723</font>
 - 2022年: ★データなし／diffデータなし
@@ -7819,6 +8048,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「オーバーフロー回避」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.5／diff <font color="blue">1874</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.5／diff <font color="blue">1785</font>
 - 2023年: ★2.7／diff <font color="yellowgreen">2121</font>
 - 2022年: ★2／diff <font color="blue">1828</font>
@@ -7861,6 +8091,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「最大公約数計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.5／diff <font color="blue">1883</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.3／diff <font color="blue">1693</font>
 - 2023年: ★2.6／diff <font color="blue">1771</font>
 - 2022年: ★2.9／diff <font color="yellowgreen">2218</font>
@@ -7907,6 +8138,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「階差数列」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.5／diff <font color="blue">1884</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.8／diff <font color="yellowgreen">2092</font>
 - 2023年: ★2／diff <font color="blue">1692</font>
 - 2022年: ★2.7／diff <font color="blue">1853</font>
@@ -7948,6 +8180,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「setprecision・format」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.5／diff <font color="blue">1885</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3.5／diff <font color="red">3143</font>
 - 2023年: ★1.5／diff <font color="brown">627</font>
 - 2022年: ★データなし／diffデータなし
@@ -7971,6 +8204,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「交代和」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.5／diff <font color="blue">1888</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★1.5／diff <font color="deepskyblue">1276</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★3.5／diff <font color="orange">2500</font>
@@ -7994,6 +8228,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「01BFS」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.5／diff <font color="blue">1892</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.1／diff <font color="blue">1627</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★3.5／diff <font color="orange">2690</font>
@@ -8022,6 +8257,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「選択回数依存コスト重複選択可ナップサック最適化」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.5／diff <font color="blue">1900</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.5／diff <font color="blue">1900</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -8041,6 +8277,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「優先度付きキュー」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.5／diff <font color="blue">1944</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.4／diff <font color="blue">1868</font>
 - 2023年: ★2.7／diff <font color="yellowgreen">2038</font>
 - 2022年: ★データなし／diffデータなし
@@ -8075,6 +8312,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「多次元の最適化を一次元の最適化に帰着」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.5／diff <font color="blue">1944</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.5／diff <font color="blue">1944</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -8095,6 +8333,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「２変数決め打ち」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.5／diff <font color="blue">1944</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="orange">2491</font>
 - 2023年: ★2.3／diff <font color="blue">1695</font>
 - 2022年: ★3.5／diff <font color="orange">2643</font>
@@ -8129,6 +8368,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「多点BFS」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.5／diff <font color="blue">1973</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.5／diff <font color="blue">1957</font>
 - 2023年: ★2.5／diff <font color="blue">1989</font>
 - 2022年: ★データなし／diffデータなし
@@ -8149,6 +8389,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「位取り記法表示で全探索」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.5／diff <font color="blue">1983</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.5／diff <font color="blue">1977</font>
 - 2023年: ★2.5／diff <font color="blue">1989</font>
 - 2022年: ★データなし／diffデータなし
@@ -8169,6 +8410,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「三分探索」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.5／diff <font color="yellowgreen">2000</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.5／diff <font color="deepskyblue">1579</font>
 - 2023年: ★2.5／diff <font color="orange">2421</font>
 - 2022年: ★データなし／diffデータなし
@@ -8189,6 +8431,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「全要素数取得」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.5／diff <font color="yellowgreen">2021</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★2.5／diff <font color="yellowgreen">2021</font>
 - 2022年: ★データなし／diffデータなし
@@ -8208,6 +8451,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「テストケースの構築」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.5／diff <font color="yellowgreen">2030</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.5／diff <font color="yellowgreen">2030</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -8227,6 +8471,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「独立事象の積への分解による確率計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.5／diff <font color="yellowgreen">2031</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.5／diff <font color="yellowgreen">2031</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -8246,6 +8491,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「１つの桁・成分のみ特定する質問」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.5／diff <font color="yellowgreen">2057</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.5／diff <font color="blue">1991</font>
 - 2023年: ★2.5／diff <font color="yellowgreen">2323</font>
 - 2022年: ★データなし／diffデータなし
@@ -8275,6 +8521,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「任意・存在を総AND・ORに翻訳」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.5／diff <font color="yellowgreen">2066</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★2.5／diff <font color="yellowgreen">2066</font>
 - 2022年: ★データなし／diffデータなし
@@ -8294,6 +8541,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「[breakに関する考察](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#breakに関する考察)」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.5／diff <font color="yellowgreen">2069</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.5／diff <font color="yellowgreen">2154</font>
 - 2023年: ★2.7／diff <font color="blue">1976</font>
 - 2022年: ★2／diff <font color="blue">1828</font>
@@ -8329,6 +8577,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「整数のリアクティブによる特定」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.5／diff <font color="yellowgreen">2086</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.5／diff <font color="yellowgreen">2172</font>
 - 2023年: ★2.5／diff <font color="blue">1743</font>
 - 2022年: ★データなし／diffデータなし
@@ -8358,6 +8607,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「オイラーグラフ判定」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.5／diff <font color="yellowgreen">2123</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★2.5／diff <font color="yellowgreen">2123</font>
 - 2022年: ★データなし／diffデータなし
@@ -8377,6 +8627,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「上限・下限値に言及する質問」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.5／diff <font color="yellowgreen">2123</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★2.5／diff <font color="yellowgreen">2123</font>
 - 2022年: ★データなし／diffデータなし
@@ -8397,6 +8648,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「変数の対称性」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.5／diff <font color="yellowgreen">2145</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.5／diff <font color="yellowgreen">2020</font>
 - 2023年: ★2.5／diff <font color="yellowgreen">2133</font>
 - 2022年: ★3／diff <font color="orange">2430</font>
@@ -8427,6 +8679,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「並列二分探索」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.5／diff <font color="yellowgreen">2162</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.5／diff <font color="yellowgreen">2162</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -8446,6 +8699,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「定数倍メモリ削減」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.5／diff <font color="yellowgreen">2219</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★2.5／diff <font color="yellowgreen">2219</font>
 - 2022年: ★データなし／diffデータなし
@@ -8465,6 +8719,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「線分の交差判定」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.5／diff <font color="yellowgreen">2306</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★2.5／diff <font color="yellowgreen">2306</font>
 - 2022年: ★データなし／diffデータなし
@@ -8484,6 +8739,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「四元数演算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.5／diff <font color="yellowgreen">2339</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★2.5／diff <font color="yellowgreen">2339</font>
 - 2022年: ★データなし／diffデータなし
@@ -8503,6 +8759,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「四平方定理」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.5／diff <font color="yellowgreen">2339</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★2.5／diff <font color="yellowgreen">2339</font>
 - 2022年: ★データなし／diffデータなし
@@ -8522,6 +8779,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「平方数前計算による平方剰余判定」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.5／diff <font color="yellowgreen">2339</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★2.5／diff <font color="yellowgreen">2339</font>
 - 2022年: ★データなし／diffデータなし
@@ -8541,6 +8799,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「個数上限１複数ナップサック最適化」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.5／diff <font color="yellowgreen">2353</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★2.5／diff <font color="yellowgreen">2353</font>
 - 2022年: ★データなし／diffデータなし
@@ -8560,6 +8819,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「全順序集合を状態に持つゲームをP状態とN状態の区間に分割」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.5／diff <font color="orange">2501</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★2.5／diff <font color="orange">2501</font>
 - 2022年: ★データなし／diffデータなし
@@ -8579,6 +8839,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「必勝戦略のリアクティブによる特定」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.5／diff <font color="orange">2503</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★2.5／diff <font color="orange">2503</font>
 - 2022年: ★データなし／diffデータなし
@@ -8598,6 +8859,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「ラグランジュ補間」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.5／diff <font color="orange">2525</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.5／diff <font color="orange">2525</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -8617,6 +8879,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「ニュートン法」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.5／diff <font color="orange">2788</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★2.5／diff <font color="orange">2788</font>
 - 2022年: ★データなし／diffデータなし
@@ -8636,6 +8899,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「区間一次式加算更新」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.5／diffデータなし
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.5／diffデータなし
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -8655,6 +8919,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「操作の数値化」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.5／diffデータなし
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.5／diffデータなし
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -8674,6 +8939,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「操作逆順」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.6／diff <font color="blue">1672</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.6／diff <font color="blue">1697</font>
 - 2023年: ★3／diff <font color="blue">1758</font>
 - 2022年: ★2.5／diff <font color="deepskyblue">1486</font>
@@ -8708,6 +8974,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「クエリソート」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.6／diff <font color="blue">1708</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.2／diff <font color="deepskyblue">1544</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★3／diff <font color="blue">1872</font>
@@ -8736,6 +9003,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「転倒数計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.6／diff <font color="blue">1741</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.5／diff <font color="deepskyblue">1540</font>
 - 2023年: ★2.6／diff <font color="blue">1947</font>
 - 2022年: ★2.5／diff <font color="deepskyblue">1325</font>
@@ -8762,6 +9030,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「グラフの辺の削除更新」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.6／diff <font color="blue">1745</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.7／diff <font color="blue">1875</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★2.5／diff <font color="deepskyblue">1486</font>
@@ -8786,6 +9055,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「最終手番のターン数に注目」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.6／diff <font color="blue">1755</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.5／diff <font color="deepskyblue">1564</font>
 - 2023年: ★3／diff <font color="yellowgreen">2153</font>
 - 2022年: ★2.5／diff <font color="blue">1934</font>
@@ -8818,6 +9088,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「bitごとに計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.6／diff <font color="blue">1794</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.2／diff <font color="deepskyblue">1392</font>
 - 2023年: ★2.7／diff <font color="blue">1715</font>
 - 2022年: ★3／diff <font color="yellowgreen">2328</font>
@@ -8857,6 +9128,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「グラフの辺の追加更新」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.6／diff <font color="blue">1810</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.7／diff <font color="blue">1915</font>
 - 2023年: ★2.6／diff <font color="blue">1778</font>
 - 2022年: ★2.5／diff <font color="deepskyblue">1486</font>
@@ -8886,6 +9158,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「差分計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.6／diff <font color="blue">1811</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.6／diff <font color="blue">1907</font>
 - 2023年: ★2.4／diff <font color="deepskyblue">1553</font>
 - 2022年: ★3.5／diff <font color="orange">2476</font>
@@ -8941,6 +9214,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「区間族管理」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.6／diff <font color="blue">1824</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.7／diff <font color="blue">1934</font>
 - 2023年: ★2.6／diff <font color="blue">1770</font>
 - 2022年: ★2.5／diff <font color="blue">1649</font>
@@ -8984,6 +9258,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「[良いケースに帰着](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#良いケースに帰着)」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.6／diff <font color="blue">1824</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3.1／diff <font color="yellowgreen">2118</font>
 - 2023年: ★1.5／diff <font color="green">1069</font>
 - 2022年: ★2.2／diff <font color="blue">1762</font>
@@ -9015,6 +9290,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「素因数分解」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.6／diff <font color="blue">1831</font>
+- 2025年: ★3／diffデータなし
 - 2024年: ★2.5／diff <font color="blue">1724</font>
 - 2023年: ★2.6／diff <font color="blue">1833</font>
 - 2022年: ★2.8／diff <font color="yellowgreen">2214</font>
@@ -9060,6 +9336,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2756">No.2756 GCD Teleporter</a> (yukicoder contest 429 (2024-05-10) - H問題、diff <font color="blue">1751</font>)
 - <a href="https://yukicoder.me/problems/no/2798">No.2798 Multiple Chain</a> (yukicoder contest 435 (2024-06-28) - D問題、diff <font color="yellowgreen">2134</font>)
 - <a href="https://yukicoder.me/problems/no/2829">No.2829 GCD Divination</a> (yukicoder contest 439 (2024-08-02) - C問題、diff <font color="yellowgreen">2025</font>)
+- <a href="https://yukicoder.me/problems/no/3001">No.3001 ヘビ文字列</a> (単発出題、diffデータなし)
 
 ##### ★★★☆
 
@@ -9083,6 +9360,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「分割統治法（広義：decrease-and-conquer）」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.6／diff <font color="blue">1831</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.9／diff <font color="blue">1981</font>
 - 2023年: ★2.5／diff <font color="blue">1701</font>
 - 2022年: ★2.6／diff <font color="blue">1957</font>
@@ -9213,6 +9491,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「[合成による次元削減](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#合成による次元削減)」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.6／diff <font color="blue">1834</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.7／diff <font color="yellowgreen">2082</font>
 - 2023年: ★2.5／diff <font color="green">1172</font>
 - 2022年: ★データなし／diffデータなし
@@ -9248,6 +9527,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「ダイクストラ法」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.6／diff <font color="blue">1841</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.5／diff <font color="blue">1841</font>
 - 2023年: ★2.7／diff <font color="blue">1841</font>
 - 2022年: ★データなし／diffデータなし
@@ -9295,6 +9575,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「フェルマーの小定理」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.6／diff <font color="blue">1842</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.8／diff <font color="blue">1743</font>
 - 2023年: ★2.5／diff <font color="blue">1814</font>
 - 2022年: ★3／diff <font color="orange">2430</font>
@@ -9336,6 +9617,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「階乗による二項係数計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.6／diff <font color="blue">1846</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.7／diff <font color="yellowgreen">2024</font>
 - 2023年: ★2.5／diff <font color="deepskyblue">1547</font>
 - 2022年: ★2.2／diff <font color="blue">1641</font>
@@ -9378,6 +9660,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「01列と部分集合の対応」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.6／diff <font color="blue">1848</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.3／diff <font color="deepskyblue">1549</font>
 - 2023年: ★2.6／diff <font color="yellowgreen">2020</font>
 - 2022年: ★3.1／diff <font color="yellowgreen">2305</font>
@@ -9422,6 +9705,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「[01列に翻訳](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#01列に翻訳)」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.6／diff <font color="blue">1857</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.5／diff <font color="blue">1633</font>
 - 2023年: ★2.5／diff <font color="blue">1925</font>
 - 2022年: ★3／diff <font color="yellowgreen">2117</font>
@@ -9486,6 +9770,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「集合の変化イベント走査による差分計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.6／diff <font color="blue">1867</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.6／diff <font color="blue">1791</font>
 - 2023年: ★2.7／diff <font color="blue">1943</font>
 - 2022年: ★データなし／diffデータなし
@@ -9518,6 +9803,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「階乗逆元計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.6／diff <font color="blue">1871</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.7／diff <font color="yellowgreen">2034</font>
 - 2023年: ★2.5／diff <font color="blue">1860</font>
 - 2022年: ★2.4／diff <font color="deepskyblue">1561</font>
@@ -9571,6 +9857,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「冪乗計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.6／diff <font color="blue">1876</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.6／diff <font color="blue">1860</font>
 - 2023年: ★2.5／diff <font color="blue">1855</font>
 - 2022年: ★2.7／diff <font color="blue">1964</font>
@@ -9686,6 +9973,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「[表示可能性DP](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#表示可能性DP)」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.6／diff <font color="blue">1876</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.6／diff <font color="yellowgreen">2028</font>
 - 2023年: ★2／diff <font color="deepskyblue">1352</font>
 - 2022年: ★3／diff <font color="blue">1641</font>
@@ -9722,6 +10010,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「ナップサック分割統治」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.6／diff <font color="blue">1881</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.6／diff <font color="blue">1881</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -9748,6 +10037,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「最短経路長計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.6／diff <font color="blue">1882</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.5／diff <font color="blue">1847</font>
 - 2023年: ★2.6／diff <font color="blue">1973</font>
 - 2022年: ★データなし／diffデータなし
@@ -9802,6 +10092,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「周期性」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.6／diff <font color="blue">1910</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.5／diff <font color="blue">1761</font>
 - 2023年: ★2.6／diff <font color="blue">1962</font>
 - 2022年: ★3.2／diff <font color="yellowgreen">2373</font>
@@ -9857,6 +10148,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「フェルマーの小定理による逆元計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.6／diff <font color="blue">1921</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.6／diff <font color="blue">1857</font>
 - 2023年: ★2.6／diff <font color="blue">1876</font>
 - 2022年: ★3／diff <font color="orange">2430</font>
@@ -9892,6 +10184,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「素数を法とする逆元計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.6／diff <font color="blue">1922</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.6／diff <font color="blue">1964</font>
 - 2023年: ★2.6／diff <font color="blue">1884</font>
 - 2022年: ★2.5／diff <font color="blue">1859</font>
@@ -9974,6 +10267,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「imos法」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.6／diff <font color="blue">1936</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.5／diff <font color="yellowgreen">2024</font>
 - 2023年: ★2.8／diff <font color="blue">1922</font>
 - 2022年: ★2.5／diff <font color="blue">1680</font>
@@ -10021,6 +10315,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「倍数走査による約数列挙前計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.6／diff <font color="blue">1948</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.5／diff <font color="blue">1680</font>
 - 2023年: ★3／diff <font color="red">3018</font>
 - 2022年: ★データなし／diffデータなし
@@ -10050,6 +10345,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「約数走査を倍数走査に帰着」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.6／diff <font color="blue">1948</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.5／diff <font color="blue">1680</font>
 - 2023年: ★3／diff <font color="red">3018</font>
 - 2022年: ★データなし／diffデータなし
@@ -10079,6 +10375,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「動的計画法」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.6／diff <font color="blue">1956</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.5／diff <font color="blue">1880</font>
 - 2023年: ★2.7／diff <font color="blue">1953</font>
 - 2022年: ★2.8／diff <font color="yellowgreen">2101</font>
@@ -10239,6 +10536,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「法B係数連立一次方程式の解の数え上げ」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.6／diff <font color="blue">1980</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★2.6／diff <font color="blue">1980</font>
 - 2022年: ★データなし／diffデータなし
@@ -10263,6 +10561,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「bitDP」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.6／diff <font color="blue">1986</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.5／diff <font color="blue">1753</font>
 - 2023年: ★2.6／diff <font color="yellowgreen">2014</font>
 - 2022年: ★3／diff <font color="yellowgreen">2344</font>
@@ -10294,6 +10593,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「帰属区間取得」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.6／diff <font color="blue">1987</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.5／diff <font color="yellowgreen">2158</font>
 - 2023年: ★2.6／diff <font color="yellowgreen">2042</font>
 - 2022年: ★2.5／diff <font color="blue">1649</font>
@@ -10320,6 +10620,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「実験」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.6／diff <font color="blue">1997</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.7／diff <font color="yellowgreen">2227</font>
 - 2023年: ★2.4／diff <font color="deepskyblue">1546</font>
 - 2022年: ★2.5／diff <font color="yellowgreen">2191</font>
@@ -10360,6 +10661,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「剰余の被除数を止める総和計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.6／diff <font color="yellowgreen">2004</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.5／diff <font color="blue">1810</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★3／diff <font color="yellowgreen">2393</font>
@@ -10384,6 +10686,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「最大・最小要素削除」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.6／diff <font color="yellowgreen">2016</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.5／diff <font color="blue">1994</font>
 - 2023年: ★2.7／diff <font color="yellowgreen">2038</font>
 - 2022年: ★データなし／diffデータなし
@@ -10417,6 +10720,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「next DP」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.6／diff <font color="yellowgreen">2020</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.6／diff <font color="yellowgreen">2020</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -10442,6 +10746,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「ワーシャル・フロイド法」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.6／diff <font color="yellowgreen">2033</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.7／diff <font color="blue">1896</font>
 - 2023年: ★2.5／diff <font color="yellowgreen">2306</font>
 - 2022年: ★データなし／diffデータなし
@@ -10466,6 +10771,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「始点と終点からの最短経路長計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.6／diff <font color="yellowgreen">2047</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.5／diff <font color="yellowgreen">2037</font>
 - 2023年: ★3／diff <font color="yellowgreen">2068</font>
 - 2022年: ★データなし／diffデータなし
@@ -10490,6 +10796,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「クラスカル法」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.6／diff <font color="yellowgreen">2146</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="yellowgreen">2249</font>
 - 2023年: ★2.5／diff <font color="yellowgreen">2044</font>
 - 2022年: ★データなし／diffデータなし
@@ -10514,6 +10821,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「最小全域木計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.6／diff <font color="yellowgreen">2146</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="yellowgreen">2249</font>
 - 2023年: ★2.5／diff <font color="yellowgreen">2044</font>
 - 2022年: ★データなし／diffデータなし
@@ -10538,6 +10846,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「左右から走査」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.6／diff <font color="yellowgreen">2174</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.7／diff <font color="orange">2447</font>
 - 2023年: ★2.5／diff <font color="blue">1628</font>
 - 2022年: ★データなし／diffデータなし
@@ -10562,6 +10871,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「円周角の定理」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.6／diff <font color="yellowgreen">2258</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3.2／diff <font color="orange">2781</font>
 - 2023年: ★2／diff <font color="deepskyblue">1212</font>
 - 2022年: ★データなし／diffデータなし
@@ -10590,6 +10900,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「逆行列計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.6／diff <font color="yellowgreen">2397</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.7／diff <font color="orange">2611</font>
 - 2023年: ★2.5／diff <font color="blue">1969</font>
 - 2022年: ★データなし／diffデータなし
@@ -10614,6 +10925,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「[指定序数の値の計算を被覆の先頭項管理で処理](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#指定序数の値の計算を被覆の先頭項管理で処理)」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.7／diff <font color="deepskyblue">1544</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★2.7／diff <font color="deepskyblue">1544</font>
 - 2022年: ★データなし／diffデータなし
@@ -10637,6 +10949,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「最長単調増加部分列長計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.7／diff <font color="blue">1650</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="yellowgreen">2100</font>
 - 2023年: ★2.5／diff <font color="deepskyblue">1200</font>
 - 2022年: ★データなし／diffデータなし
@@ -10660,6 +10973,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「閉路検出」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.7／diff <font color="blue">1725</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.5／diff <font color="blue">1726</font>
 - 2023年: ★3／diff <font color="blue">1725</font>
 - 2022年: ★データなし／diffデータなし
@@ -10689,6 +11003,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「操作・遷移の纏め上げ」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.7／diff <font color="blue">1782</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="yellowgreen">2075</font>
 - 2023年: ★2.3／diff <font color="deepskyblue">1572</font>
 - 2022年: ★データなし／diffデータなし
@@ -10737,6 +11052,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「あみだくじと置換の対応」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.7／diff <font color="blue">1806</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.7／diff <font color="blue">1806</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -10760,6 +11076,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「置換の互換表示」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.7／diff <font color="blue">1806</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.7／diff <font color="blue">1806</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -10783,6 +11100,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「同じ値の纏め上げ」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.7／diff <font color="blue">1835</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="yellowgreen">2057</font>
 - 2023年: ★2.5／diff <font color="blue">1635</font>
 - 2022年: ★2.3／diff <font color="blue">1730</font>
@@ -10847,6 +11165,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「構築」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.7／diff <font color="blue">1844</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.7／diff <font color="blue">1809</font>
 - 2023年: ★2.5／diff <font color="blue">1709</font>
 - 2022年: ★3.3／diff <font color="yellowgreen">2241</font>
@@ -10926,6 +11245,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「データを不変量別に分割して管理」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.7／diff <font color="blue">1850</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.6／diff <font color="blue">1908</font>
 - 2023年: ★2.8／diff <font color="blue">1827</font>
 - 2022年: ★データなし／diffデータなし
@@ -10967,6 +11287,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「[距離空間の重み付きグラフ化](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#距離空間の重み付きグラフ化)」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.7／diff <font color="blue">1874</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.8／diff <font color="deepskyblue">1570</font>
 - 2023年: ★2.6／diff <font color="yellowgreen">2026</font>
 - 2022年: ★データなし／diffデータなし
@@ -10998,6 +11319,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「終点からの最短経路長計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.7／diff <font color="blue">1888</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.8／diff <font color="yellowgreen">2063</font>
 - 2023年: ★2.6／diff <font color="blue">1757</font>
 - 2022年: ★データなし／diffデータなし
@@ -11032,6 +11354,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「クエリ先読み」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.7／diff <font color="blue">1894</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.6／diff <font color="blue">1833</font>
 - 2023年: ★2.8／diff <font color="yellowgreen">2147</font>
 - 2022年: ★2.8／diff <font color="blue">1743</font>
@@ -11073,6 +11396,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「区間和取得」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.7／diff <font color="blue">1898</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.6／diff <font color="blue">1853</font>
 - 2023年: ★2.6／diff <font color="blue">1886</font>
 - 2022年: ★3／diff <font color="yellowgreen">2072</font>
@@ -11140,6 +11464,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「部分回文列挙」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.7／diff <font color="blue">1904</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="yellowgreen">2147</font>
 - 2023年: ★2.5／diff <font color="blue">1661</font>
 - 2022年: ★データなし／diffデータなし
@@ -11163,6 +11488,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「[場合分けによるmax・min・絶対値計算](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#場合分けによるmax・min・絶対値計算)」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.7／diff <font color="blue">1914</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="yellowgreen">2117</font>
 - 2023年: ★2／diff <font color="deepskyblue">1416</font>
 - 2022年: ★3.5／diff <font color="orange">2707</font>
@@ -11196,6 +11522,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「区間スケジューリング」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.7／diff <font color="blue">1916</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.5／diff <font color="blue">1848</font>
 - 2023年: ★3／diff <font color="blue">1985</font>
 - 2022年: ★データなし／diffデータなし
@@ -11219,6 +11546,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「コストなしナップサック割り当て数え上げ」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.7／diff <font color="blue">1926</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★2.7／diff <font color="blue">1926</font>
 - 2022年: ★データなし／diffデータなし
@@ -11242,6 +11570,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「倍数ゼータ変換」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.7／diff <font color="blue">1956</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★2.5／diff <font color="blue">1607</font>
 - 2022年: ★3／diff <font color="yellowgreen">2306</font>
@@ -11265,6 +11594,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「ユークリッドの互除法」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.7／diff <font color="blue">1957</font>
+- 2025年: ★3／diffデータなし
 - 2024年: ★2.5／diff <font color="blue">1670</font>
 - 2023年: ★3.2／diff <font color="yellowgreen">2204</font>
 - 2022年: ★2.9／diff <font color="yellowgreen">2218</font>
@@ -11300,6 +11630,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2725">No.2725 Coprime Game 2</a> (yukicoder contest 427 (ゲーム問題コンテスト) (2024-04-12) - E問題、diff <font color="blue">1944</font>)
 - <a href="https://yukicoder.me/problems/no/2755">No.2755 行列の共役類</a> (yukicoder contest 429 (2024-05-10) - G問題、diff <font color="orange">2698</font>)
 - <a href="https://yukicoder.me/problems/no/2821">No.2821 A[i] ← 2A[j] - A[i]</a> (yukicoder contest 438 (2024-07-26) - C問題、diff <font color="blue">1905</font>)
+- <a href="https://yukicoder.me/problems/no/3001">No.3001 ヘビ文字列</a> (単発出題、diffデータなし)
 
 ##### ★★★☆
 
@@ -11320,6 +11651,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「中国剰余定理」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.7／diff <font color="blue">1961</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3.7／diff <font color="blue">1849</font>
 - 2023年: ★2.7／diff <font color="yellowgreen">2245</font>
 - 2022年: ★2.1／diff <font color="deepskyblue">1431</font>
@@ -11364,6 +11696,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「負閉路検出」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.7／diff <font color="blue">1968</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.7／diff <font color="blue">1968</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -11387,6 +11720,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「逆元の再帰計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.7／diff <font color="blue">1975</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.7／diff <font color="yellowgreen">2004</font>
 - 2023年: ★2.7／diff <font color="yellowgreen">2032</font>
 - 2022年: ★2.5／diff <font color="blue">1789</font>
@@ -11467,6 +11801,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「繰り返し二乗法」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.7／diff <font color="blue">1976</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.7／diff <font color="yellowgreen">2015</font>
 - 2023年: ★2.6／diff <font color="blue">1969</font>
 - 2022年: ★2.8／diff <font color="blue">1934</font>
@@ -11556,6 +11891,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「最適化を各寄与の最適化に緩和」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.7／diff <font color="blue">1986</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.7／diff <font color="yellowgreen">2062</font>
 - 2023年: ★2.7／diff <font color="blue">1911</font>
 - 2022年: ★データなし／diffデータなし
@@ -11581,6 +11917,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「二項係数計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.7／diff <font color="blue">1990</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.8／diff <font color="yellowgreen">2132</font>
 - 2023年: ★2.7／diff <font color="blue">1957</font>
 - 2022年: ★2.5／diff <font color="blue">1612</font>
@@ -11636,6 +11973,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「区間要素数取得」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.7／diff <font color="blue">1993</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.5／diff <font color="blue">1853</font>
 - 2023年: ★2.5／diff <font color="blue">1975</font>
 - 2022年: ★3.1／diff <font color="yellowgreen">2332</font>
@@ -11675,6 +12013,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「数え上げを総和計算に帰着」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.7／diff <font color="blue">1994</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.7／diff <font color="blue">1958</font>
 - 2023年: ★2.7／diff <font color="blue">1919</font>
 - 2022年: ★3／diff <font color="yellowgreen">2161</font>
@@ -11724,6 +12063,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「区間代入更新」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.7／diff <font color="blue">1995</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.8／diff <font color="yellowgreen">2043</font>
 - 2023年: ★2.5／diff <font color="blue">1851</font>
 - 2022年: ★データなし／diffデータなし
@@ -11749,6 +12089,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「端から確定」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.7／diff <font color="yellowgreen">2004</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.7／diff <font color="yellowgreen">2067</font>
 - 2023年: ★2.6／diff <font color="blue">1957</font>
 - 2022年: ★3／diff <font color="yellowgreen">2008</font>
@@ -11809,6 +12150,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「区間加算更新」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.7／diff <font color="yellowgreen">2012</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.6／diff <font color="yellowgreen">2078</font>
 - 2023年: ★2.7／diff <font color="blue">1806</font>
 - 2022年: ★3.1／diff <font color="yellowgreen">2247</font>
@@ -11861,6 +12203,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「[不変量を保つ戦略](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#不変量を保つ戦略)」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.7／diff <font color="yellowgreen">2013</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="yellowgreen">2197</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★2.5／diff <font color="blue">1828</font>
@@ -11886,6 +12229,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「単調列数え上げ」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.7／diff <font color="yellowgreen">2020</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.2／diff <font color="deepskyblue">1221</font>
 - 2023年: ★3.2／diff <font color="orange">2407</font>
 - 2022年: ★2.5／diff <font color="yellowgreen">2047</font>
@@ -11918,6 +12262,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「超頂点追加」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.7／diff <font color="yellowgreen">2028</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.8／diff <font color="blue">1988</font>
 - 2023年: ★2.6／diff <font color="yellowgreen">2068</font>
 - 2022年: ★データなし／diffデータなし
@@ -11945,6 +12290,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「ベルマン・フォード法」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.7／diff <font color="yellowgreen">2035</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.7／diff <font color="yellowgreen">2035</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -11968,6 +12314,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「描画可能性を実際に描画して判定」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.7／diff <font color="yellowgreen">2078</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.5／diff <font color="yellowgreen">2158</font>
 - 2023年: ★3／diff <font color="blue">1998</font>
 - 2022年: ★データなし／diffデータなし
@@ -11991,6 +12338,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「倍数走査によるオイラー関数前計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.7／diff <font color="yellowgreen">2109</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★2.7／diff <font color="yellowgreen">2109</font>
 - 2022年: ★データなし／diffデータなし
@@ -12014,6 +12362,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「乱択」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.7／diff <font color="yellowgreen">2152</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.7／diff <font color="blue">1989</font>
 - 2023年: ★2.5／diff <font color="yellowgreen">2035</font>
 - 2022年: ★3.5／diff <font color="red">2877</font>
@@ -12054,6 +12403,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「bitset高速化」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.7／diff <font color="yellowgreen">2155</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★2.5／diff <font color="yellowgreen">2066</font>
 - 2022年: ★3／diff <font color="yellowgreen">2245</font>
@@ -12077,6 +12427,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「アルゴリズムのリアクティブ化」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.7／diff <font color="yellowgreen">2166</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.8／diff <font color="yellowgreen">2342</font>
 - 2023年: ★2.5／diff <font color="yellowgreen">2323</font>
 - 2022年: ★2.6／diff <font color="blue">1648</font>
@@ -12113,6 +12464,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「三平方の定理」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.7／diff <font color="yellowgreen">2175</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.7／diff <font color="yellowgreen">2175</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -12136,6 +12488,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「再帰的構築」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.7／diff <font color="yellowgreen">2299</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.6／diff <font color="orange">2464</font>
 - 2023年: ★3／diff <font color="blue">1971</font>
 - 2022年: ★データなし／diffデータなし
@@ -12161,6 +12514,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「平方剰余判定」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.7／diff <font color="yellowgreen">2327</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★2.6／diff <font color="yellowgreen">2373</font>
 - 2022年: ★3／diff <font color="yellowgreen">2047</font>
@@ -12195,6 +12549,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「ラプラスの展開公式による逆行列計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.7／diff <font color="yellowgreen">2333</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="orange">2698</font>
 - 2023年: ★2.5／diff <font color="blue">1969</font>
 - 2022年: ★データなし／diffデータなし
@@ -12218,6 +12573,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「隣接行列による遷移計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.7／diff <font color="yellowgreen">2351</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.7／diff <font color="yellowgreen">2351</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -12241,6 +12597,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「SIMD高速化」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.7／diff <font color="yellowgreen">2386</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.7／diff <font color="yellowgreen">2386</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -12264,6 +12621,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「ファンデルモンドの畳み込み」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.7／diff <font color="orange">2465</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="yellowgreen">2143</font>
 - 2023年: ★2.5／diff <font color="orange">2788</font>
 - 2022年: ★データなし／diffデータなし
@@ -12287,6 +12645,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「リアクティブによるブラックボックス操作」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.7／diff <font color="orange">2569</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.7／diff <font color="orange">2569</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -12310,6 +12669,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「検索」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.8／diff <font color="blue">1683</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3.1／diff <font color="blue">1936</font>
 - 2023年: ★2.5／diff <font color="blue">1768</font>
 - 2022年: ★2.5／diff <font color="brown">588</font>
@@ -12357,6 +12717,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「上界制約を無視した数え上げを桁ごとに前計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.8／diff <font color="blue">1841</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.8／diff <font color="blue">1841</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -12381,6 +12742,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「イベントソート」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.8／diff <font color="blue">1866</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.8／diff <font color="blue">1700</font>
 - 2023年: ★2.8／diff <font color="blue">1971</font>
 - 2022年: ★3／diff <font color="yellowgreen">2049</font>
@@ -12409,6 +12771,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「複素数演算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.8／diff <font color="blue">1891</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3.5／diff <font color="orange">2665</font>
 - 2023年: ★1.5／diff <font color="gray">344</font>
 - 2022年: ★データなし／diffデータなし
@@ -12436,6 +12799,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「素因数分解による付値計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.8／diff <font color="blue">1894</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.8／diff <font color="blue">1782</font>
 - 2023年: ★2.8／diff <font color="blue">1968</font>
 - 2022年: ★データなし／diffデータなし
@@ -12483,6 +12847,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「指定始切片数え上げを桁ごとの計算に帰着」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.8／diff <font color="blue">1912</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.7／diff <font color="deepskyblue">1567</font>
 - 2023年: ★3.1／diff <font color="yellowgreen">2171</font>
 - 2022年: ★データなし／diffデータなし
@@ -12522,6 +12887,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「sorted set」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.8／diff <font color="blue">1922</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.7／diff <font color="deepskyblue">1448</font>
 - 2023年: ★2.8／diff <font color="yellowgreen">2068</font>
 - 2022年: ★3／diff <font color="blue">1959</font>
@@ -12549,6 +12915,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「ループ戦略」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.8／diff <font color="blue">1926</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★2.8／diff <font color="blue">1926</font>
 - 2022年: ★データなし／diffデータなし
@@ -12574,6 +12941,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「凸最適化」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.8／diff <font color="blue">1950</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3.3／diff <font color="blue">1966</font>
 - 2023年: ★2.3／diff <font color="blue">1939</font>
 - 2022年: ★データなし／diffデータなし
@@ -12607,6 +12975,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「osa_k法」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.8／diff <font color="blue">1969</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.5／diff <font color="blue">1736</font>
 - 2023年: ★4／diff <font color="orange">2567</font>
 - 2022年: ★3／diff <font color="yellowgreen">2306</font>
@@ -12640,6 +13009,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「グラフの頂点の次数計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.8／diff <font color="blue">1987</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="yellowgreen">2226</font>
 - 2023年: ★2／diff <font color="deepskyblue">1273</font>
 - 2022年: ★データなし／diffデータなし
@@ -12673,6 +13043,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「小さいケースの構築を拡張」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.8／diff <font color="blue">1990</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.5／diff <font color="blue">1857</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★3.5／diff <font color="yellowgreen">2300</font>
@@ -12713,6 +13084,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「経路・手順・遷移の構築」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.8／diff <font color="yellowgreen">2002</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.5／diff <font color="blue">1713</font>
 - 2023年: ★2.8／diff <font color="blue">1890</font>
 - 2022年: ★3／diff <font color="yellowgreen">2315</font>
@@ -12745,6 +13117,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「平面走査」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.8／diff <font color="yellowgreen">2004</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.8／diff <font color="yellowgreen">2105</font>
 - 2023年: ★2.7／diff <font color="blue">1856</font>
 - 2022年: ★3／diff <font color="yellowgreen">2145</font>
@@ -12780,6 +13153,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「区間和の指定された区間数え上げ」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.8／diff <font color="yellowgreen">2009</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="yellowgreen">2386</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★2.5／diff <font color="blue">1632</font>
@@ -12804,6 +13178,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「ポラードの$\rho$」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.8／diff <font color="yellowgreen">2019</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.3／diff <font color="blue">1751</font>
 - 2023年: ★4／diff <font color="orange">2795</font>
 - 2022年: ★3／diff <font color="yellowgreen">2047</font>
@@ -12833,6 +13208,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「付値計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.8／diff <font color="yellowgreen">2025</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.7／diff <font color="blue">1701</font>
 - 2023年: ★2.8／diff <font color="yellowgreen">2160</font>
 - 2022年: ★3.5／diff <font color="blue">1940</font>
@@ -12892,6 +13268,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「[緩和](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#緩和)」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.8／diff <font color="yellowgreen">2033</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.7／diff <font color="blue">1757</font>
 - 2023年: ★2.8／diff <font color="yellowgreen">2134</font>
 - 2022年: ★3／diff <font color="yellowgreen">2252</font>
@@ -12946,6 +13323,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「商のfloorの種類数による計算量評価」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.8／diff <font color="yellowgreen">2035</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.8／diff <font color="yellowgreen">2035</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -12970,6 +13348,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「モノイド演算に関する区間取得」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.8／diff <font color="yellowgreen">2035</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="blue">1960</font>
 - 2023年: ★2.6／diff <font color="yellowgreen">2061</font>
 - 2022年: ★データなし／diffデータなし
@@ -13003,6 +13382,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「区間の重複度計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.8／diff <font color="yellowgreen">2052</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.5／diff <font color="blue">1848</font>
 - 2023年: ★2.5／diff <font color="blue">1661</font>
 - 2022年: ★3.5／diff <font color="orange">2649</font>
@@ -13027,6 +13407,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「[押し付け戦略](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#押し付け戦略)」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.8／diff <font color="yellowgreen">2058</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★3／diff <font color="yellowgreen">2357</font>
 - 2022年: ★2.7／diff <font color="blue">1908</font>
@@ -13051,6 +13432,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「セグメント木」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.8／diff <font color="yellowgreen">2062</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="yellowgreen">2282</font>
 - 2023年: ★2.8／diff <font color="blue">1952</font>
 - 2022年: ★データなし／diffデータなし
@@ -13086,6 +13468,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「フェニック木」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.8／diff <font color="yellowgreen">2067</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.9／diff <font color="yellowgreen">2106</font>
 - 2023年: ★2.7／diff <font color="blue">1996</font>
 - 2022年: ★3／diff <font color="yellowgreen">2109</font>
@@ -13135,6 +13518,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「オイラー関数計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.8／diff <font color="yellowgreen">2081</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="yellowgreen">2025</font>
 - 2023年: ★2.7／diff <font color="yellowgreen">2109</font>
 - 2022年: ★データなし／diffデータなし
@@ -13159,6 +13543,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「無向木の有向化」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.8／diff <font color="yellowgreen">2099</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.6／diff <font color="blue">1850</font>
 - 2023年: ★2.9／diff <font color="yellowgreen">2183</font>
 - 2022年: ★データなし／diffデータなし
@@ -13196,6 +13581,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「木DP」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.8／diff <font color="yellowgreen">2106</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.5／diff <font color="blue">1850</font>
 - 2023年: ★2.9／diff <font color="yellowgreen">2208</font>
 - 2022年: ★3.5／diffデータなし
@@ -13232,6 +13618,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「冪等重みの最短経路長計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.8／diff <font color="yellowgreen">2133</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="yellowgreen">2139</font>
 - 2023年: ★2.6／diff <font color="yellowgreen">2126</font>
 - 2022年: ★データなし／diffデータなし
@@ -13261,6 +13648,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「[高さ奇数ニム和](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#高さ奇数ニム和)」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.8／diff <font color="yellowgreen">2134</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="yellowgreen">2197</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★2.5／diff <font color="yellowgreen">2008</font>
@@ -13285,6 +13673,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「単位の分解」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.8／diff <font color="yellowgreen">2137</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★1.5／diff <font color="deepskyblue">1389</font>
 - 2023年: ★5／diff <font color="red">3196</font>
 - 2022年: ★2／diff <font color="blue">1828</font>
@@ -13312,6 +13701,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「調和数列による計算量評価」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.8／diff <font color="yellowgreen">2141</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.5／diff <font color="blue">1680</font>
 - 2023年: ★2.8／diff <font color="yellowgreen">2365</font>
 - 2022年: ★3.7／diff <font color="orange">2728</font>
@@ -13351,6 +13741,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「解の公式」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.8／diff <font color="yellowgreen">2146</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2／diff <font color="deepskyblue">1345</font>
 - 2023年: ★2.8／diff <font color="yellowgreen">2212</font>
 - 2022年: ★4／diff <font color="orange">2556</font>
@@ -13389,6 +13780,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「ナップサック割り当て数え上げ」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.8／diff <font color="yellowgreen">2146</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.8／diff <font color="yellowgreen">2039</font>
 - 2023年: ★2.6／diff <font color="yellowgreen">2040</font>
 - 2022年: ★3.2／diff <font color="orange">2574</font>
@@ -13423,6 +13815,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「座標圧縮」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.8／diff <font color="yellowgreen">2160</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.8／diff <font color="yellowgreen">2062</font>
 - 2023年: ★2.9／diff <font color="yellowgreen">2303</font>
 - 2022年: ★3／diff <font color="yellowgreen">2145</font>
@@ -13465,6 +13858,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「inplace DP」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.8／diff <font color="yellowgreen">2164</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.5／diff <font color="orange">2454</font>
 - 2023年: ★2.6／diff <font color="blue">1821</font>
 - 2022年: ★4／diff <font color="red">2903</font>
@@ -13495,6 +13889,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「多倍長整数」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.8／diff <font color="yellowgreen">2168</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.5／diff <font color="yellowgreen">2046</font>
 - 2023年: ★3.5／diff <font color="red">2918</font>
 - 2022年: ★1.5／diff <font color="gray">165</font>
@@ -13534,6 +13929,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「期待値漸化式」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.8／diff <font color="yellowgreen">2215</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.6／diff <font color="yellowgreen">2008</font>
 - 2023年: ★3.5／diff <font color="orange">2423</font>
 - 2022年: ★1.5／diffデータなし
@@ -13568,6 +13964,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「既存のアルゴリズムの変形」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.8／diff <font color="yellowgreen">2215</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.8／diff <font color="yellowgreen">2146</font>
 - 2023年: ★2.7／diff <font color="yellowgreen">2258</font>
 - 2022年: ★3／diff <font color="yellowgreen">2344</font>
@@ -13605,6 +14002,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「半分全列挙」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.8／diff <font color="yellowgreen">2250</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★4／diffデータなし
 - 2023年: ★2.6／diff <font color="yellowgreen">2181</font>
 - 2022年: ★3／diff <font color="orange">2595</font>
@@ -13637,6 +14035,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「$45$度回転」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.8／diff <font color="yellowgreen">2253</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.8／diff <font color="orange">2481</font>
 - 2023年: ★2.7／diff <font color="blue">1910</font>
 - 2022年: ★データなし／diffデータなし
@@ -13663,6 +14062,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「[最終手番の任意性](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#最終手番の任意性)」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.8／diff <font color="yellowgreen">2254</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="orange">2676</font>
 - 2023年: ★3／diff <font color="yellowgreen">2153</font>
 - 2022年: ★2.5／diff <font color="blue">1934</font>
@@ -13687,6 +14087,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「複数ナップサック最適化」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.8／diff <font color="yellowgreen">2269</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="yellowgreen">2227</font>
 - 2023年: ★2.5／diff <font color="yellowgreen">2353</font>
 - 2022年: ★データなし／diffデータなし
@@ -13711,6 +14112,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「タイリング・LightsOutの解の構築」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.8／diff <font color="yellowgreen">2308</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.8／diff <font color="yellowgreen">2308</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -13739,6 +14141,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「累積max・min」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.8／diff <font color="yellowgreen">2378</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.8／diff <font color="orange">2448</font>
 - 2023年: ★3／diff <font color="yellowgreen">2169</font>
 - 2022年: ★データなし／diffデータなし
@@ -13764,6 +14167,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「乱択による構築」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.8／diff <font color="orange">2447</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="orange">2501</font>
 - 2023年: ★2.5／diff <font color="yellowgreen">2339</font>
 - 2022年: ★データなし／diffデータなし
@@ -13788,6 +14192,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「グラフの圧縮による次元削減」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.8／diff <font color="orange">2467</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.8／diff <font color="orange">2467</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -13812,6 +14217,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「convex hull trick」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.8／diff <font color="orange">2514</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="orange">2649</font>
 - 2023年: ★2.7／diff <font color="yellowgreen">2379</font>
 - 2022年: ★データなし／diffデータなし
@@ -13837,6 +14243,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「一次式の族の最大・最小値取得」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.8／diff <font color="orange">2514</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="orange">2649</font>
 - 2023年: ★2.7／diff <font color="yellowgreen">2379</font>
 - 2022年: ★データなし／diffデータなし
@@ -13862,6 +14269,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「next_permutation」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.9／diff <font color="blue">1833</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3.2／diff <font color="yellowgreen">2362</font>
 - 2023年: ★1.5／diff <font color="brown">775</font>
 - 2022年: ★データなし／diffデータなし
@@ -13897,6 +14305,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「約数の走査を倍数の走査に帰着」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.9／diff <font color="yellowgreen">2107</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★2.9／diff <font color="yellowgreen">2055</font>
 - 2022年: ★3／diff <font color="yellowgreen">2236</font>
@@ -13929,6 +14338,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「多重総和・総乗計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.9／diff <font color="yellowgreen">2112</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.8／diff <font color="blue">1945</font>
 - 2023年: ★3／diff <font color="yellowgreen">2229</font>
 - 2022年: ★3／diff <font color="yellowgreen">2393</font>
@@ -13985,6 +14395,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「区間の分割を始切片の分割と終切片の組に翻訳して境目を管理する次元圧縮」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.9／diff <font color="yellowgreen">2121</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.7／diff <font color="yellowgreen">2227</font>
 - 2023年: ★3／diff <font color="yellowgreen">2097</font>
 - 2022年: ★3／diff <font color="blue">1959</font>
@@ -14011,6 +14422,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「動的mod」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.9／diff <font color="yellowgreen">2160</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.7／diff <font color="blue">1856</font>
 - 2023年: ★3／diff <font color="yellowgreen">2285</font>
 - 2022年: ★データなし／diffデータなし
@@ -14074,6 +14486,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「期待値の線形性」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.9／diff <font color="yellowgreen">2168</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.7／diff <font color="yellowgreen">2102</font>
 - 2023年: ★3／diff <font color="yellowgreen">2168</font>
 - 2022年: ★4／diff <font color="orange">2566</font>
@@ -14113,6 +14526,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「ローリングハッシュ」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.9／diff <font color="yellowgreen">2284</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="yellowgreen">2053</font>
 - 2023年: ★2.5／diff <font color="yellowgreen">2042</font>
 - 2022年: ★3.5／diff <font color="red">2877</font>
@@ -14148,6 +14562,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「総和計算を終切片の逆像の数え上げに帰着」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="deepskyblue">1406</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="deepskyblue">1406</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -14167,6 +14582,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「冪乗数である約数列挙」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="deepskyblue">1406</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="deepskyblue">1406</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -14186,6 +14602,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「括弧列の構築」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="blue">1606</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★3／diff <font color="blue">1606</font>
@@ -14205,6 +14622,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「グラフの構築」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="blue">1608</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="blue">1608</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -14228,6 +14646,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「木の構築」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="blue">1608</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="blue">1608</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -14251,6 +14670,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「モノイド演算に関する区間更新」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="blue">1627</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★3／diff <font color="blue">1627</font>
 - 2022年: ★データなし／diffデータなし
@@ -14270,6 +14690,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「区間多項式加算更新」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="blue">1627</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★3／diff <font color="blue">1627</font>
 - 2022年: ★データなし／diffデータなし
@@ -14289,6 +14710,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「ハミルトン路構築」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="blue">1670</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★2.5／diff <font color="blue">1670</font>
 - 2022年: ★3.5／diffデータなし
@@ -14312,6 +14734,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「閉路と残りに分割」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="blue">1725</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★3／diff <font color="blue">1725</font>
 - 2022年: ★データなし／diffデータなし
@@ -14332,6 +14755,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「法B係数連立一次方程式の解の構築」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="blue">1810</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3.2／diff <font color="yellowgreen">2008</font>
 - 2023年: ★2.5／diff <font color="blue">1612</font>
 - 2022年: ★データなし／diffデータなし
@@ -14359,6 +14783,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「凸関数の高々２対１性」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="blue">1900</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="blue">1900</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -14378,6 +14803,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「探索・求解アルゴリズムによる構築」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="blue">1905</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3.2／diff <font color="yellowgreen">2008</font>
 - 2023年: ★2.8／diff <font color="blue">1871</font>
 - 2022年: ★データなし／diffデータなし
@@ -14410,6 +14836,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「偏角ソート」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="blue">1919</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★3／diff <font color="blue">1919</font>
 - 2022年: ★データなし／diffデータなし
@@ -14429,6 +14856,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「01列とグリッド上の経路の対応」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="blue">1941</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.6／diff <font color="deepskyblue">1559</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★5／diff <font color="red">3086</font>
@@ -14462,6 +14890,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「最小カット計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="blue">1959</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="blue">1959</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -14481,6 +14910,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「最大流計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="blue">1959</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="blue">1959</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -14500,6 +14930,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「最大流最小カット定理」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="blue">1959</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="blue">1959</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -14519,6 +14950,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「選択組み合わせ報酬付きナップサック最適化」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="blue">1959</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="blue">1959</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -14538,6 +14970,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「スライド最小化」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="blue">1959</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★3／diff <font color="blue">1959</font>
@@ -14557,6 +14990,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「正弦定理」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="blue">1961</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★3／diff <font color="blue">1961</font>
 - 2022年: ★データなし／diffデータなし
@@ -14576,6 +15010,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「矩形和取得」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="blue">1998</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★3／diff <font color="blue">1998</font>
 - 2022年: ★データなし／diffデータなし
@@ -14595,6 +15030,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「二次元累積和」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="blue">1998</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★3／diff <font color="blue">1998</font>
 - 2022年: ★データなし／diffデータなし
@@ -14614,6 +15050,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「経路復元」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="yellowgreen">2000</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★3／diff <font color="yellowgreen">2000</font>
 - 2022年: ★データなし／diffデータなし
@@ -14634,6 +15071,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「焼きなまし法」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="yellowgreen">2004</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="yellowgreen">2004</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -14653,6 +15091,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「[解法場合分け](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#解法場合分け)」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="yellowgreen">2015</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3.3／diff <font color="blue">1809</font>
 - 2023年: ★2.7／diff <font color="blue">1958</font>
 - 2022年: ★3／diff <font color="yellowgreen">2227</font>
@@ -14695,6 +15134,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「鳩の巣原理」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="yellowgreen">2016</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="blue">1951</font>
 - 2023年: ★3.2／diff <font color="yellowgreen">2180</font>
 - 2022年: ★データなし／diffデータなし
@@ -14733,6 +15173,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「素因数分解によるオイラー関数計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="yellowgreen">2025</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="yellowgreen">2025</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -14752,6 +15193,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「累積和・グリッド上のDPを経路数え上げに翻訳」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="yellowgreen">2028</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="yellowgreen">2028</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -14773,6 +15215,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「木の頂点の深さ計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="yellowgreen">2046</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="yellowgreen">2046</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -14792,6 +15235,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「平方数の積への分解を用いた平方数判定」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="yellowgreen">2047</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★3／diff <font color="yellowgreen">2047</font>
@@ -14811,6 +15255,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「最小費用流計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="yellowgreen">2048</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="yellowgreen">2048</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -14830,6 +15275,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「内積の畳み込み計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="yellowgreen">2053</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="blue">1849</font>
 - 2023年: ★3／diff <font color="yellowgreen">2258</font>
 - 2022年: ★データなし／diffデータなし
@@ -14850,6 +15296,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「レベル祖先計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="yellowgreen">2056</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★3／diff <font color="yellowgreen">2056</font>
 - 2022年: ★データなし／diffデータなし
@@ -14869,6 +15316,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「弾性衝突を通過に翻訳して位置関係から復元」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="yellowgreen">2056</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★3／diff <font color="yellowgreen">2056</font>
 - 2022年: ★データなし／diffデータなし
@@ -14888,6 +15336,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「木の頂点の重さ計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="yellowgreen">2056</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★3／diff <font color="yellowgreen">2056</font>
 - 2022年: ★データなし／diffデータなし
@@ -14907,6 +15356,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「四角形を三角形２つや対角線２本に翻訳」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="yellowgreen">2075</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="yellowgreen">2003</font>
 - 2023年: ★3／diff <font color="yellowgreen">2147</font>
 - 2022年: ★データなし／diffデータなし
@@ -14927,6 +15377,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「商のfloorの値ごとに纏め上げ」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="yellowgreen">2078</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3.1／diff <font color="yellowgreen">2035</font>
 - 2023年: ★2.5／diff <font color="blue">1891</font>
 - 2022年: ★3／diff <font color="yellowgreen">2393</font>
@@ -14957,6 +15408,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「ヤング図形の転置」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="yellowgreen">2081</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="yellowgreen">2081</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -14976,6 +15428,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「分割数計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="yellowgreen">2107</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="yellowgreen">2107</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -14996,6 +15449,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「分割方法数え上げ」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="yellowgreen">2125</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="yellowgreen">2125</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -15016,6 +15470,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「最適遷移を自己写像に翻訳」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="yellowgreen">2129</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★3／diff <font color="yellowgreen">2129</font>
 - 2022年: ★データなし／diffデータなし
@@ -15036,6 +15491,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「高階累積和」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="yellowgreen">2135</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="yellowgreen">2135</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -15056,6 +15512,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「カタランの三角形計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="yellowgreen">2141</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="yellowgreen">2141</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -15075,6 +15532,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「ダブリング」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="yellowgreen">2141</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="yellowgreen">2249</font>
 - 2023年: ★3／diff <font color="yellowgreen">2105</font>
 - 2022年: ★データなし／diffデータなし
@@ -15097,6 +15555,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「矩形加算更新」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="yellowgreen">2141</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★3／diff <font color="yellowgreen">2141</font>
 - 2022年: ★データなし／diffデータなし
@@ -15117,6 +15576,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「二次元imos法」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="yellowgreen">2141</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★3／diff <font color="yellowgreen">2141</font>
 - 2022年: ★データなし／diffデータなし
@@ -15137,6 +15597,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「フロー」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="yellowgreen">2142</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="yellowgreen">2003</font>
 - 2023年: ★3／diff <font color="orange">2420</font>
 - 2022年: ★データなし／diffデータなし
@@ -15158,6 +15619,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「全域木計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="yellowgreen">2146</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3.5／diff <font color="yellowgreen">2249</font>
 - 2023年: ★2.5／diff <font color="yellowgreen">2044</font>
 - 2022年: ★データなし／diffデータなし
@@ -15186,6 +15648,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「関数のグラフ形状の変化イベント走査による差分計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="yellowgreen">2148</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="yellowgreen">2248</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★3／diff <font color="yellowgreen">2049</font>
@@ -15206,6 +15669,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「最近共通祖先計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="yellowgreen">2152</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="yellowgreen">2249</font>
 - 2023年: ★3／diff <font color="yellowgreen">2056</font>
 - 2022年: ★データなし／diffデータなし
@@ -15226,6 +15690,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「[総和計算の期待値への帰着](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#総和計算の期待値への帰着)」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="yellowgreen">2170</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="yellowgreen">2271</font>
 - 2023年: ★2.6／diff <font color="blue">1971</font>
 - 2022年: ★4／diff <font color="orange">2566</font>
@@ -15256,6 +15721,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「二次拡大」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="yellowgreen">2174</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="yellowgreen">2174</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -15275,6 +15741,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「区間乗算更新」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="yellowgreen">2178</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="orange">2729</font>
 - 2023年: ★3／diff <font color="blue">1627</font>
 - 2022年: ★データなし／diffデータなし
@@ -15296,6 +15763,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「コーシー・フロベニウスの補題」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="yellowgreen">2183</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★3／diff <font color="yellowgreen">2183</font>
 - 2022年: ★データなし／diffデータなし
@@ -15315,6 +15783,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「二面体群」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="yellowgreen">2183</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★3／diff <font color="yellowgreen">2183</font>
 - 2022年: ★データなし／diffデータなし
@@ -15334,6 +15803,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「平均値の定理」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="yellowgreen">2187</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="yellowgreen">2187</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -15357,6 +15827,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「反射の倍化実装」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="yellowgreen">2191</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★3／diff <font color="yellowgreen">2191</font>
 - 2022年: ★データなし／diffデータなし
@@ -15376,6 +15847,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「区間max・min取得」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="yellowgreen">2194</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="orange">2454</font>
 - 2023年: ★3／diff <font color="yellowgreen">2169</font>
 - 2022年: ★3／diff <font color="blue">1959</font>
@@ -15397,6 +15869,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「十分大きな法で計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="yellowgreen">2202</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="blue">1849</font>
 - 2023年: ★3.1／diff <font color="yellowgreen">2330</font>
 - 2022年: ★3／diff <font color="yellowgreen">2047</font>
@@ -15427,6 +15900,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「剰余を商のfloorに翻訳」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="yellowgreen">2202</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="yellowgreen">2107</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★3／diff <font color="yellowgreen">2393</font>
@@ -15448,6 +15922,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「DPのデータ構造高速化」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="yellowgreen">2206</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.8／diff <font color="yellowgreen">2108</font>
 - 2023年: ★3／diff <font color="yellowgreen">2193</font>
 - 2022年: ★3.3／diff <font color="yellowgreen">2332</font>
@@ -15495,6 +15970,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「積和の和積化」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="yellowgreen">2207</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.8／diff <font color="yellowgreen">2040</font>
 - 2023年: ★3.2／diff <font color="yellowgreen">2307</font>
 - 2022年: ★データなし／diffデータなし
@@ -15531,6 +16007,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「minimax法」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="yellowgreen">2208</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3.5／diff <font color="orange">2421</font>
 - 2023年: ★2.5／diff <font color="blue">1996</font>
 - 2022年: ★データなし／diffデータなし
@@ -15554,6 +16031,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「ニム和」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="yellowgreen">2212</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="yellowgreen">2224</font>
 - 2023年: ★3.3／diff <font color="yellowgreen">2175</font>
 - 2022年: ★2.5／diff <font color="yellowgreen">2249</font>
@@ -15589,6 +16067,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「フビニの定理」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="yellowgreen">2216</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.5／diff <font color="yellowgreen">2031</font>
 - 2023年: ★3.5／diff <font color="orange">2401</font>
 - 2022年: ★データなし／diffデータなし
@@ -15612,6 +16091,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「重複選択可ナップサック割り当て数え上げ」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="yellowgreen">2220</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="yellowgreen">2125</font>
 - 2023年: ★3／diff <font color="orange">2411</font>
 - 2022年: ★データなし／diffデータなし
@@ -15633,6 +16113,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「確率漸化式」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="yellowgreen">2226</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.7／diff <font color="yellowgreen">2287</font>
 - 2023年: ★3.1／diff <font color="yellowgreen">2186</font>
 - 2022年: ★データなし／diffデータなし
@@ -15662,6 +16143,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「事象の確率を保つ全射」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="yellowgreen">2237</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diffデータなし
 - 2023年: ★3／diff <font color="yellowgreen">2237</font>
 - 2022年: ★データなし／diffデータなし
@@ -15682,6 +16164,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「データ構造初期化」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="yellowgreen">2237</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★3／diff <font color="yellowgreen">2237</font>
 - 2022年: ★データなし／diffデータなし
@@ -15701,6 +16184,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「重み付き木上の頂点間距離取得」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="yellowgreen">2249</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="yellowgreen">2249</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -15720,6 +16204,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「二分木に翻訳」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="yellowgreen">2295</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diffデータなし
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★3／diff <font color="yellowgreen">2295</font>
@@ -15740,6 +16225,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「ゼータ変換」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="yellowgreen">2297</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.8／diff <font color="blue">1813</font>
 - 2023年: ★3.2／diff <font color="orange">2659</font>
 - 2022年: ★3／diff <font color="yellowgreen">2306</font>
@@ -15775,6 +16261,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「多次元コストナップサック割り当て数え上げ」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="yellowgreen">2297</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="yellowgreen">2297</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -15794,6 +16281,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「周期的構築」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="yellowgreen">2297</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="orange">2594</font>
 - 2023年: ★3／diff <font color="yellowgreen">2000</font>
 - 2022年: ★データなし／diffデータなし
@@ -15822,6 +16310,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「複素共役による絶対値計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="yellowgreen">2301</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="yellowgreen">2301</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -15841,6 +16330,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「タイリング・LightsOut可能性判定を領域の細分による不変量計算に帰着」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="yellowgreen">2302</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="yellowgreen">2302</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -15868,6 +16358,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「ベルトラン・チェビシェフの定理」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="yellowgreen">2309</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★3／diff <font color="yellowgreen">2309</font>
 - 2022年: ★データなし／diffデータなし
@@ -15887,6 +16378,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「素数に注目する質問」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="yellowgreen">2309</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★3／diff <font color="yellowgreen">2309</font>
 - 2022年: ★データなし／diffデータなし
@@ -15906,6 +16398,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「対角線に言及する質問」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="yellowgreen">2309</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★3／diff <font color="yellowgreen">2309</font>
 - 2022年: ★データなし／diffデータなし
@@ -15925,6 +16418,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「配列のリアクティブによる特定」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="yellowgreen">2309</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★3／diff <font color="yellowgreen">2309</font>
 - 2022年: ★データなし／diffデータなし
@@ -15944,6 +16438,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「グリッド上の価値最大化」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="yellowgreen">2311</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="orange">2454</font>
 - 2023年: ★3／diff <font color="yellowgreen">2169</font>
 - 2022年: ★データなし／diffデータなし
@@ -15964,6 +16459,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「矩形max・min取得」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="yellowgreen">2311</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="orange">2454</font>
 - 2023年: ★3／diff <font color="yellowgreen">2169</font>
 - 2022年: ★データなし／diffデータなし
@@ -15984,6 +16480,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「ポテンシャル付きダイクストラ法」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="yellowgreen">2321</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="yellowgreen">2321</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -16003,6 +16500,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「再帰」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="yellowgreen">2337</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.8／diff <font color="yellowgreen">2162</font>
 - 2023年: ★3.3／diff <font color="orange">2450</font>
 - 2022年: ★2.9／diff <font color="orange">2475</font>
@@ -16067,6 +16565,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「区間積取得」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="yellowgreen">2338</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★3／diff <font color="yellowgreen">2338</font>
 - 2022年: ★データなし／diffデータなし
@@ -16090,6 +16589,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「連続回数制約を分割の区間長制約に翻訳」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="yellowgreen">2344</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="orange">2729</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★3／diff <font color="blue">1959</font>
@@ -16110,6 +16610,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「小数型の許容誤差付き二分探索・二分法」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="yellowgreen">2351</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3.5／diff <font color="red">3143</font>
 - 2023年: ★2.5／diff <font color="deepskyblue">1560</font>
 - 2022年: ★データなし／diffデータなし
@@ -16133,6 +16634,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「区間の部分列をわたる総和計算をモノイド演算に翻訳」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="yellowgreen">2352</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="yellowgreen">2352</font>
 - 2023年: ★3／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -16155,6 +16657,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「Garnerのアルゴリズム」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="yellowgreen">2353</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★3.5／diff <font color="orange">2616</font>
 - 2022年: ★2／diff <font color="blue">1828</font>
@@ -16182,6 +16685,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「余因子展開」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="yellowgreen">2354</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★3／diff <font color="yellowgreen">2365</font>
 - 2022年: ★3／diff <font color="yellowgreen">2344</font>
@@ -16202,6 +16706,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「座標のリアクティブによる特定」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="yellowgreen">2361</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="yellowgreen">2361</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -16225,6 +16730,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「合成数を法とする二項係数計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="yellowgreen">2364</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★2.5／diff <font color="orange">2788</font>
 - 2022年: ★3.5／diff <font color="blue">1940</font>
@@ -16248,6 +16754,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「B進法位取り記法と法Bベクトルの対応」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="yellowgreen">2380</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2／diff <font color="blue">1887</font>
 - 2023年: ★5／diff <font color="darkgoldenrod ">3503</font>
 - 2022年: ★3／diff <font color="yellowgreen">2245</font>
@@ -16276,6 +16783,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「平均の指定された区間数え上げ」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="yellowgreen">2386</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="yellowgreen">2386</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -16295,6 +16803,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「全方位木DP」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="yellowgreen">2392</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.7／diff <font color="blue">1894</font>
 - 2023年: ★3.2／diff <font color="orange">2641</font>
 - 2022年: ★データなし／diffデータなし
@@ -16323,6 +16832,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「剰余の法を止める総和計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="yellowgreen">2393</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★3／diff <font color="yellowgreen">2393</font>
@@ -16342,6 +16852,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「二項係数・順列の第１引数を渡る総和計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="yellowgreen">2397</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="yellowgreen">2397</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -16361,6 +16872,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「選択回数上限付き重複選択可ナップサック割り当て数え上げ」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="orange">2411</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★3／diff <font color="orange">2411</font>
 - 2022年: ★データなし／diffデータなし
@@ -16380,6 +16892,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「部分列DP」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="orange">2411</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★3／diff <font color="orange">2411</font>
 - 2022年: ★データなし／diffデータなし
@@ -16399,6 +16912,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「複数価値ナップサック割り当て数え上げ」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="orange">2411</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★3／diff <font color="orange">2411</font>
 - 2022年: ★データなし／diffデータなし
@@ -16418,6 +16932,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「外接円計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="orange">2419</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="orange">2419</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -16437,6 +16952,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「第二余弦定理」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="orange">2419</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="orange">2419</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -16456,6 +16972,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「連分数展開」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="orange">2419</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="orange">2419</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -16475,6 +16992,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「完全二部マッチング」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="orange">2420</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★3／diff <font color="orange">2420</font>
 - 2022年: ★データなし／diffデータなし
@@ -16494,6 +17012,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「始切片選択ナップサック最適化」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="orange">2423</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="orange">2423</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -16513,6 +17032,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「商の反復による付値計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="orange">2429</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2／diff <font color="blue">1673</font>
 - 2023年: ★3.1／diff <font color="orange">2537</font>
 - 2022年: ★データなし／diffデータなし
@@ -16551,6 +17071,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「相対運動に翻訳」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="orange">2438</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="orange">2438</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -16570,6 +17091,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「区間挿入更新」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="orange">2463</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="orange">2438</font>
 - 2023年: ★3／diff <font color="orange">2489</font>
 - 2022年: ★データなし／diffデータなし
@@ -16590,6 +17112,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「単調関数の像計算を階差の非零点の数え上げに帰着」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="orange">2471</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★3／diff <font color="orange">2471</font>
 - 2022年: ★データなし／diffデータなし
@@ -16609,6 +17132,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「解と係数の関係」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="orange">2476</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★3／diff <font color="orange">2476</font>
 - 2022年: ★データなし／diffデータなし
@@ -16633,6 +17157,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「区間削除更新」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="orange">2489</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★3／diff <font color="orange">2489</font>
 - 2022年: ★データなし／diffデータなし
@@ -16652,6 +17177,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「ワイルドカードの値を変数化」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="orange">2506</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="orange">2506</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -16672,6 +17198,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「bit演算による$64$並列」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="orange">2512</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★3／diff <font color="orange">2601</font>
 - 2022年: ★3／diff <font color="yellowgreen">2245</font>
@@ -16700,6 +17227,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「$1$の原始根計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="orange">2513</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diffデータなし
 - 2023年: ★3／diff <font color="orange">2513</font>
 - 2022年: ★データなし／diffデータなし
@@ -16720,6 +17248,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「遺伝的記法」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="orange">2521</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="red">2831</font>
 - 2023年: ★3.5／diff <font color="red">2876</font>
 - 2022年: ★2.5／diff <font color="blue">1834</font>
@@ -16753,6 +17282,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「スタック」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="orange">2581</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="orange">2581</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -16772,6 +17302,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「slope trick」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="orange">2617</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3.1／diff <font color="orange">2776</font>
 - 2023年: ★2.7／diff <font color="yellowgreen">2379</font>
 - 2022年: ★データなし／diffデータなし
@@ -16802,6 +17333,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「連立一次不等式の充足可能性判定」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="orange">2765</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="orange">2765</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -16821,6 +17353,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「付値と合同式による平方剰余判定」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="red">2816</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★3／diff <font color="red">2816</font>
 - 2022年: ★データなし／diffデータなし
@@ -16848,6 +17381,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 「最小被覆半径計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="red">2833</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="red">2833</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -16861,12 +17395,73 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2612">No.2612 Close the Distance</a> (yukicoder contest 415 (2024-01-19) - F問題、diff <font color="red">2833</font>)
 
 　
-<h2 id="$1$の原始根を用いた文字種シフトの実装">515. $1$の原始根を用いた文字種シフトの実装</h2>
+<h2 id="周期性に注目">515. 周期性に注目</h2>
+
+### 難易度統計
+
+「周期性に注目」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
+- 全体: ★3／diffデータなし
+- 2025年: ★3／diffデータなし
+- 2024年: ★データなし／diffデータなし
+- 2023年: ★データなし／diffデータなし
+- 2022年: ★データなし／diffデータなし
+
+### レベル別問題一覧
+
+「周期性に注目」を主たる解法に含む問題のレベルごとの一覧です。
+
+##### ★★★
+
+- <a href="https://yukicoder.me/problems/no/3001">No.3001 ヘビ文字列</a> (単発出題、diffデータなし)
+
+　
+<h2 id="周期性判定を長さの素因数に帰着">516. 周期性判定を長さの素因数に帰着</h2>
+
+### 難易度統計
+
+「周期性判定を長さの素因数に帰着」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
+- 全体: ★3／diffデータなし
+- 2025年: ★3／diffデータなし
+- 2024年: ★データなし／diffデータなし
+- 2023年: ★データなし／diffデータなし
+- 2022年: ★データなし／diffデータなし
+
+### レベル別問題一覧
+
+「周期性判定を長さの素因数に帰着」を主たる解法に含む問題のレベルごとの一覧です。
+
+##### ★★★
+
+- <a href="https://yukicoder.me/problems/no/3001">No.3001 ヘビ文字列</a> (単発出題、diffデータなし)
+
+　
+<h2 id="素数逆数和を用いた計算量評価">517. 素数逆数和を用いた計算量評価</h2>
+
+### 難易度統計
+
+「素数逆数和を用いた計算量評価」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
+- 全体: ★3／diffデータなし
+- 2025年: ★3／diffデータなし
+- 2024年: ★データなし／diffデータなし
+- 2023年: ★データなし／diffデータなし
+- 2022年: ★データなし／diffデータなし
+
+### レベル別問題一覧
+
+「素数逆数和を用いた計算量評価」を主たる解法に含む問題のレベルごとの一覧です。
+
+##### ★★★
+
+- <a href="https://yukicoder.me/problems/no/3001">No.3001 ヘビ文字列</a> (単発出題、diffデータなし)
+
+　
+<h2 id="$1$の原始根を用いた文字種シフトの実装">518. $1$の原始根を用いた文字種シフトの実装</h2>
 
 ### 難易度統計
 
 「$1$の原始根を用いた文字種シフトの実装」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diffデータなし
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diffデータなし
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -16880,12 +17475,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2933">No.2933 Range ROT Query</a> (yukicoder contest 第3回緑以下コンテスト エキストラ (2024-10-12) - C問題、diffデータなし)
 
 　
-<h2 id="フィボナッチ数列の法B周期計算">516. フィボナッチ数列の法B周期計算</h2>
+<h2 id="フィボナッチ数列の法B周期計算">519. フィボナッチ数列の法B周期計算</h2>
 
 ### 難易度統計
 
 「フィボナッチ数列の法B周期計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diffデータなし
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diffデータなし
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -16899,12 +17495,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2989">No.2989 Fibonacci Prize</a> (Advent Calendar Contest 2024 (2024-12-01) - M問題、diffデータなし)
 
 　
-<h2 id="フィボナッチ数列の累積和計算">517. フィボナッチ数列の累積和計算</h2>
+<h2 id="フィボナッチ数列の累積和計算">520. フィボナッチ数列の累積和計算</h2>
 
 ### 難易度統計
 
 「フィボナッチ数列の累積和計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diffデータなし
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diffデータなし
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -16918,12 +17515,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2989">No.2989 Fibonacci Prize</a> (Advent Calendar Contest 2024 (2024-12-01) - M問題、diffデータなし)
 
 　
-<h2 id="フロベニウス準同型">518. フロベニウス準同型</h2>
+<h2 id="フロベニウス準同型">521. フロベニウス準同型</h2>
 
 ### 難易度統計
 
 「フロベニウス準同型」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diffデータなし
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diffデータなし
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -16937,12 +17535,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2994">No.2994 べき内積</a> (Advent Calendar Contest 2024 (2024-12-01) - R問題、diffデータなし)
 
 　
-<h2 id="部分列の二項関係をデータ構造で管理">519. 部分列の二項関係をデータ構造で管理</h2>
+<h2 id="部分列の二項関係をデータ構造で管理">522. 部分列の二項関係をデータ構造で管理</h2>
 
 ### 難易度統計
 
 「部分列の二項関係をデータ構造で管理」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diffデータなし
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diffデータなし
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -16956,12 +17555,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2933">No.2933 Range ROT Query</a> (yukicoder contest 第3回緑以下コンテスト エキストラ (2024-10-12) - C問題、diffデータなし)
 
 　
-<h2 id="連結部分集合列挙">520. 連結部分集合列挙</h2>
+<h2 id="連結部分集合列挙">523. 連結部分集合列挙</h2>
 
 ### 難易度統計
 
 「連結部分集合列挙」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diffデータなし
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diffデータなし
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -16975,12 +17575,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2983">No.2983 Christmas Color Grid (Advent Calender ver.)</a> (Advent Calendar Contest 2024 (2024-12-01) - G問題、diffデータなし)
 
 　
-<h2 id="タイリングによるミラー戦略">521. タイリングによるミラー戦略</h2>
+<h2 id="タイリングによるミラー戦略">524. タイリングによるミラー戦略</h2>
 
 ### 難易度統計
 
 「タイリングによるミラー戦略」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diffデータなし
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★3／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -16994,12 +17595,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2476">No.2476 Knight Game</a> (Japan Alumni Group Summer Camp 2023 Day 2 (2023-09-17) - J問題、diffデータなし)
 
 　
-<h2 id="辺を頂点とするグラフに翻訳">522. 辺を頂点とするグラフに翻訳</h2>
+<h2 id="辺を頂点とするグラフに翻訳">525. 辺を頂点とするグラフに翻訳</h2>
 
 ### 難易度統計
 
 「辺を頂点とするグラフに翻訳」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diffデータなし
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★3／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -17013,12 +17615,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2477">No.2477 Drifting</a> (Japan Alumni Group Summer Camp 2023 Day 2 (2023-09-17) - K問題、diffデータなし)
 
 　
-<h2 id="選択肢の分割・纏め上げ・追加で良いケースに帰着">523. 選択肢の分割・纏め上げ・追加で良いケースに帰着</h2>
+<h2 id="選択肢の分割・纏め上げ・追加で良いケースに帰着">526. 選択肢の分割・纏め上げ・追加で良いケースに帰着</h2>
 
 ### 難易度統計
 
 「選択肢の分割・纏め上げ・追加で良いケースに帰着」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.1／diff <font color="blue">1778</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3.1／diff <font color="blue">1778</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -17040,12 +17643,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2987">No.2987 Colorful University of Tree</a> (Advent Calendar Contest 2024 (2024-12-01) - K問題、diffデータなし)
 
 　
-<h2 id="商のfloorの分子を止める総和計算">524. 商のfloorの分子を止める総和計算</h2>
+<h2 id="商のfloorの分子を止める総和計算">527. 商のfloorの分子を止める総和計算</h2>
 
 ### 難易度統計
 
 「商のfloorの分子を止める総和計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.1／diff <font color="yellowgreen">2027</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3.2／diff <font color="blue">1661</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★3／diff <font color="yellowgreen">2393</font>
@@ -17067,12 +17671,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2979">No.2979 直角三角形の個数</a> (Advent Calendar Contest 2024 (2024-12-01) - C問題、diffデータなし)
 
 　
-<h2 id="行列累乗">525. 行列累乗</h2>
+<h2 id="行列累乗">528. 行列累乗</h2>
 
 ### 難易度統計
 
 「行列累乗」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.1／diff <font color="yellowgreen">2117</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3.1／diff <font color="yellowgreen">2292</font>
 - 2023年: ★3／diff <font color="yellowgreen">2108</font>
 - 2022年: ★3.5／diff <font color="blue">1888</font>
@@ -17110,12 +17715,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2995">No.2995 The Ruler Sequence Concatenation</a> (Advent Calendar Contest 2024 (2024-12-01) - S問題、diffデータなし)
 
 　
-<h2 id="制約からグラフの種類を特定">526. 制約からグラフの種類を特定</h2>
+<h2 id="制約からグラフの種類を特定">529. 制約からグラフの種類を特定</h2>
 
 ### 難易度統計
 
 「制約からグラフの種類を特定」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.1／diff <font color="yellowgreen">2166</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="yellowgreen">2255</font>
 - 2023年: ★3.1／diff <font color="yellowgreen">2136</font>
 - 2022年: ★データなし／diffデータなし
@@ -17136,12 +17742,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2584">No.2584 The University of Tree</a> (Advent Calendar Contest 2023 (2023-12-01) - L問題、diff <font color="red">2960</font>)
 
 　
-<h2 id="トポロジカルソート">527. トポロジカルソート</h2>
+<h2 id="トポロジカルソート">530. トポロジカルソート</h2>
 
 ### 難易度統計
 
 「トポロジカルソート」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.1／diff <font color="yellowgreen">2171</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.2／diff <font color="deepskyblue">1566</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★5／diff <font color="darkgoldenrod ">3382</font>
@@ -17163,12 +17770,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2160">No.2160 みたりのDominator</a> (Advent Calendar Contest 2022 (2022-12-01) - K問題、diff <font color="darkgoldenrod ">3382</font>)
 
 　
-<h2 id="区間max・min更新">528. 区間max・min更新</h2>
+<h2 id="区間max・min更新">531. 区間max・min更新</h2>
 
 ### 難易度統計
 
 「区間max・min更新」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.1／diff <font color="yellowgreen">2218</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="yellowgreen">2006</font>
 - 2023年: ★3／diff <font color="yellowgreen">2169</font>
 - 2022年: ★4／diff <font color="red">2903</font>
@@ -17196,12 +17804,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2162">No.2162 Copy and Paste 2</a> (Advent Calendar Contest 2022 (2022-12-01) - M問題、diff <font color="red">2903</font>)
 
 　
-<h2 id="双対セグメント木">529. 双対セグメント木</h2>
+<h2 id="双対セグメント木">532. 双対セグメント木</h2>
 
 ### 難易度統計
 
 「双対セグメント木」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.1／diff <font color="yellowgreen">2218</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="yellowgreen">2006</font>
 - 2023年: ★3／diff <font color="yellowgreen">2169</font>
 - 2022年: ★4／diff <font color="red">2903</font>
@@ -17230,12 +17839,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2162">No.2162 Copy and Paste 2</a> (Advent Calendar Contest 2022 (2022-12-01) - M問題、diff <font color="red">2903</font>)
 
 　
-<h2 id="剰余による確率的判定">530. 剰余による確率的判定</h2>
+<h2 id="剰余による確率的判定">533. 剰余による確率的判定</h2>
 
 ### 難易度統計
 
 「剰余による確率的判定」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.1／diff <font color="yellowgreen">2277</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★3.1／diff <font color="yellowgreen">2354</font>
 - 2022年: ★3／diff <font color="yellowgreen">2047</font>
@@ -17258,12 +17868,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2207">No.2207 pCr検査</a> (yukicoder contest 375 (2023-02-03) - G問題、diff <font color="orange">2567</font>)
 
 　
-<h2 id="平方分割">531. 平方分割</h2>
+<h2 id="平方分割">534. 平方分割</h2>
 
 ### 難易度統計
 
 「平方分割」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.1／diff <font color="yellowgreen">2279</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="blue">1760</font>
 - 2023年: ★3.3／diff <font color="orange">2587</font>
 - 2022年: ★3／diff <font color="yellowgreen">2393</font>
@@ -17292,12 +17903,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2979">No.2979 直角三角形の個数</a> (Advent Calendar Contest 2024 (2024-12-01) - C問題、diffデータなし)
 
 　
-<h2 id="有理数型">532. 有理数型</h2>
+<h2 id="有理数型">535. 有理数型</h2>
 
 ### 難易度統計
 
 「有理数型」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.1／diff <font color="yellowgreen">2301</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3.2／diff <font color="orange">2493</font>
 - 2023年: ★3／diff <font color="blue">1919</font>
 - 2022年: ★データなし／diffデータなし
@@ -17316,12 +17928,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2973">No.2973 シュニレルマン積分入門</a> (yukicoder contest 454 (2024-11-29) - E問題、diff <font color="orange">2567</font>)
 
 　
-<h2 id="約数ゼータ変換">533. 約数ゼータ変換</h2>
+<h2 id="約数ゼータ変換">536. 約数ゼータ変換</h2>
 
 ### 難易度統計
 
 「約数ゼータ変換」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.1／diff <font color="yellowgreen">2305</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.7／diff <font color="blue">1704</font>
 - 2023年: ★3.5／diff <font color="red">2906</font>
 - 2022年: ★データなし／diffデータなし
@@ -17344,12 +17957,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2578">No.2578 Jewelry Store</a> (Advent Calendar Contest 2023 (2023-12-01) - F問題、diff <font color="orange">2795</font>)
 
 　
-<h2 id="区間kth取得">534. 区間kth取得</h2>
+<h2 id="区間kth取得">537. 区間kth取得</h2>
 
 ### 難易度統計
 
 「区間kth取得」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.1／diff <font color="yellowgreen">2307</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3.5／diff <font color="yellowgreen">2364</font>
 - 2023年: ★2.5／diff <font color="blue">1851</font>
 - 2022年: ★3.5／diff <font color="orange">2707</font>
@@ -17368,12 +17982,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2809">No.2809 Sort Query</a> (yukicoder contest 436 ('09 Contest 002 day1) (2024-07-12) - G問題、diff <font color="yellowgreen">2364</font>)
 
 　
-<h2 id="メビウスの反転公式">535. メビウスの反転公式</h2>
+<h2 id="メビウスの反転公式">538. メビウスの反転公式</h2>
 
 ### 難易度統計
 
 「メビウスの反転公式」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.1／diff <font color="yellowgreen">2325</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="blue">1900</font>
 - 2023年: ★3.1／diff <font color="orange">2473</font>
 - 2022年: ★3／diff <font color="yellowgreen">2306</font>
@@ -17397,12 +18012,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2578">No.2578 Jewelry Store</a> (Advent Calendar Contest 2023 (2023-12-01) - F問題、diff <font color="orange">2795</font>)
 
 　
-<h2 id="累積積による二項係数計算">536. 累積積による二項係数計算</h2>
+<h2 id="累積積による二項係数計算">539. 累積積による二項係数計算</h2>
 
 ### 難易度統計
 
 「累積積による二項係数計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.1／diff <font color="yellowgreen">2356</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3.2／diff <font color="yellowgreen">2348</font>
 - 2023年: ★2.5／diff <font color="orange">2788</font>
 - 2022年: ★3.5／diff <font color="blue">1940</font>
@@ -17425,12 +18041,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2973">No.2973 シュニレルマン積分入門</a> (yukicoder contest 454 (2024-11-29) - E問題、diff <font color="orange">2567</font>)
 
 　
-<h2 id="互いに素に帰着">537. 互いに素に帰着</h2>
+<h2 id="互いに素に帰着">540. 互いに素に帰着</h2>
 
 ### 難易度統計
 
 「互いに素に帰着」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.1／diff <font color="yellowgreen">2375</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★3.1／diff <font color="yellowgreen">2375</font>
@@ -17449,12 +18066,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2066">No.2066 Simple Math !</a> (yukicoder contest 359 (2022-09-02) - D問題、diff <font color="orange">2648</font>)
 
 　
-<h2 id="二項定理">538. 二項定理</h2>
+<h2 id="二項定理">541. 二項定理</h2>
 
 ### 難易度統計
 
 「二項定理」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.1／diff <font color="yellowgreen">2394</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3.5／diff <font color="blue">1981</font>
 - 2023年: ★3／diff <font color="orange">2559</font>
 - 2022年: ★データなし／diffデータなし
@@ -17490,12 +18108,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2996">No.2996 Floor Sum</a> (Advent Calendar Contest 2024 (2024-12-01) - T問題、diffデータなし)
 
 　
-<h2 id="同値関係">539. 同値関係</h2>
+<h2 id="同値関係">542. 同値関係</h2>
 
 ### 難易度統計
 
 「同値関係」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.1／diff <font color="orange">2436</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="orange">2401</font>
 - 2023年: ★2.2／diff <font color="blue">1612</font>
 - 2022年: ★3.8／diff <font color="orange">2758</font>
@@ -17529,12 +18148,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2160">No.2160 みたりのDominator</a> (Advent Calendar Contest 2022 (2022-12-01) - K問題、diff <font color="darkgoldenrod ">3382</font>)
 
 　
-<h2 id="不変量比較による一致判定">540. 不変量比較による一致判定</h2>
+<h2 id="不変量比較による一致判定">543. 不変量比較による一致判定</h2>
 
 ### 難易度統計
 
 「不変量比較による一致判定」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.1／diff <font color="orange">2442</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3.1／diff <font color="blue">1960</font>
 - 2023年: ★2.7／diff <font color="yellowgreen">2247</font>
 - 2022年: ★3.5／diff <font color="red">2877</font>
@@ -17563,12 +18183,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2162">No.2162 Copy and Paste 2</a> (Advent Calendar Contest 2022 (2022-12-01) - M問題、diff <font color="red">2903</font>)
 
 　
-<h2 id="区間を中間で分割してマージ">541. 区間を中間で分割してマージ</h2>
+<h2 id="区間を中間で分割してマージ">544. 区間を中間で分割してマージ</h2>
 
 ### 難易度統計
 
 「区間を中間で分割してマージ」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.1／diff <font color="orange">2454</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="yellowgreen">2352</font>
 - 2023年: ★3.5／diff <font color="orange">2658</font>
 - 2022年: ★データなし／diffデータなし
@@ -17590,12 +18211,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2215">No.2215 Slide Subset Sum</a> (yukicoder contest 376 (2023-02-10) - H問題、diff <font color="orange">2658</font>)
 
 　
-<h2 id="自己写像に翻訳">542. 自己写像に翻訳</h2>
+<h2 id="自己写像に翻訳">545. 自己写像に翻訳</h2>
 
 ### 難易度統計
 
 「自己写像に翻訳」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.1／diff <font color="orange">2494</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★3.1／diff <font color="orange">2492</font>
 - 2022年: ★3／diff <font color="orange">2501</font>
@@ -17615,12 +18237,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2540">No.2540 同値性判定</a> (yukicoder contest 412 (2023-11-10) - H問題、diff <font color="darkgoldenrod ">3217</font>)
 
 　
-<h2 id="オイラーの規準">543. オイラーの規準</h2>
+<h2 id="オイラーの規準">546. オイラーの規準</h2>
 
 ### 難易度統計
 
 「オイラーの規準」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.1／diff <font color="orange">2516</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★3.2／diff <font color="orange">2751</font>
 - 2022年: ★3／diff <font color="yellowgreen">2047</font>
@@ -17639,12 +18262,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2192">No.2192 平方数の下１４桁</a> (yukicoder contest 373 (2023-01-13) - I問題、diff <font color="red">3117</font>)
 
 　
-<h2 id="最長共通接頭辞計算">544. 最長共通接頭辞計算</h2>
+<h2 id="最長共通接頭辞計算">547. 最長共通接頭辞計算</h2>
 
 ### 難易度統計
 
 「最長共通接頭辞計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.1／diff <font color="orange">2534</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★2.5／diff <font color="blue">1849</font>
 - 2022年: ★3.5／diff <font color="red">2877</font>
@@ -17666,12 +18290,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2162">No.2162 Copy and Paste 2</a> (Advent Calendar Contest 2022 (2022-12-01) - M問題、diff <font color="red">2903</font>)
 
 　
-<h2 id="商の剰余計算を大きい法に帰着">545. 商の剰余計算を大きい法に帰着</h2>
+<h2 id="商の剰余計算を大きい法に帰着">548. 商の剰余計算を大きい法に帰着</h2>
 
 ### 難易度統計
 
 「商の剰余計算を大きい法に帰着」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.2／diff <font color="deepskyblue">1322</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3.2／diff <font color="deepskyblue">1322</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -17689,12 +18314,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2993">No.2993 冪乗乗 mod 冪乗</a> (Advent Calendar Contest 2024 (2024-12-01) - Q問題、diffデータなし)
 
 　
-<h2 id="部分和の差の最小化">546. 部分和の差の最小化</h2>
+<h2 id="部分和の差の最小化">549. 部分和の差の最小化</h2>
 
 ### 難易度統計
 
 「部分和の差の最小化」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.2／diff <font color="deepskyblue">1469</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★4／diffデータなし
 - 2023年: ★2.5／diff <font color="deepskyblue">1469</font>
 - 2022年: ★データなし／diffデータなし
@@ -17712,12 +18338,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2918">No.2918 Divide Applicants Fairly</a> (単発出題、diffデータなし)
 
 　
-<h2 id="倍数メビウス変換">547. 倍数メビウス変換</h2>
+<h2 id="倍数メビウス変換">550. 倍数メビウス変換</h2>
 
 ### 難易度統計
 
 「倍数メビウス変換」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.2／diff <font color="blue">1607</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★4／diffデータなし
 - 2023年: ★2.5／diff <font color="blue">1607</font>
 - 2022年: ★データなし／diffデータなし
@@ -17735,12 +18362,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2979">No.2979 直角三角形の個数</a> (Advent Calendar Contest 2024 (2024-12-01) - C問題、diffデータなし)
 
 　
-<h2 id="因数分解による素因数分解・付値計算の分割統治">548. 因数分解による素因数分解・付値計算の分割統治</h2>
+<h2 id="因数分解による素因数分解・付値計算の分割統治">551. 因数分解による素因数分解・付値計算の分割統治</h2>
 
 ### 難易度統計
 
 「因数分解による素因数分解・付値計算の分割統治」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.2／diff <font color="blue">1673</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3.2／diff <font color="blue">1673</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -17758,12 +18386,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2993">No.2993 冪乗乗 mod 冪乗</a> (Advent Calendar Contest 2024 (2024-12-01) - Q問題、diffデータなし)
 
 　
-<h2 id="商のfloorの分母を止める総和計算">549. 商のfloorの分母を止める総和計算</h2>
+<h2 id="商のfloorの分母を止める総和計算">552. 商のfloorの分母を止める総和計算</h2>
 
 ### 難易度統計
 
 「商のfloorの分母を止める総和計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.2／diff <font color="yellowgreen">2066</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3.5／diff <font color="blue">1661</font>
 - 2023年: ★2.5／diff <font color="blue">1891</font>
 - 2022年: ★3.5／diff <font color="orange">2648</font>
@@ -17786,12 +18415,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2996">No.2996 Floor Sum</a> (Advent Calendar Contest 2024 (2024-12-01) - T問題、diffデータなし)
 
 　
-<h2 id="区間一次式max・min更新">550. 区間一次式max・min更新</h2>
+<h2 id="区間一次式max・min更新">553. 区間一次式max・min更新</h2>
 
 ### 難易度統計
 
 「区間一次式max・min更新」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.2／diff <font color="yellowgreen">2117</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3.2／diff <font color="yellowgreen">2117</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -17809,12 +18439,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2657">No.2657 Falling Block Game</a> (yukicoder contest 419 (2024-03-01) - C問題、diff <font color="yellowgreen">2117</font>)
 
 　
-<h2 id="三項間漸化式の求解">551. 三項間漸化式の求解</h2>
+<h2 id="三項間漸化式の求解">554. 三項間漸化式の求解</h2>
 
 ### 難易度統計
 
 「三項間漸化式の求解」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.2／diff <font color="yellowgreen">2162</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★2.5／diff <font color="blue">1768</font>
 - 2022年: ★4／diff <font color="orange">2556</font>
@@ -17832,12 +18463,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2122">No.2122 黄金比で擬似乱数生成</a> (yukicoder contest 367 (2022-11-04) - F問題、diff <font color="orange">2556</font>)
 
 　
-<h2 id="グランディ数計算">552. グランディ数計算</h2>
+<h2 id="グランディ数計算">555. グランディ数計算</h2>
 
 ### 難易度統計
 
 「グランディ数計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.2／diff <font color="yellowgreen">2170</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="yellowgreen">2162</font>
 - 2023年: ★3.3／diff <font color="yellowgreen">2175</font>
 - 2022年: ★データなし／diffデータなし
@@ -17861,12 +18493,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2398">No.2398 ヒドラ崩し</a> (yukicoder contest 399 (2023-07-28) - G問題、diff <font color="red">3178</font>)
 
 　
-<h2 id="Moのアルゴリズム">553. Moのアルゴリズム</h2>
+<h2 id="Moのアルゴリズム">556. Moのアルゴリズム</h2>
 
 ### 難易度統計
 
 「Moのアルゴリズム」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.2／diff <font color="yellowgreen">2192</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="yellowgreen">2004</font>
 - 2023年: ★3.5／diff <font color="yellowgreen">2381</font>
 - 2022年: ★データなし／diffデータなし
@@ -17884,12 +18517,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2206">No.2206 Popcount Sum 2</a> (yukicoder contest 375 (2023-02-03) - F問題、diff <font color="yellowgreen">2381</font>)
 
 　
-<h2 id="オイラーの定理">554. オイラーの定理</h2>
+<h2 id="オイラーの定理">557. オイラーの定理</h2>
 
 ### 難易度統計
 
 「オイラーの定理」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.2／diff <font color="yellowgreen">2293</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★3.2／diff <font color="yellowgreen">2293</font>
 - 2022年: ★データなし／diffデータなし
@@ -17907,12 +18541,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2193">No.2193 メガの下１桁</a> (yukicoder contest 373 (2023-01-13) - J問題、diff <font color="orange">2749</font>)
 
 　
-<h2 id="メビウス変換">555. メビウス変換</h2>
+<h2 id="メビウス変換">558. メビウス変換</h2>
 
 ### 難易度統計
 
 「メビウス変換」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.2／diff <font color="yellowgreen">2325</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3.5／diff <font color="blue">1900</font>
 - 2023年: ★3.1／diff <font color="orange">2473</font>
 - 2022年: ★3／diff <font color="yellowgreen">2306</font>
@@ -17937,12 +18572,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2979">No.2979 直角三角形の個数</a> (Advent Calendar Contest 2024 (2024-12-01) - C問題、diffデータなし)
 
 　
-<h2 id="線形代数">556. 線形代数</h2>
+<h2 id="線形代数">559. 線形代数</h2>
 
 ### 難易度統計
 
 「線形代数」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.2／diff <font color="yellowgreen">2326</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3.1／diff <font color="yellowgreen">2305</font>
 - 2023年: ★3.3／diff <font color="orange">2402</font>
 - 2022年: ★3／diff <font color="blue">1936</font>
@@ -18004,12 +18640,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2589">No.2589 Prepare Integers</a> (Advent Calendar Contest 2023 (2023-12-01) - Q問題、diff <font color="darkgoldenrod ">3503</font>)
 
 　
-<h2 id="フロベニウス数に注目">557. フロベニウス数に注目</h2>
+<h2 id="フロベニウス数に注目">560. フロベニウス数に注目</h2>
 
 ### 難易度統計
 
 「フロベニウス数に注目」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.2／diff <font color="yellowgreen">2358</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★3／diff <font color="yellowgreen">2069</font>
 - 2022年: ★3.5／diff <font color="orange">2648</font>
@@ -18027,12 +18664,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2066">No.2066 Simple Math !</a> (yukicoder contest 359 (2022-09-02) - D問題、diff <font color="orange">2648</font>)
 
 　
-<h2 id="順列の構築">558. 順列の構築</h2>
+<h2 id="順列の構築">561. 順列の構築</h2>
 
 ### 難易度統計
 
 「順列の構築」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.2／diff <font color="yellowgreen">2362</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3.2／diff <font color="yellowgreen">2362</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -18050,12 +18688,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2719">No.2719 Equal Inner Products in Permutation</a> (yukicoder contest 426 (2024-04-05) - F問題、diff <font color="orange">2522</font>)
 
 　
-<h2 id="総和の指定された部分列数え上げ">559. 総和の指定された部分列数え上げ</h2>
+<h2 id="総和の指定された部分列数え上げ">562. 総和の指定された部分列数え上げ</h2>
 
 ### 難易度統計
 
 「総和の指定された部分列数え上げ」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.2／diff <font color="orange">2425</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="yellowgreen">2297</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★3.5／diff <font color="orange">2553</font>
@@ -18073,12 +18712,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2062">No.2062 Sum of Subset mod 999630629</a> (yukicoder contest 358 (2022-08-26) - G問題、diff <font color="orange">2553</font>)
 
 　
-<h2 id="集合族による帰属関係で類別">560. 集合族による帰属関係で類別</h2>
+<h2 id="集合族による帰属関係で類別">563. 集合族による帰属関係で類別</h2>
 
 ### 難易度統計
 
 「集合族による帰属関係で類別」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.2／diff <font color="orange">2447</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★3.2／diff <font color="orange">2447</font>
@@ -18096,12 +18736,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2133">No.2133 Take it easy!</a> (yukicoder contest 369 (2022-11-25) - D問題、diff <font color="orange">2649</font>)
 
 　
-<h2 id="マージ">561. マージ</h2>
+<h2 id="マージ">564. マージ</h2>
 
 ### 難易度統計
 
 「マージ」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.2／diff <font color="orange">2454</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="yellowgreen">2352</font>
 - 2023年: ★3.5／diff <font color="orange">2658</font>
 - 2022年: ★3.5／diffデータなし
@@ -18126,12 +18767,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2215">No.2215 Slide Subset Sum</a> (yukicoder contest 376 (2023-02-10) - H問題、diff <font color="orange">2658</font>)
 
 　
-<h2 id="枝刈り">562. 枝刈り</h2>
+<h2 id="枝刈り">565. 枝刈り</h2>
 
 ### 難易度統計
 
 「枝刈り」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.2／diff <font color="orange">2471</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3.5／diffデータなし
 - 2023年: ★3／diff <font color="orange">2471</font>
 - 2022年: ★データなし／diffデータなし
@@ -18149,12 +18791,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2909">No.2909 Imaginary Summer</a> (単発出題、diffデータなし)
 
 　
-<h2 id="分枝限定法">563. 分枝限定法</h2>
+<h2 id="分枝限定法">566. 分枝限定法</h2>
 
 ### 難易度統計
 
 「分枝限定法」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.2／diff <font color="orange">2471</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3.5／diffデータなし
 - 2023年: ★3／diff <font color="orange">2471</font>
 - 2022年: ★データなし／diffデータなし
@@ -18172,12 +18815,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2909">No.2909 Imaginary Summer</a> (単発出題、diffデータなし)
 
 　
-<h2 id="約数メビウス変換">564. 約数メビウス変換</h2>
+<h2 id="約数メビウス変換">567. 約数メビウス変換</h2>
 
 ### 難易度統計
 
 「約数メビウス変換」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.2／diff <font color="orange">2504</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="blue">1900</font>
 - 2023年: ★3.5／diff <font color="red">2906</font>
 - 2022年: ★3／diff <font color="yellowgreen">2306</font>
@@ -18197,12 +18841,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2578">No.2578 Jewelry Store</a> (Advent Calendar Contest 2023 (2023-12-01) - F問題、diff <font color="orange">2795</font>)
 
 　
-<h2 id="疎な多項式の畳み込み">565. 疎な多項式の畳み込み</h2>
+<h2 id="疎な多項式の畳み込み">568. 疎な多項式の畳み込み</h2>
 
 ### 難易度統計
 
 「疎な多項式の畳み込み」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.2／diff <font color="orange">2553</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diffデータなし
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★3.5／diff <font color="orange">2553</font>
@@ -18220,12 +18865,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2062">No.2062 Sum of Subset mod 999630629</a> (yukicoder contest 358 (2022-08-26) - G問題、diff <font color="orange">2553</font>)
 
 　
-<h2 id="桁DP">566. 桁DP</h2>
+<h2 id="桁DP">569. 桁DP</h2>
 
 ### 難易度統計
 
 「桁DP」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.2／diff <font color="orange">2580</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.8／diff <font color="blue">1841</font>
 - 2023年: ★3.5／diff <font color="orange">2791</font>
 - 2022年: ★3.5／diff <font color="orange">2722</font>
@@ -18263,12 +18909,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2589">No.2589 Prepare Integers</a> (Advent Calendar Contest 2023 (2023-12-01) - Q問題、diff <font color="darkgoldenrod ">3503</font>)
 
 　
-<h2 id="第二種スターリング数計算">567. 第二種スターリング数計算</h2>
+<h2 id="第二種スターリング数計算">570. 第二種スターリング数計算</h2>
 
 ### 難易度統計
 
 「第二種スターリング数計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.2／diff <font color="orange">2612</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="orange">2581</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★3.5／diff <font color="orange">2643</font>
@@ -18286,12 +18933,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2083">No.2083 OR Subset</a> (yukicoder contest 361 (2022-09-25) - F問題、diff <font color="orange">2643</font>)
 
 　
-<h2 id="剰余を取る前に符号や大小を計算">568. 剰余を取る前に符号や大小を計算</h2>
+<h2 id="剰余を取る前に符号や大小を計算">571. 剰余を取る前に符号や大小を計算</h2>
 
 ### 難易度統計
 
 「剰余を取る前に符号や大小を計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.2／diff <font color="orange">2631</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="yellowgreen">2365</font>
 - 2023年: ★3.5／diff <font color="red">2897</font>
 - 2022年: ★データなし／diffデータなし
@@ -18317,12 +18965,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2448">No.2448 一次変換と面積</a> (yukicoder contest 402 (2023-08-25) - H問題、diff <font color="red">3185</font>)
 
 　
-<h2 id="平方剰余の相互法則・補充法則">569. 平方剰余の相互法則・補充法則</h2>
+<h2 id="平方剰余の相互法則・補充法則">572. 平方剰余の相互法則・補充法則</h2>
 
 ### 難易度統計
 
 「平方剰余の相互法則・補充法則」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.2／diff <font color="orange">2751</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★3.2／diff <font color="orange">2751</font>
 - 2022年: ★データなし／diffデータなし
@@ -18340,12 +18989,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2192">No.2192 平方数の下１４桁</a> (yukicoder contest 373 (2023-01-13) - I問題、diff <font color="red">3117</font>)
 
 　
-<h2 id="約数包除原理">570. 約数包除原理</h2>
+<h2 id="約数包除原理">573. 約数包除原理</h2>
 
 ### 難易度統計
 
 「約数包除原理」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.3／diff <font color="yellowgreen">2103</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3.5／diff <font color="blue">1900</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★3／diff <font color="yellowgreen">2306</font>
@@ -18364,12 +19014,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2979">No.2979 直角三角形の個数</a> (Advent Calendar Contest 2024 (2024-12-01) - C問題、diffデータなし)
 
 　
-<h2 id="合成数を法とする逆元計算">571. 合成数を法とする逆元計算</h2>
+<h2 id="合成数を法とする逆元計算">574. 合成数を法とする逆元計算</h2>
 
 ### 難易度統計
 
 「合成数を法とする逆元計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.3／diff <font color="yellowgreen">2318</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★4.5／diffデータなし
 - 2023年: ★2.8／diff <font color="orange">2444</font>
 - 2022年: ★3.5／diff <font color="blue">1940</font>
@@ -18393,12 +19044,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2993">No.2993 冪乗乗 mod 冪乗</a> (Advent Calendar Contest 2024 (2024-12-01) - Q問題、diffデータなし)
 
 　
-<h2 id="任意mod畳み込み">572. 任意mod畳み込み</h2>
+<h2 id="任意mod畳み込み">575. 任意mod畳み込み</h2>
 
 ### 難易度統計
 
 「任意mod畳み込み」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.3／diff <font color="yellowgreen">2360</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="blue">1849</font>
 - 2023年: ★3.5／diff <font color="orange">2616</font>
 - 2022年: ★データなし／diffデータなし
@@ -18417,12 +19069,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2396">No.2396 等差二項展開</a> (yukicoder contest 399 (2023-07-28) - E問題、diff <font color="orange">2719</font>)
 
 　
-<h2 id="基底に帰着">573. 基底に帰着</h2>
+<h2 id="基底に帰着">576. 基底に帰着</h2>
 
 ### 難易度統計
 
 「基底に帰着」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.3／diff <font color="yellowgreen">2362</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★3.5／diff <font color="orange">2401</font>
 - 2022年: ★3／diff <font color="yellowgreen">2245</font>
@@ -18445,12 +19098,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2446">No.2446 完全列</a> (yukicoder contest 402 (2023-08-25) - F問題、diff <font color="orange">2609</font>)
 
 　
-<h2 id="キュー">574. キュー</h2>
+<h2 id="キュー">577. キュー</h2>
 
 ### 難易度統計
 
 「キュー」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.3／diff <font color="orange">2412</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="yellowgreen">2289</font>
 - 2023年: ★4／diff <font color="orange">2658</font>
 - 2022年: ★データなし／diffデータなし
@@ -18469,12 +19123,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2215">No.2215 Slide Subset Sum</a> (yukicoder contest 376 (2023-02-10) - H問題、diff <font color="orange">2658</font>)
 
 　
-<h2 id="微分計算">575. 微分計算</h2>
+<h2 id="微分計算">578. 微分計算</h2>
 
 ### 難易度統計
 
 「微分計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.3／diff <font color="orange">2424</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="yellowgreen">2229</font>
 - 2023年: ★3.8／diff <font color="orange">2717</font>
 - 2022年: ★データなし／diffデータなし
@@ -18520,12 +19175,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2583">No.2583 Differential Equation (Enhanced version)</a> (Advent Calendar Contest 2023 (2023-12-01) - K問題、diff <font color="darkgoldenrod ">3316</font>)
 
 　
-<h2 id="分割統治法（狭義：devide-and-conquer）">576. 分割統治法（狭義：devide-and-conquer）</h2>
+<h2 id="分割統治法（狭義：devide-and-conquer）">579. 分割統治法（狭義：devide-and-conquer）</h2>
 
 ### 難易度統計
 
 「分割統治法（狭義：devide-and-conquer）」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.3／diff <font color="orange">2486</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.5／diff <font color="blue">1850</font>
 - 2023年: ★3.4／diff <font color="orange">2450</font>
 - 2022年: ★3.7／diff <font color="red">2995</font>
@@ -18567,12 +19223,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2556">No.2556 Increasing Matrix</a> (Advent Calendar Contest 2023 (2023-12-01) - B問題、diff <font color="orange">2795</font>)
 
 　
-<h2 id="整礎性">577. 整礎性</h2>
+<h2 id="整礎性">580. 整礎性</h2>
 
 ### 難易度統計
 
 「整礎性」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.3／diff <font color="orange">2577</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.2／diff <font color="blue">1981</font>
 - 2023年: ★3.5／diff <font color="orange">2615</font>
 - 2022年: ★5／diff <font color="darkgoldenrod ">3577</font>
@@ -18608,12 +19265,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2398">No.2398 ヒドラ崩し</a> (yukicoder contest 399 (2023-07-28) - G問題、diff <font color="red">3178</font>)
 
 　
-<h2 id="行列式と面積・体積の関係">578. 行列式と面積・体積の関係</h2>
+<h2 id="行列式と面積・体積の関係">581. 行列式と面積・体積の関係</h2>
 
 ### 難易度統計
 
 「行列式と面積・体積の関係」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.3／diff <font color="orange">2624</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3.5／diff <font color="orange">2421</font>
 - 2023年: ★3.3／diff <font color="orange">2692</font>
 - 2022年: ★データなし／diffデータなし
@@ -18636,12 +19294,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2448">No.2448 一次変換と面積</a> (yukicoder contest 402 (2023-08-25) - H問題、diff <font color="red">3185</font>)
 
 　
-<h2 id="外積・サラスの公式による行列式計算">579. 外積・サラスの公式による行列式計算</h2>
+<h2 id="外積・サラスの公式による行列式計算">582. 外積・サラスの公式による行列式計算</h2>
 
 ### 難易度統計
 
 「外積・サラスの公式による行列式計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.3／diff <font color="orange">2639</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3.2／diff <font color="orange">2559</font>
 - 2023年: ★3.3／diff <font color="orange">2692</font>
 - 2022年: ★データなし／diffデータなし
@@ -18665,12 +19324,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2448">No.2448 一次変換と面積</a> (yukicoder contest 402 (2023-08-25) - H問題、diff <font color="red">3185</font>)
 
 　
-<h2 id="テイラー展開">580. テイラー展開</h2>
+<h2 id="テイラー展開">583. テイラー展開</h2>
 
 ### 難易度統計
 
 「テイラー展開」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.3／diff <font color="orange">2642</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★4／diff <font color="orange">2752</font>
 - 2023年: ★2.9／diff <font color="orange">2577</font>
 - 2022年: ★データなし／diffデータなし
@@ -18707,12 +19367,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2993">No.2993 冪乗乗 mod 冪乗</a> (Advent Calendar Contest 2024 (2024-12-01) - Q問題、diffデータなし)
 
 　
-<h2 id="遅延セグメント木">581. 遅延セグメント木</h2>
+<h2 id="遅延セグメント木">584. 遅延セグメント木</h2>
 
 ### 難易度統計
 
 「遅延セグメント木」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.3／diff <font color="orange">2687</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="yellowgreen">2340</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★4.5／diff <font color="darkgoldenrod ">3382</font>
@@ -18732,12 +19393,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2163">No.2163 LCA Sum Query</a> (Advent Calendar Contest 2022 (2022-12-01) - N問題、diff <font color="darkgoldenrod ">3382</font>)
 
 　
-<h2 id="行列式計算">582. 行列式計算</h2>
+<h2 id="行列式計算">585. 行列式計算</h2>
 
 ### 難易度統計
 
 「行列式計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.4／diff <font color="orange">2587</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3.2／diff <font color="orange">2559</font>
 - 2023年: ★3.6／diff <font color="orange">2647</font>
 - 2022年: ★3／diff <font color="yellowgreen">2344</font>
@@ -18767,12 +19429,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2556">No.2556 Increasing Matrix</a> (Advent Calendar Contest 2023 (2023-12-01) - B問題、diff <font color="orange">2795</font>)
 
 　
-<h2 id="準同型">583. 準同型</h2>
+<h2 id="準同型">586. 準同型</h2>
 
 ### 難易度統計
 
 「準同型」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.4／diff <font color="orange">2595</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3.3／diff <font color="yellowgreen">2130</font>
 - 2023年: ★3.5／diff <font color="orange">2680</font>
 - 2022年: ★3.4／diff <font color="red">2830</font>
@@ -18846,12 +19509,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2990">No.2990 Interval XOR</a> (Advent Calendar Contest 2024 (2024-12-01) - N問題、diffデータなし)
 
 　
-<h2 id="既出を検索">584. 既出を検索</h2>
+<h2 id="既出を検索">587. 既出を検索</h2>
 
 ### 難易度統計
 
 「既出を検索」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.5／diff <font color="yellowgreen">2224</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3.6／diff <font color="yellowgreen">2224</font>
 - 2023年: ★3／diffデータなし
 - 2022年: ★3.5／diffデータなし
@@ -18882,12 +19546,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2985">No.2985 May Count Induced C4 Subgraphs</a> (Advent Calendar Contest 2024 (2024-12-01) - I問題、diffデータなし)
 
 　
-<h2 id="集合変数の充足可能性判定">585. 集合変数の充足可能性判定</h2>
+<h2 id="集合変数の充足可能性判定">588. 集合変数の充足可能性判定</h2>
 
 ### 難易度統計
 
 「集合変数の充足可能性判定」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.5／diff <font color="yellowgreen">2326</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★3.5／diff <font color="yellowgreen">2326</font>
@@ -18901,12 +19566,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2121">No.2121 帰属関係と充足可能性</a> (yukicoder contest 367 (2022-11-04) - E問題、diff <font color="yellowgreen">2326</font>)
 
 　
-<h2 id="シュトルツ・チェザロの定理">586. シュトルツ・チェザロの定理</h2>
+<h2 id="シュトルツ・チェザロの定理">589. シュトルツ・チェザロの定理</h2>
 
 ### 難易度統計
 
 「シュトルツ・チェザロの定理」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.5／diff <font color="yellowgreen">2348</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★3.5／diff <font color="yellowgreen">2348</font>
 - 2022年: ★データなし／diffデータなし
@@ -18920,12 +19586,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2586">No.2586 Yet Another Sugoroku Problem</a> (Advent Calendar Contest 2023 (2023-12-01) - N問題、diff <font color="yellowgreen">2348</font>)
 
 　
-<h2 id="移動回数の期待値を距離で割った値の極限計算を平均移動速度に帰着">587. 移動回数の期待値を距離で割った値の極限計算を平均移動速度に帰着</h2>
+<h2 id="移動回数の期待値を距離で割った値の極限計算を平均移動速度に帰着">590. 移動回数の期待値を距離で割った値の極限計算を平均移動速度に帰着</h2>
 
 ### 難易度統計
 
 「移動回数の期待値を距離で割った値の極限計算を平均移動速度に帰着」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.5／diff <font color="yellowgreen">2348</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★3.5／diff <font color="yellowgreen">2348</font>
 - 2022年: ★データなし／diffデータなし
@@ -18939,12 +19606,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2586">No.2586 Yet Another Sugoroku Problem</a> (Advent Calendar Contest 2023 (2023-12-01) - N問題、diff <font color="yellowgreen">2348</font>)
 
 　
-<h2 id="積分漸化式">588. 積分漸化式</h2>
+<h2 id="積分漸化式">591. 積分漸化式</h2>
 
 ### 難易度統計
 
 「積分漸化式」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.5／diff <font color="orange">2401</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★3.5／diff <font color="orange">2401</font>
 - 2022年: ★データなし／diffデータなし
@@ -18958,12 +19626,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2582">No.2582 Random Average^K</a> (Advent Calendar Contest 2023 (2023-12-01) - J問題、diff <font color="orange">2401</font>)
 
 　
-<h2 id="高速ゼータ変換">589. 高速ゼータ変換</h2>
+<h2 id="高速ゼータ変換">592. 高速ゼータ変換</h2>
 
 ### 難易度統計
 
 「高速ゼータ変換」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.5／diff <font color="orange">2413</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="yellowgreen">2031</font>
 - 2023年: ★4／diff <font color="orange">2795</font>
 - 2022年: ★データなし／diffデータなし
@@ -18981,12 +19650,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2578">No.2578 Jewelry Store</a> (Advent Calendar Contest 2023 (2023-12-01) - F問題、diff <font color="orange">2795</font>)
 
 　
-<h2 id="掃き出し法による行列式計算">590. 掃き出し法による行列式計算</h2>
+<h2 id="掃き出し法による行列式計算">593. 掃き出し法による行列式計算</h2>
 
 ### 難易度統計
 
 「掃き出し法による行列式計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.5／diff <font color="orange">2421</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3.5／diff <font color="orange">2421</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -19000,12 +19670,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2727">No.2727 Tetrahedron Game</a> (yukicoder contest 427 (ゲーム問題コンテスト) (2024-04-12) - G問題、diff <font color="orange">2421</font>)
 
 　
-<h2 id="代数拡大">591. 代数拡大</h2>
+<h2 id="代数拡大">594. 代数拡大</h2>
 
 ### 難易度統計
 
 「代数拡大」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.5／diff <font color="orange">2446</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="yellowgreen">2174</font>
 - 2023年: ★4／diff <font color="orange">2719</font>
 - 2022年: ★データなし／diffデータなし
@@ -19023,12 +19694,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2396">No.2396 等差二項展開</a> (yukicoder contest 399 (2023-07-28) - E問題、diff <font color="orange">2719</font>)
 
 　
-<h2 id="階数計算">592. 階数計算</h2>
+<h2 id="階数計算">595. 階数計算</h2>
 
 ### 難易度統計
 
 「階数計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.5／diff <font color="orange">2496</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3.2／diff <font color="yellowgreen">2008</font>
 - 2023年: ★3.8／diff <font color="orange">2743</font>
 - 2022年: ★3／diff <font color="yellowgreen">2245</font>
@@ -19059,12 +19731,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2985">No.2985 May Count Induced C4 Subgraphs</a> (Advent Calendar Contest 2024 (2024-12-01) - I問題、diffデータなし)
 
 　
-<h2 id="行列の簡約階段化">593. 行列の簡約階段化</h2>
+<h2 id="行列の簡約階段化">596. 行列の簡約階段化</h2>
 
 ### 難易度統計
 
 「行列の簡約階段化」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.5／diff <font color="orange">2496</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3.2／diff <font color="yellowgreen">2008</font>
 - 2023年: ★3.8／diff <font color="orange">2743</font>
 - 2022年: ★3／diff <font color="yellowgreen">2245</font>
@@ -19095,12 +19768,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2985">No.2985 May Count Induced C4 Subgraphs</a> (Advent Calendar Contest 2024 (2024-12-01) - I問題、diffデータなし)
 
 　
-<h2 id="疎な行列演算の計算結果書き出しによる高速化">594. 疎な行列演算の計算結果書き出しによる高速化</h2>
+<h2 id="疎な行列演算の計算結果書き出しによる高速化">597. 疎な行列演算の計算結果書き出しによる高速化</h2>
 
 ### 難易度統計
 
 「疎な行列演算の計算結果書き出しによる高速化」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.5／diff <font color="orange">2521</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★3.5／diff <font color="orange">2521</font>
 - 2022年: ★データなし／diffデータなし
@@ -19122,12 +19796,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2396">No.2396 等差二項展開</a> (yukicoder contest 399 (2023-07-28) - E問題、diff <font color="orange">2719</font>)
 
 　
-<h2 id="線形空間の数え上げを次元計算に帰着">595. 線形空間の数え上げを次元計算に帰着</h2>
+<h2 id="線形空間の数え上げを次元計算に帰着">598. 線形空間の数え上げを次元計算に帰着</h2>
 
 ### 難易度統計
 
 「線形空間の数え上げを次元計算に帰着」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.5／diff <font color="orange">2562</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★4／diff <font color="red">2880</font>
 - 2022年: ★3／diff <font color="yellowgreen">2245</font>
@@ -19145,12 +19820,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2274">No.2274 三角彩色</a> (yukicoder contest 384 (2023-04-14) - H問題、diff <font color="red">2880</font>)
 
 　
-<h2 id="コーシー・グルサの積分公式">596. コーシー・グルサの積分公式</h2>
+<h2 id="コーシー・グルサの積分公式">599. コーシー・グルサの積分公式</h2>
 
 ### 難易度統計
 
 「コーシー・グルサの積分公式」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.5／diff <font color="orange">2567</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3.5／diff <font color="orange">2567</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -19164,12 +19840,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2973">No.2973 シュニレルマン積分入門</a> (yukicoder contest 454 (2024-11-29) - E問題、diff <font color="orange">2567</font>)
 
 　
-<h2 id="グロタンディーク化">597. グロタンディーク化</h2>
+<h2 id="グロタンディーク化">600. グロタンディーク化</h2>
 
 ### 難易度統計
 
 「グロタンディーク化」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.5／diff <font color="orange">2569</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★4.7／diffデータなし
 - 2023年: ★3.2／diff <font color="orange">2712</font>
 - 2022年: ★3.2／diff <font color="yellowgreen">2142</font>
@@ -19207,12 +19884,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2990">No.2990 Interval XOR</a> (Advent Calendar Contest 2024 (2024-12-01) - N問題、diffデータなし)
 
 　
-<h2 id="指数と対数による冪乗計算">598. 指数と対数による冪乗計算</h2>
+<h2 id="指数と対数による冪乗計算">601. 指数と対数による冪乗計算</h2>
 
 ### 難易度統計
 
 「指数と対数による冪乗計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.5／diff <font color="orange">2571</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3.5／diff <font color="orange">2580</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★3.5／diff <font color="orange">2553</font>
@@ -19234,12 +19912,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2976">No.2976 高階多点評価</a> (yukicoder contest 454 (2024-11-29) - H問題、diff <font color="red">3030</font>)
 
 　
-<h2 id="合成数を法とする数値を零と素因数の冪乗と可逆元に分解">599. 合成数を法とする数値を零と素因数の冪乗と可逆元に分解</h2>
+<h2 id="合成数を法とする数値を零と素因数の冪乗と可逆元に分解">602. 合成数を法とする数値を零と素因数の冪乗と可逆元に分解</h2>
 
 ### 難易度統計
 
 「合成数を法とする数値を零と素因数の冪乗と可逆元に分解」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.5／diff <font color="orange">2641</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★4.5／diffデータなし
 - 2023年: ★3.3／diff <font color="orange">2781</font>
 - 2022年: ★3.5／diff <font color="blue">1940</font>
@@ -19271,12 +19950,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2993">No.2993 冪乗乗 mod 冪乗</a> (Advent Calendar Contest 2024 (2024-12-01) - Q問題、diffデータなし)
 
 　
-<h2 id="カタラン数計算">600. カタラン数計算</h2>
+<h2 id="カタラン数計算">603. カタラン数計算</h2>
 
 ### 難易度統計
 
 「カタラン数計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.5／diff <font color="orange">2649</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★3.5／diff <font color="orange">2649</font>
@@ -19290,12 +19970,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2133">No.2133 Take it easy!</a> (yukicoder contest 369 (2022-11-25) - D問題、diff <font color="orange">2649</font>)
 
 　
-<h2 id="一対一対応">601. 一対一対応</h2>
+<h2 id="一対一対応">604. 一対一対応</h2>
 
 ### 難易度統計
 
 「一対一対応」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.5／diff <font color="orange">2668</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★3.5／diff <font color="orange">2700</font>
 - 2022年: ★3.5／diff <font color="orange">2626</font>
@@ -19325,12 +20006,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2398">No.2398 ヒドラ崩し</a> (yukicoder contest 399 (2023-07-28) - G問題、diff <font color="red">3178</font>)
 
 　
-<h2 id="OR畳み込み">602. OR畳み込み</h2>
+<h2 id="OR畳み込み">605. OR畳み込み</h2>
 
 ### 難易度統計
 
 「OR畳み込み」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.5／diff <font color="orange">2681</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="yellowgreen">2031</font>
 - 2023年: ★3.7／diff <font color="red">3006</font>
 - 2022年: ★データなし／diffデータなし
@@ -19352,12 +20034,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2578">No.2578 Jewelry Store</a> (Advent Calendar Contest 2023 (2023-12-01) - F問題、diff <font color="orange">2795</font>)
 
 　
-<h2 id="自由加群">603. 自由加群</h2>
+<h2 id="自由加群">606. 自由加群</h2>
 
 ### 難易度統計
 
 「自由加群」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.5／diff <font color="orange">2708</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★3.5／diff <font color="orange">2708</font>
 - 2022年: ★データなし／diffデータなし
@@ -19371,12 +20054,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2273">No.2273 一点乗除区間積</a> (yukicoder contest 384 (2023-04-14) - G問題、diff <font color="orange">2708</font>)
 
 　
-<h2 id="リュカの定理">604. リュカの定理</h2>
+<h2 id="リュカの定理">607. リュカの定理</h2>
 
 ### 難易度統計
 
 「リュカの定理」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.5／diff <font color="orange">2722</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="orange">2676</font>
 - 2023年: ★4／diff <font color="orange">2768</font>
 - 2022年: ★データなし／diffデータなし
@@ -19394,12 +20078,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2344">No.2344 (l+r)^2</a> (yukicoder contest 392 (2023-06-09) - B問題、diff <font color="orange">2768</font>)
 
 　
-<h2 id="階数因数分解">605. 階数因数分解</h2>
+<h2 id="階数因数分解">608. 階数因数分解</h2>
 
 ### 難易度統計
 
 「階数因数分解」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.5／diff <font color="orange">2741</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★3.5／diff <font color="orange">2741</font>
 - 2022年: ★データなし／diffデータなし
@@ -19413,12 +20098,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2405">No.2405 Minimal Matrix Decomposition</a> (yukicoder contest 400 (2023-08-04) - G問題、diff <font color="orange">2741</font>)
 
 　
-<h2 id="cyclic orderつき全方位木DP">606. cyclic orderつき全方位木DP</h2>
+<h2 id="cyclic orderつき全方位木DP">609. cyclic orderつき全方位木DP</h2>
 
 ### 難易度統計
 
 「cyclic orderつき全方位木DP」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.5／diff <font color="red">2960</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★3.5／diff <font color="red">2960</font>
 - 2022年: ★データなし／diffデータなし
@@ -19432,12 +20118,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2584">No.2584 The University of Tree</a> (Advent Calendar Contest 2023 (2023-12-01) - L問題、diff <font color="red">2960</font>)
 
 　
-<h2 id="functional completeness">607. functional completeness</h2>
+<h2 id="functional completeness">610. functional completeness</h2>
 
 ### 難易度統計
 
 「functional completeness」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.5／diff <font color="darkgoldenrod ">3217</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★3.5／diff <font color="darkgoldenrod ">3217</font>
 - 2022年: ★データなし／diffデータなし
@@ -19451,12 +20138,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2540">No.2540 同値性判定</a> (yukicoder contest 412 (2023-11-10) - H問題、diff <font color="darkgoldenrod ">3217</font>)
 
 　
-<h2 id="区間作用更新">608. 区間作用更新</h2>
+<h2 id="区間作用更新">611. 区間作用更新</h2>
 
 ### 難易度統計
 
 「区間作用更新」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.5／diff <font color="darkgoldenrod ">3217</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★3.5／diff <font color="darkgoldenrod ">3217</font>
 - 2022年: ★データなし／diffデータなし
@@ -19470,12 +20158,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2540">No.2540 同値性判定</a> (yukicoder contest 412 (2023-11-10) - H問題、diff <font color="darkgoldenrod ">3217</font>)
 
 　
-<h2 id="真理値表">609. 真理値表</h2>
+<h2 id="真理値表">612. 真理値表</h2>
 
 ### 難易度統計
 
 「真理値表」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.5／diff <font color="darkgoldenrod ">3217</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★3.5／diff <font color="darkgoldenrod ">3217</font>
 - 2022年: ★データなし／diffデータなし
@@ -19489,12 +20178,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2540">No.2540 同値性判定</a> (yukicoder contest 412 (2023-11-10) - H問題、diff <font color="darkgoldenrod ">3217</font>)
 
 　
-<h2 id="非結合的マグマ演算に関する区間更新">610. 非結合的マグマ演算に関する区間更新</h2>
+<h2 id="非結合的マグマ演算に関する区間更新">613. 非結合的マグマ演算に関する区間更新</h2>
 
 ### 難易度統計
 
 「非結合的マグマ演算に関する区間更新」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.5／diff <font color="darkgoldenrod ">3217</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★3.5／diff <font color="darkgoldenrod ">3217</font>
 - 2022年: ★データなし／diffデータなし
@@ -19508,12 +20198,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2540">No.2540 同値性判定</a> (yukicoder contest 412 (2023-11-10) - H問題、diff <font color="darkgoldenrod ">3217</font>)
 
 　
-<h2 id="非結合的マグマ演算を自己写像に翻訳">611. 非結合的マグマ演算を自己写像に翻訳</h2>
+<h2 id="非結合的マグマ演算を自己写像に翻訳">614. 非結合的マグマ演算を自己写像に翻訳</h2>
 
 ### 難易度統計
 
 「非結合的マグマ演算を自己写像に翻訳」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.5／diff <font color="darkgoldenrod ">3217</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★3.5／diff <font color="darkgoldenrod ">3217</font>
 - 2022年: ★データなし／diffデータなし
@@ -19527,12 +20218,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2540">No.2540 同値性判定</a> (yukicoder contest 412 (2023-11-10) - H問題、diff <font color="darkgoldenrod ">3217</font>)
 
 　
-<h2 id="01列と根付き木の対応">612. 01列と根付き木の対応</h2>
+<h2 id="01列と根付き木の対応">615. 01列と根付き木の対応</h2>
 
 ### 難易度統計
 
 「01列と根付き木の対応」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.5／diffデータなし
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3.5／diffデータなし
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -19546,12 +20238,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2981">No.2981 Pack Tree into Grid</a> (Advent Calendar Contest 2024 (2024-12-01) - E問題、diffデータなし)
 
 　
-<h2 id="kd木">613. kd木</h2>
+<h2 id="kd木">616. kd木</h2>
 
 ### 難易度統計
 
 「kd木」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.5／diffデータなし
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3.5／diffデータなし
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -19565,12 +20258,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2909">No.2909 Imaginary Summer</a> (単発出題、diffデータなし)
 
 　
-<h2 id="グラフ畳み込み">614. グラフ畳み込み</h2>
+<h2 id="グラフ畳み込み">617. グラフ畳み込み</h2>
 
 ### 難易度統計
 
 「グラフ畳み込み」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.5／diffデータなし
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3.5／diffデータなし
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -19584,12 +20278,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2981">No.2981 Pack Tree into Grid</a> (Advent Calendar Contest 2024 (2024-12-01) - E問題、diffデータなし)
 
 　
-<h2 id="写像の構築">615. 写像の構築</h2>
+<h2 id="写像の構築">618. 写像の構築</h2>
 
 ### 難易度統計
 
 「写像の構築」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.5／diffデータなし
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3.5／diffデータなし
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -19603,12 +20298,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2981">No.2981 Pack Tree into Grid</a> (Advent Calendar Contest 2024 (2024-12-01) - E問題、diffデータなし)
 
 　
-<h2 id="全単射の構築">616. 全単射の構築</h2>
+<h2 id="全単射の構築">619. 全単射の構築</h2>
 
 ### 難易度統計
 
 「全単射の構築」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.5／diffデータなし
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3.5／diffデータなし
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -19622,12 +20318,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2981">No.2981 Pack Tree into Grid</a> (Advent Calendar Contest 2024 (2024-12-01) - E問題、diffデータなし)
 
 　
-<h2 id="ゲルファント変換">617. ゲルファント変換</h2>
+<h2 id="ゲルファント変換">620. ゲルファント変換</h2>
 
 ### 難易度統計
 
 「ゲルファント変換」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.6／diff <font color="orange">2569</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3.3／diff <font color="blue">1883</font>
 - 2023年: ★3.7／diff <font color="orange">2769</font>
 - 2022年: ★3.6／diff <font color="orange">2777</font>
@@ -19682,12 +20379,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2990">No.2990 Interval XOR</a> (Advent Calendar Contest 2024 (2024-12-01) - N問題、diffデータなし)
 
 　
-<h2 id="基底計算">618. 基底計算</h2>
+<h2 id="基底計算">621. 基底計算</h2>
 
 ### 難易度統計
 
 「基底計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.6／diff <font color="orange">2578</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★4／diff <font color="orange">2744</font>
 - 2022年: ★3／diff <font color="yellowgreen">2245</font>
@@ -19706,12 +20404,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2446">No.2446 完全列</a> (yukicoder contest 402 (2023-08-25) - F問題、diff <font color="orange">2609</font>)
 
 　
-<h2 id="次元計算">619. 次元計算</h2>
+<h2 id="次元計算">622. 次元計算</h2>
 
 ### 難易度統計
 
 「次元計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.6／diff <font color="orange">2578</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★4／diff <font color="orange">2744</font>
 - 2022年: ★3／diff <font color="yellowgreen">2245</font>
@@ -19730,12 +20429,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2446">No.2446 完全列</a> (yukicoder contest 402 (2023-08-25) - F問題、diff <font color="orange">2609</font>)
 
 　
-<h2 id="monotone minima">620. monotone minima</h2>
+<h2 id="monotone minima">623. monotone minima</h2>
 
 ### 難易度統計
 
 「monotone minima」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.7／diff <font color="yellowgreen">2354</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3.7／diff <font color="yellowgreen">2354</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -19753,12 +20453,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2988">No.2988 Min-Plus Convolution Query</a> (Advent Calendar Contest 2024 (2024-12-01) - L問題、diffデータなし)
 
 　
-<h2 id="２変数関数の１変数を固定した最大・最小値計算">621. ２変数関数の１変数を固定した最大・最小値計算</h2>
+<h2 id="２変数関数の１変数を固定した最大・最小値計算">624. ２変数関数の１変数を固定した最大・最小値計算</h2>
 
 ### 難易度統計
 
 「２変数関数の１変数を固定した最大・最小値計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.7／diff <font color="yellowgreen">2354</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3.7／diff <font color="yellowgreen">2354</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -19776,12 +20477,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2988">No.2988 Min-Plus Convolution Query</a> (Advent Calendar Contest 2024 (2024-12-01) - L問題、diffデータなし)
 
 　
-<h2 id="有向辺反転">622. 有向辺反転</h2>
+<h2 id="有向辺反転">625. 有向辺反転</h2>
 
 ### 難易度統計
 
 「有向辺反転」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.7／diff <font color="yellowgreen">2383</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★2.5／diff <font color="deepskyblue">1385</font>
 - 2022年: ★5／diff <font color="darkgoldenrod ">3382</font>
@@ -19799,12 +20501,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2160">No.2160 みたりのDominator</a> (Advent Calendar Contest 2022 (2022-12-01) - K問題、diff <font color="darkgoldenrod ">3382</font>)
 
 　
-<h2 id="強連結成分分解">623. 強連結成分分解</h2>
+<h2 id="強連結成分分解">626. 強連結成分分解</h2>
 
 ### 難易度統計
 
 「強連結成分分解」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.7／diff <font color="orange">2462</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★2.5／diff <font color="deepskyblue">1542</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★5／diff <font color="darkgoldenrod ">3382</font>
@@ -19822,12 +20525,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2160">No.2160 みたりのDominator</a> (Advent Calendar Contest 2022 (2022-12-01) - K問題、diff <font color="darkgoldenrod ">3382</font>)
 
 　
-<h2 id="低次項の追加による線形化">624. 低次項の追加による線形化</h2>
+<h2 id="低次項の追加による線形化">627. 低次項の追加による線形化</h2>
 
 ### 難易度統計
 
 「低次項の追加による線形化」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.7／diff <font color="orange">2592</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3.5／diff <font color="yellowgreen">2174</font>
 - 2023年: ★3.5／diff <font color="orange">2406</font>
 - 2022年: ★4.5／diff <font color="darkgoldenrod ">3382</font>
@@ -19851,12 +20555,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2163">No.2163 LCA Sum Query</a> (Advent Calendar Contest 2022 (2022-12-01) - N問題、diff <font color="darkgoldenrod ">3382</font>)
 
 　
-<h2 id="掃き出し法">625. 掃き出し法</h2>
+<h2 id="掃き出し法">628. 掃き出し法</h2>
 
 ### 難易度統計
 
 「掃き出し法」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.7／diff <font color="orange">2664</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3.2／diff <font color="yellowgreen">2008</font>
 - 2023年: ★4.1／diff <font color="red">2933</font>
 - 2022年: ★3／diff <font color="yellowgreen">2245</font>
@@ -19891,12 +20596,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2589">No.2589 Prepare Integers</a> (Advent Calendar Contest 2023 (2023-12-01) - Q問題、diff <font color="darkgoldenrod ">3503</font>)
 
 　
-<h2 id="畳み込み">626. 畳み込み</h2>
+<h2 id="畳み込み">629. 畳み込み</h2>
 
 ### 難易度統計
 
 「畳み込み」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.7／diff <font color="orange">2673</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3.3／diff <font color="yellowgreen">2263</font>
 - 2023年: ★4／diff <font color="orange">2788</font>
 - 2022年: ★3.8／diff <font color="red">2934</font>
@@ -19946,12 +20652,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2990">No.2990 Interval XOR</a> (Advent Calendar Contest 2024 (2024-12-01) - N問題、diffデータなし)
 
 　
-<h2 id="バケット分割">627. バケット分割</h2>
+<h2 id="バケット分割">630. バケット分割</h2>
 
 ### 難易度統計
 
 「バケット分割」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.8／diff <font color="orange">2655</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="yellowgreen">2004</font>
 - 2023年: ★3.7／diff <font color="orange">2519</font>
 - 2022年: ★5／diff <font color="darkgoldenrod ">3577</font>
@@ -19977,12 +20684,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2166">No.2166 Paint and Fill</a> (Advent Calendar Contest 2022 (2022-12-01) - S問題、diff <font color="darkgoldenrod ">3577</font>)
 
 　
-<h2 id="剰余の定理">628. 剰余の定理</h2>
+<h2 id="剰余の定理">631. 剰余の定理</h2>
 
 ### 難易度統計
 
 「剰余の定理」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.8／diff <font color="orange">2737</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★3.8／diff <font color="orange">2737</font>
 - 2022年: ★データなし／diffデータなし
@@ -20004,12 +20712,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2579">No.2579 Dice Sum Infinity (制約変更版)</a> (Advent Calendar Contest 2023 (2023-12-01) - G問題、diff <font color="red">3196</font>)
 
 　
-<h2 id="高速フーリエ変換">629. 高速フーリエ変換</h2>
+<h2 id="高速フーリエ変換">632. 高速フーリエ変換</h2>
 
 ### 難易度統計
 
 「高速フーリエ変換」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.9／diff <font color="orange">2769</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="blue">1989</font>
 - 2023年: ★4.2／diff <font color="red">2902</font>
 - 2022年: ★3.8／diff <font color="red">2934</font>
@@ -20047,12 +20756,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2583">No.2583 Differential Equation (Enhanced version)</a> (Advent Calendar Contest 2023 (2023-12-01) - K問題、diff <font color="darkgoldenrod ">3316</font>)
 
 　
-<h2 id="行列の階段化">630. 行列の階段化</h2>
+<h2 id="行列の階段化">633. 行列の階段化</h2>
 
 ### 難易度統計
 
 「行列の階段化」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.9／diff <font color="orange">2795</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★4.1／diff <font color="red">2933</font>
 - 2022年: ★3／diff <font color="yellowgreen">2245</font>
@@ -20079,12 +20789,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2589">No.2589 Prepare Integers</a> (Advent Calendar Contest 2023 (2023-12-01) - Q問題、diff <font color="darkgoldenrod ">3503</font>)
 
 　
-<h2 id="ラグランジュの定理">631. ラグランジュの定理</h2>
+<h2 id="ラグランジュの定理">634. ラグランジュの定理</h2>
 
 ### 難易度統計
 
 「ラグランジュの定理」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★4／diff <font color="orange">2556</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★4／diff <font color="orange">2556</font>
@@ -20098,12 +20809,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2122">No.2122 黄金比で擬似乱数生成</a> (yukicoder contest 367 (2022-11-04) - F問題、diff <font color="orange">2556</font>)
 
 　
-<h2 id="01列とヤング図形の対応">632. 01列とヤング図形の対応</h2>
+<h2 id="01列とヤング図形の対応">635. 01列とヤング図形の対応</h2>
 
 ### 難易度統計
 
 「01列とヤング図形の対応」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★4／diff <font color="orange">2583</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="yellowgreen">2081</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★5／diff <font color="red">3086</font>
@@ -20121,12 +20833,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2149">No.2149 Vanitas Vanitatum</a> (Advent Calendar Contest 2022 (2022-12-01) - F問題、diff <font color="red">3086</font>)
 
 　
-<h2 id="01列と単調増加列・分割の対応">633. 01列と単調増加列・分割の対応</h2>
+<h2 id="01列と単調増加列・分割の対応">636. 01列と単調増加列・分割の対応</h2>
 
 ### 難易度統計
 
 「01列と単調増加列・分割の対応」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★4／diff <font color="orange">2583</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="yellowgreen">2081</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★5／diff <font color="red">3086</font>
@@ -20144,12 +20857,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2149">No.2149 Vanitas Vanitatum</a> (Advent Calendar Contest 2022 (2022-12-01) - F問題、diff <font color="red">3086</font>)
 
 　
-<h2 id="冪乗との最大公約数の収束">634. 冪乗との最大公約数の収束</h2>
+<h2 id="冪乗との最大公約数の収束">637. 冪乗との最大公約数の収束</h2>
 
 ### 難易度統計
 
 「冪乗との最大公約数の収束」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★4／diff <font color="orange">2587</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★4.5／diffデータなし
 - 2023年: ★3.5／diff <font color="orange">2587</font>
 - 2022年: ★データなし／diffデータなし
@@ -20167,12 +20881,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2993">No.2993 冪乗乗 mod 冪乗</a> (Advent Calendar Contest 2024 (2024-12-01) - Q問題、diffデータなし)
 
 　
-<h2 id="グランスキーの定理">635. グランスキーの定理</h2>
+<h2 id="グランスキーの定理">638. グランスキーの定理</h2>
 
 ### 難易度統計
 
 「グランスキーの定理」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★4／diff <font color="orange">2660</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★4／diff <font color="orange">2660</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -20186,12 +20901,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2917">No.2917 二重木</a> (yukicoder contest 449 (2024-10-04) - H問題、diff <font color="orange">2660</font>)
 
 　
-<h2 id="ケーリーの公式">636. ケーリーの公式</h2>
+<h2 id="ケーリーの公式">639. ケーリーの公式</h2>
 
 ### 難易度統計
 
 「ケーリーの公式」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★4／diff <font color="orange">2660</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★4／diff <font color="orange">2660</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -20205,12 +20921,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2917">No.2917 二重木</a> (yukicoder contest 449 (2024-10-04) - H問題、diff <font color="orange">2660</font>)
 
 　
-<h2 id="ブレント・キュングの合成アルゴリズム">637. ブレント・キュングの合成アルゴリズム</h2>
+<h2 id="ブレント・キュングの合成アルゴリズム">640. ブレント・キュングの合成アルゴリズム</h2>
 
 ### 難易度統計
 
 「ブレント・キュングの合成アルゴリズム」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★4／diff <font color="orange">2660</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★4／diff <font color="orange">2660</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -20224,12 +20941,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2917">No.2917 二重木</a> (yukicoder contest 449 (2024-10-04) - H問題、diff <font color="orange">2660</font>)
 
 　
-<h2 id="ラグランジュ・ビューアマンの公式">638. ラグランジュ・ビューアマンの公式</h2>
+<h2 id="ラグランジュ・ビューアマンの公式">641. ラグランジュ・ビューアマンの公式</h2>
 
 ### 難易度統計
 
 「ラグランジュ・ビューアマンの公式」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★4／diff <font color="orange">2660</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★4／diff <font color="orange">2660</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -20243,12 +20961,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2917">No.2917 二重木</a> (yukicoder contest 449 (2024-10-04) - H問題、diff <font color="orange">2660</font>)
 
 　
-<h2 id="ラグランジュの反転公式">639. ラグランジュの反転公式</h2>
+<h2 id="ラグランジュの反転公式">642. ラグランジュの反転公式</h2>
 
 ### 難易度統計
 
 「ラグランジュの反転公式」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★4／diff <font color="orange">2660</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★4／diff <font color="orange">2660</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -20262,12 +20981,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2917">No.2917 二重木</a> (yukicoder contest 449 (2024-10-04) - H問題、diff <font color="orange">2660</font>)
 
 　
-<h2 id="ランベルトの$W$関数">640. ランベルトの$W$関数</h2>
+<h2 id="ランベルトの$W$関数">643. ランベルトの$W$関数</h2>
 
 ### 難易度統計
 
 「ランベルトの$W$関数」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★4／diff <font color="orange">2660</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★4／diff <font color="orange">2660</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -20281,12 +21001,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2917">No.2917 二重木</a> (yukicoder contest 449 (2024-10-04) - H問題、diff <font color="orange">2660</font>)
 
 　
-<h2 id="形式冪級数の逆関数計算">641. 形式冪級数の逆関数計算</h2>
+<h2 id="形式冪級数の逆関数計算">644. 形式冪級数の逆関数計算</h2>
 
 ### 難易度統計
 
 「形式冪級数の逆関数計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★4／diff <font color="orange">2660</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★4／diff <font color="orange">2660</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -20300,12 +21021,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2917">No.2917 二重木</a> (yukicoder contest 449 (2024-10-04) - H問題、diff <font color="orange">2660</font>)
 
 　
-<h2 id="組合せ論的種">642. 組合せ論的種</h2>
+<h2 id="組合せ論的種">645. 組合せ論的種</h2>
 
 ### 難易度統計
 
 「組合せ論的種」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★4／diff <font color="orange">2660</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★4／diff <font color="orange">2660</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -20319,12 +21041,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2917">No.2917 二重木</a> (yukicoder contest 449 (2024-10-04) - H問題、diff <font color="orange">2660</font>)
 
 　
-<h2 id="Toeplitz行列">643. Toeplitz行列</h2>
+<h2 id="Toeplitz行列">646. Toeplitz行列</h2>
 
 ### 難易度統計
 
 「Toeplitz行列」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★4／diff <font color="orange">2719</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★4／diff <font color="orange">2719</font>
 - 2022年: ★データなし／diffデータなし
@@ -20338,12 +21061,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2396">No.2396 等差二項展開</a> (yukicoder contest 399 (2023-07-28) - E問題、diff <font color="orange">2719</font>)
 
 　
-<h2 id="ホモロジー計算">644. ホモロジー計算</h2>
+<h2 id="ホモロジー計算">647. ホモロジー計算</h2>
 
 ### 難易度統計
 
 「ホモロジー計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★4／diff <font color="orange">2744</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★4／diff <font color="orange">2744</font>
 - 2022年: ★データなし／diffデータなし
@@ -20358,12 +21082,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2446">No.2446 完全列</a> (yukicoder contest 402 (2023-08-25) - F問題、diff <font color="orange">2609</font>)
 
 　
-<h2 id="次元定理">645. 次元定理</h2>
+<h2 id="次元定理">648. 次元定理</h2>
 
 ### 難易度統計
 
 「次元定理」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★4／diff <font color="orange">2744</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★4／diff <font color="orange">2744</font>
 - 2022年: ★データなし／diffデータなし
@@ -20378,12 +21103,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2446">No.2446 完全列</a> (yukicoder contest 402 (2023-08-25) - F問題、diff <font color="orange">2609</font>)
 
 　
-<h2 id="カーマイケル関数">646. カーマイケル関数</h2>
+<h2 id="カーマイケル関数">649. カーマイケル関数</h2>
 
 ### 難易度統計
 
 「カーマイケル関数」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★4／diff <font color="orange">2749</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★4／diff <font color="orange">2749</font>
 - 2022年: ★データなし／diffデータなし
@@ -20397,12 +21123,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2193">No.2193 メガの下１桁</a> (yukicoder contest 373 (2023-01-13) - J問題、diff <font color="orange">2749</font>)
 
 　
-<h2 id="冪乗タワー計算">647. 冪乗タワー計算</h2>
+<h2 id="冪乗タワー計算">650. 冪乗タワー計算</h2>
 
 ### 難易度統計
 
 「冪乗タワー計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★4／diff <font color="orange">2749</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★4／diff <font color="orange">2749</font>
 - 2022年: ★データなし／diffデータなし
@@ -20416,12 +21143,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2193">No.2193 メガの下１桁</a> (yukicoder contest 373 (2023-01-13) - J問題、diff <font color="orange">2749</font>)
 
 　
-<h2 id="小さい法に帰着させる再帰">648. 小さい法に帰着させる再帰</h2>
+<h2 id="小さい法に帰着させる再帰">651. 小さい法に帰着させる再帰</h2>
 
 ### 難易度統計
 
 「小さい法に帰着させる再帰」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★4／diff <font color="orange">2768</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★4／diff <font color="orange">2768</font>
 - 2022年: ★データなし／diffデータなし
@@ -20435,12 +21163,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2344">No.2344 (l+r)^2</a> (yukicoder contest 392 (2023-06-09) - B問題、diff <font color="orange">2768</font>)
 
 　
-<h2 id="合成関数の微分法">649. 合成関数の微分法</h2>
+<h2 id="合成関数の微分法">652. 合成関数の微分法</h2>
 
 ### 難易度統計
 
 「合成関数の微分法」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★4／diff <font color="red">3030</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★4／diff <font color="red">3030</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -20454,12 +21183,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2976">No.2976 高階多点評価</a> (yukicoder contest 454 (2024-11-29) - H問題、diff <font color="red">3030</font>)
 
 　
-<h2 id="第二種チェビシェフ多項式">650. 第二種チェビシェフ多項式</h2>
+<h2 id="第二種チェビシェフ多項式">653. 第二種チェビシェフ多項式</h2>
 
 ### 難易度統計
 
 「第二種チェビシェフ多項式」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★4／diff <font color="red">3030</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★4／diff <font color="red">3030</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -20473,12 +21203,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2976">No.2976 高階多点評価</a> (yukicoder contest 454 (2024-11-29) - H問題、diff <font color="red">3030</font>)
 
 　
-<h2 id="部分分数分解">651. 部分分数分解</h2>
+<h2 id="部分分数分解">654. 部分分数分解</h2>
 
 ### 難易度統計
 
 「部分分数分解」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★4／diff <font color="red">3030</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★4／diff <font color="red">3030</font>
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -20492,12 +21223,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2976">No.2976 高階多点評価</a> (yukicoder contest 454 (2024-11-29) - H問題、diff <font color="red">3030</font>)
 
 　
-<h2 id="順序数に翻訳">652. 順序数に翻訳</h2>
+<h2 id="順序数に翻訳">655. 順序数に翻訳</h2>
 
 ### 難易度統計
 
 「順序数に翻訳」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★4／diff <font color="red">3040</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★3／diff <font color="red">2831</font>
 - 2023年: ★4／diff <font color="red">2930</font>
 - 2022年: ★5／diff <font color="darkgoldenrod ">3577</font>
@@ -20521,12 +21253,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2398">No.2398 ヒドラ崩し</a> (yukicoder contest 399 (2023-07-28) - G問題、diff <font color="red">3178</font>)
 
 　
-<h2 id="シュミットの直交化法">653. シュミットの直交化法</h2>
+<h2 id="シュミットの直交化法">656. シュミットの直交化法</h2>
 
 ### 難易度統計
 
 「シュミットの直交化法」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★4／diff <font color="red">3053</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★4／diff <font color="red">3053</font>
 - 2022年: ★データなし／diffデータなし
@@ -20540,12 +21273,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2447">No.2447 行列累乗根</a> (yukicoder contest 402 (2023-08-25) - G問題、diff <font color="red">3053</font>)
 
 　
-<h2 id="対角化">654. 対角化</h2>
+<h2 id="対角化">657. 対角化</h2>
 
 ### 難易度統計
 
 「対角化」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★4／diff <font color="red">3053</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★4／diff <font color="red">3053</font>
 - 2022年: ★データなし／diffデータなし
@@ -20559,12 +21293,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2447">No.2447 行列累乗根</a> (yukicoder contest 402 (2023-08-25) - G問題、diff <font color="red">3053</font>)
 
 　
-<h2 id="立方根計算">655. 立方根計算</h2>
+<h2 id="立方根計算">658. 立方根計算</h2>
 
 ### 難易度統計
 
 「立方根計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★4／diff <font color="red">3053</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★4／diff <font color="red">3053</font>
 - 2022年: ★データなし／diffデータなし
@@ -20578,12 +21313,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2447">No.2447 行列累乗根</a> (yukicoder contest 402 (2023-08-25) - G問題、diff <font color="red">3053</font>)
 
 　
-<h2 id="汎関数計算">656. 汎関数計算</h2>
+<h2 id="汎関数計算">659. 汎関数計算</h2>
 
 ### 難易度統計
 
 「汎関数計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★4／diff <font color="red">3119</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★4／diff <font color="red">3119</font>
 - 2022年: ★データなし／diffデータなし
@@ -20598,12 +21334,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2448">No.2448 一次変換と面積</a> (yukicoder contest 402 (2023-08-25) - H問題、diff <font color="red">3185</font>)
 
 　
-<h2 id="ジョルダン分解">657. ジョルダン分解</h2>
+<h2 id="ジョルダン分解">660. ジョルダン分解</h2>
 
 ### 難易度統計
 
 「ジョルダン分解」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★4／diff <font color="red">3185</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★4／diff <font color="red">3185</font>
 - 2022年: ★データなし／diffデータなし
@@ -20617,12 +21354,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2448">No.2448 一次変換と面積</a> (yukicoder contest 402 (2023-08-25) - H問題、diff <font color="red">3185</font>)
 
 　
-<h2 id="XOR畳み込み">658. XOR畳み込み</h2>
+<h2 id="XOR畳み込み">661. XOR畳み込み</h2>
 
 ### 難易度統計
 
 「XOR畳み込み」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★4／diffデータなし
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★4／diffデータなし
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -20640,12 +21378,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2990">No.2990 Interval XOR</a> (Advent Calendar Contest 2024 (2024-12-01) - N問題、diffデータなし)
 
 　
-<h2 id="ピタゴラス数数え上げ">659. ピタゴラス数数え上げ</h2>
+<h2 id="ピタゴラス数数え上げ">662. ピタゴラス数数え上げ</h2>
 
 ### 難易度統計
 
 「ピタゴラス数数え上げ」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★4／diffデータなし
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★4／diffデータなし
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -20659,12 +21398,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2979">No.2979 直角三角形の個数</a> (Advent Calendar Contest 2024 (2024-12-01) - C問題、diffデータなし)
 
 　
-<h2 id="奇数条件を緩和して$2$冪で包除">660. 奇数条件を緩和して$2$冪で包除</h2>
+<h2 id="奇数条件を緩和して$2$冪で包除">663. 奇数条件を緩和して$2$冪で包除</h2>
 
 ### 難易度統計
 
 「奇数条件を緩和して$2$冪で包除」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★4／diffデータなし
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★4／diffデータなし
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -20678,12 +21418,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2979">No.2979 直角三角形の個数</a> (Advent Calendar Contest 2024 (2024-12-01) - C問題、diffデータなし)
 
 　
-<h2 id="原始ピタゴラス数木">661. 原始ピタゴラス数木</h2>
+<h2 id="原始ピタゴラス数木">664. 原始ピタゴラス数木</h2>
 
 ### 難易度統計
 
 「原始ピタゴラス数木」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★4／diffデータなし
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★4／diffデータなし
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -20697,12 +21438,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2979">No.2979 直角三角形の個数</a> (Advent Calendar Contest 2024 (2024-12-01) - C問題、diffデータなし)
 
 　
-<h2 id="全域有向木計算">662. 全域有向木計算</h2>
+<h2 id="全域有向木計算">665. 全域有向木計算</h2>
 
 ### 難易度統計
 
 「全域有向木計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★4／diffデータなし
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★4／diffデータなし
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -20716,12 +21458,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2998">No.2998 Rainbow Christmas Tree</a> (Advent Calendar Contest 2024 (2024-12-01) - V問題、diffデータなし)
 
 　
-<h2 id="凸集合の格子点数え上げ">663. 凸集合の格子点数え上げ</h2>
+<h2 id="凸集合の格子点数え上げ">666. 凸集合の格子点数え上げ</h2>
 
 ### 難易度統計
 
 「凸集合の格子点数え上げ」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★4／diffデータなし
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★4／diffデータなし
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -20735,12 +21478,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2979">No.2979 直角三角形の個数</a> (Advent Calendar Contest 2024 (2024-12-01) - C問題、diffデータなし)
 
 　
-<h2 id="虹色全域木計算">664. 虹色全域木計算</h2>
+<h2 id="虹色全域木計算">667. 虹色全域木計算</h2>
 
 ### 難易度統計
 
 「虹色全域木計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★4／diffデータなし
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★4／diffデータなし
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -20754,12 +21498,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2998">No.2998 Rainbow Christmas Tree</a> (Advent Calendar Contest 2024 (2024-12-01) - V問題、diffデータなし)
 
 　
-<h2 id="データ構造をマージする一般的なテク">665. データ構造をマージする一般的なテク</h2>
+<h2 id="データ構造をマージする一般的なテク">668. データ構造をマージする一般的なテク</h2>
 
 ### 難易度統計
 
 「データ構造をマージする一般的なテク」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★4.3／diff <font color="red">3090</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★4.7／diff <font color="red">3055</font>
 - 2022年: ★4／diff <font color="red">3125</font>
@@ -20782,12 +21527,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2556">No.2556 Increasing Matrix</a> (Advent Calendar Contest 2023 (2023-12-01) - B問題、diff <font color="orange">2795</font>)
 
 　
-<h2 id="演算の反復の分割統治">666. 演算の反復の分割統治</h2>
+<h2 id="演算の反復の分割統治">669. 演算の反復の分割統治</h2>
 
 ### 難易度統計
 
 「演算の反復の分割統治」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★4.3／diff <font color="red">3090</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★4.7／diff <font color="red">3055</font>
 - 2022年: ★4／diff <font color="red">3125</font>
@@ -20810,12 +21556,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2556">No.2556 Increasing Matrix</a> (Advent Calendar Contest 2023 (2023-12-01) - B問題、diff <font color="orange">2795</font>)
 
 　
-<h2 id="構文解析">667. 構文解析</h2>
+<h2 id="構文解析">670. 構文解析</h2>
 
 ### 難易度統計
 
 「構文解析」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★4.3／diff <font color="darkgoldenrod ">3271</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★4.3／diff <font color="red">3169</font>
 - 2022年: ★4.2／diff <font color="darkgoldenrod ">3577</font>
@@ -20839,12 +21586,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2398">No.2398 ヒドラ崩し</a> (yukicoder contest 399 (2023-07-28) - G問題、diff <font color="red">3178</font>)
 
 　
-<h2 id="Bostan-Mori法">668. Bostan-Mori法</h2>
+<h2 id="Bostan-Mori法">671. Bostan-Mori法</h2>
 
 ### 難易度統計
 
 「Bostan-Mori法」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★4.5／diff <font color="red">2957</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★4.5／diff <font color="red">2957</font>
 - 2022年: ★データなし／diffデータなし
@@ -20862,12 +21610,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2579">No.2579 Dice Sum Infinity (制約変更版)</a> (Advent Calendar Contest 2023 (2023-12-01) - G問題、diff <font color="red">3196</font>)
 
 　
-<h2 id="巡回畳み込み">669. 巡回畳み込み</h2>
+<h2 id="巡回畳み込み">672. 巡回畳み込み</h2>
 
 ### 難易度統計
 
 「巡回畳み込み」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★4.5／diff <font color="red">2957</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★4.5／diff <font color="red">2957</font>
 - 2022年: ★データなし／diffデータなし
@@ -20885,12 +21634,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2579">No.2579 Dice Sum Infinity (制約変更版)</a> (Advent Calendar Contest 2023 (2023-12-01) - G問題、diff <font color="red">3196</font>)
 
 　
-<h2 id="ファウルハーバーの公式">670. ファウルハーバーの公式</h2>
+<h2 id="ファウルハーバーの公式">673. ファウルハーバーの公式</h2>
 
 ### 難易度統計
 
 「ファウルハーバーの公式」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★4.5／diff <font color="red">3103</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★4.5／diffデータなし
 - 2023年: ★4.5／diff <font color="red">3103</font>
 - 2022年: ★データなし／diffデータなし
@@ -20905,12 +21655,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2996">No.2996 Floor Sum</a> (Advent Calendar Contest 2024 (2024-12-01) - T問題、diffデータなし)
 
 　
-<h2 id="高階微分計算">671. 高階微分計算</h2>
+<h2 id="高階微分計算">674. 高階微分計算</h2>
 
 ### 難易度統計
 
 「高階微分計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★4.5／diff <font color="red">3173</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★4／diff <font color="red">3030</font>
 - 2023年: ★5／diff <font color="darkgoldenrod ">3316</font>
 - 2022年: ★データなし／diffデータなし
@@ -20928,12 +21679,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2583">No.2583 Differential Equation (Enhanced version)</a> (Advent Calendar Contest 2023 (2023-12-01) - K問題、diff <font color="darkgoldenrod ">3316</font>)
 
 　
-<h2 id="カントール標準形">672. カントール標準形</h2>
+<h2 id="カントール標準形">675. カントール標準形</h2>
 
 ### 難易度統計
 
 「カントール標準形」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★4.5／diff <font color="red">3178</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★4.5／diff <font color="red">3178</font>
 - 2022年: ★データなし／diffデータなし
@@ -20951,12 +21703,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2398">No.2398 ヒドラ崩し</a> (yukicoder contest 399 (2023-07-28) - G問題、diff <font color="red">3178</font>)
 
 　
-<h2 id="parallel tree contraction">673. parallel tree contraction</h2>
+<h2 id="parallel tree contraction">676. parallel tree contraction</h2>
 
 ### 難易度統計
 
 「parallel tree contraction」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★4.5／diff <font color="darkgoldenrod ">3316</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★4.5／diff <font color="darkgoldenrod ">3316</font>
 - 2022年: ★データなし／diffデータなし
@@ -20970,12 +21723,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2595">No.2595 Parsing Challenge</a> (Advent Calendar Contest 2023 (2023-12-01) - W問題、diff <font color="darkgoldenrod ">3316</font>)
 
 　
-<h2 id="演算の適用を一次式の合成に翻訳">674. 演算の適用を一次式の合成に翻訳</h2>
+<h2 id="演算の適用を一次式の合成に翻訳">677. 演算の適用を一次式の合成に翻訳</h2>
 
 ### 難易度統計
 
 「演算の適用を一次式の合成に翻訳」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★4.5／diff <font color="darkgoldenrod ">3316</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★4.5／diff <font color="darkgoldenrod ">3316</font>
 - 2022年: ★データなし／diffデータなし
@@ -20989,12 +21743,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2595">No.2595 Parsing Challenge</a> (Advent Calendar Contest 2023 (2023-12-01) - W問題、diff <font color="darkgoldenrod ">3316</font>)
 
 　
-<h2 id="重軽分解">675. 重軽分解</h2>
+<h2 id="重軽分解">678. 重軽分解</h2>
 
 ### 難易度統計
 
 「重軽分解」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★4.5／diff <font color="darkgoldenrod ">3349</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★4.5／diff <font color="darkgoldenrod ">3316</font>
 - 2022年: ★4.5／diff <font color="darkgoldenrod ">3382</font>
@@ -21009,12 +21764,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2595">No.2595 Parsing Challenge</a> (Advent Calendar Contest 2023 (2023-12-01) - W問題、diff <font color="darkgoldenrod ">3316</font>)
 
 　
-<h2 id="区間多項式和取得">676. 区間多項式和取得</h2>
+<h2 id="区間多項式和取得">679. 区間多項式和取得</h2>
 
 ### 難易度統計
 
 「区間多項式和取得」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★4.5／diff <font color="darkgoldenrod ">3382</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★4.5／diff <font color="darkgoldenrod ">3382</font>
@@ -21028,12 +21784,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2163">No.2163 LCA Sum Query</a> (Advent Calendar Contest 2022 (2022-12-01) - N問題、diff <font color="darkgoldenrod ">3382</font>)
 
 　
-<h2 id="$\epsilon N$論法">677. $\epsilon N$論法</h2>
+<h2 id="$\epsilon N$論法">680. $\epsilon N$論法</h2>
 
 ### 難易度統計
 
 「$\epsilon N$論法」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★4.5／diffデータなし
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★4.5／diffデータなし
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -21047,12 +21804,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2993">No.2993 冪乗乗 mod 冪乗</a> (Advent Calendar Contest 2024 (2024-12-01) - Q問題、diffデータなし)
 
 　
-<h2 id=",誘導部分グラフ数え上げを部分グラフ数え上げに帰着">678. ,誘導部分グラフ数え上げを部分グラフ数え上げに帰着</h2>
+<h2 id=",誘導部分グラフ数え上げを部分グラフ数え上げに帰着">681. ,誘導部分グラフ数え上げを部分グラフ数え上げに帰着</h2>
 
 ### 難易度統計
 
 「,誘導部分グラフ数え上げを部分グラフ数え上げに帰着」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★4.5／diffデータなし
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★4.5／diffデータなし
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -21066,12 +21824,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2985">No.2985 May Count Induced C4 Subgraphs</a> (Advent Calendar Contest 2024 (2024-12-01) - I問題、diffデータなし)
 
 　
-<h2 id="COMPLETE法">679. COMPLETE法</h2>
+<h2 id="COMPLETE法">682. COMPLETE法</h2>
 
 ### 難易度統計
 
 「COMPLETE法」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★4.5／diffデータなし
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★4.5／diffデータなし
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -21085,12 +21844,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2985">No.2985 May Count Induced C4 Subgraphs</a> (Advent Calendar Contest 2024 (2024-12-01) - I問題、diffデータなし)
 
 　
-<h2 id="SMAWKアルゴリズム">680. SMAWKアルゴリズム</h2>
+<h2 id="SMAWKアルゴリズム">683. SMAWKアルゴリズム</h2>
 
 ### 難易度統計
 
 「SMAWKアルゴリズム」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★4.5／diffデータなし
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★4.5／diffデータなし
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -21104,12 +21864,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2988">No.2988 Min-Plus Convolution Query</a> (Advent Calendar Contest 2024 (2024-12-01) - L問題、diffデータなし)
 
 　
-<h2 id="monge性">681. monge性</h2>
+<h2 id="monge性">684. monge性</h2>
 
 ### 難易度統計
 
 「monge性」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★4.5／diffデータなし
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★4.5／diffデータなし
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -21123,12 +21884,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2988">No.2988 Min-Plus Convolution Query</a> (Advent Calendar Contest 2024 (2024-12-01) - L問題、diffデータなし)
 
 　
-<h2 id="totally monotonic性">682. totally monotonic性</h2>
+<h2 id="totally monotonic性">685. totally monotonic性</h2>
 
 ### 難易度統計
 
 「totally monotonic性」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★4.5／diffデータなし
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★4.5／diffデータなし
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -21142,12 +21904,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2988">No.2988 Min-Plus Convolution Query</a> (Advent Calendar Contest 2024 (2024-12-01) - L問題、diffデータなし)
 
 　
-<h2 id="部分グラフ数え上げ">683. 部分グラフ数え上げ</h2>
+<h2 id="部分グラフ数え上げ">686. 部分グラフ数え上げ</h2>
 
 ### 難易度統計
 
 「部分グラフ数え上げ」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★4.5／diffデータなし
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★4.5／diffデータなし
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -21161,12 +21924,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2985">No.2985 May Count Induced C4 Subgraphs</a> (Advent Calendar Contest 2024 (2024-12-01) - I問題、diffデータなし)
 
 　
-<h2 id="誘導部分グラフ数え上げ">684. 誘導部分グラフ数え上げ</h2>
+<h2 id="誘導部分グラフ数え上げ">687. 誘導部分グラフ数え上げ</h2>
 
 ### 難易度統計
 
 「誘導部分グラフ数え上げ」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★4.5／diffデータなし
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★4.5／diffデータなし
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -21180,12 +21944,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2985">No.2985 May Count Induced C4 Subgraphs</a> (Advent Calendar Contest 2024 (2024-12-01) - I問題、diffデータなし)
 
 　
-<h2 id="彩色の構築">685. 彩色の構築</h2>
+<h2 id="彩色の構築">688. 彩色の構築</h2>
 
 ### 難易度統計
 
 「彩色の構築」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★4.6／diff <font color="darkgoldenrod ">3257</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★4.5／diffデータなし
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★5／diff <font color="darkgoldenrod ">3257</font>
@@ -21204,12 +21969,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2987">No.2987 Colorful University of Tree</a> (Advent Calendar Contest 2024 (2024-12-01) - K問題、diffデータなし)
 
 　
-<h2 id="順序数表記">686. 順序数表記</h2>
+<h2 id="順序数表記">689. 順序数表記</h2>
 
 ### 難易度統計
 
 「順序数表記」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★4.6／diff <font color="darkgoldenrod ">3311</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★4.5／diff <font color="red">3178</font>
 - 2022年: ★5／diff <font color="darkgoldenrod ">3577</font>
@@ -21228,12 +21994,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2398">No.2398 ヒドラ崩し</a> (yukicoder contest 399 (2023-07-28) - G問題、diff <font color="red">3178</font>)
 
 　
-<h2 id="Polynomial Taylor shift">687. Polynomial Taylor shift</h2>
+<h2 id="Polynomial Taylor shift">690. Polynomial Taylor shift</h2>
 
 ### 難易度統計
 
 「Polynomial Taylor shift」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★4.7／diff <font color="darkgoldenrod ">3209</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★4.7／diff <font color="darkgoldenrod ">3209</font>
 - 2022年: ★データなし／diffデータなし
@@ -21251,12 +22018,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2583">No.2583 Differential Equation (Enhanced version)</a> (Advent Calendar Contest 2023 (2023-12-01) - K問題、diff <font color="darkgoldenrod ">3316</font>)
 
 　
-<h2 id="配列をセグ木状に分割して管理">688. 配列をセグ木状に分割して管理</h2>
+<h2 id="配列をセグ木状に分割して管理">691. 配列をセグ木状に分割して管理</h2>
 
 ### 難易度統計
 
 「配列をセグ木状に分割して管理」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★4.7／diffデータなし
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★4.7／diffデータなし
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -21274,12 +22042,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2990">No.2990 Interval XOR</a> (Advent Calendar Contest 2024 (2024-12-01) - N問題、diffデータなし)
 
 　
-<h2 id="Lindstrom-Gessel-Viennotの補題">689. Lindstrom-Gessel-Viennotの補題</h2>
+<h2 id="Lindstrom-Gessel-Viennotの補題">692. Lindstrom-Gessel-Viennotの補題</h2>
 
 ### 難易度統計
 
 「Lindstrom-Gessel-Viennotの補題」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★5／diff <font color="orange">2795</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★5／diff <font color="orange">2795</font>
 - 2022年: ★データなし／diffデータなし
@@ -21293,12 +22062,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2556">No.2556 Increasing Matrix</a> (Advent Calendar Contest 2023 (2023-12-01) - B問題、diff <font color="orange">2795</font>)
 
 　
-<h2 id="ファンデルモンドの行列式計算">690. ファンデルモンドの行列式計算</h2>
+<h2 id="ファンデルモンドの行列式計算">693. ファンデルモンドの行列式計算</h2>
 
 ### 難易度統計
 
 「ファンデルモンドの行列式計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★5／diff <font color="orange">2795</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★5／diff <font color="orange">2795</font>
 - 2022年: ★データなし／diffデータなし
@@ -21312,12 +22082,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2556">No.2556 Increasing Matrix</a> (Advent Calendar Contest 2023 (2023-12-01) - B問題、diff <font color="orange">2795</font>)
 
 　
-<h2 id="差積計算">691. 差積計算</h2>
+<h2 id="差積計算">694. 差積計算</h2>
 
 ### 難易度統計
 
 「差積計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★5／diff <font color="orange">2795</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★5／diff <font color="orange">2795</font>
 - 2022年: ★データなし／diffデータなし
@@ -21331,12 +22102,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2556">No.2556 Increasing Matrix</a> (Advent Calendar Contest 2023 (2023-12-01) - B問題、diff <font color="orange">2795</font>)
 
 　
-<h2 id="半標準ヤングタブローとGelfand-Tsetlinパターンの対応">692. 半標準ヤングタブローとGelfand-Tsetlinパターンの対応</h2>
+<h2 id="半標準ヤングタブローとGelfand-Tsetlinパターンの対応">695. 半標準ヤングタブローとGelfand-Tsetlinパターンの対応</h2>
 
 ### 難易度統計
 
 「半標準ヤングタブローとGelfand-Tsetlinパターンの対応」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★5／diff <font color="orange">2795</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★5／diff <font color="orange">2795</font>
 - 2022年: ★データなし／diffデータなし
@@ -21350,12 +22122,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2556">No.2556 Increasing Matrix</a> (Advent Calendar Contest 2023 (2023-12-01) - B問題、diff <font color="orange">2795</font>)
 
 　
-<h2 id="半標準ヤングタブローと非交差経路の対応">693. 半標準ヤングタブローと非交差経路の対応</h2>
+<h2 id="半標準ヤングタブローと非交差経路の対応">696. 半標準ヤングタブローと非交差経路の対応</h2>
 
 ### 難易度統計
 
 「半標準ヤングタブローと非交差経路の対応」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★5／diff <font color="orange">2795</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★5／diff <font color="orange">2795</font>
 - 2022年: ★データなし／diffデータなし
@@ -21369,12 +22142,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2556">No.2556 Increasing Matrix</a> (Advent Calendar Contest 2023 (2023-12-01) - B問題、diff <font color="orange">2795</font>)
 
 　
-<h2 id="半標準ヤングタブローに翻訳">694. 半標準ヤングタブローに翻訳</h2>
+<h2 id="半標準ヤングタブローに翻訳">697. 半標準ヤングタブローに翻訳</h2>
 
 ### 難易度統計
 
 「半標準ヤングタブローに翻訳」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★5／diff <font color="orange">2795</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★5／diff <font color="orange">2795</font>
 - 2022年: ★データなし／diffデータなし
@@ -21388,12 +22162,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2556">No.2556 Increasing Matrix</a> (Advent Calendar Contest 2023 (2023-12-01) - B問題、diff <font color="orange">2795</font>)
 
 　
-<h2 id="フック長公式">695. フック長公式</h2>
+<h2 id="フック長公式">698. フック長公式</h2>
 
 ### 難易度統計
 
 「フック長公式」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★5／diff <font color="red">3086</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★5／diff <font color="red">3086</font>
@@ -21407,12 +22182,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2149">No.2149 Vanitas Vanitatum</a> (Advent Calendar Contest 2022 (2022-12-01) - F問題、diff <font color="red">3086</font>)
 
 　
-<h2 id="標準ヤングタブローに翻訳">696. 標準ヤングタブローに翻訳</h2>
+<h2 id="標準ヤングタブローに翻訳">699. 標準ヤングタブローに翻訳</h2>
 
 ### 難易度統計
 
 「標準ヤングタブローに翻訳」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★5／diff <font color="red">3086</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★5／diff <font color="red">3086</font>
@@ -21426,12 +22202,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2149">No.2149 Vanitas Vanitatum</a> (Advent Calendar Contest 2022 (2022-12-01) - F問題、diff <font color="red">3086</font>)
 
 　
-<h2 id="多点評価">697. 多点評価</h2>
+<h2 id="多点評価">700. 多点評価</h2>
 
 ### 難易度統計
 
 「多点評価」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★5／diff <font color="red">3186</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★5／diff <font color="orange">2795</font>
 - 2022年: ★5／diff <font color="darkgoldenrod ">3577</font>
@@ -21446,12 +22223,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2556">No.2556 Increasing Matrix</a> (Advent Calendar Contest 2023 (2023-12-01) - B問題、diff <font color="orange">2795</font>)
 
 　
-<h2 id="多項式のユークリッドの互除法">698. 多項式のユークリッドの互除法</h2>
+<h2 id="多項式のユークリッドの互除法">701. 多項式のユークリッドの互除法</h2>
 
 ### 難易度統計
 
 「多項式のユークリッドの互除法」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★5／diff <font color="red">3196</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★5／diff <font color="red">3196</font>
 - 2022年: ★データなし／diffデータなし
@@ -21465,12 +22243,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2579">No.2579 Dice Sum Infinity (制約変更版)</a> (Advent Calendar Contest 2023 (2023-12-01) - G問題、diff <font color="red">3196</font>)
 
 　
-<h2 id="多項式を法とする逆元計算">699. 多項式を法とする逆元計算</h2>
+<h2 id="多項式を法とする逆元計算">702. 多項式を法とする逆元計算</h2>
 
 ### 難易度統計
 
 「多項式を法とする逆元計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★5／diff <font color="red">3196</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★5／diff <font color="red">3196</font>
 - 2022年: ★データなし／diffデータなし
@@ -21484,12 +22263,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2579">No.2579 Dice Sum Infinity (制約変更版)</a> (Advent Calendar Contest 2023 (2023-12-01) - G問題、diff <font color="red">3196</font>)
 
 　
-<h2 id="一次分数変換">700. 一次分数変換</h2>
+<h2 id="一次分数変換">703. 一次分数変換</h2>
 
 ### 難易度統計
 
 「一次分数変換」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★5／diff <font color="darkgoldenrod ">3316</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★5／diff <font color="darkgoldenrod ">3316</font>
 - 2022年: ★データなし／diffデータなし
@@ -21503,12 +22283,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2583">No.2583 Differential Equation (Enhanced version)</a> (Advent Calendar Contest 2023 (2023-12-01) - K問題、diff <font color="darkgoldenrod ">3316</font>)
 
 　
-<h2 id="一次分数変換と対数関数による変数変換の合成">701. 一次分数変換と対数関数による変数変換の合成</h2>
+<h2 id="一次分数変換と対数関数による変数変換の合成">704. 一次分数変換と対数関数による変数変換の合成</h2>
 
 ### 難易度統計
 
 「一次分数変換と対数関数による変数変換の合成」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★5／diff <font color="darkgoldenrod ">3316</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★5／diff <font color="darkgoldenrod ">3316</font>
 - 2022年: ★データなし／diffデータなし
@@ -21522,12 +22303,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2583">No.2583 Differential Equation (Enhanced version)</a> (Advent Calendar Contest 2023 (2023-12-01) - K問題、diff <font color="darkgoldenrod ">3316</font>)
 
 　
-<h2 id="指数関数による変数変換と一次分数変換の合成">702. 指数関数による変数変換と一次分数変換の合成</h2>
+<h2 id="指数関数による変数変換と一次分数変換の合成">705. 指数関数による変数変換と一次分数変換の合成</h2>
 
 ### 難易度統計
 
 「指数関数による変数変換と一次分数変換の合成」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★5／diff <font color="darkgoldenrod ">3316</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★5／diff <font color="darkgoldenrod ">3316</font>
 - 2022年: ★データなし／diffデータなし
@@ -21541,12 +22323,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2583">No.2583 Differential Equation (Enhanced version)</a> (Advent Calendar Contest 2023 (2023-12-01) - K問題、diff <font color="darkgoldenrod ">3316</font>)
 
 　
-<h2 id="微分作用素を変数変換で簡易化">703. 微分作用素を変数変換で簡易化</h2>
+<h2 id="微分作用素を変数変換で簡易化">706. 微分作用素を変数変換で簡易化</h2>
 
 ### 難易度統計
 
 「微分作用素を変数変換で簡易化」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★5／diff <font color="darkgoldenrod ">3316</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★5／diff <font color="darkgoldenrod ">3316</font>
 - 2022年: ★データなし／diffデータなし
@@ -21560,12 +22343,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2583">No.2583 Differential Equation (Enhanced version)</a> (Advent Calendar Contest 2023 (2023-12-01) - K問題、diff <font color="darkgoldenrod ">3316</font>)
 
 　
-<h2 id="部分積分">704. 部分積分</h2>
+<h2 id="部分積分">707. 部分積分</h2>
 
 ### 難易度統計
 
 「部分積分」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★5／diff <font color="darkgoldenrod ">3316</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★5／diff <font color="darkgoldenrod ">3316</font>
 - 2022年: ★データなし／diffデータなし
@@ -21579,12 +22363,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2583">No.2583 Differential Equation (Enhanced version)</a> (Advent Calendar Contest 2023 (2023-12-01) - K問題、diff <font color="darkgoldenrod ">3316</font>)
 
 　
-<h2 id="基本列">705. 基本列</h2>
+<h2 id="基本列">708. 基本列</h2>
 
 ### 難易度統計
 
 「基本列」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★5／diff <font color="darkgoldenrod ">3377</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★5／diff <font color="red">3178</font>
 - 2022年: ★5／diff <font color="darkgoldenrod ">3577</font>
@@ -21599,12 +22384,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2398">No.2398 ヒドラ崩し</a> (yukicoder contest 399 (2023-07-28) - G問題、diff <font color="red">3178</font>)
 
 　
-<h2 id="残余ネットワーク">706. 残余ネットワーク</h2>
+<h2 id="残余ネットワーク">709. 残余ネットワーク</h2>
 
 ### 難易度統計
 
 「残余ネットワーク」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★5／diff <font color="darkgoldenrod ">3382</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★5／diff <font color="darkgoldenrod ">3382</font>
@@ -21618,12 +22404,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2160">No.2160 みたりのDominator</a> (Advent Calendar Contest 2022 (2022-12-01) - K問題、diff <font color="darkgoldenrod ">3382</font>)
 
 　
-<h2 id="P-再帰">707. P-再帰</h2>
+<h2 id="P-再帰">710. P-再帰</h2>
 
 ### 難易度統計
 
 「P-再帰」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★5／diff <font color="darkgoldenrod ">3577</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★5／diff <font color="darkgoldenrod ">3577</font>
@@ -21637,12 +22424,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2166">No.2166 Paint and Fill</a> (Advent Calendar Contest 2022 (2022-12-01) - S問題、diff <font color="darkgoldenrod ">3577</font>)
 
 　
-<h2 id="ヴェブレン関数">708. ヴェブレン関数</h2>
+<h2 id="ヴェブレン関数">711. ヴェブレン関数</h2>
 
 ### 難易度統計
 
 「ヴェブレン関数」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★5／diff <font color="darkgoldenrod ">3577</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★5／diff <font color="darkgoldenrod ">3577</font>
@@ -21656,12 +22444,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2168">No.2168 双頭ヒドラゲーム</a> (Advent Calendar Contest 2022 (2022-12-01) - U問題、diff <font color="darkgoldenrod ">3577</font>)
 
 　
-<h2 id="評価点シフト">709. 評価点シフト</h2>
+<h2 id="評価点シフト">712. 評価点シフト</h2>
 
 ### 難易度統計
 
 「評価点シフト」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★5／diff <font color="darkgoldenrod ">3577</font>
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★データなし／diffデータなし
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★5／diff <font color="darkgoldenrod ">3577</font>
@@ -21675,12 +22464,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2166">No.2166 Paint and Fill</a> (Advent Calendar Contest 2022 (2022-12-01) - S問題、diff <font color="darkgoldenrod ">3577</font>)
 
 　
-<h2 id="高速アダマール逆変換">710. 高速アダマール逆変換</h2>
+<h2 id="高速アダマール逆変換">713. 高速アダマール逆変換</h2>
 
 ### 難易度統計
 
 「高速アダマール逆変換」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★5／diffデータなし
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★5／diffデータなし
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -21694,12 +22484,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2990">No.2990 Interval XOR</a> (Advent Calendar Contest 2024 (2024-12-01) - N問題、diffデータなし)
 
 　
-<h2 id="高速アダマール変換">711. 高速アダマール変換</h2>
+<h2 id="高速アダマール変換">714. 高速アダマール変換</h2>
 
 ### 難易度統計
 
 「高速アダマール変換」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★5／diffデータなし
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★5／diffデータなし
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -21713,12 +22504,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2990">No.2990 Interval XOR</a> (Advent Calendar Contest 2024 (2024-12-01) - N問題、diffデータなし)
 
 　
-<h2 id="最小辺彩色数計算">712. 最小辺彩色数計算</h2>
+<h2 id="最小辺彩色数計算">715. 最小辺彩色数計算</h2>
 
 ### 難易度統計
 
 「最小辺彩色数計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★5／diffデータなし
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★5／diffデータなし
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -21732,12 +22524,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2987">No.2987 Colorful University of Tree</a> (Advent Calendar Contest 2024 (2024-12-01) - K問題、diffデータなし)
 
 　
-<h2 id="山登り法">713. 山登り法</h2>
+<h2 id="山登り法">716. 山登り法</h2>
 
 ### 難易度統計
 
 「山登り法」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★5／diffデータなし
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★5／diffデータなし
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
@@ -21751,12 +22544,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2987">No.2987 Colorful University of Tree</a> (Advent Calendar Contest 2024 (2024-12-01) - K問題、diffデータなし)
 
 　
-<h2 id="複数ナップサック割り当て可能性判定">714. 複数ナップサック割り当て可能性判定</h2>
+<h2 id="複数ナップサック割り当て可能性判定">717. 複数ナップサック割り当て可能性判定</h2>
 
 ### 難易度統計
 
 「複数ナップサック割り当て可能性判定」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★5／diffデータなし
+- 2025年: ★データなし／diffデータなし
 - 2024年: ★5／diffデータなし
 - 2023年: ★データなし／diffデータなし
 - 2022年: ★データなし／diffデータなし
