@@ -206,7 +206,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 - [ユークリッドの互除法](https://p-adic.github.io/yukicoder-difficulty-statistics/#ユークリッドの互除法) × 1問
 - [試し割り法](https://p-adic.github.io/yukicoder-difficulty-statistics/#試し割り法) × 1問
-- [周期性に注目](https://p-adic.github.io/yukicoder-difficulty-statistics/#周期性に注目) × 1問
+- [周期性](https://p-adic.github.io/yukicoder-difficulty-statistics/#周期性) × 1問
 - [周期性判定を長さの素因数に帰着](https://p-adic.github.io/yukicoder-difficulty-statistics/#周期性判定を長さの素因数に帰着) × 1問
 - [全探索](https://p-adic.github.io/yukicoder-difficulty-statistics/#全探索) × 1問
 - [素因数分解](https://p-adic.github.io/yukicoder-difficulty-statistics/#素因数分解) × 1問
