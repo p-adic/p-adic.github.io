@@ -1991,6 +1991,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 - [差分計算](https://p-adic.github.io/yukicoder-difficulty-statistics/#差分計算) × 3問
 - [集合管理](https://p-adic.github.io/yukicoder-difficulty-statistics/#集合管理) × 3問
 - [全探索](https://p-adic.github.io/yukicoder-difficulty-statistics/#全探索) × 3問
+- [操作を数値に翻訳](https://p-adic.github.io/yukicoder-difficulty-statistics/#操作を数値に翻訳) × 3問
 - [損をしない変形](https://p-adic.github.io/yukicoder-difficulty-statistics/#損をしない変形) × 3問
 - [二分探索](https://p-adic.github.io/yukicoder-difficulty-statistics/#二分探索) × 3問
 - [分割統治法（広義：decrease-and-conquer）](https://p-adic.github.io/yukicoder-difficulty-statistics/#分割統治法（広義：decrease-and-conquer）) × 3問
@@ -2001,7 +2002,6 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 - [区間和取得](https://p-adic.github.io/yukicoder-difficulty-statistics/#区間和取得) × 2問
 - [繰り返し二乗法](https://p-adic.github.io/yukicoder-difficulty-statistics/#繰り返し二乗法) × 2問
 - [場合分け](https://p-adic.github.io/yukicoder-difficulty-statistics/#場合分け) × 2問
-- [操作を数値に翻訳](https://p-adic.github.io/yukicoder-difficulty-statistics/#操作を数値に翻訳) × 2問
 - [動的mod](https://p-adic.github.io/yukicoder-difficulty-statistics/#動的mod) × 2問
 - [動的計画法](https://p-adic.github.io/yukicoder-difficulty-statistics/#動的計画法) × 2問
 - [変数決め打ち](https://p-adic.github.io/yukicoder-difficulty-statistics/#変数決め打ち) × 2問
@@ -2063,7 +2063,6 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 - [素数を法とする逆元計算](https://p-adic.github.io/yukicoder-difficulty-statistics/#素数を法とする逆元計算) × 1問
 - [組分けの余りに注目](https://p-adic.github.io/yukicoder-difficulty-statistics/#組分けの余りに注目) × 1問
 - [双対セグメント木](https://p-adic.github.io/yukicoder-difficulty-statistics/#双対セグメント木) × 1問
-- [操作の数値化](https://p-adic.github.io/yukicoder-difficulty-statistics/#操作の数値化) × 1問
 - [多次元コストナップサック最適化](https://p-adic.github.io/yukicoder-difficulty-statistics/#多次元コストナップサック最適化) × 1問
 - [多重総和・総乗計算](https://p-adic.github.io/yukicoder-difficulty-statistics/#多重総和・総乗計算) × 1問
 - [対称群の構造に注目](https://p-adic.github.io/yukicoder-difficulty-statistics/#対称群の構造に注目) × 1問
