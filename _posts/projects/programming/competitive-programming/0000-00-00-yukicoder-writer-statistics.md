@@ -5652,6 +5652,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 ### 過去問の解法頻度
 
 - [64bit整数](https://p-adic.github.io/yukicoder-difficulty-statistics/#64bit整数) × 1問
+- [next DP](https://p-adic.github.io/yukicoder-difficulty-statistics/#next DP) × 1問
 - [ナップサックDP](https://p-adic.github.io/yukicoder-difficulty-statistics/#ナップサックDP) × 1問
 - [ナップサック最適化](https://p-adic.github.io/yukicoder-difficulty-statistics/#ナップサック最適化) × 1問
 - [可負価値ナップサック最適化](https://p-adic.github.io/yukicoder-difficulty-statistics/#可負価値ナップサック最適化) × 1問
