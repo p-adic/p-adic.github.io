@@ -2,7 +2,7 @@
 layout: project
 title: 競技プログラミング作問状況
 excerpt: "競技プログラミングの作問状況の情報をまとめたページです。"
-date: 2025-02-08
+date: 2025-02-14
 project: true
 parent: competitive-programming-project/
 prev-child: competitive-programming-problems
@@ -21,10 +21,9 @@ tags: [競技プログラミング,プログラミング,数学]
 
 ### リアクティブコンテスト
 
-リアクティブ問題を出題するコンテストです。下記4問のtesterさんを募集中です。
+リアクティブ問題を出題するコンテストです。下記3問のtesterさんを募集中です。
 > - A：★1.5
 > - B：★2
-> - C：★2
 > - H：★4
 
 * 2024/07/30：コンテスト発案。testerさんの募集を開始しました。
