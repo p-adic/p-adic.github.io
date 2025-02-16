@@ -2,7 +2,7 @@
 layout: project
 title: 競技プログラミング作問状況
 excerpt: "競技プログラミングの作問状況の情報をまとめたページです。"
-date: 2025-02-14
+date: 2025-02-16
 project: true
 parent: competitive-programming-project/
 prev-child: competitive-programming-problems
@@ -48,7 +48,8 @@ tags: [競技プログラミング,プログラミング,数学]
 * 圏論：広い意味で圏論に関係のある問題です。
 * 不明：問題ページだけでは分野を判断しにくい問題です。
 
-### ★（0問）
+### ★（1問）
+* 整数1問
 
 ### ★☆（5問）
 * 幾何1問
