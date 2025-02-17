@@ -490,6 +490,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 - [緩和](https://p-adic.github.io/yukicoder-difficulty-statistics/#緩和) × 3問
 - [基底に帰着](https://p-adic.github.io/yukicoder-difficulty-statistics/#基底に帰着) × 3問
 - [既存のアルゴリズムの変形](https://p-adic.github.io/yukicoder-difficulty-statistics/#既存のアルゴリズムの変形) × 3問
+- [構築](https://p-adic.github.io/yukicoder-difficulty-statistics/#構築) × 3問
 - [構文解析](https://p-adic.github.io/yukicoder-difficulty-statistics/#構文解析) × 3問
 - [最大公約数計算](https://p-adic.github.io/yukicoder-difficulty-statistics/#最大公約数計算) × 3問
 - [最短経路長計算](https://p-adic.github.io/yukicoder-difficulty-statistics/#最短経路長計算) × 3問
@@ -528,7 +529,6 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 - [逆行列計算](https://p-adic.github.io/yukicoder-difficulty-statistics/#逆行列計算) × 2問
 - [区間加算更新](https://p-adic.github.io/yukicoder-difficulty-statistics/#区間加算更新) × 2問
 - [区間積取得](https://p-adic.github.io/yukicoder-difficulty-statistics/#区間積取得) × 2問
-- [構築](https://p-adic.github.io/yukicoder-difficulty-statistics/#構築) × 2問
 - [行列の階段化](https://p-adic.github.io/yukicoder-difficulty-statistics/#行列の階段化) × 2問
 - [行列の簡約階段化](https://p-adic.github.io/yukicoder-difficulty-statistics/#行列の簡約階段化) × 2問
 - [行列式と面積・体積の関係](https://p-adic.github.io/yukicoder-difficulty-statistics/#行列式と面積・体積の関係) × 2問
@@ -560,6 +560,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 - [閉路検出](https://p-adic.github.io/yukicoder-difficulty-statistics/#閉路検出) × 2問
 - [法B係数連立一次方程式の解の存在判定](https://p-adic.github.io/yukicoder-difficulty-statistics/#法B係数連立一次方程式の解の存在判定) × 2問
 - [余事象に注目](https://p-adic.github.io/yukicoder-difficulty-statistics/#余事象に注目) × 2問
+- [乱択による構築](https://p-adic.github.io/yukicoder-difficulty-statistics/#乱択による構築) × 2問
 - [累積積](https://p-adic.github.io/yukicoder-difficulty-statistics/#累積積) × 2問
 - [$1$の原始根計算](https://p-adic.github.io/yukicoder-difficulty-statistics/#$1$の原始根計算) × 1問
 - [$\epsilon N$論法](https://p-adic.github.io/yukicoder-difficulty-statistics/#$\epsilon N$論法) × 1問
@@ -695,6 +696,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 - [部分集合対全探索](https://p-adic.github.io/yukicoder-difficulty-statistics/#部分集合対全探索) × 1問
 - [部分分数分解](https://p-adic.github.io/yukicoder-difficulty-statistics/#部分分数分解) × 1問
 - [複素数演算](https://p-adic.github.io/yukicoder-difficulty-statistics/#複素数演算) × 1問
+- [文字列の構築](https://p-adic.github.io/yukicoder-difficulty-statistics/#文字列の構築) × 1問
 - [平方数前計算による平方剰余判定](https://p-adic.github.io/yukicoder-difficulty-statistics/#平方数前計算による平方剰余判定) × 1問
 - [平方分割](https://p-adic.github.io/yukicoder-difficulty-statistics/#平方分割) × 1問
 - [変数決め打ち](https://p-adic.github.io/yukicoder-difficulty-statistics/#変数決め打ち) × 1問
@@ -703,7 +705,6 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 - [埋め込み](https://p-adic.github.io/yukicoder-difficulty-statistics/#埋め込み) × 1問
 - [有理数型](https://p-adic.github.io/yukicoder-difficulty-statistics/#有理数型) × 1問
 - [余因子展開](https://p-adic.github.io/yukicoder-difficulty-statistics/#余因子展開) × 1問
-- [乱択による構築](https://p-adic.github.io/yukicoder-difficulty-statistics/#乱択による構築) × 1問
 - [立方根計算](https://p-adic.github.io/yukicoder-difficulty-statistics/#立方根計算) × 1問
 - [良いケースに帰着](https://p-adic.github.io/yukicoder-difficulty-statistics/#良いケースに帰着) × 1問
 - [連想配列](https://p-adic.github.io/yukicoder-difficulty-statistics/#連想配列) × 1問
@@ -6238,11 +6239,11 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ### 過去問のレベル（星の数）とdifficulty（実際の解け具合）の組み合わせ
 
-- [★1.5／diff <font color="blue">1604</font>](https://yukicoder.me/problems/no/3020)
 - [★2／diff <font color="brown">486</font>](https://yukicoder.me/problems/no/3002)
 - [★2／diff <font color="brown">486</font>](https://yukicoder.me/problems/no/3003)
 - [★2／diff <font color="blue">1875</font>](https://yukicoder.me/problems/no/3004)
 - [★2.5／diff <font color="deepskyblue">1523</font>](https://yukicoder.me/problems/no/3005)
+- [★2.5／diff <font color="blue">1604</font>](https://yukicoder.me/problems/no/3020)
 - [★2.5／diff <font color="blue">1828</font>](https://yukicoder.me/problems/no/3006)
 - [★3／diff <font color="red">2885</font>](https://yukicoder.me/problems/no/2994)
 - [★3／diff <font color="red">2892</font>](https://yukicoder.me/problems/no/3007)
