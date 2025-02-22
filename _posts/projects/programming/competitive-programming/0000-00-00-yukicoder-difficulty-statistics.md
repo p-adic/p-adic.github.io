@@ -891,13 +891,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 1. （★4.3／diff <font color="darkgoldenrod ">3271</font>／5問）<a href="#構文解析" class="tag">構文解析</a>
 1. （★4.5／diff <font color="red">2957</font>／2問）<a href="#Bostan-Mori法" class="tag">Bostan-Mori法</a>
 1. （★4.5／diff <font color="red">2957</font>／2問）<a href="#巡回畳み込み" class="tag">巡回畳み込み</a>
-1. （★4.5／diff <font color="red">3115</font>／1問）<a href="#,誘導部分グラフ数え上げを部分グラフ数え上げに帰着" class="tag">,誘導部分グラフ数え上げを部分グラフ数え上げに帰着</a>
 1. （★4.5／diff <font color="red">3115</font>／1問）<a href="#COMPLETE法" class="tag">COMPLETE法</a>
 1. （★4.5／diff <font color="red">3115</font>／1問）<a href="#SMAWKアルゴリズム" class="tag">SMAWKアルゴリズム</a>
 1. （★4.5／diff <font color="red">3115</font>／1問）<a href="#monge性" class="tag">monge性</a>
 1. （★4.5／diff <font color="red">3115</font>／1問）<a href="#totally monotonic性" class="tag">totally monotonic性</a>
 1. （★4.5／diff <font color="red">3115</font>／1問）<a href="#部分グラフ数え上げ" class="tag">部分グラフ数え上げ</a>
 1. （★4.5／diff <font color="red">3115</font>／1問）<a href="#誘導部分グラフ数え上げ" class="tag">誘導部分グラフ数え上げ</a>
+1. （★4.5／diff <font color="red">3115</font>／1問）<a href="#誘導部分グラフ数え上げを部分グラフ数え上げに帰着" class="tag">誘導部分グラフ数え上げを部分グラフ数え上げに帰着</a>
 1. （★4.5／diff <font color="red">3173</font>／2問）<a href="#高階微分計算" class="tag">高階微分計算</a>
 1. （★4.5／diff <font color="red">3178</font>／2問）<a href="#カントール標準形" class="tag">カントール標準形</a>
 1. （★4.5／diff <font color="darkgoldenrod ">3206</font>／2問）<a href="#ファウルハーバーの公式" class="tag">ファウルハーバーの公式</a>
@@ -22214,27 +22214,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2579">No.2579 Dice Sum Infinity (制約変更版)</a> (Advent Calendar Contest 2023 (2023-12-01) - G問題、diff <font color="red">3196</font>)
 
 　
-<h2 id=",誘導部分グラフ数え上げを部分グラフ数え上げに帰着">682. ,誘導部分グラフ数え上げを部分グラフ数え上げに帰着</h2>
-
-### 難易度統計
-
-「,誘導部分グラフ数え上げを部分グラフ数え上げに帰着」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
-- 全体: ★4.5／diff <font color="red">3115</font>
-- 2025年: ★データなし／diffデータなし
-- 2024年: ★4.5／diff <font color="red">3115</font>
-- 2023年: ★データなし／diffデータなし
-- 2022年: ★データなし／diffデータなし
-
-### レベル別問題一覧
-
-「,誘導部分グラフ数え上げを部分グラフ数え上げに帰着」を主たる解法に含む問題のレベルごとの一覧です。
-
-##### ★★★★☆
-
-- <a href="https://yukicoder.me/problems/no/2985">No.2985 May Count Induced C4 Subgraphs</a> (Advent Calendar Contest 2024 (2024-12-01) - I問題、diff <font color="red">3115</font>)
-
-　
-<h2 id="COMPLETE法">683. COMPLETE法</h2>
+<h2 id="COMPLETE法">682. COMPLETE法</h2>
 
 ### 難易度統計
 
@@ -22254,7 +22234,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2985">No.2985 May Count Induced C4 Subgraphs</a> (Advent Calendar Contest 2024 (2024-12-01) - I問題、diff <font color="red">3115</font>)
 
 　
-<h2 id="SMAWKアルゴリズム">684. SMAWKアルゴリズム</h2>
+<h2 id="SMAWKアルゴリズム">683. SMAWKアルゴリズム</h2>
 
 ### 難易度統計
 
@@ -22274,7 +22254,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2988">No.2988 Min-Plus Convolution Query</a> (Advent Calendar Contest 2024 (2024-12-01) - L問題、diff <font color="red">3115</font>)
 
 　
-<h2 id="monge性">685. monge性</h2>
+<h2 id="monge性">684. monge性</h2>
 
 ### 難易度統計
 
@@ -22294,7 +22274,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2988">No.2988 Min-Plus Convolution Query</a> (Advent Calendar Contest 2024 (2024-12-01) - L問題、diff <font color="red">3115</font>)
 
 　
-<h2 id="totally monotonic性">686. totally monotonic性</h2>
+<h2 id="totally monotonic性">685. totally monotonic性</h2>
 
 ### 難易度統計
 
@@ -22314,7 +22294,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2988">No.2988 Min-Plus Convolution Query</a> (Advent Calendar Contest 2024 (2024-12-01) - L問題、diff <font color="red">3115</font>)
 
 　
-<h2 id="部分グラフ数え上げ">687. 部分グラフ数え上げ</h2>
+<h2 id="部分グラフ数え上げ">686. 部分グラフ数え上げ</h2>
 
 ### 難易度統計
 
@@ -22334,7 +22314,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2985">No.2985 May Count Induced C4 Subgraphs</a> (Advent Calendar Contest 2024 (2024-12-01) - I問題、diff <font color="red">3115</font>)
 
 　
-<h2 id="誘導部分グラフ数え上げ">688. 誘導部分グラフ数え上げ</h2>
+<h2 id="誘導部分グラフ数え上げ">687. 誘導部分グラフ数え上げ</h2>
 
 ### 難易度統計
 
@@ -22348,6 +22328,26 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 ### レベル別問題一覧
 
 「誘導部分グラフ数え上げ」を主たる解法に含む問題のレベルごとの一覧です。
+
+##### ★★★★☆
+
+- <a href="https://yukicoder.me/problems/no/2985">No.2985 May Count Induced C4 Subgraphs</a> (Advent Calendar Contest 2024 (2024-12-01) - I問題、diff <font color="red">3115</font>)
+
+　
+<h2 id="誘導部分グラフ数え上げを部分グラフ数え上げに帰着">688. 誘導部分グラフ数え上げを部分グラフ数え上げに帰着</h2>
+
+### 難易度統計
+
+「誘導部分グラフ数え上げを部分グラフ数え上げに帰着」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
+- 全体: ★4.5／diff <font color="red">3115</font>
+- 2025年: ★データなし／diffデータなし
+- 2024年: ★4.5／diff <font color="red">3115</font>
+- 2023年: ★データなし／diffデータなし
+- 2022年: ★データなし／diffデータなし
+
+### レベル別問題一覧
+
+「誘導部分グラフ数え上げを部分グラフ数え上げに帰着」を主たる解法に含む問題のレベルごとの一覧です。
 
 ##### ★★★★☆
 
