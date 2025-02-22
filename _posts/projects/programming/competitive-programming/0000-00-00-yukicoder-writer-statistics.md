@@ -6304,6 +6304,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 - [累積積による二項係数計算](https://p-adic.github.io/yukicoder-difficulty-statistics/#累積積による二項係数計算) × 2問
 - [連結成分取得](https://p-adic.github.io/yukicoder-difficulty-statistics/#連結成分取得) × 2問
 - [64bit整数](https://p-adic.github.io/yukicoder-difficulty-statistics/#64bit整数) × 1問
+- [Polynomial Taylor shift](https://p-adic.github.io/yukicoder-difficulty-statistics/#Polynomial Taylor shift) × 1問
 - [bool値の充足可能性判定](https://p-adic.github.io/yukicoder-difficulty-statistics/#bool値の充足可能性判定) × 1問
 - [breakに関する考察](https://p-adic.github.io/yukicoder-difficulty-statistics/#breakに関する考察) × 1問
 - [set](https://p-adic.github.io/yukicoder-difficulty-statistics/#set) × 1問
