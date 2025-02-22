@@ -2625,7 +2625,6 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 - [実装](https://p-adic.github.io/yukicoder-difficulty-statistics/#実装) × 2問
 - [小数型](https://p-adic.github.io/yukicoder-difficulty-statistics/#小数型) × 2問
 - [動的計画法](https://p-adic.github.io/yukicoder-difficulty-statistics/#動的計画法) × 2問
-- [,誘導部分グラフ数え上げを部分グラフ数え上げに帰着](https://p-adic.github.io/yukicoder-difficulty-statistics/#,誘導部分グラフ数え上げを部分グラフ数え上げに帰着) × 1問
 - [COMPLETE法](https://p-adic.github.io/yukicoder-difficulty-statistics/#COMPLETE法) × 1問
 - [cyclic orderつき全方位木DP](https://p-adic.github.io/yukicoder-difficulty-statistics/#cyclic orderつき全方位木DP) × 1問
 - [imos法](https://p-adic.github.io/yukicoder-difficulty-statistics/#imos法) × 1問
@@ -2678,6 +2677,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 - [木DP](https://p-adic.github.io/yukicoder-difficulty-statistics/#木DP) × 1問
 - [有向辺反転](https://p-adic.github.io/yukicoder-difficulty-statistics/#有向辺反転) × 1問
 - [誘導部分グラフ数え上げ](https://p-adic.github.io/yukicoder-difficulty-statistics/#誘導部分グラフ数え上げ) × 1問
+- [誘導部分グラフ数え上げを部分グラフ数え上げに帰着](https://p-adic.github.io/yukicoder-difficulty-statistics/#誘導部分グラフ数え上げを部分グラフ数え上げに帰着) × 1問
 - [余事象に注目](https://p-adic.github.io/yukicoder-difficulty-statistics/#余事象に注目) × 1問
 - [乱択](https://p-adic.github.io/yukicoder-difficulty-statistics/#乱択) × 1問
 - [良いケースに帰着](https://p-adic.github.io/yukicoder-difficulty-statistics/#良いケースに帰着) × 1問
