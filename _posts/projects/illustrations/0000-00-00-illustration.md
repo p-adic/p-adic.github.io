@@ -15,7 +15,7 @@ tags: [イラスト]
         <table border="1" rules="none" cellpadding="15">
           <tr>
             <td>
-              <img src = "{{ site.img }}/{{ post.aname }}-logo.png">
+              <img src = "{{ site.img }}/illustration/{{ post.aname }}-logo.png">
             </td>
             <td align="right">
               <p>最終更新日：</p>
