@@ -1,8 +1,8 @@
 ---
 url: https://p-adic.github.io/yukicoder-writer-statistics
 layout: project
-title: yukicoder過去問writer別統計2025-03-22
-date: 
+title: yukicoder過去問writer別統計
+date: 2025-03-22
 excerpt: "yukicoderの過去問のwriter別の難易度に関する統計データです。"
 parent: competitive-programming-project/
 prev-child: yukicoder-difficulty-statistics-solution-name
