@@ -1,7 +1,8 @@
 ---
+url: https://p-adic.github.io/yukicoder-writer-statistics
 layout: project
-title: yukicoder過去問writer別統計
-date: 2025-03-21
+title: yukicoder過去問writer別統計2025-03-22
+date: 
 excerpt: "yukicoderの過去問のwriter別の難易度に関する統計データです。"
 parent: competitive-programming-project/
 prev-child: yukicoder-difficulty-statistics-solution-name
@@ -571,6 +572,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 - [$1$の原始根計算](https://p-adic.github.io/yukicoder-difficulty-statistics/#$1$の原始根計算) × 1問
 - [$\epsilon N$論法](https://p-adic.github.io/yukicoder-difficulty-statistics/#$\epsilon N$論法) × 1問
 - [2元集合族の選択関数の像の要素数最大化](https://p-adic.github.io/yukicoder-difficulty-statistics/#2元集合族の選択関数の像の要素数最大化) × 1問
+- [2集合間距離計算](https://p-adic.github.io/yukicoder-difficulty-statistics/#2集合間距離計算) × 1問
 - [Bostan-Mori法](https://p-adic.github.io/yukicoder-difficulty-statistics/#Bostan-Mori法) × 1問
 - [B進法位取り記法と法Bベクトルの対応](https://p-adic.github.io/yukicoder-difficulty-statistics/#B進法位取り記法と法Bベクトルの対応) × 1問
 - [OR畳み込み](https://p-adic.github.io/yukicoder-difficulty-statistics/#OR畳み込み) × 1問
@@ -1964,6 +1966,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 - [有理数型](https://p-adic.github.io/yukicoder-difficulty-statistics/#有理数型) × 2問
 - [連想配列](https://p-adic.github.io/yukicoder-difficulty-statistics/#連想配列) × 2問
 - [01BFS](https://p-adic.github.io/yukicoder-difficulty-statistics/#01BFS) × 1問
+- [2集合間距離距離計算](https://p-adic.github.io/yukicoder-difficulty-statistics/#2集合間距離距離計算) × 1問
 - [inplace DP](https://p-adic.github.io/yukicoder-difficulty-statistics/#inplace DP) × 1問
 - [next DP](https://p-adic.github.io/yukicoder-difficulty-statistics/#next DP) × 1問
 - [２種の数値を足し引きして１種に帰着](https://p-adic.github.io/yukicoder-difficulty-statistics/#２種の数値を足し引きして１種に帰着) × 1問
@@ -1982,7 +1985,6 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 - [ド・モルガンの法則](https://p-adic.github.io/yukicoder-difficulty-statistics/#ド・モルガンの法則) × 1問
 - [ナップサック最適化](https://p-adic.github.io/yukicoder-difficulty-statistics/#ナップサック最適化) × 1問
 - [ナップサック分割統治](https://p-adic.github.io/yukicoder-difficulty-statistics/#ナップサック分割統治) × 1問
-- [ハウスドルフ距離計算](https://p-adic.github.io/yukicoder-difficulty-statistics/#ハウスドルフ距離計算) × 1問
 - [ハミルトン路構築](https://p-adic.github.io/yukicoder-difficulty-statistics/#ハミルトン路構築) × 1問
 - [マッチ度ごとに管理](https://p-adic.github.io/yukicoder-difficulty-statistics/#マッチ度ごとに管理) × 1問
 - [ユークリッドの互除法](https://p-adic.github.io/yukicoder-difficulty-statistics/#ユークリッドの互除法) × 1問
