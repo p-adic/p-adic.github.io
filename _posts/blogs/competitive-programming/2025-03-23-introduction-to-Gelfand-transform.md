@@ -319,7 +319,13 @@ a \times b = \left( \sum_{\max \\{i,j\\} = k} a_i b_j \right)\_{k \in P}
 
 $K = \mathbb{F}\_2$とし、$N$が非負整数$D$を用いて$2^D$と表せるとし、$K^N = \mathbb{F}\_2^{2^D}$を$D$変数[ブール代数](https://ja.wikipedia.org/wiki/ブール代数)$\mathbb{F}\_2[P_1,\ldots,P_D]/(P_1^2+P_1,\ldots,P_D^2+P_D)$と同一視した時の各種論理演算（$\land,\lor,\neg,\rightarrow$など）を考えます。
 
-XORとANDの組の[Functional completeness](https://en.wikipedia.org/wiki/Functional_completeness)より、全ての論理演算はブール代数の$+$（ただし$P+Q = \neg(P \Leftrightarrow Q)$）と$\land$の合成で明示的に書き表せるため、$K^N$に定まった論理演算を計算するためには各点和と$\land$が計算できればよいです。
+XORとANDの組の[Functional completeness](https://en.wikipedia.org/wiki/Functional_completeness)より、全ての論理演算はブール代数の$+$と$\land$の合成で明示的に書き表せるため、$K^N$に定まった論理演算を計算するためには各点和と$\land$が計算できればよいです。ただしブール代数の加法$+$は
+
+\\[
+P + Q = \neg(P \Leftrightarrow Q)
+\\]
+
+と定義される$2$項演算で、$+$と$\land$に関してブール代数は可換環をなします。
 
 $\land$に関して$v \in K^N$との内積$K^N \to K$が環準同型である必要十分条件は$v$が真理関数であること、すなわちある$x \in \\{0,1\\}^D$が存在して
 
