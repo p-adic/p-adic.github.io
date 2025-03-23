@@ -3,9 +3,9 @@ layout: blog
 title: AtCoder Heuristic Contest 入緑色記事
 date: 2024-09-05
 excerpt: "AHCで緑色になった記念の記事です。"
-parent: competitive-programming-blog
-prev-child: competitive-programming-problem-solving
-next-child: introduction-to-Gelfand-transform
+parent: competitive-programming-blog/
+prev-child: competitive-programming-problem-solving/
+next-child: introduction-to-Gelfand-transform/
 blog: true
 image-directory: competitive-programming
 tags: [競技プログラミング,数学]
