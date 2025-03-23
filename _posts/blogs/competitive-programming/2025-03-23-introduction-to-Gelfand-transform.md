@@ -253,7 +253,7 @@ $G$を要素数$N$の可換群として、$K^N$を群環$K[G]$と同一視した
 
 畳み込み積に関して$v \in K^N$との内積$K^N \to K$が環準同型である必要十分条件は、$v$が$G$の指標であること、すなわち合成写像$G \hookrightarrow K[G] \cong K^N \to K$が$G$から$K$の乗法モノイドへのモノイド準同型であることです。
 
-$K^N$の標準基底$(1,0,\ldots,0), \ldots, (0,\ldots,0,1)$を$\delta_0,\ldots,\delta_{N-1}$と置き、$K^N$と$K[G]$の同一視に用いた$G$の要素の番号付け$\mathbb{N} \cap [0,N) \caong G$によって$G$の可換群演算から定まる$\mathbb{N} \cap [0,N)$の可換群演算を$\odot$と置き、$\odot$に関する単位元を$e \in \mathbb{N} \cap [0,N)$と置くと、$v$が$G$の指標であるという条件は
+$K^N$の標準基底$(1,0,\ldots,0), \ldots, (0,\ldots,0,1)$を$\delta_0,\ldots,\delta_{N-1}$と置き、$K^N$と$K[G]$の同一視に用いた$G$の要素の番号付け$\mathbb{N} \cap [0,N) \cong G$によって$G$の可換群演算から定まる$\mathbb{N} \cap [0,N)$の可換群演算を$\odot$と置き、$\odot$に関する単位元を$e \in \mathbb{N} \cap [0,N)$と置くと、$v$が$G$の指標であるという条件は
 
 - $\delta_e \cdot v = 1$
 - $N$未満の任意の非負整数$i,j$に対し、$\delta_{i \odot j} \cdot v = (\delta_i \cdot v)(\delta_j \cdot v)$
