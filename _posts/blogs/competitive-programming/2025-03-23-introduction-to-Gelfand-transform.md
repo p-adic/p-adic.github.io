@@ -3,7 +3,7 @@ layout: blog
 title: ゲルファント変換入門
 date: 2025-03-23
 excerpt: "畳み込みとゲルファント変換について書いていきます。"
-parent: competitive-programming-blog/
+parent: competitive-programming-blog
 prev-child: became-Heuristic-green-in-AtCoder
 next-child: 
 blog: true
