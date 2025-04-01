@@ -34,9 +34,9 @@ tags: [数学]
 - $\neg \neg \textsf{AC}$
 - $\neg \neg \neg \neg \textsf{AC}$
 - $\neg \neg \neg \neg \neg \neg \textsf{AC}$
-- $\textsf{AC} \land 0 = 0$
-- $\textsf{AC} \land 1 = 1$
-- $\textsf{AC} \land 2 = 2$
+- $\textsf{AC} \land (0 = 0)$
+- $\textsf{AC} \land (1 = 1)$
+- $\textsf{AC} \land (2 = 2)$
 
 などは全部$\textsf{ZF}$集合論において選択公理と同値であることが知られています。
 
@@ -198,7 +198,7 @@ $\textrm{Set}$の恒等関手は$\textsf{ZFC}$集合論で関手圏を形式化�
 
 「$\textrm{Set}$と書いて実際には別の圏（例えば暗黙にグロタンディーク宇宙の存在を仮定して最小のグロタンディーク宇宙$U$を取りそこに相対化して得られる小圏$\textrm{Set}^U$）を指すに決まってるじゃないですか」と後出しで定義を変更する反論が有効です。
 
-ただしその場合は$\textrm{Set}$と書いて暗黙に$\textrm{Set}^U$を指す流儀では$\textrm{Set}^U$と書いて暗黙に$(\textrm{Set}^U)^U = \textsf{Set}^{(U^U)}$を指すことになります。ここで$U^U$は$U$の$U$における相対化を表します。$U$はグロタンディーク宇宙の存在を充足しない$\textsf{ZFC}$のモデルなので、$U^U$は定義されません。従って$\textrm{Set}^{(U^U)}$は定義されず、結局$\textrm{Set}$は定義されないことに注意しましょう。
+ただし$\textrm{Set}$と書いて暗黙に$\textrm{Set}^U$を指す流儀では$\textrm{Set}^U$と書いて暗黙に$(\textrm{Set}^U)^U = \textsf{Set}^{(U^U)}$を指すことになります。ここで$U^U$は$U$の$U$における相対化を表します。$U$はグロタンディーク宇宙の存在を充足しない$\textsf{ZFC}$のモデルなので、$U^U$は定義されません。従って$\textrm{Set}^{(U^U)}$は定義されず、結局$\textrm{Set}$は定義されないことに注意しましょう。
 
 
 ## 任意の対象が射影的対象からepimorphismを持つアーベル圏において、任意の対象は射影分解可能であることは選択公理から直接従いますか？
