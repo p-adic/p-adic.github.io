@@ -160,11 +160,17 @@ $(a_i)\_{i=1}^{N}$と$(b_i)\_{i=1}^{N}$を見つけるには、縦ベクトル$(
 {% assign solution = "合成による次元削減" %}
 <h2 id="{{ solution }}"><a href="{{ site.url }}/yukicoder-difficulty-statistics#{{ solution }}">{{ solution }}</a></h2>
 
-非空有限集合$S$と関数$f \colon S \to \mathbb{R}$が与えられ、$\max f(S)$を求める問題を考える。$\min f(S)$を求める場合は$f$の代わりに$-f$を考えれば良い。
+非空有限集合$S$と関数$f \colon S \to \mathbb{R}$が与えられ、$f$の総和、総乗、最大値、最小値などを求める問題を考える。
 
-集合$X,Y$と全単射$i \colon S \to X \times Y$と写像$g_1 \colon X \to \mathbb{R}$と$g_2 \colon Y \to \mathbb{R}$と辞書式順序に関する順序保存写像$h \colon \mathbb{R}^2 \to \mathbb{R}$を用いて$f = h \circ (g_1 \times g_2) \circ i$と表すことで、$\max f(S)$の計算を$h(\max g_1(X),\max g_2(Y))$に帰着させる手法。
+集合$X,Y$と全単射$i \colon S \to X \times Y$と写像$g_1 \colon X \to \mathbb{R}$と$g_2 \colon Y \to \mathbb{R}$と写像$h \colon \mathbb{R}^2 \to \mathbb{R}$を用いて$f = h \circ (g_1 \times g_2) \circ i$と表すことで、$f$の計算を$g_1$と$g_2$の計算に帰着させる手法。
 
-平たく言えば、最大化したい関数の値を独立な項に分解してそれぞれを最大化することで全探索などの計算量を下げるテクニックである。
+例えば$f$の総和$\sum_{s \in S} f(s)$を求める場合、$g_1$の像$g_1(X)$と$g_2$の像$g_2(Y)$と、各$z \in g_1(X)$ごとのファイバー$g_1^{-1}(\{z\}) = \{x \in X \mid g_1(x) = z\}$の要素数$c_1(z)$と各$w \in g_2(Y)$ごとのファイバー$g_2^{-1}(\{w\}) = \{y \in Y \mid g_2(y) = w\}$の要素数$c_2(w)$を求め、$\sum_{z \in g_1(X)} c_1(z) \sum_{w \in g_2(Y)} c_2(w) h(z,w)$を求めれば良い。
+
+こちらは平たく言えば、総和を求めたい関数の引数を、合成によって関数値が同じになることが分かっているグループごとに纏め上げることで全探索などの計算量を下げるテクニックである。
+
+例えば$f$の最大値$\max f(S)$を求める場合、$h$が辞書式順序に関する順序保存性を満たすならば、$g_1$の最大値$\max g_1(X)$と$g_2$の最大値$\max g_2(Y)$を求め、$h(\max g_1(X),\max g_2(Y))$を求めれば良い。
+
+こちらは平たく言えば、最大化したい関数の値を独立な項に分解してそれぞれを最大化することで全探索などの計算量を下げるテクニックである。
 
 　
 {% assign solution = "緩和" %}
