@@ -1405,22 +1405,22 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 ### 過去問のレベル（星の数）とdifficulty（実際の解け具合）の組み合わせ
 
+- [★2／diff <font color="gray">361</font>](https://yukicoder.me/problems/no/3099)
 - [★2／diff <font color="green">846</font>](https://yukicoder.me/problems/no/2252)
 - [★2／diff <font color="deepskyblue">1273</font>](https://yukicoder.me/problems/no/2426)
-- [★2／diff <font color="deepskyblue">1327</font>](https://yukicoder.me/problems/no/3099)
+- [★2.5／diff <font color="blue">1777</font>](https://yukicoder.me/problems/no/3100)
 - [★2.5／diff <font color="blue">1838</font>](https://yukicoder.me/problems/no/2241)
-- [★2.5／diff <font color="red">3046</font>](https://yukicoder.me/problems/no/3100)
+- [★3／diff <font color="blue">1777</font>](https://yukicoder.me/problems/no/3101)
+- [★3／diff <font color="yellowgreen">2002</font>](https://yukicoder.me/problems/no/3102)
 - [★3／diff <font color="yellowgreen">2274</font>](https://yukicoder.me/problems/no/2242)
-- [★3／diff <font color="red">2932</font>](https://yukicoder.me/problems/no/3101)
-- [★3／diff <font color="red">3188</font>](https://yukicoder.me/problems/no/3102)
-- [★3.5／diff <font color="yellowgreen">2200</font>](https://yukicoder.me/problems/no/3104)
 - [★3.5／diff <font color="orange">2422</font>](https://yukicoder.me/problems/no/2255)
-- [★3.5／diff <font color="orange">2556</font>](https://yukicoder.me/problems/no/3103)
+- [★3.5／diff <font color="orange">2432</font>](https://yukicoder.me/problems/no/3103)
+- [★3.5／diff <font color="orange">2492</font>](https://yukicoder.me/problems/no/3104)
 - [★3.5／diff <font color="orange">2582</font>](https://yukicoder.me/problems/no/2645)
-- [★3.5／diff <font color="red">3046</font>](https://yukicoder.me/problems/no/3105)
+- [★3.5／diff <font color="red">2827</font>](https://yukicoder.me/problems/no/3105)
+- [★4／diff <font color="red">2827</font>](https://yukicoder.me/problems/no/3106)
 - [★4／diff <font color="red">2871</font>](https://yukicoder.me/problems/no/2135)
 - [★4／diff <font color="red">2930</font>](https://yukicoder.me/problems/no/2244)
-- [★4／diff <font color="red">3046</font>](https://yukicoder.me/problems/no/3106)
 
 ### 過去問の解法頻度
 
@@ -5893,7 +5893,7 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 - [★2.5／diff <font color="blue">1844</font>](https://yukicoder.me/problems/no/3092)
 - [★3／diff <font color="blue">1904</font>](https://yukicoder.me/problems/no/3094)
 - [★3.5／diff <font color="orange">2457</font>](https://yukicoder.me/problems/no/3096)
-- [★4／diff <font color="deepskyblue">1250</font>](https://yukicoder.me/problems/no/3098)
+- [★4／diff <font color="orange">2673</font>](https://yukicoder.me/problems/no/3098)
 - [★4／diff <font color="orange">2798</font>](https://yukicoder.me/problems/no/3097)
 
 ### 過去問の解法頻度
