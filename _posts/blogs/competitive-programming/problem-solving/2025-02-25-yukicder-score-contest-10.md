@@ -5,7 +5,7 @@ date: 2025-02-26
 excerpt: "yukicoder score contest 10に参加した記録です。"
 parent: competitive-programming-problem-solving/
 prev-child: AHC036
-next-child: 
+next-child: CPCTF2025
 blog: true
 image-directory: competitive-programming
 tags: [競技プログラミング,数学]
