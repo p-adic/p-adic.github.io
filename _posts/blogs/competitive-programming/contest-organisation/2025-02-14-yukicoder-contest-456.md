@@ -8,7 +8,7 @@ date: 2025-02-14
 num: 525
 parent: competitive-programming-contest/
 prev-child: Advent-Calendar-Contest-2024
-next-child: 
+next-child: yukicoder-contest-466
 own: D,F問題
 blog: true
 tags: [競技プログラミング,数学]
