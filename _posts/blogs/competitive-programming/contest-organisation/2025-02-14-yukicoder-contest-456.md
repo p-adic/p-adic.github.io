@@ -7,7 +7,7 @@ excerpt: "yukicoder contest 456 オムニバスの参戦記です。"
 date: 2025-02-14
 num: 525
 parent: competitive-programming-contest/
-prev-child: yukicoder-contest-456
+prev-child: Advent-Calendar-Contest-2024
 next-child: 
 own: D,F問題
 blog: true
