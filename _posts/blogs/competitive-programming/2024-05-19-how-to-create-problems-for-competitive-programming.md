@@ -3,7 +3,7 @@ layout: blog
 title: 競技プログラミング作問のノウハウ
 date: 2024-05-19
 excerpt: "どのように競技プログラミング作問をしているかを書いていきます。"
-parent: competitive-programming-blog/
+parent: competitive-programming-blog
 prev-child: ruling-on-creating-prolems-for-competitive-programming
 next-child: category-on-segtree?
 blog: true
