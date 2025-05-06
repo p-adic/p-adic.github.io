@@ -5,8 +5,8 @@ subtitle: 協和音の配置
 date: 2020-06-20
 excerpt: "協和音の配置のクラスを実装します。"
 blog: true
-parent: KinouWasei/
-prev-child: HaiChi/
+parent: KinouWasei
+prev-child: HaiChi
 next-child: 
 defined-class: [HaiChiOfKyouWaOn]
 tags: [音楽,機能和声,C++]
