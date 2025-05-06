@@ -30,22 +30,33 @@ layout: compress
                     </span>
 
                     {% if page.parent != null %}
+                        {% if page.prev-child == null %}
+                            {% capture prev-child-name %}null{% endcapture %}
+                        {% else %}
+                            {% capture prev-child-name %}{{ page.prev-child }}.md{% endcapture %}
+                        {% endif %}
+                        {% capture parent-name %}{{ page.parent }}.md{% endcapture %}
+                        {% if page.next-child == null %}
+                            {% capture next-child-name %}null{% endcapture %}
+                        {% else %}
+                            {% capture next-child-name %}{{ page.prev-child }}.md{% endcapture %}
+                        {% endif %}
                         {% for post in site.posts %}
-                            {% if page.prev-child != null and page.prev-child == post.name %}
+                            {% if prev-child-name == post.name %}
                                 <span style="padding : 10px">
                                     <a class="btn zoombtn" href="{{ site.url }}/{{ page.prev-child }}">
                                         前の関連作品： {{ post.title }}
                                     </a>
                                 </span>
                             {% endif %}
-                            {% if page.parent == post.name %}
+                            {% if parent-name == post.name %}
                                 <span style="padding : 10px">
                                     <a class="btn zoombtn" href="{{ site.url }}/{{ page.parent }}">
                                         親作品： {{ post.title }}
                                     </a>
                                 </span>
                             {% endif %}
-                            {% if page.next-child != null and page.next-child == post.name %}
+                            {% if next-child-name == post.name %}
                                 <span style="padding : 10px">
                                     <a class="btn zoombtn" href="{{ site.url }}/{{ page.next-child }}">
                                         次の関連作品: {{ post.title }}
