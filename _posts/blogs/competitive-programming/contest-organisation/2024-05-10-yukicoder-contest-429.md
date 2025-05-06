@@ -6,7 +6,7 @@ suburl:  yukicoder-contest-429
 excerpt: " yukicoder contest 429の参戦記です。"
 date: 2024-05-10
 num: 494
-parent: competitive-programming-contest/
+parent: competitive-programming-contest
 prev-child: yukicoder-April-Fool-Contest-2014
 next-child: yukicoder-contest-433
 own: A,D,E,G問題
