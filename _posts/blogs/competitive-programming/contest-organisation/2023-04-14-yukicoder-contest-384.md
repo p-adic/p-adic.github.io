@@ -6,9 +6,9 @@ suburl: yukicoder-contest-384
 excerpt: "yukicoder contest 384の開催記です。"
 date: 2023-04-14
 num: 431
-parent: competitive-programming-contest/
-prev-child: yukicoder-contest-373/
-next-child: yukicoder-contest-399/
+parent: competitive-programming-contest
+prev-child: yukicoder-contest-373
+next-child: yukicoder-contest-399
 own: 単著
 blog: true
 tags: [競技プログラミング,数学]
