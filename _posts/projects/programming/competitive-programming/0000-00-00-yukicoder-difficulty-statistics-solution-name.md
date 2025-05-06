@@ -4,7 +4,7 @@ title: yukicoder過去問解法別難易度統計の解法名解説
 date: 2024-12-23
 excerpt: "yukicoderの過去問の解法別難易度統計ページに記載した解法名の解説です。"
 project: true
-parent: competitive-programming-project/
+parent: competitive-programming-project
 prev-child: yukicoder-difficulty-statistics
 next-child: yukicoder-writer-statistics
 image-directory: 
