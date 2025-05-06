@@ -3,7 +3,7 @@ layout: blog
 title: セグメント木に圏が乗るか？
 date: 2024-08-05
 excerpt: "セグメント木に圏が乗るという言説について書いていきます。"
-parent: competitive-programming-blog/
+parent: competitive-programming-blog
 prev-child: how-to-create-problems-for-competitive-programming
 next-child: competitive-programming-problem-solving
 blog: true
