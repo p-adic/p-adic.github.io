@@ -31,11 +31,9 @@ layout: compress
 
                     {% if page.parent != null %}
                         {% if page.prev-child != null %}
-                            {% capture prev-child-name %}{{ page.prev-child }}.md{% endcapture %}
-                            表示テスト中：prev-child-name = {{ prev-child-name }}
+                            {% capture prev-child-name %}/{{ page.prev-child }}/{% endcapture %}
                             {% for post in site.posts %}
-                                表示テスト中：post.url = {{ post.url }}
-                                {% if prev-child-name == post.name %}
+                                {% if prev-child-name == post.url %}
                                     <span style="padding : 10px">
                                         <a class="btn zoombtn" href="{{ site.url }}/{{ page.prev-child }}">
                                             前の関連作品： {{ post.title }}
@@ -44,9 +42,9 @@ layout: compress
                                 {% endif %}
                             {% endfor %}
                         {% endif %}
-                        {% capture parent-name %}{{ page.parent }}.md{% endcapture %}
+                        {% capture parent-name %}/{{ page.parent }}/{% endcapture %}
                         {% for post in site.posts %}
-                            {% if parent-name == post.name %}
+                            {% if parent-name == post.url %}
                                 <span style="padding : 10px">
                                     <a class="btn zoombtn" href="{{ site.url }}/{{ page.parent }}">
                                         親作品： {{ post.title }}
@@ -55,9 +53,9 @@ layout: compress
                             {% endif %}
                         {% endfor %}
                         {% if page.next-child != null %}
-                            {% capture next-child-name %}{{ page.prev-child }}.md{% endcapture %}
+                            {% capture next-child-name %}/{{ page.prev-child }}/{% endcapture %}
                             {% for post in site.posts %}
-                                {% if next-child-name == post.name %}
+                                {% if next-child-name == post.url %}
                                     <span style="padding : 10px">
                                         <a class="btn zoombtn" href="{{ site.url }}/{{ page.next-child }}">
                                             次の関連作品: {{ post.title }}
