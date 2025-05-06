@@ -3,7 +3,7 @@ layout: blog
 title: yukicoder score contest 10参加記
 date: 2025-02-26
 excerpt: "yukicoder score contest 10に参加した記録です。"
-parent: competitive-programming-problem-solving/
+parent: competitive-programming-problem-solving
 prev-child: AHC036
 next-child: CPCTF2025
 blog: true
