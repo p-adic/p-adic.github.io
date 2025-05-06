@@ -6,7 +6,7 @@ suburl:  yukicoder-contest-447
 excerpt: " yukicoder contest 447の参戦記です。"
 date: 2024-09-20
 num: 511
-parent: competitive-programming-contest/
+parent: competitive-programming-contest
 prev-child: yukicoder-contest-433
 next-child: yukicoder-contest-449
 own: D問題
