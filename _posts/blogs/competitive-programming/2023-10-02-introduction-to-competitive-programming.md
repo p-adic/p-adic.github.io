@@ -3,7 +3,7 @@ layout: blog
 title: 数学者向け競技プログラミング入門
 date: 2023-10-02
 excerpt: "数学者向けの競技プログラミング入門記事です。"
-parent: competitive-programming-blog/
+parent: competitive-programming-blog
 prev-child: competitive-programming-contest
 next-child: ruling-on-creating-prolems-for-competitive-programming
 blog: true
