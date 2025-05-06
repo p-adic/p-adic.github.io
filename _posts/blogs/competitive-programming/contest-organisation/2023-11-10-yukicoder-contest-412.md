@@ -6,9 +6,9 @@ suburl: yukicoder-contest-412
 excerpt: "yukicoder contest 412の開催記です。"
 date: 2023-11-10
 num: 468
-parent: competitive-programming-contest/
-prev-child: yukicoder-contest-402/
-next-child: yukicoder-April-Fool-Contest-2024/
+parent: competitive-programming-contest
+prev-child: yukicoder-contest-402
+next-child: yukicoder-April-Fool-Contest-2024
 own: 単著
 blog: true
 tags: [競技プログラミング,数学]
