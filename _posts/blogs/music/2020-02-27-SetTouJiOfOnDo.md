@@ -5,9 +5,9 @@ subtitle: 音度の接頭辞
 date: 2020-02-27
 excerpt: "音度の接頭辞のクラスを実装します。"
 blog: true
-parent: KinouWasei/
-prev-child: Pitch/
-next-child: OnDo/
+parent: KinouWasei
+prev-child: Pitch
+next-child: OnDo
 defined-class: [SetTouJiOfOnDo,ZeroIndexedDoSuu,PitchDifference]
 tags: [音楽,機能和声,C++]
 ---
