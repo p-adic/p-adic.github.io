@@ -3,7 +3,7 @@ layout: blog
 title: yukicoder contest開催記リンク集
 date: 2023-04-16
 excerpt: "yukicoder contest開催記のリンク集です。"
-parent: competitive-programming-blog/
+parent: competitive-programming-blog
 prev-child: 
 next-child: introduction-to-competitive-programming
 blog: true
