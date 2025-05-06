@@ -6,9 +6,9 @@ suburl: yukicoder-contest-402
 excerpt: "yukicoder contest 402（線形代数コンテスト）の開催記です。"
 date: 2023-08-25
 num: 454
-parent: competitive-programming-contest/
-prev-child: yukicoder-contest-399/
-next-child: yukicoder-contest-412/
+parent: competitive-programming-contest
+prev-child: yukicoder-contest-399
+next-child: yukicoder-contest-412
 own: 単著
 blog: true
 tags: [競技プログラミング,数学]
