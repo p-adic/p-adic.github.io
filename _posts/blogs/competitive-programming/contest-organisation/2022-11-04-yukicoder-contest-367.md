@@ -6,7 +6,7 @@ suburl: yukicoder-contest-367
 excerpt: "yukicoder contest 367の開催記です。"
 date: 2022-11-04
 num: 411
-parent: competitive-programming-contest/
+parent: competitive-programming-contest
 prev-child: yukicoder-contest-362/
 next-child: yukicoder-contest-369/
 own: 単著
