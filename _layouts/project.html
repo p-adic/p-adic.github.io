@@ -34,7 +34,7 @@ layout: compress
                             {% capture prev-child-name %}{{ page.prev-child }}.md{% endcapture %}
                             表示テスト中：prev-child-name = {{ prev-child-name }}
                             {% for post in site.posts %}
-                                表示テスト中：post.name = {{ post.name }}
+                                表示テスト中：post.url = {{ post.url }}
                                 {% if prev-child-name == post.name %}
                                     <span style="padding : 10px">
                                         <a class="btn zoombtn" href="{{ site.url }}/{{ page.prev-child }}">
