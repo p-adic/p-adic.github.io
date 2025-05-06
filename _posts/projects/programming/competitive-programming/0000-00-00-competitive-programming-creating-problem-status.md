@@ -4,7 +4,7 @@ title: 競技プログラミング作問状況
 excerpt: "競技プログラミングの作問状況の情報をまとめたページです。"
 date: 2025-05-02
 project: true
-parent: competitive-programming-project/
+parent: competitive-programming-project
 prev-child: competitive-programming-problems
 next-child: yukicoder-difficulty-statistics
 class-name: 競技プログラミング
