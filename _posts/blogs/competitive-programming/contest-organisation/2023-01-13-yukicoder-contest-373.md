@@ -6,9 +6,9 @@ suburl: yukicoder-contest-373
 excerpt: "yukicoder contest 373の開催記です。"
 date: 2023-01-13
 num: 418
-parent: competitive-programming-contest/
-prev-child: Advent-Calendar-Contest-2022/
-next-child: yukicoder-contest-384/
+parent: competitive-programming-contest
+prev-child: Advent-Calendar-Contest-2022
+next-child: yukicoder-contest-384
 own: 単著
 blog: true
 tags: [競技プログラミング,数学]
