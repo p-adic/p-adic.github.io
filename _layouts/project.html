@@ -57,11 +57,9 @@ layout: compress
                             {% endif %}
                         {% endfor %}
                         {% if page.next-child != null %}
-                            {% capture next-child-name %}/{{ page.prev-child }}/{% endcapture %}
-                                    表示テスト：next-child-name={{next-child-name}}
+                            {% capture next-child-name %}/{{ page.next-child }}/{% endcapture %}
                             {% for post in site.posts %}
                                 {% if next-child-name == post.url %}
-                                    表示テスト：post.url={{post.url}}
                                     <p>
                                         <span style="padding : 10px">
                                             <a class="btn zoombtn" href="{{ site.url }}/{{ page.next-child }}">
