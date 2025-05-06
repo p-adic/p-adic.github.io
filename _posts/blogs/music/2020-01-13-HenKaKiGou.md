@@ -5,9 +5,9 @@ subtitle: 変化記号
 date: 2020-01-13
 excerpt: "変化記号のクラスを実装します。"
 blog: true
-parent: KinouWasei/
-prev-child: KanOn/
-next-child: OnMei/
+parent: KinouWasei
+prev-child: KanOn
+next-child: OnMei
 defined-class: [HenKaKiGou]
 tags: [音楽,機能和声,C++]
 ---
