@@ -10,7 +10,7 @@ tags: [競技プログラミング]
 競技プログラミング関連記事へのリンク集です。
 
 {% for post in site.posts %}
-{% if post.parent != null %}{% if post.parent == "competitive-programming-blog/" or post.parent == "competitive-programming-blog" %}
+{% if post.parent != null %}{% if post.parent == "competitive-programming-blog" %}
 - [{{ post.title }}]({{ site.url }}{{ post.url }})
 {% endif %}{% endif %}
 {% endfor %}
