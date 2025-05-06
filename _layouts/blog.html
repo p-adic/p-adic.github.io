@@ -29,25 +29,42 @@ layout: compress
                         </a>
                     </span>
                     {% if page.parent != null %}
-                        {% if page.prev-child != null %}
-                            <span style="padding : 10px">
-                                <a class="btn zoombtn" href="{{ site.url }}/{{ page.prev-child }}">
-                                    前の関連記事
-                                </a>
-                            </span>
-                        {% endif %}
-                        <span style="padding : 10px">
-                            <a class="btn zoombtn" href="{{ site.url }}/{{ page.parent }}">
-                                親記事
-                            </a>
-                        </span>
-                        {% if page.next-child != null %}
-                            <span style="padding : 10px">
-                                <a class="btn zoombtn" href="{{ site.url }}/{{ page.next-child }}">
-                                    次の関連記事
-                                </a>
-                            </span>
-                        {% endif %}
+                        <div>
+                            {% if page.prev-child != null %}
+                                {% capture prev-child-name %}/{{ page.prev-child }}/{% endcapture %}
+                                {% for post in site.posts %}
+                                    {% if prev-child-name == post.url %}
+                                        <span style="padding : 10px">
+                                            <a class="btn zoombtn" href="{{ site.url }}/{{ page.prev-child }}">
+                                                前の関連記事： {{ post.title }}
+                                            </a>
+                                        </span>
+                                    {% endif %}
+                                {% endfor %}
+                            {% endif %}
+                            {% capture parent-name %}/{{ page.parent }}/{% endcapture %}
+                            {% for post in site.posts %}
+                                {% if parent-name == post.url %}
+                                    <span style="padding : 10px">
+                                        <a class="btn zoombtn" href="{{ site.url }}/{{ page.parent }}">
+                                            親記事： {{ post.title }}
+                                        </a>
+                                    </span>
+                                {% endif %}
+                            {% endfor %}
+                            {% if page.next-child != null %}
+                                {% capture next-child-name %}/{{ page.prev-child }}/{% endcapture %}
+                                {% for post in site.posts %}
+                                    {% if next-child-name == post.url %}
+                                        <span style="padding : 10px">
+                                            <a class="btn zoombtn" href="{{ site.url }}/{{ page.next-child }}">
+                                                次の関連記事: {{ post.title }}
+                                            </a>
+                                        </span>
+                                    {% endif %}
+                                {% endfor %}
+                            {% endif %}
+                        </div>
                     {% else %}
                         <span style="padding : 10px">
                             {% if page.project %}
