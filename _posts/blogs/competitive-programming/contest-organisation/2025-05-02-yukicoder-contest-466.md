@@ -6,7 +6,7 @@ suburl: yukicoder-contest-466
 excerpt: "yukicoder contest 466 オムニバスコンテストの参戦記です。"
 date: 2025-05-02
 num: 543
-parent: competitive-programming-contest/
+parent: competitive-programming-contest
 prev-child: yukicoder-contest-456
 next-child: 
 own: B問題
