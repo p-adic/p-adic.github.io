@@ -6,9 +6,9 @@ suburl: Advent-Calendar-Contest-2022
 excerpt: "Advent Calendar Contest 2022の参戦記です。"
 date: 2022-12-20
 num: 416
-parent: competitive-programming-contest/
-prev-child: yukicoder-contest-369/
-next-child: yukicoder-contest-373/
+parent: competitive-programming-contest
+prev-child: yukicoder-contest-369
+next-child: yukicoder-contest-373
 own: U問題
 blog: true
 tags: [競技プログラミング,数学]
