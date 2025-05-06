@@ -6,7 +6,7 @@ suburl: yukicoder-contest-456
 excerpt: "yukicoder contest 456 オムニバスの参戦記です。"
 date: 2025-02-14
 num: 525
-parent: competitive-programming-contest/
+parent: competitive-programming-contest
 prev-child: Advent-Calendar-Contest-2024
 next-child: yukicoder-contest-466
 own: D,F問題
