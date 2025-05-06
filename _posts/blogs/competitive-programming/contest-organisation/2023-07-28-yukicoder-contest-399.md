@@ -6,9 +6,9 @@ suburl: yukicoder-contest-399
 excerpt: "yukicoder contest 399の開催記です。"
 date: 2023-07-28
 num: 452
-parent: competitive-programming-contest/
-prev-child: yukicoder-contest-384/
-next-child: yukicoder-contest-402/
+parent: competitive-programming-contest
+prev-child: yukicoder-contest-384
+next-child: yukicoder-contest-402
 own: A,C,D,E,F,G問題
 blog: true
 tags: [競技プログラミング,数学]
