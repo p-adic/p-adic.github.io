@@ -6,7 +6,7 @@ excerpt: "yukicoderの過去問の解法別難易度統計ページに記載し�
 project: true
 parent: competitive-programming-project/
 prev-child: yukicoder-difficulty-statistics
-next-child: 
+next-child: yukicoder-writer-statistics
 image-directory: 
 tags: [競技プログラミング,数学]
 ---
