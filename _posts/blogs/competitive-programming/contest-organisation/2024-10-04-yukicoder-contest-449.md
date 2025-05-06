@@ -6,7 +6,7 @@ suburl:  yukicoder-contest-449
 excerpt: " yukicoder contest 449の開催記です。"
 date: 2024-10-04
 num: 514
-parent: competitive-programming-contest/
+parent: competitive-programming-contest
 prev-child: yukicoder-contest-447
 next-child: yukicoder-contest-454
 own: 単著
