@@ -6,7 +6,7 @@ suburl: Advent-Calendar-Contest-2024
 excerpt: "Advent Calendar Contest 2024の参戦記です。"
 date: 2024-12-25
 num: 522
-parent: competitive-programming-contest/
+parent: competitive-programming-contest
 prev-child: yukicoder-contest-454
 next-child: yukicoder-contest-456
 own: Q問題
