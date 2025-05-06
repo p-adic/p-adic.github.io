@@ -6,9 +6,9 @@ suburl: yukicoder-contest-369
 excerpt: "yukicoder contest 369の参戦記です。"
 date: 2022-11-25
 num: 409
-parent: competitive-programming-contest/
-prev-child: yukicoder-contest-367/
-next-child: Advent-Calendar-Contest-2022/
+parent: competitive-programming-contest
+prev-child: yukicoder-contest-367
+next-child: Advent-Calendar-Contest-2022
 own: A問題
 blog: true
 tags: [競技プログラミング,数学]
