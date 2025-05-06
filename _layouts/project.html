@@ -43,9 +43,9 @@ layout: compress
                             {% endfor %}
                         {% endif %}
                         {% capture parent-name %}/{{ page.parent }}/{% endcapture %}
-                        表示テスト：parent-name
+                        表示テスト：parent-name = {{ parent-name }}
                         {% for post in site.posts %}
-                            表示テスト：post.url
+                            表示テスト：post.url = {{ post.url }}
                             {% if parent-name == post.url %}
                                 <span style="padding : 10px">
                                     <a class="btn zoombtn" href="{{ site.url }}/{{ page.parent }}">
