@@ -6,7 +6,7 @@ suburl: yukicoder-contest-454
 excerpt: "yukicoder contest 454の開催記です。"
 date: 2024-11-29
 num: 520
-parent: competitive-programming-contest/
+parent: competitive-programming-contest
 prev-child: yukicoder-contest-449
 next-child: Advent-Calendar-Contest-2024
 own: 単著
