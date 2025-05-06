@@ -3,7 +3,7 @@ layout: blog
 title: 競技プログラミング作問時に心掛けていること
 date: 2024-05-12
 excerpt: "競技プログラミング作問時に心掛けていることを書いていきます。"
-parent: competitive-programming-blog/
+parent: competitive-programming-blog
 prev-child: introduction-to-competitive-programming
 next-child: how-to-create-problems-for-competitive-programming
 blog: true
