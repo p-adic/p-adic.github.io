@@ -4,7 +4,7 @@ title: 競技プログラミング作問一覧
 excerpt: "競技プログラミングの自作問題へのリンク集です。"
 date: 2024-05-11
 project: true
-parent: competitive-programming-project/
+parent: competitive-programming-project
 prev-child: 
 next-child: competitive-programming-creating-problem-status
 class-name: 競技プログラミング
