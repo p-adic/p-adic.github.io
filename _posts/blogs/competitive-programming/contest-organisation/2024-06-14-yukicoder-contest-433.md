@@ -6,7 +6,7 @@ suburl:  yukicoder-contest-433
 excerpt: " yukicoder contest 433の参戦記です。"
 date: 2024-06-14
 num: 500
-parent: competitive-programming-contest/
+parent: competitive-programming-contest
 prev-child: yukicoder-contest-429
 next-child: yukicoder-contest-447
 own: A,B,D,E,G問題
