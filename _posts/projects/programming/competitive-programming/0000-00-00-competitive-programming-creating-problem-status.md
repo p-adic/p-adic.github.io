@@ -2,7 +2,7 @@
 layout: project
 title: 競技プログラミング作問状況
 excerpt: "競技プログラミングの作問状況の情報をまとめたページです。"
-date: 2025-05-02
+date: 2025-05-08
 project: true
 parent: competitive-programming-project
 prev-child: competitive-programming-problems
@@ -13,7 +13,7 @@ tags: [競技プログラミング,プログラミング,数学]
 
 競技プログラミングの未公開問題の作問状況をまとめたページです。公開済み問題は[こちら]({{ site.url }}/competitive-programming-problems)をご覧ください。
 
-{{ page.date | date: '%Y/%m/%d' }}現在の未公開問題は46問です。大半はtesterさんが見つかっておらず[こちらのツイート](https://x.com/non_archimedean/status/1891013578880074011)で募集中ですのでご応募くださると嬉しいです。
+{{ page.date | date: '%Y/%m/%d' }}現在の未公開問題は46問です。大半はtesterさんが見つかっておらず[こちらのツイート](https://x.com/non_archimedean/status/1920320858452877565)で募集中ですのでご応募くださると嬉しいです。
 
 ## コンテスト予定
 
@@ -21,11 +21,12 @@ tags: [競技プログラミング,プログラミング,数学]
 
 ### リアクティブコンテスト
 
-リアクティブ問題を出題するコンテストです。全問testerさんが見つかっており、現在準備中です。
+リアクティブ問題を出題するコンテストです。全問testerさんが見つかっておりますが、下記１問のみ追加testerさんを募集中です。
+- H問題：★4.5
 
 * 2024/07/30：コンテスト発案。testerさんの募集を開始しました。
 * 2025/04/29：全問testerさんが見つかりました。
-
+* 2025/05/08：H問題の追加testerさんの募集を開始しました。
 
 ## その他のtesterさん募集中の問題一覧
 
