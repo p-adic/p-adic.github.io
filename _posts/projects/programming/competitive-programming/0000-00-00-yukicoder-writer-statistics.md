@@ -6747,14 +6747,14 @@ writer名は基本的に登録名をそのまま表記していますが、例�
 - [★1.5／diff <font color="brown">571</font>](https://yukicoder.me/problems/no/3141)
 - [★2／diff <font color="brown">787</font>](https://yukicoder.me/problems/no/3142)
 - [★2／diff <font color="blue">1664</font>](https://yukicoder.me/problems/no/3143)
-- [★2／diff <font color="blue">1664</font>](https://yukicoder.me/problems/no/3144)
-- [★2／diff <font color="yellowgreen">2154</font>](https://yukicoder.me/problems/no/3147)
-- [★2／diff <font color="yellowgreen">2236</font>](https://yukicoder.me/problems/no/3146)
-- [★2／diff <font color="orange">2565</font>](https://yukicoder.me/problems/no/3148)
 - [★2.5／diff <font color="deepskyblue">1460</font>](https://yukicoder.me/problems/no/3040)
+- [★2.5／diff <font color="blue">1664</font>](https://yukicoder.me/problems/no/3144)
 - [★2.5／diff <font color="yellowgreen">2043</font>](https://yukicoder.me/problems/no/3145)
 - [★3／diff <font color="blue">1908</font>](https://yukicoder.me/problems/no/3041)
 - [★3／diff <font color="blue">1974</font>](https://yukicoder.me/problems/no/3043)
+- [★3／diff <font color="yellowgreen">2154</font>](https://yukicoder.me/problems/no/3147)
+- [★3／diff <font color="yellowgreen">2236</font>](https://yukicoder.me/problems/no/3146)
+- [★3.5／diff <font color="orange">2565</font>](https://yukicoder.me/problems/no/3148)
 - [★4／diff <font color="orange">2580</font>](https://yukicoder.me/problems/no/3045)
 
 ### 過去問の解法頻度
