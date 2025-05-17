@@ -6792,6 +6792,7 @@ writer名は基本的に登録名をそのまま表記していますが、例�
 - [集合の変化イベント走査による差分計算](https://p-adic.github.io/yukicoder-difficulty-statistics/#集合の変化イベント走査による差分計算) × 1問
 - [小数型](https://p-adic.github.io/yukicoder-difficulty-statistics/#小数型) × 1問
 - [場合分け](https://p-adic.github.io/yukicoder-difficulty-statistics/#場合分け) × 1問
+- [畳み込み](https://p-adic.github.io/yukicoder-difficulty-statistics/#畳み込み) × 1問
 - [数え上げを総和計算に帰着](https://p-adic.github.io/yukicoder-difficulty-statistics/#数え上げを総和計算に帰着) × 1問
 - [素数を法とする逆元計算](https://p-adic.github.io/yukicoder-difficulty-statistics/#素数を法とする逆元計算) × 1問
 - [動的mod](https://p-adic.github.io/yukicoder-difficulty-statistics/#動的mod) × 1問
