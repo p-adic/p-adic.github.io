@@ -906,6 +906,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 1. （★3.7／diff <font color="orange">2462</font>／2問）<a href="#強連結成分分解" class="tag">強連結成分分解</a>／SCC
 1. （★3.7／diff <font color="orange">2608</font>／25問）<a href="#ゲルファント変換" class="tag">ゲルファント変換</a>
 1. （★3.7／diff <font color="orange">2629</font>／2問）<a href="#凸集合の格子点数え上げ" class="tag">凸集合の格子点数え上げ</a>
+1. （★3.7／diff <font color="orange">2651</font>／24問）<a href="#畳み込み" class="tag">畳み込み</a>
 1. （★3.7／diff <font color="orange">2656</font>／4問）<a href="#基底計算" class="tag">基底計算</a>
 1. （★3.7／diff <font color="orange">2656</font>／4問）<a href="#次元計算" class="tag">次元計算</a>
 1. （★3.7／diff <font color="orange">2719</font>／2問）<a href="#疎な多項式の畳み込み" class="tag">疎な多項式の畳み込み</a>
@@ -913,7 +914,6 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 1. （★3.7／diff <font color="orange">2734</font>／2問）<a href="#２変数関数の１変数を固定した最大・最小値計算" class="tag">２変数関数の１変数を固定した最大・最小値計算</a>
 1. （★3.7／diff <font color="red">2859</font>／2問）<a href="#写像の構築" class="tag">写像の構築</a>
 1. （★3.8／diff <font color="orange">2571</font>／3問）<a href="#指数と対数による冪乗計算" class="tag">指数と対数による冪乗計算</a>
-1. （★3.8／diff <font color="orange">2669</font>／23問）<a href="#畳み込み" class="tag">畳み込み</a>
 1. （★3.8／diff <font color="orange">2749</font>／8問）<a href="#掃き出し法" class="tag">掃き出し法</a>／ガウスの消去法
 1. （★3.9／diff <font color="red">2811</font>／6問）<a href="#行列の階段化" class="tag">行列の階段化</a>
 1. （★4／diff <font color="orange">2521</font>／2問）<a href="#XOR畳み込み" class="tag">XOR畳み込み</a>
@@ -23254,189 +23254,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2979">No.2979 直角三角形の個数</a> (Advent Calendar Contest 2024 (2024-12-01) - C問題、diff <font color="red">2885</font>)
 
 　
-<h2 id="基底計算">696. 基底計算</h2>
-
-### 難易度統計
-
-「基底計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
-- 全体: ★3.7／diff <font color="orange">2656</font>
-- 2025年: ★4／diff <font color="red">2892</font>
-- 2024年: ★データなし／diffデータなし
-- 2023年: ★4／diff <font color="orange">2744</font>
-- 2022年: ★3／diff <font color="yellowgreen">2245</font>
-
-### レベル別問題一覧
-
-「基底計算」を主たる解法に含む問題のレベルごとの一覧です。
-
-##### ★★★
-
-- <a href="https://yukicoder.me/problems/no/2134">No.2134 $\sigma$-algebra over Finite Set</a> (yukicoder contest 369 (2022-11-25) - E問題、diff <font color="yellowgreen">2245</font>)
-
-##### ★★★★
-
-- <a href="https://yukicoder.me/problems/no/2274">No.2274 三角彩色</a> (yukicoder contest 384 (2023-04-14) - H問題、diff <font color="red">2880</font>)
-- <a href="https://yukicoder.me/problems/no/2446">No.2446 完全列</a> (yukicoder contest 402 (2023-08-25) - F問題、diff <font color="orange">2609</font>)
-- <a href="https://yukicoder.me/problems/no/3034">No.3034 コーエン-マコーレー抽象単体複体</a> (yukicoder contest 457 (2025-02-21) - H問題、diff <font color="red">2892</font>)
-
-　
-<h2 id="次元計算">697. 次元計算</h2>
-
-### 難易度統計
-
-「次元計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
-- 全体: ★3.7／diff <font color="orange">2656</font>
-- 2025年: ★4／diff <font color="red">2892</font>
-- 2024年: ★データなし／diffデータなし
-- 2023年: ★4／diff <font color="orange">2744</font>
-- 2022年: ★3／diff <font color="yellowgreen">2245</font>
-
-### レベル別問題一覧
-
-「次元計算」を主たる解法に含む問題のレベルごとの一覧です。
-
-##### ★★★
-
-- <a href="https://yukicoder.me/problems/no/2134">No.2134 $\sigma$-algebra over Finite Set</a> (yukicoder contest 369 (2022-11-25) - E問題、diff <font color="yellowgreen">2245</font>)
-
-##### ★★★★
-
-- <a href="https://yukicoder.me/problems/no/2274">No.2274 三角彩色</a> (yukicoder contest 384 (2023-04-14) - H問題、diff <font color="red">2880</font>)
-- <a href="https://yukicoder.me/problems/no/2446">No.2446 完全列</a> (yukicoder contest 402 (2023-08-25) - F問題、diff <font color="orange">2609</font>)
-- <a href="https://yukicoder.me/problems/no/3034">No.3034 コーエン-マコーレー抽象単体複体</a> (yukicoder contest 457 (2025-02-21) - H問題、diff <font color="red">2892</font>)
-
-　
-<h2 id="疎な多項式の畳み込み">698. 疎な多項式の畳み込み</h2>
-
-### 難易度統計
-
-「疎な多項式の畳み込み」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
-- 全体: ★3.7／diff <font color="orange">2719</font>
-- 2025年: ★データなし／diffデータなし
-- 2024年: ★3／diff <font color="red">2885</font>
-- 2023年: ★データなし／diffデータなし
-- 2022年: ★4.5／diff <font color="orange">2553</font>
-
-### レベル別問題一覧
-
-「疎な多項式の畳み込み」を主たる解法に含む問題のレベルごとの一覧です。
-
-##### ★★★
-
-- <a href="https://yukicoder.me/problems/no/2994">No.2994 べき内積</a> (Advent Calendar Contest 2024 (2024-12-01) - R問題、diff <font color="red">2885</font>)
-
-##### ★★★★☆
-
-- <a href="https://yukicoder.me/problems/no/2062">No.2062 Sum of Subset mod 999630629</a> (yukicoder contest 358 (2022-08-26) - G問題、diff <font color="orange">2553</font>)
-
-　
-<h2 id="monotone minima">699. monotone minima</h2>
-
-### 難易度統計
-
-「monotone minima」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
-- 全体: ★3.7／diff <font color="orange">2734</font>
-- 2025年: ★データなし／diffデータなし
-- 2024年: ★3.7／diff <font color="orange">2734</font>
-- 2023年: ★データなし／diffデータなし
-- 2022年: ★データなし／diffデータなし
-
-### レベル別問題一覧
-
-「monotone minima」を主たる解法に含む問題のレベルごとの一覧です。
-
-##### ★★★
-
-- <a href="https://yukicoder.me/problems/no/2764">No.2764 Warp Drive Spacecraft</a> (yukicoder contest 430 (2024-05-17) - H問題、diff <font color="yellowgreen">2354</font>)
-
-##### ★★★★☆
-
-- <a href="https://yukicoder.me/problems/no/2988">No.2988 Min-Plus Convolution Query</a> (Advent Calendar Contest 2024 (2024-12-01) - L問題、diff <font color="red">3115</font>)
-
-　
-<h2 id="２変数関数の１変数を固定した最大・最小値計算">700. ２変数関数の１変数を固定した最大・最小値計算</h2>
-
-### 難易度統計
-
-「２変数関数の１変数を固定した最大・最小値計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
-- 全体: ★3.7／diff <font color="orange">2734</font>
-- 2025年: ★データなし／diffデータなし
-- 2024年: ★3.7／diff <font color="orange">2734</font>
-- 2023年: ★データなし／diffデータなし
-- 2022年: ★データなし／diffデータなし
-
-### レベル別問題一覧
-
-「２変数関数の１変数を固定した最大・最小値計算」を主たる解法に含む問題のレベルごとの一覧です。
-
-##### ★★★
-
-- <a href="https://yukicoder.me/problems/no/2764">No.2764 Warp Drive Spacecraft</a> (yukicoder contest 430 (2024-05-17) - H問題、diff <font color="yellowgreen">2354</font>)
-
-##### ★★★★☆
-
-- <a href="https://yukicoder.me/problems/no/2988">No.2988 Min-Plus Convolution Query</a> (Advent Calendar Contest 2024 (2024-12-01) - L問題、diff <font color="red">3115</font>)
-
-　
-<h2 id="写像の構築">701. 写像の構築</h2>
-
-### 難易度統計
-
-「写像の構築」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
-- 全体: ★3.7／diff <font color="red">2859</font>
-- 2025年: ★4／diff <font color="red">2833</font>
-- 2024年: ★3.5／diff <font color="red">2885</font>
-- 2023年: ★データなし／diffデータなし
-- 2022年: ★データなし／diffデータなし
-
-### レベル別問題一覧
-
-「写像の構築」を主たる解法に含む問題のレベルごとの一覧です。
-
-##### ★★★☆
-
-- <a href="https://yukicoder.me/problems/no/2981">No.2981 Pack Tree into Grid</a> (Advent Calendar Contest 2024 (2024-12-01) - E問題、diff <font color="red">2885</font>)
-
-##### ★★★★
-
-- <a href="https://yukicoder.me/problems/no/3023">No.3023 Utility is Max?</a> (yukicoder contest 456 オムニバス (2025-02-14) - E問題、diff <font color="red">2833</font>)
-
-　
-<h2 id="指数と対数による冪乗計算">702. 指数と対数による冪乗計算</h2>
-
-### 難易度統計
-
-「指数と対数による冪乗計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
-- 全体: ★3.8／diff <font color="orange">2571</font>
-- 2025年: ★データなし／diffデータなし
-- 2024年: ★3.5／diff <font color="orange">2580</font>
-- 2023年: ★データなし／diffデータなし
-- 2022年: ★4.5／diff <font color="orange">2553</font>
-
-### レベル別問題一覧
-
-「指数と対数による冪乗計算」を主たる解法に含む問題のレベルごとの一覧です。
-
-##### ★★★
-
-- <a href="https://yukicoder.me/problems/no/2966">No.2966 Simple Plus Minus Problem</a> (yukicoder contest 453 (2024-11-16) - G問題、diff <font color="yellowgreen">2130</font>)
-
-##### ★★★★
-
-- <a href="https://yukicoder.me/problems/no/2976">No.2976 高階多点評価</a> (yukicoder contest 454 (2024-11-29) - H問題、diff <font color="red">3030</font>)
-
-##### ★★★★☆
-
-- <a href="https://yukicoder.me/problems/no/2062">No.2062 Sum of Subset mod 999630629</a> (yukicoder contest 358 (2022-08-26) - G問題、diff <font color="orange">2553</font>)
-
-　
-<h2 id="畳み込み">703. 畳み込み</h2>
+<h2 id="畳み込み">696. 畳み込み</h2>
 
 ### 難易度統計
 
 「畳み込み」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
-- 全体: ★3.8／diff <font color="orange">2669</font>
-- 2025年: ★4／diff <font color="orange">2675</font>
+- 全体: ★3.7／diff <font color="orange">2651</font>
+- 2025年: ★3.5／diff <font color="orange">2455</font>
 - 2024年: ★3.3／diff <font color="orange">2405</font>
 - 2023年: ★3.9／diff <font color="orange">2788</font>
 - 2022年: ★4.5／diff <font color="red">2934</font>
@@ -23462,6 +23286,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2966">No.2966 Simple Plus Minus Problem</a> (yukicoder contest 453 (2024-11-16) - G問題、diff <font color="yellowgreen">2130</font>)
 - <a href="https://yukicoder.me/problems/no/2977">No.2977 Kth Xor Pair</a> (Advent Calendar Contest 2024 (2024-12-01) - A問題、diff <font color="blue">1928</font>)
 - <a href="https://yukicoder.me/problems/no/2994">No.2994 べき内積</a> (Advent Calendar Contest 2024 (2024-12-01) - R問題、diff <font color="red">2885</font>)
+- <a href="https://yukicoder.me/problems/no/3146">No.3146 RE: Parentheses Counting</a> (yukicoder contest 467 (2025-05-16) - G問題、diff <font color="yellowgreen">2236</font>)
 
 ##### ★★★☆
 
@@ -23491,6 +23316,182 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 ##### ★★★★★☆
 
 - <a href="https://yukicoder.me/problems/no/2166">No.2166 Paint and Fill</a> (Advent Calendar Contest 2022 (2022-12-01) - S問題、diff <font color="darkgoldenrod ">3577</font>)
+
+　
+<h2 id="基底計算">697. 基底計算</h2>
+
+### 難易度統計
+
+「基底計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
+- 全体: ★3.7／diff <font color="orange">2656</font>
+- 2025年: ★4／diff <font color="red">2892</font>
+- 2024年: ★データなし／diffデータなし
+- 2023年: ★4／diff <font color="orange">2744</font>
+- 2022年: ★3／diff <font color="yellowgreen">2245</font>
+
+### レベル別問題一覧
+
+「基底計算」を主たる解法に含む問題のレベルごとの一覧です。
+
+##### ★★★
+
+- <a href="https://yukicoder.me/problems/no/2134">No.2134 $\sigma$-algebra over Finite Set</a> (yukicoder contest 369 (2022-11-25) - E問題、diff <font color="yellowgreen">2245</font>)
+
+##### ★★★★
+
+- <a href="https://yukicoder.me/problems/no/2274">No.2274 三角彩色</a> (yukicoder contest 384 (2023-04-14) - H問題、diff <font color="red">2880</font>)
+- <a href="https://yukicoder.me/problems/no/2446">No.2446 完全列</a> (yukicoder contest 402 (2023-08-25) - F問題、diff <font color="orange">2609</font>)
+- <a href="https://yukicoder.me/problems/no/3034">No.3034 コーエン-マコーレー抽象単体複体</a> (yukicoder contest 457 (2025-02-21) - H問題、diff <font color="red">2892</font>)
+
+　
+<h2 id="次元計算">698. 次元計算</h2>
+
+### 難易度統計
+
+「次元計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
+- 全体: ★3.7／diff <font color="orange">2656</font>
+- 2025年: ★4／diff <font color="red">2892</font>
+- 2024年: ★データなし／diffデータなし
+- 2023年: ★4／diff <font color="orange">2744</font>
+- 2022年: ★3／diff <font color="yellowgreen">2245</font>
+
+### レベル別問題一覧
+
+「次元計算」を主たる解法に含む問題のレベルごとの一覧です。
+
+##### ★★★
+
+- <a href="https://yukicoder.me/problems/no/2134">No.2134 $\sigma$-algebra over Finite Set</a> (yukicoder contest 369 (2022-11-25) - E問題、diff <font color="yellowgreen">2245</font>)
+
+##### ★★★★
+
+- <a href="https://yukicoder.me/problems/no/2274">No.2274 三角彩色</a> (yukicoder contest 384 (2023-04-14) - H問題、diff <font color="red">2880</font>)
+- <a href="https://yukicoder.me/problems/no/2446">No.2446 完全列</a> (yukicoder contest 402 (2023-08-25) - F問題、diff <font color="orange">2609</font>)
+- <a href="https://yukicoder.me/problems/no/3034">No.3034 コーエン-マコーレー抽象単体複体</a> (yukicoder contest 457 (2025-02-21) - H問題、diff <font color="red">2892</font>)
+
+　
+<h2 id="疎な多項式の畳み込み">699. 疎な多項式の畳み込み</h2>
+
+### 難易度統計
+
+「疎な多項式の畳み込み」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
+- 全体: ★3.7／diff <font color="orange">2719</font>
+- 2025年: ★データなし／diffデータなし
+- 2024年: ★3／diff <font color="red">2885</font>
+- 2023年: ★データなし／diffデータなし
+- 2022年: ★4.5／diff <font color="orange">2553</font>
+
+### レベル別問題一覧
+
+「疎な多項式の畳み込み」を主たる解法に含む問題のレベルごとの一覧です。
+
+##### ★★★
+
+- <a href="https://yukicoder.me/problems/no/2994">No.2994 べき内積</a> (Advent Calendar Contest 2024 (2024-12-01) - R問題、diff <font color="red">2885</font>)
+
+##### ★★★★☆
+
+- <a href="https://yukicoder.me/problems/no/2062">No.2062 Sum of Subset mod 999630629</a> (yukicoder contest 358 (2022-08-26) - G問題、diff <font color="orange">2553</font>)
+
+　
+<h2 id="monotone minima">700. monotone minima</h2>
+
+### 難易度統計
+
+「monotone minima」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
+- 全体: ★3.7／diff <font color="orange">2734</font>
+- 2025年: ★データなし／diffデータなし
+- 2024年: ★3.7／diff <font color="orange">2734</font>
+- 2023年: ★データなし／diffデータなし
+- 2022年: ★データなし／diffデータなし
+
+### レベル別問題一覧
+
+「monotone minima」を主たる解法に含む問題のレベルごとの一覧です。
+
+##### ★★★
+
+- <a href="https://yukicoder.me/problems/no/2764">No.2764 Warp Drive Spacecraft</a> (yukicoder contest 430 (2024-05-17) - H問題、diff <font color="yellowgreen">2354</font>)
+
+##### ★★★★☆
+
+- <a href="https://yukicoder.me/problems/no/2988">No.2988 Min-Plus Convolution Query</a> (Advent Calendar Contest 2024 (2024-12-01) - L問題、diff <font color="red">3115</font>)
+
+　
+<h2 id="２変数関数の１変数を固定した最大・最小値計算">701. ２変数関数の１変数を固定した最大・最小値計算</h2>
+
+### 難易度統計
+
+「２変数関数の１変数を固定した最大・最小値計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
+- 全体: ★3.7／diff <font color="orange">2734</font>
+- 2025年: ★データなし／diffデータなし
+- 2024年: ★3.7／diff <font color="orange">2734</font>
+- 2023年: ★データなし／diffデータなし
+- 2022年: ★データなし／diffデータなし
+
+### レベル別問題一覧
+
+「２変数関数の１変数を固定した最大・最小値計算」を主たる解法に含む問題のレベルごとの一覧です。
+
+##### ★★★
+
+- <a href="https://yukicoder.me/problems/no/2764">No.2764 Warp Drive Spacecraft</a> (yukicoder contest 430 (2024-05-17) - H問題、diff <font color="yellowgreen">2354</font>)
+
+##### ★★★★☆
+
+- <a href="https://yukicoder.me/problems/no/2988">No.2988 Min-Plus Convolution Query</a> (Advent Calendar Contest 2024 (2024-12-01) - L問題、diff <font color="red">3115</font>)
+
+　
+<h2 id="写像の構築">702. 写像の構築</h2>
+
+### 難易度統計
+
+「写像の構築」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
+- 全体: ★3.7／diff <font color="red">2859</font>
+- 2025年: ★4／diff <font color="red">2833</font>
+- 2024年: ★3.5／diff <font color="red">2885</font>
+- 2023年: ★データなし／diffデータなし
+- 2022年: ★データなし／diffデータなし
+
+### レベル別問題一覧
+
+「写像の構築」を主たる解法に含む問題のレベルごとの一覧です。
+
+##### ★★★☆
+
+- <a href="https://yukicoder.me/problems/no/2981">No.2981 Pack Tree into Grid</a> (Advent Calendar Contest 2024 (2024-12-01) - E問題、diff <font color="red">2885</font>)
+
+##### ★★★★
+
+- <a href="https://yukicoder.me/problems/no/3023">No.3023 Utility is Max?</a> (yukicoder contest 456 オムニバス (2025-02-14) - E問題、diff <font color="red">2833</font>)
+
+　
+<h2 id="指数と対数による冪乗計算">703. 指数と対数による冪乗計算</h2>
+
+### 難易度統計
+
+「指数と対数による冪乗計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
+- 全体: ★3.8／diff <font color="orange">2571</font>
+- 2025年: ★データなし／diffデータなし
+- 2024年: ★3.5／diff <font color="orange">2580</font>
+- 2023年: ★データなし／diffデータなし
+- 2022年: ★4.5／diff <font color="orange">2553</font>
+
+### レベル別問題一覧
+
+「指数と対数による冪乗計算」を主たる解法に含む問題のレベルごとの一覧です。
+
+##### ★★★
+
+- <a href="https://yukicoder.me/problems/no/2966">No.2966 Simple Plus Minus Problem</a> (yukicoder contest 453 (2024-11-16) - G問題、diff <font color="yellowgreen">2130</font>)
+
+##### ★★★★
+
+- <a href="https://yukicoder.me/problems/no/2976">No.2976 高階多点評価</a> (yukicoder contest 454 (2024-11-29) - H問題、diff <font color="red">3030</font>)
+
+##### ★★★★☆
+
+- <a href="https://yukicoder.me/problems/no/2062">No.2062 Sum of Subset mod 999630629</a> (yukicoder contest 358 (2022-08-26) - G問題、diff <font color="orange">2553</font>)
 
 　
 <h2 id="掃き出し法">704. 掃き出し法</h2>
