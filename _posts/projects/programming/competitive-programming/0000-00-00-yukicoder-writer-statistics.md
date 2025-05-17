@@ -19,7 +19,25 @@ yukicoder contest 358 (2022-08-26) 以降に出題されたyuicoderの問題をw
 
 を集計しました。
 
+
+## 集計方法
+
 データ取得元、集計方法、集計の進捗状況などは[yukicode過去問解法別難易度統計]({{ site.url }}/yukicoder-difficulty-statistics)に準じます。そちらの注意点もご参照ください。同ページの[writer想定レベルごとに算出した実際の難易度の平均値]({{ site.url }}/yukicoder-difficulty-statistics#average_difficulty)も比較用に合わせてご利用ください。
+
+
+### 特殊な文字の表記
+
+writer名は基本的に登録名をそのまま表記していますが、例外として
+
+- [(微生物の絵文字)みどりむしさん](https://yukicoder.me/users/19141)
+- [Nauclhlt(蓮の花の絵文字)さん](https://yukicoder.me/users/21654)
+
+はこちらの自動化処理環境の都合
+
+- みどりむしさん
+- Nauclhltさん
+
+と記載させていただきます。
 
 
 ## [nmnmnmnmnmnmnmさん](https://yukicoder.me/users/25)
