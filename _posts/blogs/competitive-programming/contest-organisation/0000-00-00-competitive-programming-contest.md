@@ -18,7 +18,7 @@ yukicoderで
 へのリンク集です。出題意図を説明するために解法に触れることがありますので、ネタバレにご注意ください。（[問題一覧はこちら]({{ site.url }}/competitive-programming-problems/)）
 
 {% for post in site.posts %}
-{% if post.parent != null %}{% if post.parent == "competitive-programming-contest/" %}
+{% if post.parent != null %}{% if post.parent == "competitive-programming-contest" %}
 - [{{ post.title }}]({{ site.url }}{{ post.url }})（{{ post.own }}）
 {% endif %}{% endif %}
 {% endfor %}
