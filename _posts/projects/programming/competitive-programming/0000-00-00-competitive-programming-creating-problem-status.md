@@ -14,7 +14,7 @@ tags: [競技プログラミング,プログラミング,数学]
 
 競技プログラミングの未公開問題の作問状況をまとめたページです。公開済み問題は[こちら]({{ site.url }}/competitive-programming-problems)をご覧ください。
 
-{{ page.date | date: '%Y/%m/%d' }}現在の未公開問題は50問です。大半はtesterさんが見つかっておらず[こちらのツイート](https://x.com/non_archimedean/status/1920320858452877565)で募集中ですのでご応募くださると嬉しいです。
+{{ page.date | date: '%Y/%m/%d' }}現在の未公開問題は50問です。大半はtesterさんが見つかっておらず[こちらのツイート](https://x.com/non_archimedean/status/1927568032072675378)で募集中ですのでご応募くださると嬉しいです。
 
 ## コンテスト予定
 
