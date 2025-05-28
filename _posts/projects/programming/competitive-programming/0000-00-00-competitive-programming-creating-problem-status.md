@@ -1,4 +1,5 @@
 ---
+url: https://p-adic.github.io/competitive-programming-creating-problem-status
 layout: project
 title: 競技プログラミング作問状況
 excerpt: "競技プログラミングの作問状況の情報をまとめたページです。"
