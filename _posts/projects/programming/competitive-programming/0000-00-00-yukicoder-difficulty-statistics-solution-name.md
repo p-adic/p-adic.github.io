@@ -141,7 +141,7 @@ $f$の値の総和を直接求める代わりに、$S$の要素$s$の一様ラ�
 <li> <a href="{{ site.url }}/yukicoder-difficulty-statistics#set">set</a>（c++のunordered set、pythonのset）</li>
 <li> <a href="{{ site.url }}/yukicoder-difficulty-statistics#multiset">multiset</a>（c++のunordered multiset）</li>
 <li> <a href="{{ site.url }}/yukicoder-difficulty-statistics#sorted set">sorted set</a>（c++のset）</li>
-<li> <a href="{{ site.url }}/yukicoder-difficulty-statistics#フェニック木">フェニック木</a>を用いた<a href="{{ site.url }}/yukicoder-difficulty-statistics#配列を像・頻度表で管理>像・頻度表の管理</a> </li>
+<li> <a href="{{ site.url }}/yukicoder-difficulty-statistics#フェニック木">フェニック木</a>を用いた<a href="{{ site.url }}/yukicoder-difficulty-statistics#配列を像・頻度表で管理">像・頻度表の管理</a> </li>
 </ul>
 
 などがこれに該当する。整数の二進法表記やbool値配列で集合を管理するものは含まない。
