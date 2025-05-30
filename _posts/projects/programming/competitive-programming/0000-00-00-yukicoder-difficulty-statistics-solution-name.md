@@ -1,12 +1,12 @@
 ---
 layout: project
 title: yukicoder過去問解法別難易度統計の解法名解説
-date: 2024-12-23
+date: 2025-05-30
 excerpt: "yukicoderの過去問の解法別難易度統計ページに記載した解法名の解説です。"
 project: true
 parent: competitive-programming-project
 prev-child: yukicoder-difficulty-statistics
-next-child: yukicoder-writer-statistics
+next-child: 
 image-directory: 
 tags: [競技プログラミング,数学]
 ---
@@ -194,6 +194,14 @@ $(a_i)\_{i=1}^{N}$と$(b_i)\_{i=1}^{N}$を見つけるには、縦ベクトル$(
   - $P(i)$が「$i$が$D$桁の$B$進法表記を持ち各桁が非零」ならば、$P(i)$を外し$i$に$B$冪を掛ける（もしくは$i \equiv 0 \pmod{B^d}$という条件に置き換える）ことで$b_{\lfloor N \rfloor},b_{\lfloor N/B \rfloor},b_{\lfloor N/B^2 \rfloor}, \ldots$に関する包除原理に帰着。
 
 といった用途がある。
+
+　
+{% assign solution = "単調関数のファイバーの緩和計算" %}
+<h2 id="{{ solution }}"><a href="{{ site.url }}/yukicoder-difficulty-statistics#{{ solution }}">{{ solution }}</a></h2>
+
+<a href="#緩和">緩和</a>の具体例。全順序集合$I$と単調関数$f \colon I \to \mathbb{R}$が与えられているとする。与えられた$Y \in \mathbb{R}$に対し、$f(i) = Y$を見たす$i \in I$の存在判定や存在する時の最大・最小値を求める問題を考える。
+
+各$i \in I$に対する$f(i)$が高速に計算できる時は、問題を$f(i) \leq Y$や$f(i) \geq Y$に緩和し、その条件を満たす$i \in I$の最大・最小値を求める。その$i$に対し$f(i) = Y$が成り立つか否かを判定することで、$f(i) = Y$を満たす$i \in I$の存在判定と存在する時の最大・最小値計算をする手法。
 
 　
 {% assign solution = "場合分けによるmax・min・絶対値計算" %}
