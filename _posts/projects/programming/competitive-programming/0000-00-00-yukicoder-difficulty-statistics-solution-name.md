@@ -126,7 +126,7 @@ $f$の値の総和を直接求める代わりに、$S$の要素$s$の一様ラ�
 問題設定に応じて距離空間から重み付きグラフ（[単位円盤グラフ](https://en.wikipedia.org/wiki/Unit_disk_graph)や[Vietoris--Rips複体](https://en.wikipedia.org/wiki/Vietoris%E2%80%93Rips_complex)の$1$次元骨格など）を構成し、それに対してグラフアルゴリズムを適用する手法。
 
 - 例えば$(X,d)$を距離空間とする。$X$を頂点集合とし$x_0 \neq x_1$を満たす各$(x_0,x_1) \in X^2$に重み$d(x_0,x_1)$の無向辺を貼った重み付きグラフを考える。構築は$(x_0,x_1)$の全探索により$O(\\# X^2)$となる。
-- 例えば$n$を正整数とし、$d$を$n$次元格子$\mathbb{Z}^n$の$\ell^1$距離や$\ell^{\infy}$距離とし、$X$を$\mathbb{Z}^n$の部分集合とし、$L$を正整数とする。$X$を頂点集合として$x_0 \neq x_1$かつ$d(x_0,x_1) \leq L$を満たす各$(x_0,x_1) \in X^2$に重み$1$の無向辺を貼ったグラフを考える。構築は$(x_0,x_1)$の全探索または$x_0$の$L$近傍探索により$O(\\# X \min \\{\\# X,L^n\\})$となる。
+- 例えば$n$を正整数とし、$d$を$n$次元格子$\mathbb{Z}^n$の$\ell^1$距離や$\ell^{\infty}$距離とし、$X$を$\mathbb{Z}^n$の部分集合とし、$L$を正整数とする。$X$を頂点集合として$x_0 \neq x_1$かつ$d(x_0,x_1) \leq L$を満たす各$(x_0,x_1) \in X^2$に重み$1$の無向辺を貼ったグラフを考える。構築は$(x_0,x_1)$の全探索または$x_0$の$L$近傍探索により$O(\\# X \min \\{\\# X,L^n\\})$となる。
 
 　
 {% assign solution = "集合管理" %}
@@ -135,13 +135,13 @@ $f$の値の総和を直接求める代わりに、$S$の要素$s$の一様ラ�
 集合をデータ構造で管理する手法。
 
 <ul>
-<li> 配列の<a href="{{ site.url }}/yukicoder-difficulty-statistics#ソート>ソート</a> </li>
-<li> <a href="{{ site.url }}/yukicoder-difficulty-statistics#キュー>キュー</a> </li>
-<li> <a href="{{ site.url }}/yukicoder-difficulty-statistics#優先度付き>キュー</a> </li>
-<li> <a href="{{ site.url }}/yukicoder-difficulty-statistics#set>set</a>（c++のunordered set、pythonのset）</li>
-<li> <a href="{{ site.url }}/yukicoder-difficulty-statistics#multiset>multiset</a>（c++のunordered multiset）</li>
-<li> <a href="{{ site.url }}/yukicoder-difficulty-statistics#sorted set>sorted set</a>（c++のset）</li>
-<li> <a href="{{ site.url }}/yukicoder-difficulty-statistics#フェニック木>フェニック木</a>を用いた<a href="{{ site.url }}/yukicoder-difficulty-statistics#配列を像・頻度表で管理>像・頻度表の管理</a> </li>
+<li> 配列の<a href="{{ site.url }}/yukicoder-difficulty-statistics#ソート">ソート</a> </li>
+<li> <a href="{{ site.url }}/yukicoder-difficulty-statistics#キュー">キュー</a> </li>
+<li> <a href="{{ site.url }}/yukicoder-difficulty-statistics#優先度付き">キュー</a> </li>
+<li> <a href="{{ site.url }}/yukicoder-difficulty-statistics#set">set</a>（c++のunordered set、pythonのset）</li>
+<li> <a href="{{ site.url }}/yukicoder-difficulty-statistics#multiset">multiset</a>（c++のunordered multiset）</li>
+<li> <a href="{{ site.url }}/yukicoder-difficulty-statistics#sorted set">sorted set</a>（c++のset）</li>
+<li> <a href="{{ site.url }}/yukicoder-difficulty-statistics#フェニック木">フェニック木</a>を用いた<a href="{{ site.url }}/yukicoder-difficulty-statistics#配列を像・頻度表で管理>像・頻度表の管理</a> </li>
 </ul>
 
 などがこれに該当する。整数の二進法表記やbool値配列で集合を管理するものは含まない。
