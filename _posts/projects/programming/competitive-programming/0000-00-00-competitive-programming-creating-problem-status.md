@@ -3,7 +3,7 @@ url: https://p-adic.github.io/competitive-programming-creating-problem-status
 layout: project
 title: 競技プログラミング作問状況
 excerpt: "競技プログラミングの作問状況の情報をまとめたページです。"
-date: 2025-05-29
+date: 2025-05-31
 project: true
 parent: competitive-programming-project
 prev-child: competitive-programming-problems
@@ -72,9 +72,9 @@ tags: [競技プログラミング,プログラミング,数学]
 * 解析1問
 * 集合1問
 
-### ★★★（8問）
+### ★★★（9問）
 * 数列4問
-* 整数2問
+* 整数3問
 * 集合2問
 
 ### ★★★☆（1問）
