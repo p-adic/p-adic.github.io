@@ -1,7 +1,7 @@
 ---
 layout: project
 title: yukicoder過去問解法別難易度統計の解法名解説
-date: 2025-05-30
+date: 2025-06-07
 excerpt: "yukicoderの過去問の解法別難易度統計ページに記載した解法名の解説です。"
 project: true
 parent: competitive-programming-project
@@ -74,20 +74,22 @@ $f$の値の総和を直接求める代わりに、$S$の要素$s$の一様ラ�
 などといった目的で使われる。枝刈りの特別な例だが、他に非自明な枝刈りを行わない限り枝刈りの問題として集計しない。
 
 　
-{% assign solution = "操作を数値に翻訳" %}
+{% assign solution = "操作・選択を数値に翻訳" %}
 <h2 id="{{ solution }}"><a href="{{ site.url }}/yukicoder-difficulty-statistics#{{ solution }}">{{ solution }}</a></h2>
 
-いくつかの操作が与えられ、
+いくつかの操作や選択が与えられ、
 
-- 操作を継続できる回数の最大化
-- 操作を繰り返すことによって条件が達成できるか否かの判定と、達成できる時の操作回数の最小化
-- 操作を繰り返すことによって得られる項の
+- 操作・選択を継続できる回数の最大化
+- 操作・選択を繰り返すことによって条件が達成できるか否かの判定と、達成できる時の操作・選択回数の最小化
+- $1$回のまたは複数回の操作・選択によって得られる項の
   - 数え上げ
   - 最大・最小化
 
 などを行う問題を考える。
 
-操作を数値の固定長有限列に翻訳することで、forループなどによる操作の全探索を可能にする手法。
+操作・選択を数値や数値の固定長有限列に翻訳することで、forループなどによる操作の全探索を可能にする手法。
+
+選択方法を全探索する際の<a href="{{ site.url }}/yukicoder-difficulty-statistics#bit全探索">bit全探索</a>や<a href="{{ site.url }}/yukicoder-difficulty-statistics#next_permutation">next_permutation</a>が典型例。
 
 　
 {% assign solution = "操作回数上限以内の達成可能性判定を操作回数最小値計算に帰着" %}
