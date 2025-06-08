@@ -3,7 +3,7 @@ url: https://p-adic.github.io/competitive-programming-creating-problem-status
 layout: project
 title: 競技プログラミング作問状況
 excerpt: "競技プログラミングの作問状況の情報をまとめたページです。"
-date: 2025-06-06
+date: 2025-06-08
 project: true
 parent: competitive-programming-project
 prev-child: competitive-programming-problems
@@ -14,7 +14,7 @@ tags: [競技プログラミング,プログラミング,数学]
 
 競技プログラミングの未公開問題の作問状況をまとめたページです。公開済み問題は[こちら]({{ site.url }}/competitive-programming-problems)をご覧ください。
 
-{{ page.date | date: '%Y/%m/%d' }}現在の未公開問題は55問です。大半はtesterさんが見つかっておらず[こちらのツイート](https://x.com/non_archimedean/status/1927568032072675378)で募集中ですのでご応募くださると嬉しいです。
+{{ page.date | date: '%Y/%m/%d' }}現在の未公開問題は56問です。大半はtesterさんが見つかっておらず[こちらのツイート](https://x.com/non_archimedean/status/1927568032072675378)で募集中ですのでご応募くださると嬉しいです。
 
 ## コンテスト予定
 
@@ -29,7 +29,7 @@ tags: [競技プログラミング,プログラミング,数学]
 
 ## その他のtesterさん募集中の問題一覧
 
-以下はtesterさん募集中の、具体的なコンテスト予定のない問題たちです。現在44問あります。
+以下はtesterさん募集中の、具体的なコンテスト予定のない問題たちです。現在45問あります。
 
 オムニバスコンテストであともう少し問題数があると良さそうな時に出題したりします（他のwriterさんを優先したいので応募締め切りぎりぎりまで待つことが多いです）。
 
@@ -64,11 +64,11 @@ tags: [競技プログラミング,プログラミング,数学]
 * 解析3問
 * 幾何1問
 
-### ★★☆（11問）
+### ★★☆（12問）
 * 数列1問
 * 整数4問
 * 代数2問
-* 幾何1問
+* 幾何2問
 * 解析1問
 * 集合2問
 
