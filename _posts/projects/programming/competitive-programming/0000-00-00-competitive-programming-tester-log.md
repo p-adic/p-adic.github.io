@@ -13,6 +13,8 @@ tags: [競技プログラミング,プログラミング,数学]
 
 競技プログラミングでtesterした問題リンクをまとめてみました。{{ page.date | date: '%Y/%m/%d' }}現在でtesterを引き受けた問題数は170問で、うち出題済みの問題は154問です。
 
+作問した問題リンクは[こちら]({{ site.url }}/competitive-programming-problems/)です。
+
 ## yukicoder通常問題（公開済み136問＋未公開16問）
 
 - No.3170 [[Cherry 7th Tune KY] Even if you could say "See you ..."](https://yukicoder.me/problems/no/3170)
