@@ -1,7 +1,7 @@
 ---
 layout: project
 title: 競技プログラミングtester問題一覧
-excerpt: "競技プログラミングでtesterした問題の一覧です。"
+excerpt: "競技プログラミングでtesterを担当した問題の一覧です。"
 date: 2025-06-09
 project: true
 parent: competitive-programming-project
@@ -11,9 +11,9 @@ class-name: 競技プログラミング
 tags: [競技プログラミング,プログラミング,数学]
 ---
 
-競技プログラミングでtesterした問題リンクをまとめてみました。{{ page.date | date: '%Y/%m/%d' }}現在でtesterを引き受けた問題数は170問で、うち出題済みの問題は154問です。
+競技プログラミングでtesterを担当した問題リンクをまとめてみました。{{ page.date | date: '%Y/%m/%d' }}現在でtesterを引き受けた問題数は170問で、うち出題済みの問題は154問です。
 
-作問した問題リンクは[こちら]({{ site.url }}/competitive-programming-problems/)です。
+writerを担当した問題リンクは[こちら]({{ site.url }}/competitive-programming-problems/)です。
 
 ## yukicoder通常問題（公開済み136問＋未公開16問）
 
