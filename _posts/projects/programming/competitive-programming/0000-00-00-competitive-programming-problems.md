@@ -14,6 +14,8 @@ difficulty-list: [★,★☆,★★,★★☆,★★★,★★★☆,★★★�
 
 競技プログラミングの公開済み問題をまとめたページです。未公開問題は[こちら]({{ site.url }}/competitive-programming-creating-problem-status/)をご覧ください。そちらに記載の通りtesterさんも募集中です。
 
+testerを担当した問題リンクは[こちら]({{ site.url }}/competitive-programming-tester-log/)です。
+
 {% capture competitive-programming %}競技プログラミング{% endcapture %}
 {% assign count-problem = 0 %}
 {% for post in site.tags[competitive-programming] %}
