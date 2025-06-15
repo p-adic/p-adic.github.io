@@ -30,13 +30,14 @@ twitterで見る限り逆元の存在や可換性が常に必要であるとさ�
 
 ## 目次
 
-以下のフェニック木を扱っていきます。
+以下のフェニック木を扱っていきます。命名は一般的なものでなく、目次用に分かりやすいようにこの記事だけの命名をしました。
 
 - [BIT](#BIT)
   - [可換群BIT](#可換群BIT)
   - [可換冪等モノイドBIT](#可換冪等モノイドBIT)（区間$\max$BIT／区間$\min$BIT／区間$\gcd$BIT／区間$\lcm$BIT）
-  - [モノイドBIT](#モノイドBIT)- [一点取得BIT](#一点取得BIT)
-  - [可換群一点取得BIT](#可換群一点取得BIT)
+  - [モノイドBIT](#モノイドBIT)
+- [高速一点取得BIT](#高速一点取得BIT)
+  - [可換群高速一点取得BIT](#可換群高速一点取得BIT)
 - [累積積BIT](#累積積BIT)（累積$\max$BIT／累積$\min$BIT）
   - [モノイド累積積BIT](#モノイド累積積BIT)
 - [区間加算BIT](#BIT)
@@ -68,7 +69,7 @@ twitterで見る限り逆元の存在や可換性が常に必要であるとさ�
 
 抽象化後のBITは
 
-{% assign solution = "一点取得BIT" %}
+{% assign solution = "高速一点取得BIT" %}
 <h2 id="{{ solution }}">{{ solution }}</h2>
 
 フェニック木の一点取得は区間取得で処理するため、そのままだと$\log_2 N$のオーダーで時間がかかります。
@@ -182,7 +183,7 @@ twitterで見る限り逆元の存在や可換性が常に必要であるとさ�
 [https://github.com/p-adic/Mathematics/blob/master/SetTheory/DirectProduct/AffineSpace/BIT/](https://github.com/p-adic/Mathematics/blob/master/SetTheory/DirectProduct/AffineSpace/BIT/)
 
 
-{% assign solution = "可換群一点取得BIT" %}
+{% assign solution = "可換群高速一点取得BIT" %}
 <h2 id="{{ solution }}">{{ solution }}</h2>
 
 一点取得の高速化に対応したフェニック木も問題なく可換群に抽象化できます。
