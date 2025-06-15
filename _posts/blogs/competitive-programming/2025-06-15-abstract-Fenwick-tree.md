@@ -46,7 +46,7 @@ twitterで見る限り逆元の存在や可換性が常に必要であるとさ�
 {% assign solution = "BIT" %}
 <h2 id="{{ solution }}">{{ solution }}</h2>
 
-まずは抽象化する前のフェニック木のおさらいです。
+まずは抽象化する前のフェニック木<sup>[1]</sup>のおさらいです。
 
 フェニック木を用いた時の長さ$N$の整数値配列に対するクエリ処理とその時間計算量は以下の通りです。
 
@@ -210,7 +210,7 @@ twitterで見る限り逆元の存在や可換性が常に必要であるとさ�
 {% assign solution = "可換冪等モノイドBIT" %}
 <h2 id="{{ solution }}">{{ solution }}</h2>
 
-可換群でなくとも、いわゆる左フェニック木と右フェニック木を$1$本ずつ持つことで可換冪等モノイドに抽象化することも可能です。<sup>[1]</sup>
+可換群でなくとも、いわゆる左フェニック木と右フェニック木を$1$本ずつ持つことで可換冪等モノイドに抽象化することも可能です。<sup>[2]</sup>
 
 セグメント木と違って可換冪等モノイドに特化しているため、乗算が吸収できることがあることを活かした定数倍高速化ができることが特徴です。
 
@@ -343,5 +343,6 @@ twitterで見る限り逆元の存在や可換性が常に必要であるとさ�
 
 ## 出典
 
+1. P. M. Fenwick, A new data structure for cumulative frequency tables, Software: Practice and Experience, 1984, Vol. 24, Issue 3, pp. 327--336.
 1. M. Dima, R. Ceterchi, Efficient Range Minimum Queries using Binary Indexed Trees, Olympiads in Informatics, 2015, Vol. 9, 39--44
 
