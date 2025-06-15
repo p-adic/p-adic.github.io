@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: フェニック木の抽象化
-date: 20245-06-15
+date: 2025-06-15
 excerpt: "フェニック木の抽象化について書いていきます。"
 parent: competitive-programming-blog
 prev-child: introduction-to-Gelfand-transform
