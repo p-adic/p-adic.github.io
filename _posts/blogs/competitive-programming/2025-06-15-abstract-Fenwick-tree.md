@@ -418,5 +418,5 @@ twitterで見る限り逆元の存在や可換性が常に必要であるとさ�
 ## 出典
 
 1. P. M. Fenwick, A new data structure for cumulative frequency tables, Software: Practice and Experience, 1984, Vol. 24, Issue 3, pp. 327--336.
-1. M. Dima, R. Ceterchi, Efficient Range Minimum Queries using Binary Indexed Trees, Olympiads in Informatics, 2015, Vol. 9, 39--44
+1. M. Dima, R. Ceterchi, Efficient Range Minimum Queries using Binary Indexed Trees, Olympiads in Informatics, 2015, Vol. 9, 39--44.
 
