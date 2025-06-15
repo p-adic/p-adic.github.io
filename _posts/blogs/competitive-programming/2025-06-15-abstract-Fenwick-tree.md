@@ -32,17 +32,17 @@ twitterで見る限り逆元の存在や可換性が常に必要であるとさ�
 
 以下のフェニック木を扱っていきます。命名は一般的なものでなく、目次用に分かりやすいようにこの記事だけの命名をしました。
 
-- [BIT](#BIT)
-  - [可換群BIT](#可換群BIT)
-  - [可換冪等モノイドBIT](#可換冪等モノイドBIT)（区間$\max$BIT／区間$\min$BIT／区間$\gcd$BIT／区間$\textrm{lcm}$BIT）
-  - [モノイドBIT](#モノイドBIT)
-- [高速一点取得BIT](#高速一点取得BIT)
-  - [可換群高速一点取得BIT](#可換群高速一点取得BIT)
-- [累積積BIT](#累積積BIT)（累積$\max$BIT／累積$\min$BIT）
-  - [可換モノイド累積積BIT](#可換モノイド累積積BIT)
-  - [モノイド累積積BIT](#モノイド累積積BIT)
-- [区間加算BIT](#BIT)
-  - [$\mathbb{Z}$加群区間加算BIT](#Z加群BIT)
+- <a href="#BIT" class="tag">BIT</a>
+  - <a href="#可換群BIT" class="tag">可換群BIT</a>
+  - <a href="#可換冪等モノイドBIT" class="tag">可換冪等モノイドBIT</a>（区間$\max$BIT／区間$\min$BIT／区間$\gcd$BIT／区間$\textrm{lcm}$BIT）
+  - <a href="#モノイドBIT" class="tag">モノイドBIT</a>
+- <a href="#高速一点取得BIT" class="tag">高速一点取得BIT</a>
+  - <a href="#可換群高速一点取得BIT" class="tag">可換群高速一点取得BIT</a>
+- <a href="#累積積BIT" class="tag">累積積BIT</a>（累積$\max$BIT／累積$\min$BIT）
+  - <a href="#可換モノイド累積積BIT" class="tag">可換モノイド累積積BIT</a>
+  - <a href="#モノイド累積積BIT" class="tag">(#モノイド累積積BIT)
+- <a href="#区間加算BIT" class="tag">区間加算BIT</a>
+  - <a href="#Z加群区間加算BIT" class="tag">$\mathbb{Z}$加群区間加算BIT</a>
 
 
 ## 代数構造の例
@@ -62,7 +62,7 @@ twitterで見る限り逆元の存在や可換性が常に必要であるとさ�
   - 実数全体の集合とその通常の加法の組
   - 複素数全体の集合とその通常の加法の組
 - 固定した環の乗法的可逆元全体の集合とその乗法の組
-  - $\{-1,1\}$とその通常の乗法の組
+  - $\\{-1,1\\}$とその通常の乗法の組
   - 固定した正整数$B$に対する、$B$と互いに素な$B$未満の非負整数全体の集合とその法$B$乗法の組
   - $0$でない有理数全体の集合とその通常の乗法の組
   - $0$でない実数全体の集合とその通常の乗法の組
