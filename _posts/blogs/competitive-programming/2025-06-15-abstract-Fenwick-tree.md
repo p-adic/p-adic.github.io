@@ -44,9 +44,9 @@ twitterで見る限り逆元の存在や可換性が常に必要であるとさ�
   - <a href="#可換冪等モノイドBIT" class="tag">可換冪等モノイドBIT</a>（区間$\max$BIT／区間$\min$BIT／区間$\gcd$BIT／区間$\textrm{lcm}$BIT）
   - <a href="#可換モノイドBIT" class="tag">可換モノイドBIT</a>
   - <a href="#モノイドBIT" class="tag">モノイドBIT</a>
-- <a href="#累積積特化BIT" class="tag">累積積特化BIT</a>（累積$\max$BIT／累積$\min$BIT）
-  - <a href="#可換モノイド累積積特化BIT" class="tag">可換モノイド累積積特化BIT</a>
-  - <a href="#モノイド累積積特化BIT" class="tag">モノイド累積積特化BIT</a>
+- <a href="#累積積BIT" class="tag">累積積BIT</a>（累積$\max$BIT／累積$\min$BIT）
+  - <a href="#可換モノイド累積積BIT" class="tag">可換モノイド累積積BIT</a>
+  - <a href="#モノイド累積積BIT" class="tag">モノイド累積積BIT</a>
 - <a href="#区間加算BIT" class="tag">区間加算BIT</a>
   - <a href="#Z加群区間加算BIT" class="tag">$\mathbb{Z}$加群区間加算BIT</a>
 
@@ -175,7 +175,7 @@ twitterで見る限り逆元の存在や可換性が常に必要であるとさ�
 長さ$N+1$の配列$1$本（と高速な一点取得を行う場合は長さ$N$の配列$1$本）で管理できるので、格納する整数値に必要なメモリを$c$と置くとおよそ$(N+1)c$（もしくは$(2N+1)c$）です。
 
 
-{% assign solution = "累積積特化BIT" %}
+{% assign solution = "累積積BIT" %}
 <h2 id="{{ solution }}">{{ solution }}</h2>
 
 区間演算取得でなく左端からの累積演算取得のみを行う場合は、通常のフェニック木と同様に積や$\max$や$\min$を扱うことが可能です。
@@ -252,7 +252,7 @@ twitterで見る限り逆元の存在や可換性が常に必要であるとさ�
 [https://github.com/p-adic/Mathematics/blob/master/SetTheory/DirectProduct/AffineSpace/BIT/](https://github.com/p-adic/Mathematics/blob/master/SetTheory/DirectProduct/AffineSpace/BIT/)
 
 
-{% assign solution = "可換モノイド累積積特化BIT" %}
+{% assign solution = "可換モノイド累積積BIT" %}
 <h2 id="{{ solution }}">{{ solution }}</h2>
 
 区間演算取得でなく左端からの累積演算取得のみに特化したフェニック木は、特に工夫なく可換モノイドで抽象化できます。
@@ -277,7 +277,7 @@ twitterで見る限り逆元の存在や可換性が常に必要であるとさ�
 長さ$N+1$の配列$2$本（と高速な一点取得を行う場合は長さ$N$の配列$1$本）で管理できるので、格納するモノイドの要素に必要なメモリを$c$と置くとおよそ$(2N+2)c$（もしくは$O(3N+2)c$）です。
 
 
-{% assign solution = "モノイド累積積特化BIT" %}
+{% assign solution = "モノイド累積積BIT" %}
 <h2 id="{{ solution }}">{{ solution }}</h2>
 
 区間演算取得でなく左端からの累積演算取得のみに特化したフェニック木は、高速な一点乗算更新を諦めれば一般のモノイドに抽象化することも可能です。一点乗算更新をしたい時は低速な一点代入更新で代用します。
