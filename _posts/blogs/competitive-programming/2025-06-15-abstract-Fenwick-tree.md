@@ -427,7 +427,7 @@ twitterで見る限り逆元の存在や可換性が常に必要であるとさ�
 
 
 {% assign solution = "Z加群区間加算BIT" %}
-<h2 id="{{ solution }}">{{ solution }}</h2>
+<h2 id="{{ solution }}">$\mathbb{Z}$加群区間加算BIT</h2>
 
 区間加算に対応したフェニック木は、残念ながら可換群のインタフェースで抽象化すると区間和取得が低速化してしまいます。
 
