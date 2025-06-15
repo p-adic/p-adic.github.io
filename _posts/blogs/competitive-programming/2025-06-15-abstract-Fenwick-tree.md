@@ -40,7 +40,7 @@ twitterで見る限り逆元の存在や可換性が常に必要であるとさ�
   - <a href="#可換群高速一点取得BIT" class="tag">可換群高速一点取得BIT</a>
 - <a href="#累積積BIT" class="tag">累積積BIT</a>（累積$\max$BIT／累積$\min$BIT）
   - <a href="#可換モノイド累積積BIT" class="tag">可換モノイド累積積BIT</a>
-  - <a href="#モノイド累積積BIT" class="tag">(#モノイド累積積BIT)
+  - <a href="#モノイド累積積BIT" class="tag">モノイド累積積BIT</a>
 - <a href="#区間加算BIT" class="tag">区間加算BIT</a>
   - <a href="#Z加群区間加算BIT" class="tag">$\mathbb{Z}$加群区間加算BIT</a>
 
