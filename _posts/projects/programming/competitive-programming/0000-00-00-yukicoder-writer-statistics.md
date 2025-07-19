@@ -2,7 +2,7 @@
 url: https://p-adic.github.io/yukicoder-writer-statistics
 layout: project
 title: yukicoder過去問writer別統計
-date: 2025-07-12
+date: 2025-07-19
 excerpt: "yukicoderの過去問のwriter別の難易度に関する統計データです。"
 parent: competitive-programming-project
 prev-child: yukicoder-difficulty-statistics-solution-name
@@ -2434,14 +2434,42 @@ writer名は基本的に登録名をそのまま表記していますが、例�
 
 ### 過去問のレベル（星の数）とdifficulty（実際の解け具合）の組み合わせ
 
+- [★1／diff <font color="gray">357</font>](https://yukicoder.me/problems/no/3203)
+- [★2／diff <font color="green">1133</font>](https://yukicoder.me/problems/no/3204)
 - [★2／diff <font color="deepskyblue">1535</font>](https://yukicoder.me/problems/no/2928)
+- [★2.5／diff <font color="green">1133</font>](https://yukicoder.me/problems/no/3205)
+- [★3.5／diff <font color="blue">1774</font>](https://yukicoder.me/problems/no/3206)
+- [★3.5／diff <font color="orange">2562</font>](https://yukicoder.me/problems/no/3207)
+- [★4／diff <font color="yellowgreen">2352</font>](https://yukicoder.me/problems/no/3208)
 
 ### 過去問の解法頻度
 
+- [深さ優先探索](https://p-adic.github.io/yukicoder-difficulty-statistics/#深さ優先探索) × 2問
+- [全探索](https://p-adic.github.io/yukicoder-difficulty-statistics/#全探索) × 2問
+- [同じ値の纏め上げ](https://p-adic.github.io/yukicoder-difficulty-statistics/#同じ値の纏め上げ) × 2問
+- [分割統治法（広義：decrease-and-conquer）](https://p-adic.github.io/yukicoder-difficulty-statistics/#分割統治法（広義：decrease-and-conquer）) × 2問
+- [bitごとに計算](https://p-adic.github.io/yukicoder-difficulty-statistics/#bitごとに計算) × 1問
+- [★1.5以下の高校２年生以上の数学知識要求](https://p-adic.github.io/yukicoder-difficulty-statistics/#★1.5以下の高校２年生以上の数学知識要求) × 1問
+- [★1の高校以上の数学知識要求](https://p-adic.github.io/yukicoder-difficulty-statistics/#★1の高校以上の数学知識要求) × 1問
+- [ギャグ](https://p-adic.github.io/yukicoder-difficulty-statistics/#ギャグ) × 1問
+- [ソート](https://p-adic.github.io/yukicoder-difficulty-statistics/#ソート) × 1問
+- [データを不変量別に分割して管理](https://p-adic.github.io/yukicoder-difficulty-statistics/#データを不変量別に分割して管理) × 1問
+- [円周率の無理数性](https://p-adic.github.io/yukicoder-difficulty-statistics/#円周率の無理数性) × 1問
 - [経路数え上げ](https://p-adic.github.io/yukicoder-difficulty-statistics/#経路数え上げ) × 1問
 - [経路全探索](https://p-adic.github.io/yukicoder-difficulty-statistics/#経路全探索) × 1問
-- [深さ優先探索](https://p-adic.github.io/yukicoder-difficulty-statistics/#深さ優先探索) × 1問
-- [全探索](https://p-adic.github.io/yukicoder-difficulty-statistics/#全探索) × 1問
+- [実装](https://p-adic.github.io/yukicoder-difficulty-statistics/#実装) × 1問
+- [場合分け](https://p-adic.github.io/yukicoder-difficulty-statistics/#場合分け) × 1問
+- [全方位木DP](https://p-adic.github.io/yukicoder-difficulty-statistics/#全方位木DP) × 1問
+- [動的計画法](https://p-adic.github.io/yukicoder-difficulty-statistics/#動的計画法) × 1問
+- [頻度表](https://p-adic.github.io/yukicoder-difficulty-statistics/#頻度表) × 1問
+- [変数決め打ち](https://p-adic.github.io/yukicoder-difficulty-statistics/#変数決め打ち) × 1問
+- [無向木の有向化](https://p-adic.github.io/yukicoder-difficulty-statistics/#無向木の有向化) × 1問
+- [木DP](https://p-adic.github.io/yukicoder-difficulty-statistics/#木DP) × 1問
+- [木の根の変更における頂点の高さと深さの関係](https://p-adic.github.io/yukicoder-difficulty-statistics/#木の根の変更における頂点の高さと深さの関係) × 1問
+- [木の頂点の高さ計算](https://p-adic.github.io/yukicoder-difficulty-statistics/#木の頂点の高さ計算) × 1問
+- [木の頂点の深さ計算](https://p-adic.github.io/yukicoder-difficulty-statistics/#木の頂点の深さ計算) × 1問
+- [累積和](https://p-adic.github.io/yukicoder-difficulty-statistics/#累積和) × 1問
+- [連想配列](https://p-adic.github.io/yukicoder-difficulty-statistics/#連想配列) × 1問
 
 
 ## [Kanten4205さん](https://yukicoder.me/users/11588)
@@ -6134,6 +6162,7 @@ writer名は基本的に登録名をそのまま表記していますが、例�
 - [クエリ先読み](https://p-adic.github.io/yukicoder-difficulty-statistics/#クエリ先読み) × 1問
 - [ゲルファント変換](https://p-adic.github.io/yukicoder-difficulty-statistics/#ゲルファント変換) × 1問
 - [コスト変化をコスト上限変化に翻訳](https://p-adic.github.io/yukicoder-difficulty-statistics/#コスト変化をコスト上限変化に翻訳) × 1問
+- [ゼータ関数による計算量評価](https://p-adic.github.io/yukicoder-difficulty-statistics/#ゼータ関数による計算量評価) × 1問
 - [タイリング・LightsOutの解の構築](https://p-adic.github.io/yukicoder-difficulty-statistics/#タイリング・LightsOutの解の構築) × 1問
 - [タイリング・LightsOut可能性判定を領域の細分による不変量計算に帰着](https://p-adic.github.io/yukicoder-difficulty-statistics/#タイリング・LightsOut可能性判定を領域の細分による不変量計算に帰着) × 1問
 - [ダイクストラ法](https://p-adic.github.io/yukicoder-difficulty-statistics/#ダイクストラ法) × 1問
