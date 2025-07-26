@@ -1,12 +1,12 @@
 ---
 layout: project
 title: yukicoder過去問解法別難易度統計の解法名解説
-date: 2025-06-07
+date: 2025-07-26
 excerpt: "yukicoderの過去問の解法別難易度統計ページに記載した解法名の解説です。"
 project: true
 parent: competitive-programming-project
 prev-child: yukicoder-difficulty-statistics
-next-child: competitive-programming-tester-log
+next-child: 
 image-directory: 
 tags: [競技プログラミング,数学]
 ---
@@ -254,6 +254,14 @@ $M$を$N$より十分小さい正整数とし、$S$が$M$個の非空部分集�
 - ヤング図形
 
 解法別難易度統計において、これらから２つを選ぶ組み合わせそれぞれに解法名を付してしまうと解法名の集計が困難になるため、代わりに01列とそれ以外の翻訳の組み合わせとして解法名を管理している。それらをまとめて参照するために付す統一的な解法名がこの「01列に翻訳」である。
+
+　
+{% assign solution = "括弧列DP" %}
+<h2 id="{{ solution }}"><a href="{{ site.url }}/yukicoder-difficulty-statistics#{{ solution }}">{{ solution }}</a></h2>
+
+括弧列に関する動的計画法のうち、「前から何文字目までを見るか」と「$($と$)$の個数の差はいくつか」を添え字に持つもののこと。
+
+$2$乗オーダーで処理できることが多く、括弧列を構文木に分割する動的計画法が$3$乗オーダーで間に合わない時などに活躍する。
 
 　
 {% assign solution = "表示可能性DP" %}
