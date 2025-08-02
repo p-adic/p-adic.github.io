@@ -356,7 +356,7 @@ $U$小圏は小圏なので、標準的な方法で$\infty$圏とみなすこと
 
 素朴な圏には定義がないので、何を課しているのかによります。小圏に相当する条件がなければ$\infty$圏になりようがないですが、そもそも形式化されていない概念を形式化されている概念が拡張していると考えること自体ナンセンスかもしれません。
 
-例えば壱大整域では断りのない限り局所小であると明言されており、小であることは課されていません。しかしながら先述したように[例: 単体的集合](https://web.archive.org/web/20250527012556/https://alg-d.com/math/kan_extension/simplex.pdf)のp. 7で全ての「圏」が小圏の圏$\textrm{Cat}$に属すことを使っているので、壱大整域では素朴な圏が小圏でもあることを実質課しています。
+例えば壱大整域では断りのない限り局所小であると明言されており、小であることは課されていません。しかしながら先述したように[例: 単体的集合](https://web.archive.org/web/20250527012556/https://alg-d.com/math/kan_extension/simplex.pdf)のp. 7で全ての素朴な圏が小圏の圏$\textrm{Cat}$に属すことを使っているので、壱大整域では素朴な圏が小圏でもあることを実質課しています。
 
 
 {% assign solution = "「本質的全射忠実充満関手は圏同値」か？" %}
@@ -373,8 +373,6 @@ $\textsf{NBG}$集合論では大域選択公理により形式化して証明す
 大域選択公理については[Alweさんが詳しくまとめてくださっている](https://x.com/Alwe_Logic/status/1600020608091553793)のでそちらを参照してください。
 
 [wikipedia](https://en.wikipedia.org/w/index.php?title=Equivalence_of_categories&oldid=1281977163#Alternative_characterizations)は同値であると断言しているので間違っています。断言した後で「より強い選択公理が～」など曖昧に述べていますが仮定を後付けするのは妥当な述べ方ではないと考えています。
-
-$\infty$圏そのものに関する主張ではありませんが、[nlab](https://web.archive.org/web/20250421201416/https://ncatlab.org/nlab/show/category) に"A category is equivalently a simplicial set which satisfies..."と述べられて、これも同様に間違いです。
 
 ### †圏†が局所小圏である場合
 
