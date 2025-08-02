@@ -1,9 +1,9 @@
 ---
-layout: blog
+layout: project
 title: オンライン数学セミナー集
 date: 2022-05-29
 excerpt: "オンラインで一般公開されている数学セミナーをまとめました。"
-blog: true
+project: true
 tags: [数学]
 ---
 
