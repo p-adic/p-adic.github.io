@@ -227,7 +227,7 @@ $C$を離散圏$U$と定め、$D$を離散圏$2$と定めます。$\textrm{Ob}(D
 
 上の例は$C,D$ともに$U$局所小圏です。従って任意のグロタンディーク宇宙$U$に対し、ある$U$局所小圏$C,D$が存在して関手圏$D^C$が$U局所小$圏でないです。
 
-### $U$小圏から$U$小圏への関手圏が$U$小圏をなすないこと
+### $U$小圏から$U$小圏への関手圏が$U$小圏をなすこと
 
 \\[
 \textsf{ZFC} \vdash \textrm{「任意の小圏$C,D$に対し、関手圏$D^C$は小圏となる」}
@@ -328,7 +328,7 @@ $\infty$圏が†圏†の一般化であるか否かを考えてみましょう
 
 [wikipedia](https://en.wikipedia.org/w/index.php?title=Quasi-category&oldid=1301287159#Examples)は一般の圏から$\infty$圏が得られることを主張しており、間違っています。
 
-$\infty$圏そのものに関する主張ではありませんが、[nlab](https://web.archive.org/web/20250421201416/https://ncatlab.org/nlab/show/category) に"A category is equivalently a simplicial set which satisfies..."と述べられて、これも同様に間違いです。
+$\infty$圏そのものに関する主張ではありませんが、[nlab](https://web.archive.org/web/20250421201416/https://ncatlab.org/nlab/show/category) にも圏が単体的集合とみなせると述べられて、これも同様に間違いです。
 
 ### †圏†が局所小圏である場合
 
