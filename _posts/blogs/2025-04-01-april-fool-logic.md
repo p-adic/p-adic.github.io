@@ -3,6 +3,9 @@ layout: blog
 title: 論理とかの混乱しやすい話
 date: 2025-04-01
 excerpt: "エイプリルフール記事です。"
+parent: mathematics-blog
+prev-child: Introduction-to-3-manifold
+next-child: categorical-error
 blog: true
 tags: [数学]
 ---
