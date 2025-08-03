@@ -189,6 +189,8 @@ $\textrm{Set}$の恒等関手は$\textsf{ZFC}$集合論で関手圏を形式化�
 
 「恒等関手というくらいなんだから関手なのは当たり前です」と言葉の響きで共感性に訴える反論が有効です。
 
+関連記事：[本当は怖い圏論#「関手圏は圏」か？]([https://p-adic.github.io/categorical-error/#%E3%80%8C%E5%9C%8F%E3%81%AE%E5%AF%BE%E8%B1%A1%E3%81%AE%E5%90%8C%E5%9E%8B%E9%A1%9E%E3%81%AE%E9%9B%86%E3%81%BE%E3%82%8A%E3%81%AF%E3%82%AF%E3%83%A9%E3%82%B9%E3%80%8D%E3%81%8B%EF%BC%9F](https://p-adic.github.io/categorical-error/#%E3%80%8C%E9%96%A2%E6%89%8B%E5%9C%8F%E3%81%AF%E5%9C%8F%E3%80%8D%E3%81%8B%EF%BC%9F))
+
 
 ## 米田の補題は小圏とは限らない圏でも成り立ちますか？
 
@@ -217,4 +219,5 @@ $\textrm{Set}$の恒等関手は$\textsf{ZFC}$集合論で関手圏を形式化�
 
 なお個別のアーベル圏に対しては射影的対象からのepimorphismの具体的な構成が知られていることが多く、その場合はそもそも選択公理が不要です。
 
+関連記事：[本当は怖い圏論#「圏の対象の同型類の集まりはクラス」か？](https://p-adic.github.io/categorical-error/#%E3%80%8C%E5%9C%8F%E3%81%AE%E5%AF%BE%E8%B1%A1%E3%81%AE%E5%90%8C%E5%9E%8B%E9%A1%9E%E3%81%AE%E9%9B%86%E3%81%BE%E3%82%8A%E3%81%AF%E3%82%AF%E3%83%A9%E3%82%B9%E3%80%8D%E3%81%8B%EF%BC%9F)
 
