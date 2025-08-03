@@ -108,9 +108,9 @@ tags: [数学]
 
 クラスの要素は集合でなければならないため、「（集合であることが明示的に保証されない）クラスの集まり」を$\textsf{ZFC}$集合論や$\textsf{NBG}$集合論の内部で直接扱った場合に<font color="red"><strong>形式化されていない</strong></font>ものとみなします。
 
-特に論理式$P(x)$に対し、「$P(X)$を満たすクラス$X$全体の集まり」は勝手にクラスを集合に置き換えて$P(x)$を満たす集合$x$全体のクラス$\{x \mid P(x)\}$（つまり$P(x)$を実体とするクラス）として無理やり解釈するのではなく非、文字通りに解釈して<font color="red"><strong>形式化されていない</strong></font>ものとみなします。
+特に論理式$P(x)$に対し、「$P(X)$を満たすクラス$X$全体の集まり」は勝手にクラスを集合に置き換えて$P(x)$を満たす集合$x$全体のクラス$\\{x \mid P(x)\\}$（つまり$P(x)$を実体とするクラス）として無理やり解釈するのではなく非、文字通りに解釈して<font color="red"><strong>形式化されていない</strong></font>ものとみなします。
 
-例えば「クラス$V$のみからなる集まり$\{V\}$」を考えます。これは「条件$X = V$を満たすクラス$X$全体の集まり」ですが、この条件$X = V$は論理式$X = v$の$v$に$V$を代入したものなので通常の方法で$V$の出現を実体$y = y$に置き換えて解消することで得られる論理式は$\forall y[y = y \Leftrightarrow y \in X]$です。ということで「条件$\forall y[y = y \Leftrightarrow y \in X]$を満たすクラス$X$全体の集まり」を考えていることになります。これに対し勝手にクラスを集合に置き換えて条件$\forall y[y = y \Leftrightarrow y \in x]$を満たす集合$x$全体のクラス$\{x \mid \forall y[y = y \Leftrightarrow y \in x]\}$すなわち$\emptyset$と無理やり解釈するのではなく、文字通りに解釈して$\{V\}$を<font color="red"><strong>形式化されていない</strong></font>ものとみなします。
+例えば「クラス$V$のみからなる集まり$\\{V\\}$」を考えます。これは「条件$X = V$を満たすクラス$X$全体の集まり」ですが、この条件$X = V$は論理式$X = v$の$v$に$V$を代入したものなので通常の方法で$V$の出現を実体$y = y$に置き換えて解消することで得られる論理式は$\forall y[y = y \Leftrightarrow y \in X]$です。ということで「条件$\forall y[y = y \Leftrightarrow y \in X]$を満たすクラス$X$全体の集まり」を考えていることになります。これに対し勝手にクラスを集合に置き換えて条件$\forall y[y = y \Leftrightarrow y \in x]$を満たす集合$x$全体のクラス$\\{x \mid \forall y[y = y \Leftrightarrow y \in x]\\}$すなわち$\emptyset$と無理やり解釈するのではなく、文字通りに解釈して$\\{V\\}$を<font color="red"><strong>形式化されていない</strong></font>ものとみなします。
 
 
 ## 調査対象
