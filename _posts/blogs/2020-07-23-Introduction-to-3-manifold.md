@@ -3,6 +3,9 @@ layout: blog
 title: 「３次元多様体入門」を読む
 date: 2020-07-23
 excerpt: "「３次元多様体入門」を読み進めながら雑感を書いていきます。"
+parent: mathematics-blog
+prev-child: 
+next-child: april-fool-logic
 blog: true
 tags: [数学]
 ---
