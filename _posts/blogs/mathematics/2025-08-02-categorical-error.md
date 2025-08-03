@@ -70,7 +70,7 @@ tags: [数学]
 
 以上を踏まえて、この記事における「<font color="red"><strong>間違い</strong></font>」という言葉遣いを認識してください。つまり「私はこういう別の立場だからこれは<font color="red"><strong>間違い</strong></font>でない」という反論をいただいても、それは明記された言葉の意味を意図的に変えてしまっているのでご対応いただけません。
 
-一方で「同じ立場で考えてもこれは<font color="red"><strong>間違い</strong></font>でない」というご指摘がございましたら俺は筆者の<font color="red"><strong>誤り</strong></font>の可能性がございますので、遠慮なくご指摘ください。
+一方で「同じ立場で考えてもこれは<font color="red"><strong>間違い</strong></font>でない」というご指摘がございましたらそれは筆者の<font color="red"><strong>誤り</strong></font>の可能性がございますので、遠慮なくご指摘ください。
 
 
 ## 定義
