@@ -14,7 +14,14 @@ tags: [数学]
 
 一方で圏論は非専門家にも人気で、その汎用性が独り歩きしてしばしば<font color="red"><strong>間違った</strong></font>解説が書かれます。圏論自体は厳密な分野ですが、その適用に関しては厳密さが失われているものが多いということですね。ここではそういった側面に注目して、具体的な主張が<font color="red"><strong>誤り</strong></font>か否かを解説していこうと思います。
 
-この記事を通して、ネットの圏論記事を鵜呑みにしないことの大切さを学んでいただければと思います。特にこの記事自体を過信せず、<font color="red"><strong>間違い</strong></font>があれば教えていただければ幸いです。
+この記事を通して、ネットの圏論記事を鵜呑みにしないことの大切さを学んでいただければと思います。筆者（[$p$進大好きbot](https://x.com/non_archimedean)）も圏論に関しては専門知識を持っていないので、この記事自体を過信しないようにご注意ください。また<font color="red"><strong>間違い</strong></font>があれば教えていただければ幸いです。
+
+ある程度厳密に書かれた圏論の文献のおすすめをぴあのんさんに聞いてみたところ
+
+- Michael A. Shulman, [Set theory for category theory](https://arxiv.org/abs/0810.1279)
+- Michael Makkai, [First-Order  Logic with Dependent Sorts](https://www.math.mcgill.ca/makkai/)
+
+を教えていただきました。詳しく学びたい人はこの記事よりもそちらをご参考にしてください。
 
 
 ## 注意
@@ -30,7 +37,7 @@ tags: [数学]
 
 という立場があります。
 
-一方で著者（[$p$進大好きbot](https://x.com/non_archimedean)）はそうではなく、以下のような立場を取っております。その立場が受け入れられない人は数学における「<font color="red"><strong>間違い</strong></font>」に関して見解が異なります。
+一方で著者はそうではなく、以下のような立場を取っております。その立場が受け入れられない人は数学における「<font color="red"><strong>間違い</strong></font>」に関して見解が異なります。
 
 何を「<font color="red"><strong>間違い</strong></font>」と呼ぶかについて意見の異なる人に意見を押し付けたいわけではなく、そういった方々にはこの記事を読む利点もないと思うので、記事を閉じることをおすすめします。
 
