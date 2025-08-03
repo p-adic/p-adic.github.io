@@ -373,9 +373,9 @@ $U$小圏は小圏なので、標準的な方法で$\infty$圏とみなすこと
 
 ### <font color="red"><strong>定義改竄の詭弁</strong></font>
 
-「小圏を圏に拡張したように$\infty$圏も拡張する」と後出しで述べるのは典型的な<font color="red"><strong>定義改竄の詭弁</strong></font>です。
+後出しで「小圏を圏に拡張したように当然$\infty$圏も拡張した」と述べるのは典型的な<font color="red"><strong>定義改竄の詭弁</strong></font>です。
 
-「$\infty$圏でsimplicial setが出てくるのはグロタンディーク宇宙が～」的な言い訳をするのもよく見ますが、圏と$U$小圏は概念として別物ですので意図的に混同するのも<font color="red"><strong>定義改竄の詭弁</strong></font>です。
+後出しで「$\infty$圏でsimplicial setが出てくるのはグロタンディーク宇宙$U$を念頭に置いているので圏も当然$U$圏のみを考えている」と言い訳をするのもよく見ますが、圏と$U$小圏は概念として別物ですので意図的に混同するのも<font color="red"><strong>定義改竄の詭弁</strong></font>です。
 
 
 {% assign solution = "「本質的全射忠実充満関手は圏同値」か？" %}
