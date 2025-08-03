@@ -130,7 +130,7 @@ tags: [数学]
 - Michael A. Shulman, [Set theory for category theory](https://arxiv.org/abs/0810.1279)
 - Michael Makkai, [First-Order  Logic with Dependent Sorts](https://www.math.mcgill.ca/makkai/)
 
-を教えていただきました。圏論を厳密に学びたい人はそちらをご参考にしてください。
+を教えていただきました。筆者はそれらを読んだことがありませんが、圏論を厳密に学びたい人はそちらを参考にすると良いかもしれません。もちろんおすすめされたからといって書かれている内容を鵜呑みにするのではなく、きちんと証明して読んでくださることを想定しています。
 
 
 ## 目次
