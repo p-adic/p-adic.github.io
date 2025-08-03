@@ -107,7 +107,8 @@ tags: [数学]
 
 ネットで圏論の入門を扱っている有名どころとして
 
-- [壱大整域](https://web.archive.org/web/20250714050751/https://alg-d.com/math/kan_extension/)- [nlab](https://ncatlab.org/nlab/revision/category/92)
+- [壱大整域](https://web.archive.org/web/20250714050751/https://alg-d.com/math/kan_extension/)
+- [nlab](https://ncatlab.org/nlab/revision/category/92)
 - [wikipedia](https://ja.wikipedia.org/w/index.php?title=%E5%9C%8F_(%E6%95%B0%E5%AD%A6)&oldid=101809919#%E5%AE%9A%E7%BE%A9)
 
 を対象とし、それらに記述されている<font color="red"><strong>誤り</strong></font>も紹介します。圏論の入門記事では意図的に<font color="red"><strong>誤り</strong></font>が記述されることも多いですが、ここでは意図的であろうとなかろうと紹介します。
