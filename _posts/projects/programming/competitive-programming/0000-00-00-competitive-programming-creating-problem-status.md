@@ -3,7 +3,7 @@ url: https://p-adic.github.io/competitive-programming-creating-problem-status
 layout: project
 title: 競技プログラミング作問状況
 excerpt: "競技プログラミングの作問状況の情報をまとめたページです。"
-date: 2025-07-31
+date: 2025-08-08
 project: true
 parent: competitive-programming-project
 prev-child: competitive-programming-problems
@@ -14,7 +14,7 @@ tags: [競技プログラミング,プログラミング,数学]
 
 競技プログラミングの未公開問題の作問状況をまとめたページです。公開済み問題は[こちら]({{ site.url }}/competitive-programming-problems)をご覧ください。
 
-{{ page.date | date: '%Y/%m/%d' }}現在、testerさんが見つかっている未公開問題は13問です。testerさんが見つかっていない未公開問題は62問で、[こちらのツイート](https://x.com/non_archimedean/status/1941304546011250750)で募集中ですのでご応募くださると嬉しいです。
+{{ page.date | date: '%Y/%m/%d' }}現在、testerさんが見つかっている未公開問題は13問です。testerさんが見つかっていない未公開問題は63問で、[こちらのツイート](https://x.com/non_archimedean/status/1941304546011250750)で募集中ですのでご応募くださると嬉しいです。
 
 ## コンテスト予定
 
@@ -73,8 +73,8 @@ tags: [競技プログラミング,プログラミング,数学]
 * 解析1問
 * 集合3問
 
-### ★★★（11問）
-* 数列5問
+### ★★★（12問）
+* 数列6問
 * 集合2問
 * 算術4問
 
