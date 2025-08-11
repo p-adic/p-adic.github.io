@@ -3,6 +3,7 @@ layout: blog
 title: 本当は怖い圏論
 date: 2025-08-02
 excerpt: "圏論におけるよくある間違いなどについて書いていきます。"
+parent: mathematics-blog
 prev-child: april-fool-logic
 next-child: mathematical-honesty
 blog: true
