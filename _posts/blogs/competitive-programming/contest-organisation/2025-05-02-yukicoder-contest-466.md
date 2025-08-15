@@ -8,7 +8,7 @@ date: 2025-05-02
 num: 543
 parent: competitive-programming-contest
 prev-child: yukicoder-contest-456
-next-child: 
+next-child: yukicoder-contest-478
 own: B問題
 blog: true
 tags: [競技プログラミング,数学]
