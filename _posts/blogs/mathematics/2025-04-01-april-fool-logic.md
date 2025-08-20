@@ -282,5 +282,5 @@ $\textrm{Set}$の恒等関手は$\textsf{ZFC}$集合論で関手圏を形式化�
 
 なお個別のアーベル圏に対しては射影的対象からのepimorphismの具体的な構成が知られていることが多く、その場合はそもそも選択公理が不要です。
 
-関連記事：[本当は怖い圏論#「圏の対象の同型類の集まりはクラス」か？](https://p-adic.github.io/categorical-error/#%E3%80%8C%E5%9C%8F%E3%81%AE%E5%AF%BE%E8%B1%A1%E3%81%AE%E5%90%8C%E5%9E%8B%E9%A1%9E%E3%81%AE%E9%9B%86%E3%81%BE%E3%82%8A%E3%81%AF%E3%82%AF%E3%83%A9%E3%82%B9%E3%80%8D%E3%81%8B%EF%BC%9F)
+関連記事：[本当は怖い圏論#「本質的全射忠実充満関手は圏同値」か？](https://p-adic.github.io/categorical-error/#%E3%80%8C%E6%9C%AC%E8%B3%AA%E7%9A%84%E5%85%A8%E5%B0%84%E5%BF%A0%E5%AE%9F%E5%85%85%E6%BA%80%E9%96%A2%E6%89%8B%E3%81%AF%E5%9C%8F%E5%90%8C%E5%80%A4%E3%80%8D%E3%81%8B%EF%BC%9F)
 
