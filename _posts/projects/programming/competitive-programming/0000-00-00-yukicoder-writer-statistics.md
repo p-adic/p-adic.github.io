@@ -2,7 +2,7 @@
 url: https://p-adic.github.io/yukicoder-writer-statistics
 layout: project
 title: yukicoder過去問writer別統計
-date: 2025-08-23
+date: 2025-08-30
 excerpt: "yukicoderの過去問のwriter別の難易度に関する統計データです。"
 parent: competitive-programming-project
 prev-child: yukicoder-difficulty-statistics-solution-name
@@ -6690,6 +6690,32 @@ writer名は基本的に登録名をそのまま表記していますが、例�
 - [累積積による冪乗・階乗計算](https://p-adic.github.io/yukicoder-difficulty-statistics/#累積積による冪乗・階乗計算) × 1問
 - [冪乗計算](https://p-adic.github.io/yukicoder-difficulty-statistics/#冪乗計算) × 1問
 - [貪欲法](https://p-adic.github.io/yukicoder-difficulty-statistics/#貪欲法) × 1問
+
+
+## [jiangxinyangさん](https://yukicoder.me/users/20294)
+
+### 過去問のレベル（星の数）とdifficulty（実際の解け具合）の組み合わせ
+
+- [★1／diff <font color="brown">539</font>](https://yukicoder.me/problems/no/3248)
+- [★2.5／diff <font color="green">1080</font>](https://yukicoder.me/problems/no/3249)
+- [★3.5／diff <font color="yellowgreen">2253</font>](https://yukicoder.me/problems/no/3250)
+- [★5／diffデータなし](https://yukicoder.me/problems/no/3251)
+
+### 過去問の解法頻度
+
+- [ギャグ](https://p-adic.github.io/yukicoder-difficulty-statistics/#ギャグ) × 1問
+- [データ構造をマージする一般的なテク](https://p-adic.github.io/yukicoder-difficulty-statistics/#データ構造をマージする一般的なテク) × 1問
+- [マージ](https://p-adic.github.io/yukicoder-difficulty-statistics/#マージ) × 1問
+- [最小公倍数計算](https://p-adic.github.io/yukicoder-difficulty-statistics/#最小公倍数計算) × 1問
+- [最小素因数計算](https://p-adic.github.io/yukicoder-difficulty-statistics/#最小素因数計算) × 1問
+- [実装](https://p-adic.github.io/yukicoder-difficulty-statistics/#実装) × 1問
+- [場合分け](https://p-adic.github.io/yukicoder-difficulty-statistics/#場合分け) × 1問
+- [素因数分解](https://p-adic.github.io/yukicoder-difficulty-statistics/#素因数分解) × 1問
+- [素因数分解による最小公倍数計算](https://p-adic.github.io/yukicoder-difficulty-statistics/#素因数分解による最小公倍数計算) × 1問
+- [動的計画法](https://p-adic.github.io/yukicoder-difficulty-statistics/#動的計画法) × 1問
+- [任意・存在を総AND・ORに翻訳](https://p-adic.github.io/yukicoder-difficulty-statistics/#任意・存在を総AND・ORに翻訳) × 1問
+- [木DP](https://p-adic.github.io/yukicoder-difficulty-statistics/#木DP) × 1問
+- [約数の走査を倍数の走査に帰着](https://p-adic.github.io/yukicoder-difficulty-statistics/#約数の走査を倍数の走査に帰着) × 1問
 
 
 ## [寝癖さん](https://yukicoder.me/users/20337)
