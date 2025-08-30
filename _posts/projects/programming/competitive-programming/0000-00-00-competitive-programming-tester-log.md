@@ -1,4 +1,5 @@
 ---
+url: https://p-adic.github.io/competitive-programming-tester-log/
 layout: project
 title: 競技プログラミングtester問題一覧
 excerpt: "競技プログラミングでtesterを担当した問題の一覧です。"
@@ -11,7 +12,7 @@ class-name: 競技プログラミング
 tags: [競技プログラミング,プログラミング,数学]
 ---
 
-競技プログラミングでtesterを担当した問題リンクをまとめてみました。{{ page.date | date: '%Y/%m/%d' }}現在でtesterを引き受けた問題数は193問で、うち出題済みの問題は175問です。
+競技プログラミングでtesterを担当した問題リンクをまとめてみました。{{ page.date | date: '%Y/%m/%d' }}現在でtesterを引き受けた問題数は193問で、うち出題済みの問題は174問です。
 
 writerを担当した問題リンクは[こちら]({{ site.url }}/competitive-programming-problems/)です。
 
