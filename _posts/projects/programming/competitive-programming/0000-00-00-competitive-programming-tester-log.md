@@ -2,7 +2,7 @@
 layout: project
 title: 競技プログラミングtester問題一覧
 excerpt: "競技プログラミングでtesterを担当した問題の一覧です。"
-date: 2025-06-09
+date: 2025-08-30
 project: true
 parent: competitive-programming-project
 prev-child: yukicoder-difficulty-statistics-solution-name
@@ -11,12 +11,32 @@ class-name: 競技プログラミング
 tags: [競技プログラミング,プログラミング,数学]
 ---
 
-競技プログラミングでtesterを担当した問題リンクをまとめてみました。{{ page.date | date: '%Y/%m/%d' }}現在でtesterを引き受けた問題数は170問で、うち出題済みの問題は154問です。
+競技プログラミングでtesterを担当した問題リンクをまとめてみました。{{ page.date | date: '%Y/%m/%d' }}現在でtesterを引き受けた問題数は193問で、うち出題済みの問題は175問です。
 
 writerを担当した問題リンクは[こちら]({{ site.url }}/competitive-programming-problems/)です。
 
-## yukicoder通常問題（公開済み136問＋未公開16問）
-
+## yukicoder通常問題（公開済み157問＋未公開18問）
+- No.3242 [Count 8 Included Numbers (Hard)](https://yukicoder.me/problems/no/3242)
+- No.3241 [Make Multiplication of 8](https://yukicoder.me/problems/no/3241)
+- No.3240 [Count 8 Included Numbers (Easy)](https://yukicoder.me/problems/no/3240)
+- No.3239 [Omnibus](https://yukicoder.me/problems/no/3239)
+- No.3238 [Shadow](https://yukicoder.me/problems/no/3238)
+- No.3236 [累乗数大好きbot](https://yukicoder.me/problems/no/3236)
+- No.3231 [2×2行列相似判定 〜hard〜](https://yukicoder.me/problems/no/3231)
+- No.3230 [Mutual Corresponding System](https://yukicoder.me/problems/no/3230)
+- No.3229 [Liar Game Comibination](https://yukicoder.me/problems/no/3229)
+- No.3228 [Very Large Fibonacci Sum](https://yukicoder.me/problems/no/3228)
+- No.3227 [Matrix Query](https://yukicoder.me/problems/no/3227)
+- No.3226 [2×2行列累乗](https://yukicoder.me/problems/no/3226)
+- No.3225 [2×2行列相似判定 〜easy〜](https://yukicoder.me/problems/no/3225)
+- No.3224 [2×2行列入門](https://yukicoder.me/problems/no/3224)
+- No.3221 [Count Turns](https://yukicoder.me/problems/no/3221)
+- No.3220 [Forest Creation](https://yukicoder.me/problems/no/3220)
+- No.3219 [Ruler to Maximize](https://yukicoder.me/problems/no/3219)
+- No.3218 [Night Equation](https://yukicoder.me/problems/no/3218)
+- No.3217 [Shiki no Shiki](https://yukicoder.me/problems/no/3217)
+- No.3216 [Slightly Strong Fairies](https://yukicoder.me/problems/no/3216)
+- No.3202 [Periodic Alternating Subsequence](https://yukicoder.me/problems/no/3202)
 - No.3170 [[Cherry 7th Tune KY] Even if you could say "See you ..."](https://yukicoder.me/problems/no/3170)
 - No.3168 [[Cherry 7th Tune D] Manhole](https://yukicoder.me/problems/no/3168)
 - No.3166 [[Cherry 7th Tune *] 桜の守人](https://yukicoder.me/problems/no/3166)
