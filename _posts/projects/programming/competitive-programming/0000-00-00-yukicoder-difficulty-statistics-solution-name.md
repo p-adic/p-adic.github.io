@@ -15,6 +15,34 @@ tags: [競技プログラミング,数学]
 
 [yukicoderの過去問の解法別難易度統計のページ]({{ site.url }}/yukicoder-difficulty-statistics)で用いた、一般的でない解法名の解説ページです。
 
+
+## 目次
+
+- <a href="#不明な想定解" class="tag">不明な想定解</a>
+- <a href="#解法場合分け" class="tag">解法場合分け</a>
+- <a href="#良いケースに帰着" class="tag">良いケースに帰着</a>
+- <a href="#総和計算の期待値への帰着" class="tag">総和計算の期待値への帰着</a>
+- <a href="#損をしない変形" class="tag">損をしない変形</a>
+- <a href="#操作・選択を数値に翻訳" class="tag">操作・選択を数値に翻訳</a>
+- <a href="#操作回数上限以内の達成可能性判定を操作回数最小値計算に帰着" class="tag">操作回数上限以内の達成可能性判定を操作回数最小値計算に帰着</a>
+- <a href="#breakに関する考察" class="tag">breakに関する考察</a>
+- <a href="#距離空間の重み付きグラフ化" class="tag">距離空間の重み付きグラフ化</a>
+- <a href="#連結成分の値の更新" class="tag">連結成分の値の更新</a>
+- <a href="#集合管理" class="tag">集合管理</a>
+- <a href="#重複選択個数の線形関係式" class="tag">重複選択個数の線形関係式</a>
+- <a href="#合成による次元削減" class="tag">合成による次元削減</a>
+- <a href="#緩和" class="tag">緩和</a>
+- <a href="#単調関数のファイバーの緩和計算" class="tag">単調関数のファイバーの緩和計算</a>
+- <a href="#場合分けによるmax・min・絶対値計算" class="tag">場合分けによるmax・min・絶対値計算</a>
+- <a href="#指定序数の値の計算を始切片の数え上げに帰着" class="tag">指定序数の値の計算を始切片の数え上げに帰着</a>
+- <a href="#指定序数の値の計算を被覆の先頭項管理で処理" class="tag">指定序数の値の計算を被覆の先頭項管理で処理</a>
+- <a href="#01列に翻訳" class="tag">01列に翻訳</a>
+- <a href="#括弧列DP" class="tag">括弧列DP</a>
+- <a href="#表示可能性DP" class="tag">表示可能性DP</a>
+- <a href="#不変量を保つ戦略" class="tag">不変量を保つ戦略</a>
+- <a href="#高さ奇数ニム和" class="tag">高さ奇数ニム和</a>
+- <a href="#最終手番の任意性" class="tag">最終手番の任意性</a>
+
 　
 {% assign solution = "不明な想定解" %}
 <h2 id="{{ solution }}"><a href="{{ site.url }}/yukicoder-difficulty-statistics#{{ solution }}">{{ solution }}</a></h2>
@@ -132,7 +160,7 @@ $f$の値の総和を直接求める代わりに、$S$の要素$s$の一様ラ�
 - 例えば$n$を正整数とし、$d$を$n$次元格子$\mathbb{Z}^n$の$\ell^1$距離や$\ell^{\infty}$距離とし、$X$を$\mathbb{Z}^n$の部分集合とし、$L$を正整数とする。$X$を頂点集合として$x_0 \neq x_1$かつ$d(x_0,x_1) \leq L$を満たす各$(x_0,x_1) \in X^2$に重み$1$の無向辺を貼ったグラフを考える。構築は$(x_0,x_1)$の全探索または$x_0$の$L$近傍探索により$O(\\# X \min \\{\\# X,L^n\\})$となる。
 
 　
-{% assign solution = "グラフの連結成分ごとの値のマージ" %}
+{% assign solution = "連結成分の値の更新" %}
 <h2 id="{{ solution }}"><a href="{{ site.url }}/yukicoder-difficulty-statistics#{{ solution }}">{{ solution }}</a></h2>
 
 辺が動的に追加されていくグラフ$G$が与えられており、その連結成分$C$ごとに値$f(C)$が定まるとする。
