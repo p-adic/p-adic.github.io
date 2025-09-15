@@ -3,7 +3,7 @@ url: https://p-adic.github.io/competitive-programming-creating-problem-status
 layout: project
 title: 競技プログラミング作問状況
 excerpt: "競技プログラミングの作問状況の情報をまとめたページです。"
-date: 2025-09-1508
+date: 2025-09-15
 project: true
 parent: competitive-programming-project
 prev-child: competitive-programming-problems
