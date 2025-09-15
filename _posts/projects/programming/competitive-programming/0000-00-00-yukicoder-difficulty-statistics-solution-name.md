@@ -2,7 +2,7 @@
 url: https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/
 layout: project
 title: yukicoder過去問解法別難易度統計の解法名解説
-date: 2025-08-31
+date: 2025-09-15
 excerpt: "yukicoderの過去問の解法別難易度統計ページに記載した解法名の解説です。"
 project: true
 parent: competitive-programming-project
@@ -32,7 +32,7 @@ tags: [競技プログラミング,数学]
 - <a href="#重複選択個数の線形関係式" class="tag">重複選択個数の線形関係式</a>
 - <a href="#合成による次元削減" class="tag">合成による次元削減</a>
 - <a href="#緩和" class="tag">緩和</a>
-- <a href="#単調関数のファイバーの緩和計算" class="tag">単調関数のファイバーの緩和計算</a>
+- <a href="#単調関数の緩和計算" class="tag">単調関数の緩和計算</a>
 - <a href="#場合分けによるmax・min・絶対値計算" class="tag">場合分けによるmax・min・絶対値計算</a>
 - <a href="#指定序数の値の計算を始切片の数え上げに帰着" class="tag">指定序数の値の計算を始切片の数え上げに帰着</a>
 - <a href="#指定序数の値の計算を被覆の先頭項管理で処理" class="tag">指定序数の値の計算を被覆の先頭項管理で処理</a>
