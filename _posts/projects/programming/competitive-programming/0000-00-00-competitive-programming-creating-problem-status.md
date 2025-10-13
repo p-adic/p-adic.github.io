@@ -3,7 +3,7 @@ url: https://p-adic.github.io/competitive-programming-creating-problem-status
 layout: project
 title: 競技プログラミング作問状況
 excerpt: "競技プログラミングの作問状況の情報をまとめたページです。"
-date: 2025-10-08
+date: 2025-10-13
 project: true
 parent: competitive-programming-project
 prev-child: competitive-programming-problems
@@ -26,6 +26,18 @@ tags: [競技プログラミング,プログラミング,数学]
 
 * 2024/07/30：コンテスト発案。testerさんの募集を開始しました。
 * 2025/04/29：全問testerさんが見つかりました。
+
+### 小数誤差コンテスト
+
+広い意味で小数誤差に関係のある問題を出題する速解き形式のコンテストです。下記５問のtesterさんを募集中です。
+
+- D ★1.5
+- E ★1.5
+- H ★2
+- I ★2
+- J ★2
+
+* 2025/10/13：コンテスト発案。testerさんの募集を開始しました。
 
 ## その他のtesterさん募集中の問題一覧
 
@@ -50,17 +62,16 @@ tags: [競技プログラミング,プログラミング,数学]
 * 論理1問
 * 算術2問
 
-### ★☆（9問）
+### ★☆（7問）
 * 幾何3問
 * 集合2問
 * 圏論1問
 * 数列1問
-* 算術2問
 
-### ★★（13問）
-* 算術7問
+### ★★（10問）
+* 算術6問
 * 代数1問
-* 解析3問
+* 解析1問
 * 幾何1問
 * 数列1問
 
