@@ -1,27 +1,28 @@
 ---
 layout: competitive-programming-contest
-title: yukicoder contest 486 �I���j�o�X�Q��L
-subtitle: yukicoder contest 486 �I���j�o�X
+title: yukicoder contest 486 オムニバス参戦記
+subtitle: yukicoder contest 486 オムニバス
 suburl: yukicoder-contest-486
-excerpt: "yukicoder contest 486 �I���j�o�X�̎Q��L�ł��B"
+excerpt: "yukicoder contest 486 オムニバスの参戦記です。"
 date: 2025-10-24
 num: 571
 parent: competitive-programming-contest/
 prev-child: yukicoder-contest-478
 next-child: yukicoder-contest-decimal-error
-own: D���
+own: D問題
 blog: true
-tags: [���Z�v���O���~���O,���w]
+tags: [競技プログラミング,数学]
 ---
 
-�O��ŃI���j�o�X�R���e�X�g���o�p��tester�ςݖ��X�g�b�N���s���Ă��܂����̂ł����Q��tester���񂪌��������̂ł܂��P�⋟�o�����Ă��������܂����B�{���́�2�����o�ł���Γ�Փx���z�I�ɂ悩�����̂ł�����2�̃X�g�b�N�͂Ȃ������̂ŋ}���z�ɂȂ��Ă��܂����݂܂���B
+前回でオムニバスコンテスト供出用のtester済み問題ストックが尽きてしまったのですが２問testerさんが見つかったのでまた１問供出させていただきました。本当は★2を供出できれば難易度勾配的によかったのですが★2のストックはなかったので急勾配になってしまいすみません。
 
-��������[tester����𐏎���W��](https://p-adic.github.io/competitive-programming-creating-problem-status/)�ł��̂ł����͂�낵�����肢�������܂��B����57�₠��܂���1�₩��̂�����劽�}�ł��Btester���S�҂̕����A���З��K��ɂ����p���������B
+引き続き[testerさんを随時募集中](https://p-adic.github.io/competitive-programming-creating-problem-status/)ですのでご協力よろしくお願いいたします。現在57問ありまして1問からのご応募大歓迎です。tester初心者の方も、ぜひ練習台にご活用くだだい。
 
-�����D���writer��B,G,H����tester�ł��B�P�₾�����Ƃ��܂菑�����Ƃ�����܂���̂ŁA����Ɏ��̃R���e�X�g�̐�`�����Ă����܂��B
+今回はD問題writerでB,G,H問題のtesterです。１問だけだとあまり書くことがありませんので、代わりに次のコンテストの宣伝をしておきます。
 
-�܂�11/14(��)�ɏ����덷�R���e�X�g�J�×\��ł��B�L���Ӗ��ŏ����덷�Ɋւ�遚2�ȉ��̖���10�₲�p�ӂ��Ă���܂��B���Ȃ�T�^���ő��������Ă����������̂ŁA�X�s�[�h�����̃R���e�X�g�ƂȂ邱�Ƃ�\�z���Ă��܂��B�Ȃ�D,E,H,I����tester���񂪂܂��������Ă���܂��񂪁A������11/7(��)�܂łɌ�����Ȃ���Ζ����͂������������Ă��������̂ł����S���������B�t�ɂ���tester���񂪑���������܂�����A��2.5�ȏ�̖����W�߂��G�N�X�g���R���e�X�g�𓯓��J�Â��邩������܂���B
+まず11/14(金)に小数誤差コンテスト開催予定です。広い意味で小数誤差に関わる★2以下の問題を10問ご用意しております。かなり典型寄りで揃えさせていただいたので、スピード勝負のコンテストとなることを予想しています。なおD,E,H,I問題のtesterさんがまだ見つかっておりませんが、万が一11/7(金)までに見つからなければ無茶はせず延期させていただくのでご安心ください。逆にもしtesterさんが早く見つかりましたら、★2.5以上の問題を集めたエクストラコンテストを同日開催するかもしれません。
 
-�����ă��A�N�e�B�u�R���e�X�g���J�×\��ł��B������͑S�⃊�A�N�e�B�u���ő������R���e�X�g�ŁA���L���l�@��v�������Ă��������܂��Btester����ɂ��ŏI�`�F�b�N���ςݎ���R���e�X�g�J�Â����Ă����������Ǝv���܂��B���̂��ߊJ�Î����͌��܂��Ă��炸��������ɂȂ邩�͕�����܂��񂪁A���Ђ��y���݂ɂ��肢�������܂��B
+そしてリアクティブコンテストも開催予定です。こちらは全問リアクティブ問題で揃えたコンテストで、幅広い考察を要求させていただきます。testerさんによる最終チェックが済み次第コンテスト開催させていただこうと思います。そのため開催時期は決まっておらず何ヶ月先になるかは分かりませんが、ぜひお楽しみにお願いいたします。
 
-����ł͎Q���҂̊F�l�Atester���Ă�����������tester�����Ă������������w�̕��X�A�F�l���肪�Ƃ��������܂����I
+それでは参加者の皆様、testerしてくださった＆testerさせてくださった作問陣の方々、皆様ありがとうございました！
+
