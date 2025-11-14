@@ -1,29 +1,25 @@
 ---
 layout: competitive-programming-contest
-title: yukicoder contest �����덷�R���e�X�g�J�ËL
-subtitle: yukicoder contest �����덷�R���e�X�g
+title: yukicoder contest 小数誤差コンテスト開催記
+subtitle: yukicoder contest 小数誤差コンテスト
 suburl: yukicoder-contest-decimal-error
-excerpt: "yukicoder contest �����덷�R���e�X�g�̊J�ËL�ł��B"
+excerpt: "yukicoder contest 小数誤差コンテストの開催記です。"
 date: 2025-11-14
 num: 567
 parent: competitive-programming-contest/
 prev-child: yukicoder-contest-486
 next-child: 
-own: �P��
+own: 単著
 blog: true
-tags: [���Z�v���O���~���O,���w]
+tags: [競技プログラミング,数学]
 ---
 
-[��̓R���e�X�g](https://yukicoder.me/contests/520)����P�N�U��̒P���R���ł��B����͏����덷�R���e�X�g�ŁA�L���Ӗ��ŏ����덷�Ɋւ�������葵�������Ă��������܂����B
+[解析コンテスト](https://yukicoder.me/contests/520)から１年振りの単著コンです。今回は小数誤差コンテストで、広い意味で小数誤差に関わる問題を取り揃えさせていただきました。
 
-���Ȃ݂Ɂ�2�ȉ��̖��ɍi���ăZ�b�g��g�񂾓s���A�L���Ӗ��ŏ����덷�Ɋւ�遚2.5�ȏ�̖�肪���������]���Ă��܂����̂Ŗ{���̓G�L�X�g���R���e�X�g�������J�Âł����炢���ȂƎv���Ă��܂������A��2�ȉ��̂P�O���tester����������邾���Ŏc��P�T�ԂƂȂ��Ă��܂���2.5�ȏ��tester����������鎞�Ԃ͎c���Ă��Ȃ������̂Œ��߂ĂP�{�ɍi�点�Ă��������܂����B
+ちなみに★2以下の問題に絞ってセットを組んだ都合、広い意味で小数誤差に関わる★2.5以上の問題がそこそこ余ってしまったので本当はエキストラコンテストも同時開催できたらいいなと思っていましたが、★2以下の１０問のtesterさんを見つけるだけで残り１週間となってしまい★2.5以上のtesterさんを見つける時間は残っていなかったので諦めて１本に絞らせていただきました。
 
-�P�O�₻�ꂼ�ꏬ���덷��������ł̃|�C���g�i�U���@�j�����߂č�₳���Ă��������܂����̂ŁA�P�O��S�������ł���΁�2�ȉ��ő������鏬���덷���ŋC��t����ׂ����Ƃ̑啔���͊w�ׂ�񂶂�Ȃ����ȂƎv���܂��B
+１０問それぞれ小数誤差を扱う上でのポイント（攻略法）を決めて作問させていただきましたので、１０問全部正解できれば★2以下で遭遇する小数誤差問題で気を付けるべきことの大部分は学べるんじゃないかなと思います。
 
-����ɂ��F�X�Ə������Ă����������̂ŁA�������������Љ�������y���݂��������B
+解説にも色々と書かせていただいたので、解けた方もぜひ解説をお楽しみください。
 
-����ł͎Q���҂̊F�l�Atester���Ă������������X�A�F�l���肪�Ƃ��������܂����I�@�Ȃ����A�N�e�B�u�R�����������ŁA�S���tester��Ƃ��I��莟��܂��J�Â����Ă��������܂��B���y���݂ɁI�@�A�h�x�R����$1$��o��\��ł��B[��4��tester������W��](https://x.com/non_archimedean/status/1988029065165762573)�Ȃ̂ł�낵�����肢�������܂��B
-
-
-
-
+それでは参加者の皆様、testerしてくださった方々、皆様ありがとうございました！　なおリアクティブコンも準備中で、全問のtester作業が終わり次第また開催させていただきます。お楽しみに！　アドベコンも$1$題出題予定です。[★4のtesterさんを募集中](https://x.com/non_archimedean/status/1988029065165762573)なのでよろしくお願いいたします。
