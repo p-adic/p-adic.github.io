@@ -55,7 +55,7 @@ tags: [競技プログラミング,数学]
 - Advent Calendar Contest 2025:  5位
 - Advent Calendar Contest 2024:  3位
 - Advent Calendar Contest 2023:  6位
-- Advent Calendar Contest 2023: 12位
+- Advent Calendar Contest 2022: 12位
 
 通常コンではちょくちょく0完をしていて肩身の狭い思いをしていますが、これなら長期コンが得意と言ってもあんまり怒られないことを願っています。
 
