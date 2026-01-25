@@ -3,7 +3,7 @@ url: https://p-adic.github.io/competitive-programming-tester-log/
 layout: project
 title: 競技プログラミングtester問題一覧
 excerpt: "競技プログラミングでtesterを担当した問題の一覧です。"
-date: 2025-08-30
+date: 2026-01-25
 project: true
 parent: competitive-programming-project
 prev-child: yukicoder-difficulty-statistics-solution-name
@@ -12,11 +12,19 @@ class-name: 競技プログラミング
 tags: [競技プログラミング,プログラミング,数学]
 ---
 
-競技プログラミングでtesterを担当した問題リンクをまとめてみました。{{ page.date | date: '%Y/%m/%d' }}現在でtesterを引き受けた問題数は193問で、うち出題済みの問題は174問です。
+競技プログラミングでtesterを担当した問題リンクをまとめてみました。{{ page.date | date: '%Y/%m/%d' }}現在でtesterを引き受けた問題数は201問で、うち出題済みの問題は183問です。
 
 writerを担当した問題リンクは[こちら]({{ site.url }}/competitive-programming-problems/)です。
 
-## yukicoder通常問題（公開済み157問＋未公開18問）
+## yukicoder通常問題（公開済み165問＋未公開17問）
+- No.3437	[[Cherry 8th Tune C]](https://yukicoder.me/problems/no/3437)
+- No.3436	[[Cherry 8th Tune B] この夏に何が起こるかな?](https://yukicoder.me/problems/no/3436)
+- No.3402	[[Cherry Anniversary 5] Beyond Zelkova, the 5th year vista seen through the bloom of a cherry bloosom](https://yukicoder.me/problems/no/3402)
+- No.3400	[Nana's Plus Permutation Game (7 + 7) ÷ 7](https://yukicoder.me/problems/no/3400)
+- No.3315	[FPS Game](https://yukicoder.me/problems/no/3315)
+- No.3314	[Library Rearrangement](https://yukicoder.me/problems/no/3314)
+- No.3309	[Aging Railway](https://yukicoder.me/problems/no/3309)
+- No.3276	[Make Smaller Popcount](https://yukicoder.me/problems/no/3276)
 - No.3242 [Count 8 Included Numbers (Hard)](https://yukicoder.me/problems/no/3242)
 - No.3241 [Make Multiplication of 8](https://yukicoder.me/problems/no/3241)
 - No.3240 [Count 8 Included Numbers (Easy)](https://yukicoder.me/problems/no/3240)
@@ -190,6 +198,10 @@ writerを担当した問題リンクは[こちら]({{ site.url }}/competitive-pr
 - No.8108 [徐々におかしくなる数学クイズ](https://yukicoder.me/problems/no/8108)
 - No.8099 [夜の道路は気をつけて運転しなければならない](https://yukicoder.me/problems/no/8099)
 - No.8098 [tan ２](https://yukicoder.me/problems/no/8098)
+
+## yukicoder未証明/不備あり問題（公開済み1問）
+
+- No.3439 [[Cherry 8th Tune] どの頂点にいた頃に戻りたいのか?](https://yukicoder.me/problems/no/3439)
 
 ## mofecoder（公開済み9問）
 
