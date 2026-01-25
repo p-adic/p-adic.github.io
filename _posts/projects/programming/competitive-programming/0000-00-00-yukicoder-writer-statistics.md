@@ -2,7 +2,7 @@
 url: https://p-adic.github.io/yukicoder-writer-statistics
 layout: project
 title: yukicoder過去問writer別統計
-date: 2026-01-12
+date: 2026-01-25
 excerpt: "yukicoderの過去問のwriter別の難易度に関する統計データです。"
 parent: competitive-programming-project
 prev-child: yukicoder-difficulty-statistics-solution-name
@@ -745,7 +745,7 @@ writer名は基本的に登録名をそのまま表記していますが、例�
 - [三項間漸化式の求解](https://p-adic.github.io/yukicoder-difficulty-statistics/#三項間漸化式の求解) × 1問
 - [四元数演算](https://p-adic.github.io/yukicoder-difficulty-statistics/#四元数演算) × 1問
 - [四平方定理](https://p-adic.github.io/yukicoder-difficulty-statistics/#四平方定理) × 1問
-- [指数と対数による冪乗計算](https://p-adic.github.io/yukicoder-difficulty-statistics/#指数と対数による冪乗計算) × 1問
+- [指数と対数による冪乗・総乗計算](https://p-adic.github.io/yukicoder-difficulty-statistics/#指数と対数による冪乗・総乗計算) × 1問
 - [指定序数の値の計算を昇順全列挙に帰着](https://p-adic.github.io/yukicoder-difficulty-statistics/#指定序数の値の計算を昇順全列挙に帰着) × 1問
 - [自己写像に翻訳](https://p-adic.github.io/yukicoder-difficulty-statistics/#自己写像に翻訳) × 1問
 - [自由加群](https://p-adic.github.io/yukicoder-difficulty-statistics/#自由加群) × 1問
@@ -2420,11 +2420,13 @@ writer名は基本的に登録名をそのまま表記していますが、例�
 
 ### 過去問のレベル（星の数）とdifficulty（実際の解け具合）の組み合わせ
 
+- [★1／diff <font color="brown">567</font>](https://yukicoder.me/problems/no/3433)
 - [★1／diff <font color="brown">738</font>](https://yukicoder.me/problems/no/3163)
 - [★1／diff <font color="brown">783</font>](https://yukicoder.me/problems/no/2647)
 - [★1／diff <font color="green">862</font>](https://yukicoder.me/problems/no/2098)
 - [★1.5／diff <font color="yellowgreen">2329</font>](https://yukicoder.me/problems/no/3402)
 - [★2／diff <font color="green">812</font>](https://yukicoder.me/problems/no/2306)
+- [★2／diff <font color="green">825</font>](https://yukicoder.me/problems/no/3434)
 - [★2／diff <font color="green">912</font>](https://yukicoder.me/problems/no/2648)
 - [★2／diff <font color="deepskyblue">1322</font>](https://yukicoder.me/problems/no/2649)
 - [★2／diff <font color="deepskyblue">1345</font>](https://yukicoder.me/problems/no/2307)
@@ -2432,6 +2434,7 @@ writer名は基本的に登録名をそのまま表記していますが、例�
 - [★2／diff <font color="deepskyblue">1532</font>](https://yukicoder.me/problems/no/3165)
 - [★2／diff <font color="deepskyblue">1577</font>](https://yukicoder.me/problems/no/2100)
 - [★2／diff <font color="blue">1730</font>](https://yukicoder.me/problems/no/2099)
+- [★2.5／diff <font color="green">1165</font>](https://yukicoder.me/problems/no/3435)
 - [★2.5／diff <font color="deepskyblue">1448</font>](https://yukicoder.me/problems/no/2650)
 - [★2.5／diff <font color="blue">1674</font>](https://yukicoder.me/problems/no/3166)
 - [★2.5／diff <font color="blue">1851</font>](https://yukicoder.me/problems/no/2308)
@@ -2439,15 +2442,19 @@ writer名は基本的に登録名をそのまま表記していますが、例�
 - [★2.5／diff <font color="orange">2401</font>](https://yukicoder.me/problems/no/2581)
 - [★2.5／diff <font color="orange">2723</font>](https://yukicoder.me/problems/no/2984)
 - [★3／diff <font color="blue">1738</font>](https://yukicoder.me/problems/no/3168)
+- [★3／diff <font color="blue">1955</font>](https://yukicoder.me/problems/no/3436)
 - [★3／diff <font color="yellowgreen">2004</font>](https://yukicoder.me/problems/no/2652)
 - [★3／diff <font color="yellowgreen">2049</font>](https://yukicoder.me/problems/no/2101)
 - [★3／diff <font color="yellowgreen">2141</font>](https://yukicoder.me/problems/no/3167)
+- [★3／diff <font color="yellowgreen">2163</font>](https://yukicoder.me/problems/no/3437)
 - [★3／diff <font color="yellowgreen">2247</font>](https://yukicoder.me/problems/no/2653)
 - [★3／diff <font color="yellowgreen">2301</font>](https://yukicoder.me/problems/no/2651)
+- [★3／diff <font color="yellowgreen">2343</font>](https://yukicoder.me/problems/no/3438)
 - [★3／diff <font color="yellowgreen">2344</font>](https://yukicoder.me/problems/no/2152)
 - [★3.5／diff <font color="blue">1948</font>](https://yukicoder.me/problems/no/2102)
 - [★3.5／diff <font color="orange">2464</font>](https://yukicoder.me/problems/no/2310)
 - [★3.5／diff <font color="orange">2724</font>](https://yukicoder.me/problems/no/2654)
+- [★4／diffデータなし](https://yukicoder.me/problems/no/3439)
 - [★4／diff <font color="orange">2620</font>](https://yukicoder.me/problems/no/3170)
 - [★4／diff <font color="red">2904</font>](https://yukicoder.me/problems/no/3169)
 - [★4／diff <font color="red">2920</font>](https://yukicoder.me/problems/no/2311)
@@ -2455,22 +2462,27 @@ writer名は基本的に登録名をそのまま表記していますが、例�
 
 ### 過去問の解法頻度
 
-- [ソート](https://p-adic.github.io/yukicoder-difficulty-statistics/#ソート) × 7問
+- [ソート](https://p-adic.github.io/yukicoder-difficulty-statistics/#ソート) × 11問
 - [集合管理](https://p-adic.github.io/yukicoder-difficulty-statistics/#集合管理) × 6問
-- [二分探索](https://p-adic.github.io/yukicoder-difficulty-statistics/#二分探索) × 5問
+- [二分探索](https://p-adic.github.io/yukicoder-difficulty-statistics/#二分探索) × 6問
+- [全探索](https://p-adic.github.io/yukicoder-difficulty-statistics/#全探索) × 5問
+- [modint型](https://p-adic.github.io/yukicoder-difficulty-statistics/#modint型) × 4問
+- [区間和取得](https://p-adic.github.io/yukicoder-difficulty-statistics/#区間和取得) × 4問
 - [操作・選択を数値に翻訳](https://p-adic.github.io/yukicoder-difficulty-statistics/#操作・選択を数値に翻訳) × 4問
-- [modint型](https://p-adic.github.io/yukicoder-difficulty-statistics/#modint型) × 3問
+- [損をしない変形](https://p-adic.github.io/yukicoder-difficulty-statistics/#損をしない変形) × 4問
+- [分割統治法（広義：decrease-and-conquer）](https://p-adic.github.io/yukicoder-difficulty-statistics/#分割統治法（広義：decrease-and-conquer）) × 4問
 - [フェニック木](https://p-adic.github.io/yukicoder-difficulty-statistics/#フェニック木) × 3問
-- [区間和取得](https://p-adic.github.io/yukicoder-difficulty-statistics/#区間和取得) × 3問
 - [差分計算](https://p-adic.github.io/yukicoder-difficulty-statistics/#差分計算) × 3問
-- [全探索](https://p-adic.github.io/yukicoder-difficulty-statistics/#全探索) × 3問
-- [損をしない変形](https://p-adic.github.io/yukicoder-difficulty-statistics/#損をしない変形) × 3問
-- [分割統治法（広義：decrease-and-conquer）](https://p-adic.github.io/yukicoder-difficulty-statistics/#分割統治法（広義：decrease-and-conquer）) × 3問
+- [実装](https://p-adic.github.io/yukicoder-difficulty-statistics/#実装) × 3問
+- [貪欲法](https://p-adic.github.io/yukicoder-difficulty-statistics/#貪欲法) × 3問
 - [64bit整数](https://p-adic.github.io/yukicoder-difficulty-statistics/#64bit整数) × 2問
 - [kth取得](https://p-adic.github.io/yukicoder-difficulty-statistics/#kth取得) × 2問
 - [イベントソート](https://p-adic.github.io/yukicoder-difficulty-statistics/#イベントソート) × 2問
 - [クエリ先読み](https://p-adic.github.io/yukicoder-difficulty-statistics/#クエリ先読み) × 2問
+- [ナップサック最適化](https://p-adic.github.io/yukicoder-difficulty-statistics/#ナップサック最適化) × 2問
+- [フェルマーの小定理](https://p-adic.github.io/yukicoder-difficulty-statistics/#フェルマーの小定理) × 2問
 - [一要素削除更新](https://p-adic.github.io/yukicoder-difficulty-statistics/#一要素削除更新) × 2問
+- [外積計算](https://p-adic.github.io/yukicoder-difficulty-statistics/#外積計算) × 2問
 - [帰属区間取得](https://p-adic.github.io/yukicoder-difficulty-statistics/#帰属区間取得) × 2問
 - [区間族管理](https://p-adic.github.io/yukicoder-difficulty-statistics/#区間族管理) × 2問
 - [区間代入更新](https://p-adic.github.io/yukicoder-difficulty-statistics/#区間代入更新) × 2問
@@ -2478,11 +2490,13 @@ writer名は基本的に登録名をそのまま表記していますが、例�
 - [繰り返し二乗法](https://p-adic.github.io/yukicoder-difficulty-statistics/#繰り返し二乗法) × 2問
 - [検索](https://p-adic.github.io/yukicoder-difficulty-statistics/#検索) × 2問
 - [最大・最小要素取得](https://p-adic.github.io/yukicoder-difficulty-statistics/#最大・最小要素取得) × 2問
-- [実装](https://p-adic.github.io/yukicoder-difficulty-statistics/#実装) × 2問
+- [尺取り法](https://p-adic.github.io/yukicoder-difficulty-statistics/#尺取り法) × 2問
 - [小数計算を整数に帰着](https://p-adic.github.io/yukicoder-difficulty-statistics/#小数計算を整数に帰着) × 2問
 - [場合分け](https://p-adic.github.io/yukicoder-difficulty-statistics/#場合分け) × 2問
 - [数え上げを総和計算に帰着](https://p-adic.github.io/yukicoder-difficulty-statistics/#数え上げを総和計算に帰着) × 2問
 - [線形代数](https://p-adic.github.io/yukicoder-difficulty-statistics/#線形代数) × 2問
+- [素数を法とする逆元計算](https://p-adic.github.io/yukicoder-difficulty-statistics/#素数を法とする逆元計算) × 2問
+- [多重総和・総乗計算](https://p-adic.github.io/yukicoder-difficulty-statistics/#多重総和・総乗計算) × 2問
 - [動的mod](https://p-adic.github.io/yukicoder-difficulty-statistics/#動的mod) × 2問
 - [動的計画法](https://p-adic.github.io/yukicoder-difficulty-statistics/#動的計画法) × 2問
 - [特殊な入出力](https://p-adic.github.io/yukicoder-difficulty-statistics/#特殊な入出力) × 2問
@@ -2490,7 +2504,6 @@ writer名は基本的に登録名をそのまま表記していますが、例�
 - [変数決め打ち](https://p-adic.github.io/yukicoder-difficulty-statistics/#変数決め打ち) × 2問
 - [累積和](https://p-adic.github.io/yukicoder-difficulty-statistics/#累積和) × 2問
 - [冪乗計算](https://p-adic.github.io/yukicoder-difficulty-statistics/#冪乗計算) × 2問
-- [貪欲法](https://p-adic.github.io/yukicoder-difficulty-statistics/#貪欲法) × 2問
 - [01列と非負整数の対応](https://p-adic.github.io/yukicoder-difficulty-statistics/#01列と非負整数の対応) × 1問
 - [01列と部分集合の対応](https://p-adic.github.io/yukicoder-difficulty-statistics/#01列と部分集合の対応) × 1問
 - [01列に翻訳](https://p-adic.github.io/yukicoder-difficulty-statistics/#01列に翻訳) × 1問
@@ -2510,71 +2523,95 @@ writer名は基本的に登録名をそのまま表記していますが、例�
 - [クエリソート](https://p-adic.github.io/yukicoder-difficulty-statistics/#クエリソート) × 1問
 - [クエリ先読みによる連結リストの成分順前計算](https://p-adic.github.io/yukicoder-difficulty-statistics/#クエリ先読みによる連結リストの成分順前計算) × 1問
 - [グロタンディーク化](https://p-adic.github.io/yukicoder-difficulty-statistics/#グロタンディーク化) × 1問
+- [ゲルファント変換](https://p-adic.github.io/yukicoder-difficulty-statistics/#ゲルファント変換) × 1問
 - [ジョルダン標準形](https://p-adic.github.io/yukicoder-difficulty-statistics/#ジョルダン標準形) × 1問
+- [データ構造をマージする一般的なテク](https://p-adic.github.io/yukicoder-difficulty-statistics/#データ構造をマージする一般的なテク) × 1問
+- [ディオファントス方程式の解の構築](https://p-adic.github.io/yukicoder-difficulty-statistics/#ディオファントス方程式の解の構築) × 1問
 - [トレースに注目](https://p-adic.github.io/yukicoder-difficulty-statistics/#トレースに注目) × 1問
 - [ナップサック割り当て数え上げ](https://p-adic.github.io/yukicoder-difficulty-statistics/#ナップサック割り当て数え上げ) × 1問
-- [ナップサック最適化](https://p-adic.github.io/yukicoder-difficulty-statistics/#ナップサック最適化) × 1問
 - [バケット分割](https://p-adic.github.io/yukicoder-difficulty-statistics/#バケット分割) × 1問
 - [バケット分割による分割統治](https://p-adic.github.io/yukicoder-difficulty-statistics/#バケット分割による分割統治) × 1問
-- [フェルマーの小定理](https://p-adic.github.io/yukicoder-difficulty-statistics/#フェルマーの小定理) × 1問
 - [フェルマーの小定理による逆元計算](https://p-adic.github.io/yukicoder-difficulty-statistics/#フェルマーの小定理による逆元計算) × 1問
+- [ポリアの壺](https://p-adic.github.io/yukicoder-difficulty-statistics/#ポリアの壺) × 1問
+- [マージ](https://p-adic.github.io/yukicoder-difficulty-statistics/#マージ) × 1問
 - [リフルシャッフル](https://p-adic.github.io/yukicoder-difficulty-statistics/#リフルシャッフル) × 1問
 - [ローリングハッシュ](https://p-adic.github.io/yukicoder-difficulty-statistics/#ローリングハッシュ) × 1問
 - [ワイルドカードの値を変数化](https://p-adic.github.io/yukicoder-difficulty-statistics/#ワイルドカードの値を変数化) × 1問
 - [位取り記法表示](https://p-adic.github.io/yukicoder-difficulty-statistics/#位取り記法表示) × 1問
+- [右手・左手系判定](https://p-adic.github.io/yukicoder-difficulty-statistics/#右手・左手系判定) × 1問
 - [閏年計算を跨ぐカレンダー計算](https://p-adic.github.io/yukicoder-difficulty-statistics/#閏年計算を跨ぐカレンダー計算) × 1問
 - [円環の倍化実装](https://p-adic.github.io/yukicoder-difficulty-statistics/#円環の倍化実装) × 1問
+- [演算の反復の分割統治](https://p-adic.github.io/yukicoder-difficulty-statistics/#演算の反復の分割統治) × 1問
 - [解と係数の関係](https://p-adic.github.io/yukicoder-difficulty-statistics/#解と係数の関係) × 1問
 - [解の公式](https://p-adic.github.io/yukicoder-difficulty-statistics/#解の公式) × 1問
 - [階差数列](https://p-adic.github.io/yukicoder-difficulty-statistics/#階差数列) × 1問
+- [外積による三角形の面積計算](https://p-adic.github.io/yukicoder-difficulty-statistics/#外積による三角形の面積計算) × 1問
+- [緩和](https://p-adic.github.io/yukicoder-difficulty-statistics/#緩和) × 1問
 - [既出を検索](https://p-adic.github.io/yukicoder-difficulty-statistics/#既出を検索) × 1問
 - [既存のアルゴリズムの変形](https://p-adic.github.io/yukicoder-difficulty-statistics/#既存のアルゴリズムの変形) × 1問
 - [極小互換表示](https://p-adic.github.io/yukicoder-difficulty-statistics/#極小互換表示) × 1問
 - [区間max・min更新](https://p-adic.github.io/yukicoder-difficulty-statistics/#区間max・min更新) × 1問
 - [区間を切片の差に翻訳](https://p-adic.github.io/yukicoder-difficulty-statistics/#区間を切片の差に翻訳) × 1問
+- [区間アフィン変換更新](https://p-adic.github.io/yukicoder-difficulty-statistics/#区間アフィン変換更新) × 1問
+- [区間文字反転更新](https://p-adic.github.io/yukicoder-difficulty-statistics/#区間文字反転更新) × 1問
 - [区間要素数取得を指定始切片数え上げに帰着](https://p-adic.github.io/yukicoder-difficulty-statistics/#区間要素数取得を指定始切片数え上げに帰着) × 1問
+- [構築](https://p-adic.github.io/yukicoder-difficulty-statistics/#構築) × 1問
 - [行列式計算](https://p-adic.github.io/yukicoder-difficulty-statistics/#行列式計算) × 1問
+- [高速フーリエ変換](https://p-adic.github.io/yukicoder-difficulty-statistics/#高速フーリエ変換) × 1問
 - [座標圧縮](https://p-adic.github.io/yukicoder-difficulty-statistics/#座標圧縮) × 1問
 - [最終手番に注目](https://p-adic.github.io/yukicoder-difficulty-statistics/#最終手番に注目) × 1問
 - [最大・最小要素削除](https://p-adic.github.io/yukicoder-difficulty-statistics/#最大・最小要素削除) × 1問
+- [三角形の面積計算](https://p-adic.github.io/yukicoder-difficulty-statistics/#三角形の面積計算) × 1問
 - [三平方の定理](https://p-adic.github.io/yukicoder-difficulty-statistics/#三平方の定理) × 1問
 - [四捨五入計算](https://p-adic.github.io/yukicoder-difficulty-statistics/#四捨五入計算) × 1問
+- [始切片選択ナップサック最適化](https://p-adic.github.io/yukicoder-difficulty-statistics/#始切片選択ナップサック最適化) × 1問
+- [指数と対数による冪乗・総乗計算](https://p-adic.github.io/yukicoder-difficulty-statistics/#指数と対数による冪乗・総乗計算) × 1問
 - [指定序数の値の計算や指定始切片数え上げや一次元最近点計算をソートに帰着](https://p-adic.github.io/yukicoder-difficulty-statistics/#指定序数の値の計算や指定始切片数え上げや一次元最近点計算をソートに帰着) × 1問
+- [指定序数の値の計算を指定始切片数え上げに帰着](https://p-adic.github.io/yukicoder-difficulty-statistics/#指定序数の値の計算を指定始切片数え上げに帰着) × 1問
 - [写像・配列を像・頻度表で管理](https://p-adic.github.io/yukicoder-difficulty-statistics/#写像・配列を像・頻度表で管理) × 1問
-- [尺取り法](https://p-adic.github.io/yukicoder-difficulty-statistics/#尺取り法) × 1問
 - [集合の変化イベント走査による差分計算](https://p-adic.github.io/yukicoder-difficulty-statistics/#集合の変化イベント走査による差分計算) × 1問
 - [十分大きな法で計算](https://p-adic.github.io/yukicoder-difficulty-statistics/#十分大きな法で計算) × 1問
 - [重複選択可ナップサック最適化](https://p-adic.github.io/yukicoder-difficulty-statistics/#重複選択可ナップサック最適化) × 1問
 - [重複選択個数の線形関係式](https://p-adic.github.io/yukicoder-difficulty-statistics/#重複選択個数の線形関係式) × 1問
+- [準同型](https://p-adic.github.io/yukicoder-difficulty-statistics/#準同型) × 1問
 - [巡回置換表示](https://p-adic.github.io/yukicoder-difficulty-statistics/#巡回置換表示) × 1問
 - [商の剰余計算を大きい法に帰着](https://p-adic.github.io/yukicoder-difficulty-statistics/#商の剰余計算を大きい法に帰着) × 1問
 - [焼きなまし法](https://p-adic.github.io/yukicoder-difficulty-statistics/#焼きなまし法) × 1問
 - [剰余・ハッシュによる確率的判定](https://p-adic.github.io/yukicoder-difficulty-statistics/#剰余・ハッシュによる確率的判定) × 1問
+- [剰余を取る前に符号や大小を計算](https://p-adic.github.io/yukicoder-difficulty-statistics/#剰余を取る前に符号や大小を計算) × 1問
+- [畳み込み](https://p-adic.github.io/yukicoder-difficulty-statistics/#畳み込み) × 1問
 - [数値の文字列受け取り](https://p-adic.github.io/yukicoder-difficulty-statistics/#数値の文字列受け取り) × 1問
 - [積和の和積化](https://p-adic.github.io/yukicoder-difficulty-statistics/#積和の和積化) × 1問
 - [遷移の収束](https://p-adic.github.io/yukicoder-difficulty-statistics/#遷移の収束) × 1問
+- [疎な多項式の畳み込み](https://p-adic.github.io/yukicoder-difficulty-statistics/#疎な多項式の畳み込み) × 1問
 - [素集合データ構造](https://p-adic.github.io/yukicoder-difficulty-statistics/#素集合データ構造) × 1問
-- [素数を法とする逆元計算](https://p-adic.github.io/yukicoder-difficulty-statistics/#素数を法とする逆元計算) × 1問
 - [組分けの余りに注目](https://p-adic.github.io/yukicoder-difficulty-statistics/#組分けの余りに注目) × 1問
 - [双対セグメント木](https://p-adic.github.io/yukicoder-difficulty-statistics/#双対セグメント木) × 1問
+- [操作ごとに倍化する量を用いた計算量評価](https://p-adic.github.io/yukicoder-difficulty-statistics/#操作ごとに倍化する量を用いた計算量評価) × 1問
 - [相加相乗平均による計算量評価](https://p-adic.github.io/yukicoder-difficulty-statistics/#相加相乗平均による計算量評価) × 1問
 - [多次元コストナップサック最適化](https://p-adic.github.io/yukicoder-difficulty-statistics/#多次元コストナップサック最適化) × 1問
-- [多重総和・総乗計算](https://p-adic.github.io/yukicoder-difficulty-statistics/#多重総和・総乗計算) × 1問
 - [多点BFS](https://p-adic.github.io/yukicoder-difficulty-statistics/#多点BFS) × 1問
 - [楕円の面積計算](https://p-adic.github.io/yukicoder-difficulty-statistics/#楕円の面積計算) × 1問
 - [対称群の構造に注目](https://p-adic.github.io/yukicoder-difficulty-statistics/#対称群の構造に注目) × 1問
 - [代数拡大](https://p-adic.github.io/yukicoder-difficulty-statistics/#代数拡大) × 1問
+- [遅延セグメント木](https://p-adic.github.io/yukicoder-difficulty-statistics/#遅延セグメント木) × 1問
+- [調和数列による計算量評価](https://p-adic.github.io/yukicoder-difficulty-statistics/#調和数列による計算量評価) × 1問
 - [等差数列の累積和計算](https://p-adic.github.io/yukicoder-difficulty-statistics/#等差数列の累積和計算) × 1問
+- [同じ値の纏め上げ](https://p-adic.github.io/yukicoder-difficulty-statistics/#同じ値の纏め上げ) × 1問
+- [凸包計算](https://p-adic.github.io/yukicoder-difficulty-statistics/#凸包計算) × 1問
 - [二次拡大](https://p-adic.github.io/yukicoder-difficulty-statistics/#二次拡大) × 1問
 - [配列の変化イベント走査による差分計算](https://p-adic.github.io/yukicoder-difficulty-statistics/#配列の変化イベント走査による差分計算) × 1問
 - [半分全列挙](https://p-adic.github.io/yukicoder-difficulty-statistics/#半分全列挙) × 1問
 - [汎関数計算](https://p-adic.github.io/yukicoder-difficulty-statistics/#汎関数計算) × 1問
+- [頻度表](https://p-adic.github.io/yukicoder-difficulty-statistics/#頻度表) × 1問
 - [不変量比較による一致判定](https://p-adic.github.io/yukicoder-difficulty-statistics/#不変量比較による一致判定) × 1問
 - [幅優先探索](https://p-adic.github.io/yukicoder-difficulty-statistics/#幅優先探索) × 1問
 - [複素共役による絶対値計算](https://p-adic.github.io/yukicoder-difficulty-statistics/#複素共役による絶対値計算) × 1問
 - [複素数演算](https://p-adic.github.io/yukicoder-difficulty-statistics/#複素数演算) × 1問
+- [分割統治法（狭義：devide-and-conquer）](https://p-adic.github.io/yukicoder-difficulty-statistics/#分割統治法（狭義：devide-and-conquer）) × 1問
 - [文字列・配列の追加・挿入の事前処理](https://p-adic.github.io/yukicoder-difficulty-statistics/#文字列・配列の追加・挿入の事前処理) × 1問
 - [平方分割](https://p-adic.github.io/yukicoder-difficulty-statistics/#平方分割) × 1問
+- [偏角ソート](https://p-adic.github.io/yukicoder-difficulty-statistics/#偏角ソート) × 1問
 - [優先度付きキュー](https://p-adic.github.io/yukicoder-difficulty-statistics/#優先度付きキュー) × 1問
 - [余因子展開](https://p-adic.github.io/yukicoder-difficulty-statistics/#余因子展開) × 1問
 - [乱択](https://p-adic.github.io/yukicoder-difficulty-statistics/#乱択) × 1問
@@ -2582,6 +2619,7 @@ writer名は基本的に登録名をそのまま表記していますが、例�
 - [隣接不等式管理](https://p-adic.github.io/yukicoder-difficulty-statistics/#隣接不等式管理) × 1問
 - [連結リスト](https://p-adic.github.io/yukicoder-difficulty-statistics/#連結リスト) × 1問
 - [連結成分取得](https://p-adic.github.io/yukicoder-difficulty-statistics/#連結成分取得) × 1問
+- [連立一次不等式の解の構築](https://p-adic.github.io/yukicoder-difficulty-statistics/#連立一次不等式の解の構築) × 1問
 
 
 ## [netyo715さん](https://yukicoder.me/users/11468)
@@ -4043,7 +4081,7 @@ writer名は基本的に登録名をそのまま表記していますが、例�
 - [構築](https://p-adic.github.io/yukicoder-difficulty-statistics/#構築) × 1問
 - [高速フーリエ変換](https://p-adic.github.io/yukicoder-difficulty-statistics/#高速フーリエ変換) × 1問
 - [最小素因数計算](https://p-adic.github.io/yukicoder-difficulty-statistics/#最小素因数計算) × 1問
-- [指数と対数による冪乗計算](https://p-adic.github.io/yukicoder-difficulty-statistics/#指数と対数による冪乗計算) × 1問
+- [指数と対数による冪乗・総乗計算](https://p-adic.github.io/yukicoder-difficulty-statistics/#指数と対数による冪乗・総乗計算) × 1問
 - [自己写像に翻訳](https://p-adic.github.io/yukicoder-difficulty-statistics/#自己写像に翻訳) × 1問
 - [集合管理](https://p-adic.github.io/yukicoder-difficulty-statistics/#集合管理) × 1問
 - [畳み込み](https://p-adic.github.io/yukicoder-difficulty-statistics/#畳み込み) × 1問
@@ -6365,8 +6403,8 @@ writer名は基本的に登録名をそのまま表記していますが、例�
 
 ### 過去問のレベル（星の数）とdifficulty（実際の解け具合）の組み合わせ
 
-- [★2／diffデータなし](https://yukicoder.me/problems/no/3422)
-- [★3.5／diffデータなし](https://yukicoder.me/problems/no/3432)
+- [★2／diff <font color="green">1007</font>](https://yukicoder.me/problems/no/3422)
+- [★3.5／diff <font color="yellowgreen">2054</font>](https://yukicoder.me/problems/no/3432)
 
 ### 過去問の解法頻度
 
@@ -6603,10 +6641,10 @@ writer名は基本的に登録名をそのまま表記していますが、例�
 
 ### 過去問のレベル（星の数）とdifficulty（実際の解け具合）の組み合わせ
 
-- [★1／diffデータなし](https://yukicoder.me/problems/no/3419)
-- [★1／diffデータなし](https://yukicoder.me/problems/no/3421)
-- [★4／diffデータなし](https://yukicoder.me/problems/no/3427)
-- [★4.5／diffデータなし](https://yukicoder.me/problems/no/3423)
+- [★1／diff <font color="brown">773</font>](https://yukicoder.me/problems/no/3419)
+- [★1／diff <font color="green">904</font>](https://yukicoder.me/problems/no/3421)
+- [★4／diff <font color="orange">2570</font>](https://yukicoder.me/problems/no/3427)
+- [★4.5／diff <font color="orange">2686</font>](https://yukicoder.me/problems/no/3423)
 
 ### 過去問の解法頻度
 
@@ -6875,12 +6913,12 @@ writer名は基本的に登録名をそのまま表記していますが、例�
 
 ### 過去問のレベル（星の数）とdifficulty（実際の解け具合）の組み合わせ
 
-- [★1.5／diffデータなし](https://yukicoder.me/problems/no/3431)
-- [★2／diffデータなし](https://yukicoder.me/problems/no/3428)
-- [★2.5／diffデータなし](https://yukicoder.me/problems/no/3425)
-- [★3／diffデータなし](https://yukicoder.me/problems/no/3429)
-- [★3／diffデータなし](https://yukicoder.me/problems/no/3430)
-- [★3.5／diffデータなし](https://yukicoder.me/problems/no/3426)
+- [★1.5／diff <font color="deepskyblue">1365</font>](https://yukicoder.me/problems/no/3431)
+- [★2／diff <font color="deepskyblue">1423</font>](https://yukicoder.me/problems/no/3428)
+- [★2.5／diff <font color="blue">1730</font>](https://yukicoder.me/problems/no/3425)
+- [★3／diff <font color="blue">1730</font>](https://yukicoder.me/problems/no/3429)
+- [★3／diff <font color="yellowgreen">2103</font>](https://yukicoder.me/problems/no/3430)
+- [★3.5／diff <font color="yellowgreen">2054</font>](https://yukicoder.me/problems/no/3426)
 
 ### 過去問の解法頻度
 
@@ -7889,7 +7927,7 @@ writer名は基本的に登録名をそのまま表記していますが、例�
 - [再帰](https://p-adic.github.io/yukicoder-difficulty-statistics/#再帰) × 1問
 - [三分探索](https://p-adic.github.io/yukicoder-difficulty-statistics/#三分探索) × 1問
 - [三平方の定理](https://p-adic.github.io/yukicoder-difficulty-statistics/#三平方の定理) × 1問
-- [指数と対数による冪乗計算](https://p-adic.github.io/yukicoder-difficulty-statistics/#指数と対数による冪乗計算) × 1問
+- [指数と対数による冪乗・総乗計算](https://p-adic.github.io/yukicoder-difficulty-statistics/#指数と対数による冪乗・総乗計算) × 1問
 - [試し割り法](https://p-adic.github.io/yukicoder-difficulty-statistics/#試し割り法) × 1問
 - [写像・配列を像・頻度表で管理](https://p-adic.github.io/yukicoder-difficulty-statistics/#写像・配列を像・頻度表で管理) × 1問
 - [重複選択可ナップサック最適化](https://p-adic.github.io/yukicoder-difficulty-statistics/#重複選択可ナップサック最適化) × 1問
@@ -9013,7 +9051,7 @@ writer名は基本的に登録名をそのまま表記していますが、例�
 
 ### 過去問のレベル（星の数）とdifficulty（実際の解け具合）の組み合わせ
 
-- [★3／diffデータなし](https://yukicoder.me/problems/no/3424)
+- [★3／diff <font color="blue">1730</font>](https://yukicoder.me/problems/no/3424)
 
 ### 過去問の解法頻度
 
@@ -9230,7 +9268,7 @@ writer名は基本的に登録名をそのまま表記していますが、例�
 
 ### 過去問のレベル（星の数）とdifficulty（実際の解け具合）の組み合わせ
 
-- [★1／diffデータなし](https://yukicoder.me/problems/no/3420)
+- [★1／diff <font color="green">1007</font>](https://yukicoder.me/problems/no/3420)
 
 ### 過去問の解法頻度
 
