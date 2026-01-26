@@ -17,7 +17,7 @@ tags: [競技プログラミング,プログラミング,数学]
 writerを担当した問題リンクは[こちら]({{ site.url }}/competitive-programming-problems/)です。
 
 ## yukicoder通常問題（公開済み165問＋未公開17問）
-- No.3437	[[Cherry 8th Tune C]](https://yukicoder.me/problems/no/3437)
+- No.3437	[[Cherry 8th Tune C] Silhouette](https://yukicoder.me/problems/no/3437)
 - No.3436	[[Cherry 8th Tune B] この夏に何が起こるかな?](https://yukicoder.me/problems/no/3436)
 - No.3402	[[Cherry Anniversary 5] Beyond Zelkova, the 5th year vista seen through the bloom of a cherry bloosom](https://yukicoder.me/problems/no/3402)
 - No.3400	[Nana's Plus Permutation Game (7 + 7) ÷ 7](https://yukicoder.me/problems/no/3400)
