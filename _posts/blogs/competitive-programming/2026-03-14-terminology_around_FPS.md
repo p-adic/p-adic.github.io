@@ -318,15 +318,23 @@ $R$を$\mathbb{Q}$代数とします。この時
 
 $\exp$を$\mathbb{F}_p$係数形式冪級数と思い込むミスはよくあるので気をつけていきましょう。
 
-ここで$\mathbb{F}_p$係数形式冪級数とみなせない$\mathbb{Q}$係数形式冪級数を$\mathbb{F}_p$係数多項式に落とすテクニックがあるので紹介します。コここだけの用語で、それを法$p$類似と呼ぶことにします。
+ここで$\mathbb{F}_p$係数形式冪級数とみなせない$\mathbb{Q}$係数形式冪級数を$\mathbb{F}_p$係数多項式に落とすテクニックがあるので紹介します。ここだけの用語で、それを法$p$類似と呼ぶことにします。
 
 > 定義（$\mathbb{Q}$係数形式冪級数の法$p$類似）
 > 
 > $p$を素数とし、$f \in \mathbb{Q}[[x]]$とする。$f$の法$p$類似を以下のように定義する。
 >
-> (1) 任意の$d \in \mathbb{N}$に対し$f_d \in \mathbb{Z}\_{(p)}$ならば、$f$の法$p$類似を$\sum_{d=0}^{\infty} (f_d + p \mathbb{Z}\_{(p)}) x^d \in \mathbb{F}_p[[x]] \setminus \mathbb{F}_p[x]$と定める。
+> (1) 任意の$d \in \mathbb{N}$に対し$f_d \in \mathbb{Z}\_{(p)}$ならば、$f$の法$p$類似を
+> \\[
+> \sum_{d=0}^{\infty} (f_d + p \mathbb{Z}\_{(p)}) x^d \in \mathbb{F}_p[[x]] \setminus \mathbb{F}_p[x]
+> \\]
+> と定める。
 >
-> (2) $f_d \notin \mathbb{Z}\_{(p)}$を満たす$d \in \mathbb{N}$が存在するならば、その最小値を$d_0$と置いて$f$の法$p$類似を$\sum_{d=0}^{d_0-1} (f_d + p \mathbb{Z}\_{(p)}) x^d \in \mathbb{F}_p[x]$と定める。
+> (2) $f_d \notin \mathbb{Z}\_{(p)}$を満たす$d \in \mathbb{N}$が存在するならば、その最小値$d_0$を用いて$f$の法$p$類似を
+> \\[
+> \sum_{d=0}^{d_0-1} (f_d + p \mathbb{Z}\_{(p)}) x^d \in \mathbb{F}_p[x]
+> \\]
+> と定める。
 
 ただし$p \mathbb{Z}_p$による剰余類は自然な同型$\Z_{(p)}/(p) \cong \mathbb{F}_p$により$\mathbb{F}_p$の要素とみなします。
 
