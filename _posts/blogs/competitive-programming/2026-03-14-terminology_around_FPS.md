@@ -325,9 +325,9 @@ $\exp$を$\mathbb{F}_p$係数形式冪級数と思い込むミスはよくある
 > 
 > $p$を素数とし、$f \in \mathbb{Q}[[x]]$とする。$f$の法$p$類似を以下のように定義する。
 >
-> (1) 任意の$d \in \mathbb{N}$に対し$d \in \mathbb{Z}_{(p)}$ならば、$f$の法$p$類似を$\sum_{d=0}^{\infty} (f_d \bmod p \mathbb{Z}_{(p)}) x^d \in \mathbb{F}_p[[x]] \setminus \mathbb{F}_p[x]$と定める。
+> (1) 任意の$d \in \mathbb{N}$に対し$f_d \in \mathbb{Z}_{(p)}$ならば、$f$の法$p$類似を$\sum_{d=0}^{\infty} (f_d \bmod p \mathbb{Z}_{(p)}) x^d \in \mathbb{F}_p[[x]] \setminus \mathbb{F}_p[x]$と定める。
 >
-> (2) $d \notin \mathbb{Z}_{(p)}$を満たす$d \in \mathbb{N}$が存在するならば、その最小値$d_0$を用いて$f$の法$p$類似を$\sum_{d=0}^{d_0-1} (f_d \bmod p \mathbb{Z}_{(p)}) x^d \in \mathbb{F}_p[x]$と定める。
+> (2) $f_d \notin \mathbb{Z}_{(p)}$を満たす$d \in \mathbb{N}$が存在するならば、その最小値$d_0$を用いて$f$の法$p$類似を$\sum_{d=0}^{d_0-1} (f_d \bmod p \mathbb{Z}_{(p)}) x^d \in \mathbb{F}_p[x]$と定める。
 
 $\exp$の法$p$類似は(2)のパターンですね。$p-1$次の多項式です。多項式をわざわざFPSと言ってしまうと訝しげに見られるかもしれません。法$p$類似を取る前の$\mathbb{Q}$係数形式冪級数の話かな？　って。
 
