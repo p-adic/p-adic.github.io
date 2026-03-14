@@ -5,7 +5,7 @@ date: 2025-06-15
 excerpt: "フェニック木の抽象化と代数構造について書いていきます。"
 parent: competitive-programming-blog
 prev-child: introduction-to-Gelfand-transform
-next-child: 
+next-child: terminology_around_FPS
 blog: true
 tags: [競技プログラミング]
 ---
