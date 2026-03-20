@@ -6,7 +6,7 @@ suburl: yukicoder-contest-486
 excerpt: "yukicoder contest 486 オムニバスの参戦記です。"
 date: 2025-10-24
 num: 571
-parent: competitive-programming-contest/
+parent: competitive-programming-contest
 prev-child: yukicoder-contest-478
 next-child: yukicoder-contest-decimal-error
 own: D問題
