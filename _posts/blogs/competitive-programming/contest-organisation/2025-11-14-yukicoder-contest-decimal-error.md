@@ -6,7 +6,7 @@ suburl: yukicoder-contest-decimal-error
 excerpt: "yukicoder contest 小数誤差コンテストの開催記です。"
 date: 2025-11-14
 num: 567
-parent: competitive-programming-contest/
+parent: competitive-programming-contest
 prev-child: yukicoder-contest-486
 next-child: Advent-Calendar-Contest-2025
 own: 単著
