@@ -6,7 +6,7 @@ suburl: yukicoder-contest-478
 excerpt: "yukicoder contest 478 オムニバスの参戦記です。"
 date: 2025-08-15
 num: 559
-parent: competitive-programming-contest/
+parent: competitive-programming-contest
 prev-child: yukicoder-contest-466
 next-child: yukicoder-contest-486
 own: B,D問題
