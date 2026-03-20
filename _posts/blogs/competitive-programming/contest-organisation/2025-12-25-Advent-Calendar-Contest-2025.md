@@ -6,7 +6,7 @@ suburl: Advent-Calendar-Contest-2025
 excerpt: "Advent Calendar Contest 2025の参戦記です。"
 date: 2025-12-25
 num: 578
-parent: competitive-programming-contest/
+parent: competitive-programming-contest
 prev-child: yukicoder-contest-decimal-error
 next-child: 
 own: K問題
