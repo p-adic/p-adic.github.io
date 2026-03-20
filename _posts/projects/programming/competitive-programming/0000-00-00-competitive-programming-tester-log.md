@@ -12,11 +12,11 @@ class-name: 競技プログラミング
 tags: [競技プログラミング,プログラミング,数学]
 ---
 
-競技プログラミングでtesterを担当した問題リンクをまとめてみました。{{ page.date | date: '%Y/%m/%d' }}現在でtesterを引き受けた問題数は202問で、うち出題済みの問題は184問です。
+競技プログラミングでtesterを担当した問題リンクをまとめてみました。{{ page.date | date: '%Y/%m/%d' }}現在でtesterを引き受けた問題数は206問で、うち出題済みの問題は184問です。
 
 writerを担当した問題リンクは[こちら]({{ site.url }}/competitive-programming-problems/)です。
 
-## yukicoder通常問題（公開済み166問＋未公開17問）
+## yukicoder通常問題（公開済み166問＋未公開21問）
 - No.3475	[Many Hello Substrings](https://yukicoder.me/problems/no/3475)
 - No.3437	[[Cherry 8th Tune C] Silhouette](https://yukicoder.me/problems/no/3437)
 - No.3436	[[Cherry 8th Tune B] この夏に何が起こるかな?](https://yukicoder.me/problems/no/3436)
