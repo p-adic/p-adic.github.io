@@ -8,7 +8,7 @@ date: 2025-12-25
 num: 578
 parent: competitive-programming-contest
 prev-child: yukicoder-contest-decimal-error
-next-child: 
+next-child: yukicoder-April-Fool-Contest-2026
 own: K問題
 blog: true
 tags: [競技プログラミング,数学]
