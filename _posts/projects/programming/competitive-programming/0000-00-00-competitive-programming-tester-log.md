@@ -3,7 +3,7 @@ url: https://p-adic.github.io/competitive-programming-tester-log/
 layout: project
 title: 競技プログラミングtester問題一覧
 excerpt: "競技プログラミングでtesterを担当した問題の一覧です。"
-date: 2026-03-21
+date: 2026-04-02
 project: true
 parent: competitive-programming-project
 prev-child: yukicoder-difficulty-statistics-solution-name
@@ -12,11 +12,12 @@ class-name: 競技プログラミング
 tags: [競技プログラミング,プログラミング,数学]
 ---
 
-競技プログラミングでtesterを担当した問題リンクをまとめてみました。{{ page.date | date: '%Y/%m/%d' }}現在でtesterを引き受けた問題数は206問で、うち出題済みの問題は184問です。
+競技プログラミングでtesterを担当した問題リンクをまとめてみました。{{ page.date | date: '%Y/%m/%d' }}現在でtesterを引き受けた問題数は208問で、うち出題済みの問題は186問です。
 
 writerを担当した問題リンクは[こちら]({{ site.url }}/competitive-programming-problems/)です。
 
-## yukicoder通常問題（公開済み166問＋未公開21問）
+## yukicoder通常問題（公開済み167問＋未公開21問）
+- No.3487	[Restricted Shiritori](https://yukicoder.me/problems/no/3487)
 - No.3475	[Many Hello Substrings](https://yukicoder.me/problems/no/3475)
 - No.3437	[[Cherry 8th Tune C] Silhouette](https://yukicoder.me/problems/no/3437)
 - No.3436	[[Cherry 8th Tune B] この夏に何が起こるかな?](https://yukicoder.me/problems/no/3436)
@@ -192,8 +193,9 @@ writerを担当した問題リンクは[こちら]({{ site.url }}/competitive-pr
 - No.3007 [組み紐](https://yukicoder.me/problems/no/3007)
 - No.2466 [Root! Root! Root!](https://yukicoder.me/problems/no/2466)
 
-## yukicoderネタ問題（公開済み5問）
+## yukicoderネタ問題（公開済み6問）
 
+- No.8128	[出力するだけなのに](https://yukicoder.me/problems/no/8128)
 - No.8110 [WIP Editorial](https://yukicoder.me/problems/no/8110)
 - No.8109 [GCD between Permutations](https://yukicoder.me/problems/no/8109)
 - No.8108 [徐々におかしくなる数学クイズ](https://yukicoder.me/problems/no/8108)
