@@ -9,7 +9,7 @@ num: 588
 parent: competitive-programming-contest
 prev-child: Advent-Calendar-Contest-2025
 next-child: 
-own: K問題
+own: H問題
 blog: true
 tags: [競技プログラミング,数学]
 ---
