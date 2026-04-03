@@ -8,7 +8,7 @@ date: 2026-04-01
 num: 588
 parent: competitive-programming-contest
 prev-child: Advent-Calendar-Contest-2025
-next-child: 
+next-child: yukicoder-contest-496
 own: H問題
 blog: true
 tags: [競技プログラミング,数学]
