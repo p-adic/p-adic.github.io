@@ -6,7 +6,7 @@ suburl: yukicoder-April-Fool-Contest-2026
 excerpt: "yukicoder April Fool Contest 2026の参戦記です。"
 date: 2026-04-01
 num: 588
-parent: competitive-programming-contest/
+parent: competitive-programming-contest
 prev-child: Advent-Calendar-Contest-2025
 next-child: 
 own: K問題
