@@ -3,7 +3,7 @@ url: https://p-adic.github.io/competitive-programming-tester-log/
 layout: project
 title: 競技プログラミングtester問題一覧
 excerpt: "競技プログラミングでtesterを担当した問題の一覧です。"
-date: 2026-04-02
+date: 2026-04-24
 project: true
 parent: competitive-programming-project
 prev-child: yukicoder-difficulty-statistics-solution-name
@@ -16,8 +16,11 @@ tags: [競技プログラミング,プログラミング,数学]
 
 writerを担当した問題リンクは[こちら]({{ site.url }}/competitive-programming-problems/)です。
 
-## yukicoder通常問題（公開済み167問＋未公開21問）
+## yukicoder通常問題（公開済み170問＋未公開21問）
 - No.3487	[Restricted Shiritori](https://yukicoder.me/problems/no/3487)
+- No.3484	[Just a Maze Game](https://yukicoder.me/problems/no/3484)
+- No.3483	[A Forbidden Fruit](https://yukicoder.me/problems/no/3483)
+- No.3482	[Quod Erat Demonstrandum](https://yukicoder.me/problems/no/3482)
 - No.3475	[Many Hello Substrings](https://yukicoder.me/problems/no/3475)
 - No.3437	[[Cherry 8th Tune C] Silhouette](https://yukicoder.me/problems/no/3437)
 - No.3436	[[Cherry 8th Tune B] この夏に何が起こるかな?](https://yukicoder.me/problems/no/3436)
