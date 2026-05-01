@@ -8,7 +8,7 @@ date: 2026-04-03
 num: 587
 parent: competitive-programming-contest
 prev-child: yukicoder-April-Fool-Contest-2026
-next-child: 
+next-child: yukicoder-contest-reactive
 own: 単著
 blog: true
 tags: [競技プログラミング,数学]
