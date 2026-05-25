@@ -7,7 +7,7 @@ parent: competitive-programming-blog
 prev-child: became-Heuristic-green-in-AtCoder
 next-child: abstract-Fenwick-tree
 blog: true
-tags: [競技プログラミング]
+tags: [数学,競技プログラミング]
 ---
 
 
