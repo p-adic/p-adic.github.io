@@ -7,7 +7,7 @@ parent: competitive-programming-blog
 prev-child: terminology-around-FPS
 next-child: 
 blog: true
-tags: [数学,競技プログラミング]
+tags: [競技プログラミング]
 ---
 
 
