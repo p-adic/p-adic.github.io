@@ -7,7 +7,7 @@ parent: competitive-programming-blog
 prev-child: how-to-create-problems-for-competitive-programming
 next-child: competitive-programming-problem-solving
 blog: true
-tags: [競技プログラミング]
+tags: [数学,競技プログラミング]
 ---
 
 
