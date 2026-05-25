@@ -3,11 +3,11 @@ layout: blog
 title: 【マシュマロ】p進数体とガロア体の違い
 date: 2026-05-25
 excerpt: "p進数体とガロア体の違いについて解説します。"
-parent: mathematics-blog
-prev-child: mathematical-honesty
+parent: competitive-programming-blog
+prev-child: terminology-around-FPS
 next-child: 
 blog: true
-tags: [数学]
+tags: [数学,競技プログラミング]
 ---
 
 
