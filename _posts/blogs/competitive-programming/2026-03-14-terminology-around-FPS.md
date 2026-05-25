@@ -7,7 +7,7 @@ parent: competitive-programming-blog
 prev-child: abstract-Fenwick-tree
 next-child: difference-between-Fp-and-Qp
 blog: true
-tags: [競技プログラミング]
+tags: [数学,競技プログラミング]
 ---
 
 
