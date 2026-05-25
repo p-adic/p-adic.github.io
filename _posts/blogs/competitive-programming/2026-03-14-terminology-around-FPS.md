@@ -5,7 +5,7 @@ date: 2026-03-14
 excerpt: "FPS周りの用語について書いていきます。"
 parent: competitive-programming-blog
 prev-child: abstract-Fenwick-tree
-next-child: 
+next-child: difference-between-Fp-and-Qp
 blog: true
 tags: [競技プログラミング]
 ---
