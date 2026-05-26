@@ -247,7 +247,7 @@ int Combination( int n , int m )
 
 これにて冒頭の問題を計算量$O(\min(M,P))$で解くことができました。
 
-法が素数でない場合は少し工夫が必要です。余力がある人は是非挑戦してみましょう。
+法が素数でない場合は少し工夫が必要です。余力がある人は法$10^8$の二項係数計算問題に挑戦してみましょう：
 - [★3.5 No.2120 場合の数の下８桁](https://yukicoder.me/problems/no/2120)
 
 
@@ -257,7 +257,7 @@ int Combination( int n , int m )
 
 また$\mathbb{Q}\_p$は解析的議論も適用可能で、$\frac{1}{1+x}$や$\exp(x)$や$\log(x)$などを$x$の収束冪級数で扱ったりNewton法を行ったりすることが可能です。
 
-$p$進解析の競技プログラミング問題
+$p$進解析の競技プログラミング問題：
 - [★2.5 No.2271 平方根の１３桁精度近似計算](https://yukicoder.me/problems/no/2271)
 - [★4.5 No.2993 冪乗乗 mod 冪乗](https://yukicoder.me/problems/no/2993)
 
