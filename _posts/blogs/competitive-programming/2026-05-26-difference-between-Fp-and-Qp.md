@@ -211,11 +211,13 @@ struct Qp
   // 1桁精度の乗法
   inline Qp& operator*=( const Qp& x ) { m_n = ll( m_n ) * x.m_n % g_p; m_v += x.m_v; return *this;}
 
+  // 1桁精度の逆元
   static Qp Inverse( int i )
   {
     static vector<int> inv = {0,1};
     Qp x{ i };
     auto& [n,v] = x;
+    assert( 0 < n && n < g_p );
     int L;
     while( ( L = inv.size() ) <= n ){
       inv.push_back( inv[g_p%L] * ll( g_p - g_p / L ) % g_p );
