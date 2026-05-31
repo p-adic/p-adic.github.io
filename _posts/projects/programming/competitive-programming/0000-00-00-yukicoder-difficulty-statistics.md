@@ -2,7 +2,7 @@
 url: https://p-adic.github.io/yukicoder-difficulty-statistics/
 layout: project
 title: yukicoder過去問解法別難易度統計
-date: 2026-05-23
+date: 2026-05-31
 excerpt: "yukicoderの過去問の解法別の難易度に関する統計データです。"
 parent: competitive-programming-project
 prev-child: competitive-programming-creating-problem-status
@@ -111,7 +111,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 <h2 id="average_difficulty">レベルごとの平均difficulty</h2>
 
-問題2056から問題3554のうち
+問題2056から問題3564のうち
 
 - コンテスト出題であり（単発出題でなく）かつ
 - レベルが設定されておりかつ
@@ -122,8 +122,8 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 ### ★
 
-- 全体: diff <font color="brown">705</font>（115問）
-- 2026年: diff <font color="green">1175</font>（18問）
+- 全体: diff <font color="brown">718</font>（117問）
+- 2026年: diff <font color="deepskyblue">1206</font>（20問）
 - 2025年: diff <font color="brown">795</font>（36問）
 - 2024年: diff <font color="brown">587</font>（30問）
 - 2023年: diff <font color="gray">360</font>（26問）
@@ -140,8 +140,8 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 ### ★★
 
-- 全体: diff <font color="deepskyblue">1305</font>（215問）
-- 2026年: diff <font color="deepskyblue">1352</font>（18問）
+- 全体: diff <font color="deepskyblue">1308</font>（217問）
+- 2026年: diff <font color="deepskyblue">1379</font>（20問）
 - 2025年: diff <font color="deepskyblue">1338</font>（64問）
 - 2024年: diff <font color="deepskyblue">1371</font>（57問）
 - 2023年: diff <font color="green">1190</font>（58問）
@@ -149,8 +149,8 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 ### ★★☆
 
-- 全体: diff <font color="blue">1748</font>（278問）
-- 2026年: diff <font color="deepskyblue">1508</font>（23問）
+- 全体: diff <font color="blue">1753</font>（280問）
+- 2026年: diff <font color="deepskyblue">1582</font>（25問）
 - 2025年: diff <font color="blue">1742</font>（76問）
 - 2024年: diff <font color="blue">1815</font>（77問）
 - 2023年: diff <font color="blue">1744</font>（83問）
@@ -158,8 +158,8 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 ### ★★★
 
-- 全体: diff <font color="yellowgreen">2207</font>（286問）
-- 2026年: diff <font color="blue">1988</font>（28問）
+- 全体: diff <font color="yellowgreen">2211</font>（290問）
+- 2026年: diff <font color="yellowgreen">2055</font>（32問）
 - 2025年: diff <font color="yellowgreen">2200</font>（87問）
 - 2024年: diff <font color="yellowgreen">2276</font>（83問）
 - 2023年: diff <font color="yellowgreen">2218</font>（67問）
@@ -238,7 +238,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 1. （★1.2／diff <font color="brown">668</font>／2問）<a href="#★1.5以下の高校２年生以上の数学知識要求" class="tag">★1.5以下の高校２年生以上の数学知識要求</a>
 1. （★1.2／diff <font color="green">830</font>／2問）<a href="#貨幣計算" class="tag">貨幣計算</a>
 1. （★1.2／diff <font color="deepskyblue">1523</font>／2問）<a href="#getline" class="tag">getline</a>
-1. （★1.3／diff <font color="green">812</font>／171問）<a href="#実装" class="tag">実装</a>
+1. （★1.3／diff <font color="green">816</font>／172問）<a href="#実装" class="tag">実装</a>
 1. （★1.3／diff <font color="green">923</font>／38問）<a href="#ヘルプ・作問用チェックリスト非準拠問題" class="tag">ヘルプ・作問用チェックリスト非準拠問題</a>
 1. （★1.3／diff <font color="green">964</font>／4問）<a href="#符号なし64bit整数" class="tag">符号なし64bit整数</a>
 1. （★1.4／diff <font color="green">999</font>／29問）<a href="#★1.5以下の高速化・基本アルゴリズム要求" class="tag">★1.5以下の高速化・基本アルゴリズム要求</a>
@@ -258,13 +258,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 1. （★1.5／diff <font color="deepskyblue">1306</font>／1問）<a href="#対角線論法" class="tag">対角線論法</a>
 1. （★1.5／diff <font color="yellowgreen">2329</font>／1問）<a href="#閏年を跨ぐカレンダー計算" class="tag">閏年を跨ぐカレンダー計算</a>
 1. （★1.6／diff <font color="green">1170</font>／7問）<a href="#一次式の最大・最小値計算" class="tag">一次式の最大・最小値計算</a>
-1. （★1.6／diff <font color="deepskyblue">1259</font>／3問）<a href="#１変数一次方程式・不等式の求解" class="tag">１変数一次方程式・不等式の求解</a>
 1. （★1.7／diff <font color="green">1113</font>／2問）<a href="#集合の要素数による各要素の不一致性判定" class="tag">集合の要素数による各要素の不一致性判定</a>
 1. （★1.7／diff <font color="deepskyblue">1306</font>／2問）<a href="#相似" class="tag">相似</a>
 1. （★1.8／diff <font color="green">1121</font>／4問）<a href="#組分けの余りに注目" class="tag">組分けの余りに注目</a>
 1. （★1.8／diff <font color="deepskyblue">1219</font>／4問）<a href="#経路全探索" class="tag">経路全探索</a>
 1. （★1.8／diff <font color="deepskyblue">1234</font>／8問）<a href="#文字列の構築" class="tag">文字列の構築</a>
-1. （★1.8／diff <font color="deepskyblue">1276</font>／49問）<a href="#シミュレーション" class="tag">シミュレーション</a>
+1. （★1.8／diff <font color="deepskyblue">1279</font>／50問）<a href="#シミュレーション" class="tag">シミュレーション</a>
+1. （★1.8／diff <font color="deepskyblue">1534</font>／4問）<a href="#１変数一次方程式・不等式の求解" class="tag">１変数一次方程式・不等式の求解</a>
 1. （★1.8／diff <font color="blue">1792</font>／4問）<a href="#部分回文列挙" class="tag">部分回文列挙</a>
 1. （★1.9／diff <font color="green">1117</font>／31問）<a href="#ギャグ" class="tag">ギャグ</a>
 1. （★1.9／diff <font color="green">1162</font>／19問）<a href="#数値の文字列受け取り" class="tag">数値の文字列受け取り</a>
@@ -285,8 +285,8 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 1. （★2／diff <font color="deepskyblue">1346</font>／12問）<a href="#平方根のfloor計算" class="tag">平方根のfloor計算</a>
 1. （★2／diff <font color="deepskyblue">1361</font>／9問）<a href="#再帰による多重ループ実装" class="tag">再帰による多重ループ実装</a>
 1. （★2／diff <font color="deepskyblue">1396</font>／14問）<a href="#指定序数の値の計算や指定始切片数え上げや一次元最近点計算をソートに帰着" class="tag">指定序数の値の計算や指定始切片数え上げや一次元最近点計算をソートに帰着</a>
-1. （★2／diff <font color="deepskyblue">1410</font>／124問）<a href="#場合分け" class="tag">場合分け</a>
 1. （★2／diff <font color="deepskyblue">1412</font>／2問）<a href="#三角形の成立条件" class="tag">三角形の成立条件</a>
+1. （★2／diff <font color="deepskyblue">1418</font>／125問）<a href="#場合分け" class="tag">場合分け</a>
 1. （★2／diff <font color="deepskyblue">1447</font>／1問）<a href="#LCMの約数関係判定をGCDのLCM計算に帰着" class="tag">LCMの約数関係判定をGCDのLCM計算に帰着</a>
 1. （★2／diff <font color="deepskyblue">1457</font>／4問）<a href="#筆算" class="tag">筆算</a>
 1. （★2／diff <font color="deepskyblue">1472</font>／4問）<a href="#極限の打ち切り計算" class="tag">極限の打ち切り計算</a>
@@ -369,18 +369,19 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 1. （★2.3／diff <font color="deepskyblue">1551</font>／5問）<a href="#ソート前の添字復元" class="tag">ソート前の添字復元</a>
 1. （★2.3／diff <font color="deepskyblue">1568</font>／5問）<a href="#整数の構築" class="tag">整数の構築</a>
 1. （★2.3／diff <font color="deepskyblue">1572</font>／3問）<a href="#setprecision・format" class="tag">setprecision・format</a>
-1. （★2.3／diff <font color="deepskyblue">1590</font>／16問）<a href="#移動者の状態や選択履歴を頂点情報に追加" class="tag">移動者の状態や選択履歴を頂点情報に追加</a>
 1. （★2.3／diff <font color="blue">1602</font>／4問、[解説ページ](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#単調関数の緩和計算)）<a href="#単調関数の緩和計算" class="tag">単調関数の緩和計算</a>
-1. （★2.3／diff <font color="blue">1626</font>／82問）<a href="#貪欲法" class="tag">貪欲法</a>
+1. （★2.3／diff <font color="blue">1627</font>／83問）<a href="#貪欲法" class="tag">貪欲法</a>
 1. （★2.3／diff <font color="blue">1634</font>／70問）<a href="#累積積による冪乗・階乗計算" class="tag">累積積による冪乗・階乗計算</a>
 1. （★2.3／diff <font color="blue">1635</font>／4問）<a href="#多次元コストを一次元に翻訳" class="tag">多次元コストを一次元に翻訳</a>
 1. （★2.3／diff <font color="blue">1640</font>／8問）<a href="#重複選択可ナップサック最適化" class="tag">重複選択可ナップサック最適化</a>
 1. （★2.3／diff <font color="blue">1644</font>／23問）<a href="#bit全探索" class="tag">bit全探索</a>
+1. （★2.3／diff <font color="blue">1655</font>／17問）<a href="#移動者の状態や選択履歴を頂点情報に追加" class="tag">移動者の状態や選択履歴を頂点情報に追加</a>
 1. （★2.3／diff <font color="blue">1663</font>／60問、[解説ページ](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#操作・選択を数値に翻訳)）<a href="#操作・選択を数値に翻訳" class="tag">操作・選択を数値に翻訳</a>
 1. （★2.3／diff <font color="blue">1668</font>／8問）<a href="#bool値の充足可能性判定" class="tag">bool値の充足可能性判定</a>
 1. （★2.3／diff <font color="blue">1672</font>／3問）<a href="#始切片選択ナップサック最適化" class="tag">始切片選択ナップサック最適化</a>
 1. （★2.3／diff <font color="blue">1673</font>／8問）<a href="#サンプルから推測" class="tag">サンプルから推測</a>
 1. （★2.3／diff <font color="blue">1677</font>／18問）<a href="#小数型" class="tag">小数型</a>
+1. （★2.3／diff <font color="blue">1678</font>／17問）<a href="#等差数列の累積和計算" class="tag">等差数列の累積和計算</a>
 1. （★2.3／diff <font color="blue">1691</font>／8問）<a href="#連長圧縮" class="tag">連長圧縮</a>／ランレングス圧縮／RLE
 1. （★2.3／diff <font color="blue">1702</font>／3問）<a href="#二・多項係数を組み合わせに翻訳" class="tag">二・多項係数を組み合わせに翻訳</a>
 1. （★2.3／diff <font color="blue">1704</font>／18問）<a href="#対称群の構造に注目" class="tag">対称群の構造に注目</a>
@@ -390,6 +391,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 1. （★2.3／diff <font color="blue">1760</font>／5問）<a href="#左右から走査" class="tag">左右から走査</a>
 1. （★2.3／diff <font color="blue">1816</font>／4問）<a href="#01列・部分集合の構築" class="tag">01列・部分集合の構築</a>
 1. （★2.3／diff <font color="blue">1835</font>／4問）<a href="#貪欲法による構築" class="tag">貪欲法による構築</a>
+1. （★2.3／diff <font color="blue">1857</font>／3問）<a href="#多次元の最適化を一次元の最適化に帰着" class="tag">多次元の最適化を一次元の最適化に帰着</a>
 1. （★2.3／diff <font color="blue">1986</font>／3問）<a href="#必勝戦略のリアクティブ化" class="tag">必勝戦略のリアクティブ化</a>
 1. （★2.3／diff <font color="yellowgreen">2080</font>／3問）<a href="#連立一次不等式の解の構築" class="tag">連立一次不等式の解の構築</a>
 1. （★2.4／diff <font color="deepskyblue">1566</font>／23問）<a href="#bitごとに計算" class="tag">bitごとに計算</a>
@@ -397,23 +399,22 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 1. （★2.4／diff <font color="deepskyblue">1579</font>／11問）<a href="#グリッド上の経路数え上げ" class="tag">グリッド上の経路数え上げ</a>
 1. （★2.4／diff <font color="deepskyblue">1588</font>／5問）<a href="#遷移の収束" class="tag">遷移の収束</a>
 1. （★2.4／diff <font color="blue">1609</font>／20問）<a href="#余事象に注目" class="tag">余事象に注目</a>
-1. （★2.4／diff <font color="blue">1613</font>／31問）<a href="#尺取り法" class="tag">尺取り法</a>
+1. （★2.4／diff <font color="blue">1614</font>／32問）<a href="#尺取り法" class="tag">尺取り法</a>
 1. （★2.4／diff <font color="blue">1641</font>／43問）<a href="#ナップサック最適化" class="tag">ナップサック最適化</a>
 1. （★2.4／diff <font color="blue">1651</font>／5問）<a href="#一種の操作・遷移の反復纏め上げ・打ち切り" class="tag">一種の操作・遷移の反復纏め上げ・打ち切り</a>
 1. （★2.4／diff <font color="blue">1652</font>／48問）<a href="#幅優先探索" class="tag">幅優先探索</a>／BFS
 1. （★2.4／diff <font color="blue">1683</font>／5問）<a href="#位取り記法表示で全探索" class="tag">位取り記法表示で全探索</a>
-1. （★2.4／diff <font color="blue">1686</font>／16問）<a href="#等差数列の累積和計算" class="tag">等差数列の累積和計算</a>
 1. （★2.4／diff <font color="blue">1687</font>／33問）<a href="#位取り記法表示" class="tag">位取り記法表示</a>
 1. （★2.4／diff <font color="blue">1707</font>／12問）<a href="#オーバーフロー回避" class="tag">オーバーフロー回避</a>
 1. （★2.4／diff <font color="blue">1717</font>／123問）<a href="#ソート" class="tag">ソート</a>
 1. （★2.4／diff <font color="blue">1738</font>／36問）<a href="#階乗逆元計算" class="tag">階乗逆元計算</a>
-1. （★2.4／diff <font color="blue">1747</font>／85問）<a href="#変数決め打ち" class="tag">変数決め打ち</a>
+1. （★2.4／diff <font color="blue">1743</font>／87問）<a href="#変数決め打ち" class="tag">変数決め打ち</a>
 1. （★2.4／diff <font color="blue">1772</font>／10問）<a href="#法B係数連立一次方程式の解の存在判定" class="tag">法B係数連立一次方程式の解の存在判定</a>
-1. （★2.4／diff <font color="blue">1773</font>／11問）<a href="#頂点倍化" class="tag">頂点倍化</a>
-1. （★2.4／diff <font color="blue">1780</font>／13問）<a href="#最終手番に注目" class="tag">最終手番に注目</a>
-1. （★2.4／diff <font color="blue">1784</font>／32問）<a href="#01列と非負整数の対応" class="tag">01列と非負整数の対応</a>
+1. （★2.4／diff <font color="blue">1810</font>／33問）<a href="#01列と非負整数の対応" class="tag">01列と非負整数の対応</a>
+1. （★2.4／diff <font color="blue">1821</font>／14問）<a href="#最終手番に注目" class="tag">最終手番に注目</a>
+1. （★2.4／diff <font color="blue">1852</font>／12問）<a href="#頂点倍化" class="tag">頂点倍化</a>
 1. （★2.4／diff <font color="blue">1884</font>／8問）<a href="#GCDによるLCM計算" class="tag">GCDによるLCM計算</a>
-1. （★2.4／diff <font color="blue">1905</font>／41問）<a href="#周期性" class="tag">周期性</a>
+1. （★2.4／diff <font color="blue">1906</font>／44問）<a href="#周期性" class="tag">周期性</a>
 1. （★2.4／diff <font color="blue">1952</font>／15問、[解説ページ](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#breakに関する考察)）<a href="#breakに関する考察" class="tag">breakに関する考察</a>
 1. （★2.4／diff <font color="blue">1975</font>／5問）<a href="#グラフの状態や目的地の変化を有向辺に翻訳" class="tag">グラフの状態や目的地の変化を有向辺に翻訳</a>
 1. （★2.4／diff <font color="yellowgreen">2083</font>／5問）<a href="#辞書式順序を位取り記法で翻訳" class="tag">辞書式順序を位取り記法で翻訳</a>
@@ -458,10 +459,10 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 1. （★2.5／diff <font color="blue">1708</font>／19問）<a href="#ナップサックDP" class="tag">ナップサックDP</a>
 1. （★2.5／diff <font color="blue">1714</font>／37問）<a href="#階乗計算" class="tag">階乗計算</a>
 1. （★2.5／diff <font color="blue">1719</font>／33問）<a href="#素集合データ構造" class="tag">素集合データ構造</a>／Union Find／UF／Disjoint Set Union／DSU
-1. （★2.5／diff <font color="blue">1727</font>／52問）<a href="#累積和" class="tag">累積和</a>
 1. （★2.5／diff <font color="blue">1732</font>／7問）<a href="#二部グラフ判定" class="tag">二部グラフ判定</a>／2SAT判定
 1. （★2.5／diff <font color="blue">1733</font>／24問）<a href="#エラトステネスの篩" class="tag">エラトステネスの篩</a>
 1. （★2.5／diff <font color="blue">1740</font>／3問）<a href="#部分集合対全探索" class="tag">部分集合対全探索</a>
+1. （★2.5／diff <font color="blue">1741</font>／53問）<a href="#累積和" class="tag">累積和</a>
 1. （★2.5／diff <font color="blue">1744</font>／98問、[解説ページ](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#集合管理)）<a href="#集合管理" class="tag">集合管理</a>
 1. （★2.5／diff <font color="blue">1750</font>／7問）<a href="#DAG上の経路数え上げ" class="tag">DAG上の経路数え上げ</a>
 1. （★2.5／diff <font color="blue">1751</font>／16問）<a href="#経路数え上げ" class="tag">経路数え上げ</a>
@@ -473,32 +474,33 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 1. （★2.5／diff <font color="blue">1774</font>／1問）<a href="#価値上限ありナップサック最適化" class="tag">価値上限ありナップサック最適化</a>
 1. （★2.5／diff <font color="blue">1777</font>／1問）<a href="#凸多角形の面積計算" class="tag">凸多角形の面積計算</a>
 1. （★2.5／diff <font color="blue">1792</font>／2問）<a href="#相手の選択肢をなくす戦略" class="tag">相手の選択肢をなくす戦略</a>
-1. （★2.5／diff <font color="blue">1801</font>／102問）<a href="#冪乗計算" class="tag">冪乗計算</a>
 1. （★2.5／diff <font color="blue">1803</font>／7問）<a href="#２種の数値を足し引きして１種に帰着" class="tag">２種の数値を足し引きして１種に帰着</a>
+1. （★2.5／diff <font color="blue">1805</font>／103問）<a href="#冪乗計算" class="tag">冪乗計算</a>
 1. （★2.5／diff <font color="blue">1806</font>／5問）<a href="#分割の均等化による凸関数の和や積の最適化" class="tag">分割の均等化による凸関数の和や積の最適化</a>
 1. （★2.5／diff <font color="blue">1807</font>／9問）<a href="#到達可能性判定" class="tag">到達可能性判定</a>／連結性判定
 1. （★2.5／diff <font color="blue">1814</font>／2問）<a href="#2集合間距離計算" class="tag">2集合間距離計算</a>
 1. （★2.5／diff <font color="blue">1816</font>／12問）<a href="#ディオファントス方程式の解の存在判定" class="tag">ディオファントス方程式の解の存在判定</a>
 1. （★2.5／diff <font color="blue">1818</font>／28問）<a href="#リアクティブによる特定" class="tag">リアクティブによる特定</a>
-1. （★2.5／diff <font color="blue">1819</font>／188問）<a href="#modint型" class="tag">modint型</a>
+1. （★2.5／diff <font color="blue">1821</font>／189問）<a href="#modint型" class="tag">modint型</a>
 1. （★2.5／diff <font color="blue">1826</font>／4問）<a href="#01列の累積和との内積計算" class="tag">01列の累積和との内積計算</a>
 1. （★2.5／diff <font color="blue">1826</font>／4問）<a href="#内積と作用素の転置の関係" class="tag">内積と作用素の転置の関係</a>
 1. （★2.5／diff <font color="blue">1829</font>／24問）<a href="#操作・遷移の纏め上げ" class="tag">操作・遷移の纏め上げ</a>
 1. （★2.5／diff <font color="blue">1831</font>／3問）<a href="#多項定理" class="tag">多項定理</a>
 1. （★2.5／diff <font color="blue">1835</font>／4問）<a href="#平方数列の累積和計算" class="tag">平方数列の累積和計算</a>
 1. （★2.5／diff <font color="blue">1837</font>／7問）<a href="#DAGを骨格に持つ二重グラフの最短経路長計算" class="tag">DAGを骨格に持つ二重グラフの最短経路長計算</a>
-1. （★2.5／diff <font color="blue">1843</font>／19問）<a href="#ミラー戦略" class="tag">ミラー戦略</a>
 1. （★2.5／diff <font color="blue">1848</font>／1問）<a href="#Dilworthの定理" class="tag">Dilworthの定理</a>
 1. （★2.5／diff <font color="blue">1848</font>／1問）<a href="#鎖への分割数の最小化" class="tag">鎖への分割数の最小化</a>
 1. （★2.5／diff <font color="blue">1852</font>／10問）<a href="#２変数決め打ち" class="tag">２変数決め打ち</a>
 1. （★2.5／diff <font color="blue">1859</font>／1問）<a href="#集合の要素のリアクティブによる特定" class="tag">集合の要素のリアクティブによる特定</a>
 1. （★2.5／diff <font color="blue">1859</font>／1問）<a href="#排他的被覆数え上げ" class="tag">排他的被覆数え上げ</a>
+1. （★2.5／diff <font color="blue">1860</font>／65問、[解説ページ](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#損をしない変形)）<a href="#損をしない変形" class="tag">損をしない変形</a>
 1. （★2.5／diff <font color="blue">1861</font>／9問）<a href="#外積計算" class="tag">外積計算</a>
 1. （★2.5／diff <font color="blue">1867</font>／85問）<a href="#構築" class="tag">構築</a>
 1. （★2.5／diff <font color="blue">1870</font>／73問）<a href="#素数を法とする逆元計算" class="tag">素数を法とする逆元計算</a>
+1. （★2.5／diff <font color="blue">1878</font>／9問）<a href="#コスト最小化をコスト決め打ちの成功判定に帰着" class="tag">コスト最小化をコスト決め打ちの成功判定に帰着</a>
 1. （★2.5／diff <font color="blue">1878</font>／8問）<a href="#ポテンシャル付き素集合データ構造" class="tag">ポテンシャル付き素集合データ構造</a>
-1. （★2.5／diff <font color="blue">1879</font>／13問）<a href="#充足可能性判定" class="tag">充足可能性判定</a>
 1. （★2.5／diff <font color="blue">1880</font>／6問）<a href="#円環の倍化実装" class="tag">円環の倍化実装</a>
+1. （★2.5／diff <font color="blue">1885</font>／20問）<a href="#ミラー戦略" class="tag">ミラー戦略</a>
 1. （★2.5／diff <font color="blue">1891</font>／10問）<a href="#最小公倍数計算" class="tag">最小公倍数計算</a>／LCM計算
 1. （★2.5／diff <font color="blue">1892</font>／4問）<a href="#01BFS" class="tag">01BFS</a>
 1. （★2.5／diff <font color="blue">1894</font>／9問）<a href="#独立事象の積への分解による確率計算・数え上げ" class="tag">独立事象の積への分解による確率計算・数え上げ</a>
@@ -507,11 +509,11 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 1. （★2.5／diff <font color="blue">1908</font>／6問）<a href="#座標のリアクティブによる特定" class="tag">座標のリアクティブによる特定</a>
 1. （★2.5／diff <font color="blue">1912</font>／7問）<a href="#lower_bound・upper_bound取得" class="tag">lower_bound・upper_bound取得</a>
 1. （★2.5／diff <font color="blue">1914</font>／1問）<a href="#可換な操作・選択の最終結果に注目した確率計算" class="tag">可換な操作・選択の最終結果に注目した確率計算</a>
+1. （★2.5／diff <font color="blue">1923</font>／14問）<a href="#充足可能性判定" class="tag">充足可能性判定</a>
 1. （★2.5／diff <font color="blue">1926</font>／2問）<a href="#コストなしナップサック割り当て数え上げ" class="tag">コストなしナップサック割り当て数え上げ</a>／部分和の指定された部分集合数え上げ
 1. （★2.5／diff <font color="blue">1927</font>／1問）<a href="#Manacherのアルゴリズム" class="tag">Manacherのアルゴリズム</a>
 1. （★2.5／diff <font color="blue">1927</font>／1問）<a href="#回文数え上げ" class="tag">回文数え上げ</a>
 1. （★2.5／diff <font color="blue">1943</font>／8問）<a href="#帰属区間取得" class="tag">帰属区間取得</a>
-1. （★2.5／diff <font color="blue">1944</font>／2問）<a href="#多次元の最適化を一次元の最適化に帰着" class="tag">多次元の最適化を一次元の最適化に帰着</a>
 1. （★2.5／diff <font color="blue">1955</font>／7問）<a href="#経路を始点からの経路と終点からの経路に分割" class="tag">経路を始点からの経路と終点からの経路に分割</a>
 1. （★2.5／diff <font color="blue">1956</font>／4問）<a href="#法B係数連立一次方程式の解の数え上げ" class="tag">法B係数連立一次方程式の解の数え上げ</a>
 1. （★2.5／diff <font color="blue">1959</font>／12問）<a href="#有理数型" class="tag">有理数型</a>
@@ -540,6 +542,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 1. （★2.5／diff <font color="yellowgreen">2339</font>／1問）<a href="#四元数演算" class="tag">四元数演算</a>
 1. （★2.5／diff <font color="yellowgreen">2339</font>／1問）<a href="#四平方定理" class="tag">四平方定理</a>
 1. （★2.5／diff <font color="yellowgreen">2339</font>／1問）<a href="#平方数前計算による平方剰余判定" class="tag">平方数前計算による平方剰余判定</a>
+1. （★2.5／diff <font color="yellowgreen">2358</font>／1問）<a href="#線形な振動計算" class="tag">線形な振動計算</a>
 1. （★2.5／diff <font color="orange">2501</font>／1問）<a href="#全順序集合を状態に持つゲームをP状態とN状態の区間に分割" class="tag">全順序集合を状態に持つゲームをP状態とN状態の区間に分割</a>
 1. （★2.5／diff <font color="orange">2503</font>／1問）<a href="#必勝戦略のリアクティブによる特定" class="tag">必勝戦略のリアクティブによる特定</a>
 1. （★2.5／diff <font color="orange">2509</font>／1問）<a href="#円の接線計算" class="tag">円の接線計算</a>
@@ -552,9 +555,9 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 1. （★2.6／diff <font color="blue">1660</font>／3問）<a href="#一点を切片の差に翻訳" class="tag">一点を切片の差に翻訳</a>
 1. （★2.6／diff <font color="blue">1676</font>／6問、[解説ページ](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#連結成分の値の更新)）<a href="#連結成分の値の更新" class="tag">連結成分の値の更新</a>
 1. （★2.6／diff <font color="blue">1691</font>／27問）<a href="#約数列挙" class="tag">約数列挙</a>
-1. （★2.6／diff <font color="blue">1743</font>／27問）<a href="#ダイクストラ法" class="tag">ダイクストラ法</a>／Dijkstra法
 1. （★2.6／diff <font color="blue">1774</font>／11問）<a href="#max・min・絶対値の場合分けによる一次式への翻訳" class="tag">max・min・絶対値の場合分けによる一次式への翻訳</a>
 1. （★2.6／diff <font color="blue">1776</font>／26問）<a href="#写像・配列を像・頻度表で管理" class="tag">写像・配列を像・頻度表で管理</a>
+1. （★2.6／diff <font color="blue">1777</font>／28問）<a href="#ダイクストラ法" class="tag">ダイクストラ法</a>／Dijkstra法
 1. （★2.6／diff <font color="blue">1780</font>／49問）<a href="#最短経路長計算" class="tag">最短経路長計算</a>
 1. （★2.6／diff <font color="blue">1781</font>／34問）<a href="#桁ごとに計算" class="tag">桁ごとに計算</a>
 1. （★2.6／diff <font color="blue">1781</font>／8問）<a href="#数列・配列の構築" class="tag">数列・配列の構築</a>
@@ -563,7 +566,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 1. （★2.6／diff <font color="blue">1791</font>／3問）<a href="#約数計数関数による計算量評価" class="tag">約数計数関数による計算量評価</a>
 1. （★2.6／diff <font color="blue">1793</font>／4問）<a href="#なもり先生グラフを閉路と残りに分割" class="tag">なもり先生グラフを閉路と残りに分割</a>
 1. （★2.6／diff <font color="blue">1807</font>／19問）<a href="#実験" class="tag">実験</a>
-1. （★2.6／diff <font color="blue">1819</font>／90問）<a href="#二分探索" class="tag">二分探索</a>
+1. （★2.6／diff <font color="blue">1822</font>／92問）<a href="#二分探索" class="tag">二分探索</a>
 1. （★2.6／diff <font color="blue">1824</font>／5問）<a href="#エラトステネスの篩による素数判定" class="tag">エラトステネスの篩による素数判定</a>
 1. （★2.6／diff <font color="blue">1827</font>／12問）<a href="#フェルマーの小定理による逆元計算" class="tag">フェルマーの小定理による逆元計算</a>
 1. （★2.6／diff <font color="blue">1835</font>／7問）<a href="#区間を切片の差に翻訳" class="tag">区間を切片の差に翻訳</a>
@@ -572,26 +575,23 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 1. （★2.6／diff <font color="blue">1851</font>／39問）<a href="#二項係数計算" class="tag">二項係数計算</a>／場合の数計算
 1. （★2.6／diff <font color="blue">1852</font>／3問）<a href="#素数計数関数前計算" class="tag">素数計数関数前計算</a>
 1. （★2.6／diff <font color="blue">1858</font>／4問）<a href="#素数を用いた構築" class="tag">素数を用いた構築</a>
-1. （★2.6／diff <font color="blue">1862</font>／64問、[解説ページ](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#損をしない変形)）<a href="#損をしない変形" class="tag">損をしない変形</a>
-1. （★2.6／diff <font color="blue">1862</font>／13問、[解説ページ](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#合成による次元削減)）<a href="#合成による次元削減" class="tag">合成による次元削減</a>
-1. （★2.6／diff <font color="blue">1863</font>／70問）<a href="#繰り返し二乗法" class="tag">繰り返し二乗法</a>
+1. （★2.6／diff <font color="blue">1868</font>／71問）<a href="#繰り返し二乗法" class="tag">繰り返し二乗法</a>
 1. （★2.6／diff <font color="blue">1869</font>／41問）<a href="#素因数分解" class="tag">素因数分解</a>
 1. （★2.6／diff <font color="blue">1879</font>／4問）<a href="#三平方の定理" class="tag">三平方の定理</a>
 1. （★2.6／diff <font color="blue">1881</font>／18問）<a href="#一要素削除更新" class="tag">一要素削除更新</a>
 1. （★2.6／diff <font color="blue">1881</font>／5問）<a href="#ナップサック分割統治" class="tag">ナップサック分割統治</a>
 1. （★2.6／diff <font color="blue">1882</font>／10問）<a href="#１つの桁・成分のみ特定する質問" class="tag">１つの桁・成分のみ特定する質問</a>
 1. （★2.6／diff <font color="blue">1885</font>／8問）<a href="#制約からグラフの種類を特定" class="tag">制約からグラフの種類を特定</a>
-1. （★2.6／diff <font color="blue">1887</font>／74問）<a href="#不変量に注目" class="tag">不変量に注目</a>
+1. （★2.6／diff <font color="blue">1892</font>／76問）<a href="#不変量に注目" class="tag">不変量に注目</a>
+1. （★2.6／diff <font color="blue">1898</font>／14問、[解説ページ](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#合成による次元削減)）<a href="#合成による次元削減" class="tag">合成による次元削減</a>
 1. （★2.6／diff <font color="blue">1899</font>／9問）<a href="#bitDP" class="tag">bitDP</a>
 1. （★2.6／diff <font color="blue">1903</font>／13問）<a href="#等比数列の累積和計算" class="tag">等比数列の累積和計算</a>
 1. （★2.6／diff <font color="blue">1904</font>／21問）<a href="#フェルマーの小定理" class="tag">フェルマーの小定理</a>
 1. （★2.6／diff <font color="blue">1905</font>／4問）<a href="#順列のリアクティブによる特定" class="tag">順列のリアクティブによる特定</a>
 1. （★2.6／diff <font color="blue">1911</font>／22問）<a href="#imos法" class="tag">imos法</a>
-1. （★2.6／diff <font color="blue">1918</font>／38問、[解説ページ](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#01列に翻訳)）<a href="#01列に翻訳" class="tag">01列に翻訳</a>
-1. （★2.6／diff <font color="blue">1919</font>／8問）<a href="#コスト最小化をコスト決め打ちの成功判定に帰着" class="tag">コスト最小化をコスト決め打ちの成功判定に帰着</a>
-1. （★2.6／diff <font color="blue">1920</font>／13問）<a href="#階差数列" class="tag">階差数列</a>
 1. （★2.6／diff <font color="blue">1928</font>／63問）<a href="#端から確定" class="tag">端から確定</a>
 1. （★2.6／diff <font color="blue">1931</font>／6問）<a href="#操作コスト最小化を最短経路長計算に帰着" class="tag">操作コスト最小化を最短経路長計算に帰着</a>
+1. （★2.6／diff <font color="blue">1938</font>／39問、[解説ページ](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#01列に翻訳)）<a href="#01列に翻訳" class="tag">01列に翻訳</a>
 1. （★2.6／diff <font color="blue">1943</font>／58問）<a href="#逆元の再帰計算" class="tag">逆元の再帰計算</a>
 1. （★2.6／diff <font color="blue">1948</font>／10問）<a href="#next DP" class="tag">next DP</a>
 1. （★2.6／diff <font color="blue">1951</font>／4問）<a href="#ディオファントス方程式の求解" class="tag">ディオファントス方程式の求解</a>
@@ -599,6 +599,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 1. （★2.6／diff <font color="blue">1954</font>／3問）<a href="#価値・コストの急増するナップサック問題" class="tag">価値・コストの急増するナップサック問題</a>
 1. （★2.6／diff <font color="blue">1966</font>／28問）<a href="#最大公約数計算" class="tag">最大公約数計算</a>／GCD計算
 1. （★2.6／diff <font color="blue">1971</font>／33問）<a href="#深さ優先探索" class="tag">深さ優先探索</a>／DFS
+1. （★2.6／diff <font color="blue">1975</font>／14問）<a href="#階差数列" class="tag">階差数列</a>
 1. （★2.6／diff <font color="blue">1980</font>／8問、[解説ページ](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#不変量を保つ戦略)）<a href="#不変量を保つ戦略" class="tag">不変量を保つ戦略</a>
 1. （★2.6／diff <font color="blue">1986</font>／4問）<a href="#最適化を各寄与の最適化に緩和" class="tag">最適化を各寄与の最適化に緩和</a>
 1. （★2.6／diff <font color="yellowgreen">2020</font>／8問）<a href="#累積max・min" class="tag">累積max・min</a>
@@ -645,7 +646,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 1. （★2.7／diff <font color="blue">1944</font>／2問）<a href="#オイラーの定理による逆元計算" class="tag">オイラーの定理による逆元計算</a>
 1. （★2.7／diff <font color="blue">1944</font>／15問）<a href="#多種の操作・遷移の纏め上げ" class="tag">多種の操作・遷移の纏め上げ</a>
 1. （★2.7／diff <font color="blue">1956</font>／2問）<a href="#倍数ゼータ変換" class="tag">倍数ゼータ変換</a>
-1. （★2.7／diff <font color="blue">1959</font>／144問）<a href="#分割統治法（広義：decrease-and-conquer）" class="tag">分割統治法（広義：decrease-and-conquer）</a>／総和（数え上げ）・総乗・最大値・最小値を取る集合を細分してから計算結果を統合
+1. （★2.7／diff <font color="blue">1959</font>／146問）<a href="#分割統治法（広義：decrease-and-conquer）" class="tag">分割統治法（広義：decrease-and-conquer）</a>／総和（数え上げ）・総乗・最大値・最小値を取る集合を細分してから計算結果を統合
 1. （★2.7／diff <font color="blue">1968</font>／2問）<a href="#負閉路検出" class="tag">負閉路検出</a>
 1. （★2.7／diff <font color="blue">1971</font>／2問）<a href="#第二余弦定理" class="tag">第二余弦定理</a>
 1. （★2.7／diff <font color="blue">1975</font>／16問）<a href="#多倍長整数" class="tag">多倍長整数</a>
@@ -661,9 +662,9 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 1. （★2.7／diff <font color="yellowgreen">2020</font>／5問）<a href="#単調列数え上げ" class="tag">単調列数え上げ</a>
 1. （★2.7／diff <font color="yellowgreen">2035</font>／2問）<a href="#ベルマン・フォード法" class="tag">ベルマン・フォード法</a>／Bellman-Ford法
 1. （★2.7／diff <font color="yellowgreen">2050</font>／4問）<a href="#複数ナップサック最適化" class="tag">複数ナップサック最適化</a>
-1. （★2.7／diff <font color="yellowgreen">2060</font>／21問）<a href="#既存のアルゴリズムの変形" class="tag">既存のアルゴリズムの変形</a>
 1. （★2.7／diff <font color="yellowgreen">2063</font>／11問）<a href="#解の公式" class="tag">解の公式</a>
 1. （★2.7／diff <font color="yellowgreen">2072</font>／10問）<a href="#グラフの頂点の次数計算" class="tag">グラフの頂点の次数計算</a>
+1. （★2.7／diff <font color="yellowgreen">2091</font>／22問）<a href="#既存のアルゴリズムの変形" class="tag">既存のアルゴリズムの変形</a>
 1. （★2.7／diff <font color="yellowgreen">2109</font>／2問）<a href="#倍数走査によるオイラー関数前計算" class="tag">倍数走査によるオイラー関数前計算</a>
 1. （★2.7／diff <font color="yellowgreen">2121</font>／2問）<a href="#複数価値ナップサック最適化" class="tag">複数価値ナップサック最適化</a>
 1. （★2.7／diff <font color="yellowgreen">2145</font>／6問）<a href="#変数の対称性" class="tag">変数の対称性</a>
@@ -677,11 +678,11 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 1. （★2.7／diff <font color="orange">2465</font>／2問）<a href="#ファンデルモンドの畳み込み" class="tag">ファンデルモンドの畳み込み</a>／ヴァンデルモンドの畳み込み
 1. （★2.7／diff <font color="orange">2491</font>／2問）<a href="#繰り返しB乗法" class="tag">繰り返しB乗法</a>
 1. （★2.7／diff <font color="orange">2599</font>／2問）<a href="#線分の交差判定" class="tag">線分の交差判定</a>
+1. （★2.7／diff <font color="orange">2632</font>／2問）<a href="#１変数連立一次不等式の充足可能性判定" class="tag">１変数連立一次不等式の充足可能性判定</a>
 1. （★2.8／diff <font color="blue">1602</font>／5問）<a href="#区間和の指定された区間数え上げ" class="tag">区間和の指定された区間数え上げ</a>
 1. （★2.8／diff <font color="blue">1650</font>／3問）<a href="#最長単調増加部分列長計算" class="tag">最長単調増加部分列長計算</a>／LIS計算
 1. （★2.8／diff <font color="blue">1757</font>／3問）<a href="#区間削除更新" class="tag">区間削除更新</a>
 1. （★2.8／diff <font color="blue">1759</font>／5問）<a href="#文字列・配列の追加・挿入の事前処理" class="tag">文字列・配列の追加・挿入の事前処理</a>
-1. （★2.8／diff <font color="blue">1820</font>／10問）<a href="#超頂点追加" class="tag">超頂点追加</a>
 1. （★2.8／diff <font color="blue">1828</font>／3問）<a href="#動的なグラフの連結成分の頂点数取得" class="tag">動的なグラフの連結成分の頂点数取得</a>
 1. （★2.8／diff <font color="blue">1837</font>／4問）<a href="#選択組み合わせ報酬・罰則付きナップサック最適化" class="tag">選択組み合わせ報酬・罰則付きナップサック最適化</a>
 1. （★2.8／diff <font color="blue">1841</font>／3問）<a href="#上界制約を無視した数え上げを桁ごとに前計算" class="tag">上界制約を無視した数え上げを桁ごとに前計算</a>
@@ -690,6 +691,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 1. （★2.8／diff <font color="blue">1864</font>／11問）<a href="#指定序数の値の計算を指定始切片数え上げに帰着" class="tag">指定序数の値の計算を指定始切片数え上げに帰着</a>
 1. （★2.8／diff <font color="blue">1869</font>／4問）<a href="#最大二部マッチング" class="tag">最大二部マッチング</a>
 1. （★2.8／diff <font color="blue">1892</font>／21問）<a href="#クエリ先読み" class="tag">クエリ先読み</a>
+1. （★2.8／diff <font color="blue">1894</font>／11問）<a href="#超頂点追加" class="tag">超頂点追加</a>
 1. （★2.8／diff <font color="blue">1894</font>／11問）<a href="#素因数分解による付値計算" class="tag">素因数分解による付値計算</a>
 1. （★2.8／diff <font color="blue">1923</font>／54問）<a href="#区間和取得" class="tag">区間和取得</a>
 1. （★2.8／diff <font color="blue">1930</font>／8問）<a href="#クエリソート" class="tag">クエリソート</a>
@@ -700,9 +702,9 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 1. （★2.8／diff <font color="blue">1990</font>／24問）<a href="#区間加算更新" class="tag">区間加算更新</a>
 1. （★2.8／diff <font color="blue">1993</font>／21問）<a href="#区間要素数取得" class="tag">区間要素数取得</a>
 1. （★2.8／diff <font color="blue">1995</font>／27問）<a href="#検索" class="tag">検索</a>
+1. （★2.8／diff <font color="blue">1997</font>／62問）<a href="#同じ値の纏め上げ" class="tag">同じ値の纏め上げ</a>
 1. （★2.8／diff <font color="yellowgreen">2002</font>／27問）<a href="#付値計算" class="tag">付値計算</a>
 1. （★2.8／diff <font color="yellowgreen">2004</font>／3問）<a href="#剰余の被除数を止める総和計算" class="tag">剰余の被除数を止める総和計算</a>
-1. （★2.8／diff <font color="yellowgreen">2005</font>／61問）<a href="#同じ値の纏め上げ" class="tag">同じ値の纏め上げ</a>
 1. （★2.8／diff <font color="yellowgreen">2018</font>／5問）<a href="#非単射関数の像の濃度による計算量評価" class="tag">非単射関数の像の濃度による計算量評価</a>
 1. （★2.8／diff <font color="yellowgreen">2019</font>／5問）<a href="#ポラードの$\rho$" class="tag">ポラードの$\rho$</a>
 1. （★2.8／diff <font color="yellowgreen">2035</font>／3問）<a href="#商のfloorの種類数による計算量評価" class="tag">商のfloorの種類数による計算量評価</a>
@@ -717,14 +719,14 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 1. （★2.8／diff <font color="yellowgreen">2086</font>／13問）<a href="#最小素因数計算" class="tag">最小素因数計算</a>／osa_k法
 1. （★2.8／diff <font color="yellowgreen">2089</font>／30問）<a href="#多重総和・総乗計算" class="tag">多重総和・総乗計算</a>
 1. （★2.8／diff <font color="yellowgreen">2091</font>／36問）<a href="#ユークリッドの互除法" class="tag">ユークリッドの互除法</a>
-1. （★2.8／diff <font color="yellowgreen">2097</font>／8問）<a href="#ループ戦略" class="tag">ループ戦略</a>
 1. （★2.8／diff <font color="yellowgreen">2105</font>／11問）<a href="#内積計算" class="tag">内積計算</a>
 1. （★2.8／diff <font color="yellowgreen">2109</font>／3問、[解説ページ](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#括弧列DP)）<a href="#括弧列DP" class="tag">括弧列DP</a>
 1. （★2.8／diff <font color="yellowgreen">2114</font>／15問）<a href="#無向木の有向化" class="tag">無向木の有向化</a>
 1. （★2.8／diff <font color="yellowgreen">2134</font>／3問、[解説ページ](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#高さ奇数ニム和)）<a href="#高さ奇数ニム和" class="tag">高さ奇数ニム和</a>
 1. （★2.8／diff <font color="yellowgreen">2141</font>／5問）<a href="#ディオファントス方程式の解の数え上げ" class="tag">ディオファントス方程式の解の数え上げ</a>
 1. （★2.8／diff <font color="yellowgreen">2150</font>／38問）<a href="#動的mod" class="tag">動的mod</a>
-1. （★2.8／diff <font color="yellowgreen">2156</font>／53問）<a href="#再帰" class="tag">再帰</a>
+1. （★2.8／diff <font color="yellowgreen">2159</font>／54問）<a href="#再帰" class="tag">再帰</a>
+1. （★2.8／diff <font color="yellowgreen">2164</font>／9問）<a href="#ループ戦略" class="tag">ループ戦略</a>
 1. （★2.8／diff <font color="yellowgreen">2168</font>／4問）<a href="#単位の分解" class="tag">単位の分解</a>
 1. （★2.8／diff <font color="yellowgreen">2169</font>／9問）<a href="#半分全列挙" class="tag">半分全列挙</a>
 1. （★2.8／diff <font color="yellowgreen">2180</font>／19問）<a href="#乱択" class="tag">乱択</a>
@@ -833,7 +835,6 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 1. （★3／diff <font color="yellowgreen">2115</font>／4問）<a href="#オイラーの定理" class="tag">オイラーの定理</a>
 1. （★3／diff <font color="yellowgreen">2121</font>／3問）<a href="#合成数を法とする二項係数計算" class="tag">合成数を法とする二項係数計算</a>
 1. （★3／diff <font color="yellowgreen">2123</font>／1問）<a href="#オイラーグラフ判定" class="tag">オイラーグラフ判定</a>
-1. （★3／diff <font color="yellowgreen">2124</font>／6問）<a href="#操作回数を反復で調整" class="tag">操作回数を反復で調整</a>
 1. （★3／diff <font color="yellowgreen">2125</font>／2問）<a href="#分割方法数え上げ" class="tag">分割方法数え上げ</a>
 1. （★3／diff <font color="yellowgreen">2126</font>／10問）<a href="#双対セグメント木" class="tag">双対セグメント木</a>
 1. （★3／diff <font color="yellowgreen">2131</font>／4問）<a href="#枝刈り" class="tag">枝刈り</a>
@@ -857,11 +858,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 1. （★3／diff <font color="yellowgreen">2187</font>／3問）<a href="#二次元imos法" class="tag">二次元imos法</a>
 1. （★3／diff <font color="yellowgreen">2189</font>／10問）<a href="#非単射関数の値で纏め上げ" class="tag">非単射関数の値で纏め上げ</a>
 1. （★3／diff <font color="yellowgreen">2194</font>／3問）<a href="#最適遷移を自己写像に翻訳" class="tag">最適遷移を自己写像に翻訳</a>
+1. （★3／diff <font color="yellowgreen">2197</font>／7問）<a href="#操作回数を反復で調整" class="tag">操作回数を反復で調整</a>
 1. （★3／diff <font color="yellowgreen">2198</font>／4問）<a href="#互いに素に帰着" class="tag">互いに素に帰着</a>
 1. （★3／diff <font color="yellowgreen">2200</font>／3問）<a href="#ユークリッドの互除法による逆元計算" class="tag">ユークリッドの互除法による逆元計算</a>
 1. （★3／diff <font color="yellowgreen">2203</font>／4問）<a href="#商のfloorの分子を止める総和計算" class="tag">商のfloorの分子を止める総和計算</a>
 1. （★3／diff <font color="yellowgreen">2208</font>／2問）<a href="#minimax法" class="tag">minimax法</a>
 1. （★3／diff <font color="yellowgreen">2209</font>／2問）<a href="#関数のグラフ形状の変化イベント走査による差分計算" class="tag">関数のグラフ形状の変化イベント走査による差分計算</a>
+1. （★3／diff <font color="yellowgreen">2211</font>／1問）<a href="#グラフの分割を塗り分けに帰着" class="tag">グラフの分割を塗り分けに帰着</a>
 1. （★3／diff <font color="yellowgreen">2212</font>／6問）<a href="#複数底の位取り記法表示" class="tag">複数底の位取り記法表示</a>
 1. （★3／diff <font color="yellowgreen">2213</font>／10問）<a href="#商のfloorの値ごとに纏め上げ" class="tag">商のfloorの値ごとに纏め上げ</a>
 1. （★3／diff <font color="yellowgreen">2216</font>／2問）<a href="#フビニの定理" class="tag">フビニの定理</a>
@@ -894,9 +897,9 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 1. （★3／diff <font color="yellowgreen">2309</font>／11問）<a href="#同値関係" class="tag">同値関係</a>
 1. （★3／diff <font color="yellowgreen">2311</font>／2問）<a href="#グリッド上の価値最大化" class="tag">グリッド上の価値最大化</a>
 1. （★3／diff <font color="yellowgreen">2311</font>／2問）<a href="#矩形max・min取得" class="tag">矩形max・min取得</a>／矩形最大・最小値取得
-1. （★3／diff <font color="yellowgreen">2318</font>／1問）<a href="#最短経路計算" class="tag">最短経路計算</a>
 1. （★3／diff <font color="yellowgreen">2321</font>／1問）<a href="#ポテンシャル付きダイクストラ法" class="tag">ポテンシャル付きダイクストラ法</a>
 1. （★3／diff <font color="yellowgreen">2329</font>／3問）<a href="#加法定理" class="tag">加法定理</a>
+1. （★3／diff <font color="yellowgreen">2336</font>／3問）<a href="#操作回数を閉路で調整" class="tag">操作回数を閉路で調整</a>
 1. （★3／diff <font color="yellowgreen">2344</font>／4問）<a href="#オイラーの規準" class="tag">オイラーの規準</a>
 1. （★3／diff <font color="yellowgreen">2344</font>／2問）<a href="#連続回数制約を分割の区間長制約に翻訳" class="tag">連続回数制約を分割の区間長制約に翻訳</a>
 1. （★3／diff <font color="yellowgreen">2348</font>／1問）<a href="#シュトルツ・チェザロの定理" class="tag">シュトルツ・チェザロの定理</a>
@@ -919,9 +922,10 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 1. （★3／diff <font color="orange">2434</font>／2問）<a href="#可変コスト上限ナップサック最適化" class="tag">可変コスト上限ナップサック最適化</a>
 1. （★3／diff <font color="orange">2438</font>／1問）<a href="#相対運動に翻訳" class="tag">相対運動に翻訳</a>
 1. （★3／diff <font color="orange">2443</font>／3問）<a href="#平方剰余の相互法則・補充法則" class="tag">平方剰余の相互法則・補充法則</a>
-1. （★3／diff <font color="orange">2449</font>／1問）<a href="#１次元データ構造の並列による２次元クエリ処理" class="tag">１次元データ構造の並列による２次元クエリ処理</a>
+1. （★3／diff <font color="orange">2449</font>／1問）<a href="#一次元データ構造の並列による二次元クエリ処理" class="tag">一次元データ構造の並列による二次元クエリ処理</a>
 1. （★3／diff <font color="orange">2449</font>／1問）<a href="#矩形max・min更新" class="tag">矩形max・min更新</a>
 1. （★3／diff <font color="orange">2449</font>／2問）<a href="#ラグランジュ補間" class="tag">ラグランジュ補間</a>／ファンデルモンドの逆行列計算／ヴァンデルモンドの逆行列計算
+1. （★3／diff <font color="orange">2476</font>／2問）<a href="#最短経路計算" class="tag">最短経路計算</a>
 1. （★3／diff <font color="orange">2478</font>／1問）<a href="#フィボナッチ数列法B周期計算" class="tag">フィボナッチ数列法B周期計算</a>
 1. （★3／diff <font color="orange">2513</font>／2問）<a href="#$1$の原始根計算" class="tag">$1$の原始根計算</a>
 1. （★3／diff <font color="orange">2521</font>／6問）<a href="#遺伝的記法" class="tag">遺伝的記法</a>
@@ -932,10 +936,15 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 1. （★3／diff <font color="orange">2604</font>／1問）<a href="#二乗の期待値計算" class="tag">二乗の期待値計算</a>
 1. （★3／diff <font color="orange">2604</font>／1問）<a href="#分散計算" class="tag">分散計算</a>
 1. （★3／diff <font color="orange">2628</font>／3問）<a href="#ワイルドカードの値を変数化" class="tag">ワイルドカードの値を変数化</a>
+1. （★3／diff <font color="orange">2635</font>／1問）<a href="#ケチ表現" class="tag">ケチ表現</a>
+1. （★3／diff <font color="orange">2635</font>／1問）<a href="#コミュニケーション問題" class="tag">コミュニケーション問題</a>
+1. （★3／diff <font color="orange">2635</font>／1問）<a href="#位取り記法計算" class="tag">位取り記法計算</a>
+1. （★3／diff <font color="orange">2635</font>／1問）<a href="#選択ごとの最短経路長並列計算" class="tag">選択ごとの最短経路長並列計算</a>
+1. （★3／diff <font color="orange">2635</font>／1問）<a href="#全順序集合を数え上げで非負整数に翻訳" class="tag">全順序集合を数え上げで非負整数に翻訳</a>
+1. （★3／diff <font color="orange">2635</font>／1問）<a href="#同色のスタンプを区別するスタンプラリー最適化" class="tag">同色のスタンプを区別するスタンプラリー最適化</a>
 1. （★3／diff <font color="orange">2655</font>／2問）<a href="#ゾブリストハッシュ" class="tag">ゾブリストハッシュ</a>／Zobrist hash
 1. （★3／diff <font color="orange">2666</font>／1問）<a href="#辞書順最小01部分列計算" class="tag">辞書順最小01部分列計算</a>
 1. （★3／diff <font color="orange">2753</font>／1問）<a href="#有理数を分母の上限以下の各正整数倍のfloorから計算" class="tag">有理数を分母の上限以下の各正整数倍のfloorから計算</a>
-1. （★3／diff <font color="orange">2765</font>／1問）<a href="#１変数連立一次不等式の充足可能性判定" class="tag">１変数連立一次不等式の充足可能性判定</a>
 1. （★3／diff <font color="orange">2799</font>／1問）<a href="#連結部分集合列挙" class="tag">連結部分集合列挙</a>
 1. （★3／diff <font color="red">2816</font>／3問）<a href="#付値と合同式による平方剰余判定" class="tag">付値と合同式による平方剰余判定</a>
 1. （★3／diff <font color="red">2833</font>／1問）<a href="#最小被覆半径計算" class="tag">最小被覆半径計算</a>
@@ -969,6 +978,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 1. （★3.1／diff <font color="yellowgreen">2184</font>／6問）<a href="#探索・求解アルゴリズムによる構築" class="tag">探索・求解アルゴリズムによる構築</a>
 1. （★3.1／diff <font color="yellowgreen">2207</font>／3問）<a href="#二次拡大" class="tag">二次拡大</a>
 1. （★3.1／diff <font color="yellowgreen">2210</font>／14問）<a href="#既出を検索" class="tag">既出を検索</a>
+1. （★3.1／diff <font color="yellowgreen">2265</font>／4問）<a href="#全域木を用いたポテンシャル計算" class="tag">全域木を用いたポテンシャル計算</a>
 1. （★3.1／diff <font color="yellowgreen">2267</font>／8問）<a href="#合成数を法とする逆元計算" class="tag">合成数を法とする逆元計算</a>
 1. （★3.1／diff <font color="yellowgreen">2267</font>／9問）<a href="#ゼータ変換" class="tag">ゼータ変換</a>
 1. （★3.1／diff <font color="yellowgreen">2286</font>／3問）<a href="#カタラン数計算" class="tag">カタラン数計算</a>
@@ -1031,6 +1041,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 1. （★3.3／diff <font color="orange">2646</font>／11問）<a href="#テイラー展開" class="tag">テイラー展開</a>
 1. （★3.4／diff <font color="yellowgreen">2380</font>／6問）<a href="#メビウスの反転公式" class="tag">メビウスの反転公式</a>
 1. （★3.4／diff <font color="orange">2488</font>／10問）<a href="#行列式計算" class="tag">行列式計算</a>
+1. （★3.4／diff <font color="orange">2557</font>／58問）<a href="#準同型" class="tag">準同型</a>
 1. （★3.4／diff <font color="orange">2629</font>／6問）<a href="#外積・サラスの公式による行列式計算" class="tag">外積・サラスの公式による行列式計算</a>
 1. （★3.5／diff <font color="blue">1774</font>／1問）<a href="#木の根の変更における頂点の高さと深さの関係" class="tag">木の根の変更における頂点の高さと深さの関係</a>
 1. （★3.5／diff <font color="yellowgreen">2026</font>／1問）<a href="#高速メビウス変換" class="tag">高速メビウス変換</a>
@@ -1068,7 +1079,6 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 1. （★3.5／diff <font color="orange">2565</font>／1問）<a href="#木の縮約における葉の連続削除をノードの縮約に翻訳" class="tag">木の縮約における葉の連続削除をノードの縮約に翻訳</a>
 1. （★3.5／diff <font color="orange">2565</font>／1問）<a href="#木の葉の削除更新" class="tag">木の葉の削除更新</a>
 1. （★3.5／diff <font color="orange">2567</font>／1問）<a href="#コーシー・グルサの積分公式" class="tag">コーシー・グルサの積分公式</a>／コーシーの積分公式／コーシーの積分定理／留数定理
-1. （★3.5／diff <font color="orange">2594</font>／52問）<a href="#準同型" class="tag">準同型</a>
 1. （★3.5／diff <font color="orange">2618</font>／4問）<a href="#木の縮約" class="tag">木の縮約</a>
 1. （★3.5／diff <font color="orange">2627</font>／3問）<a href="#定義域の再帰的二等分による単調関数の計算" class="tag">定義域の再帰的二等分による単調関数の計算</a>
 1. （★3.5／diff <font color="orange">2630</font>／10問）<a href="#グロタンディーク化" class="tag">グロタンディーク化</a>
@@ -1211,7 +1221,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 1. （★5.5／diff <font color="darkgoldenrod ">3577</font>／1問）<a href="#P-再帰" class="tag">P-再帰</a>／P-recursive
 1. （★5.5／diff <font color="darkgoldenrod ">3577</font>／1問）<a href="#評価点シフト" class="tag">評価点シフト</a>
 
-登録問題数1200、登録解法数986、１問あたりの平均登録解法数6.9、１解法あたりの平均登録問題数8.4です。
+登録問題数1210、登録解法数996、１問あたりの平均登録解法数6.9、１解法あたりの平均登録問題数8.4です。
 
 　
 <h2 id="★1の高校以上の数学知識要求">1. ★1の高校以上の数学知識要求</h2>
@@ -1556,8 +1566,8 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 ### 難易度統計
 
 「実装」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
-- 全体: ★1.3／diff <font color="green">812</font>
-- 2026年: ★1.2／diff <font color="green">878</font>
+- 全体: ★1.3／diff <font color="green">816</font>
+- 2026年: ★1.2／diff <font color="green">908</font>
 - 2025年: ★1.4／diff <font color="green">879</font>
 - 2024年: ★1.3／diff <font color="green">873</font>
 - 2023年: ★1.2／diff <font color="brown">615</font>
@@ -1653,6 +1663,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3468">No.3468 あるジャッジサーバー</a> (yukicoder 2026新ジャッジ contest (2026-03-06) - A問題、diff <font color="brown">720</font>)
 - <a href="https://yukicoder.me/problems/no/3481">No.3481 495</a> (yukicoder contest 495 (2026-03-27) - A問題、diff <font color="brown">566</font>)
 - <a href="https://yukicoder.me/problems/no/3511">No.3511 Skg</a> (yukicoder contest 497 聖光学院プログラミングコンテスト2026 day1 (2026-04-24) - A問題、diff <font color="green">898</font>)
+- <a href="https://yukicoder.me/problems/no/3555">No.3555 Use Money Wisely</a> (KCPC新歓杯2026 (2026-05-29) - A問題、diff <font color="deepskyblue">1411</font>)
 
 ##### ★☆
 
@@ -2333,33 +2344,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2227">No.2227 King Kraken's Attack</a> (yukicoder contest 378 (2023-02-24) - D問題、diff <font color="blue">1773</font>)
 
 　
-<h2 id="１変数一次方程式・不等式の求解">35. １変数一次方程式・不等式の求解</h2>
-
-### 難易度統計
-
-「１変数一次方程式・不等式の求解」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
-- 全体: ★1.6／diff <font color="deepskyblue">1259</font>
-- 2026年: ★データなし／diffデータなし
-- 2025年: ★データなし／diffデータなし
-- 2024年: ★2／diff <font color="deepskyblue">1396</font>
-- 2023年: ★データなし／diffデータなし
-- 2022年: ★1／diff <font color="green">987</font>
-
-### レベル別問題一覧
-
-「１変数一次方程式・不等式の求解」を主たる解法に含む問題のレベルごとの一覧です。
-
-##### ★
-
-- <a href="https://yukicoder.me/problems/no/2088">No.2088 数当てゲーム</a> (yukicoder contest 362 (2022-09-30) - C問題、diff <font color="green">987</font>)
-- <a href="https://yukicoder.me/problems/no/2870">No.2870 Dice Making</a> (yukicoder contest 444 (2024-09-06) - A問題、diff <font color="brown">544</font>)
-
-##### ★★★
-
-- <a href="https://yukicoder.me/problems/no/2882">No.2882 Comeback</a> (yukicoder contest 445（菁々祭プログラミングコンテスト2024） (2024-09-08) - E問題、diff <font color="yellowgreen">2248</font>)
-
-　
-<h2 id="集合の要素数による各要素の不一致性判定">36. 集合の要素数による各要素の不一致性判定</h2>
+<h2 id="集合の要素数による各要素の不一致性判定">35. 集合の要素数による各要素の不一致性判定</h2>
 
 ### 難易度統計
 
@@ -2384,7 +2369,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2910">No.2910 単体ホモロジー入門</a> (yukicoder contest 449 (2024-10-04) - A問題、diff <font color="deepskyblue">1242</font>)
 
 　
-<h2 id="相似">37. 相似</h2>
+<h2 id="相似">36. 相似</h2>
 
 ### 難易度統計
 
@@ -2409,7 +2394,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2628">No.2628 Shrinkage</a> (traP 作問ハッカソンコンテスト 002(day1) (2024-02-16) - A問題、diff <font color="yellowgreen">2025</font>)
 
 　
-<h2 id="組分けの余りに注目">38. 組分けの余りに注目</h2>
+<h2 id="組分けの余りに注目">37. 組分けの余りに注目</h2>
 
 ### 難易度統計
 
@@ -2439,7 +2424,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2309">No.2309 [Cherry 5th Tune D] 夏の先取り</a> (yukicoder contest 389 (Until that day when "Cherry Month" is over.) (2023-05-19) - E問題、diff <font color="yellowgreen">2193</font>)
 
 　
-<h2 id="経路全探索">39. 経路全探索</h2>
+<h2 id="経路全探索">38. 経路全探索</h2>
 
 ### 難易度統計
 
@@ -2466,7 +2451,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3428">No.3428 Palindromic Path (Easy)</a> (yukicoder contest YNUCPC Contest 2 (2026-01-11) - J問題、diff <font color="deepskyblue">1423</font>)
 
 　
-<h2 id="文字列の構築">40. 文字列の構築</h2>
+<h2 id="文字列の構築">39. 文字列の構築</h2>
 
 ### 難易度統計
 
@@ -2500,13 +2485,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2198">No.2198 Concon Substrings (COuNt-CONstruct Version)</a> (yukicoder contest 374 (2023-01-20) - E問題、diff <font color="yellowgreen">2050</font>)
 
 　
-<h2 id="シミュレーション">41. シミュレーション</h2>
+<h2 id="シミュレーション">40. シミュレーション</h2>
 
 ### 難易度統計
 
 「シミュレーション」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
-- 全体: ★1.8／diff <font color="deepskyblue">1276</font>
-- 2026年: ★1.5／diff <font color="deepskyblue">1489</font>
+- 全体: ★1.8／diff <font color="deepskyblue">1279</font>
+- 2026年: ★1.5／diff <font color="deepskyblue">1481</font>
 - 2025年: ★1.9／diff <font color="green">1097</font>
 - 2024年: ★2／diff <font color="deepskyblue">1463</font>
 - 2023年: ★1.9／diff <font color="green">1172</font>
@@ -2528,6 +2513,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3544">No.3544 Robot on Torus (C++)</a> (yukicoder contest TSG LIVE! 16 コードゴルフコンテスト (2026-05-16) - D問題、diff <font color="yellowgreen">2057</font>)
 - <a href="https://yukicoder.me/problems/no/3545">No.3545 Robot on Torus (Python)</a> (yukicoder contest TSG LIVE! 16 コードゴルフコンテスト (2026-05-16) - E問題、diff <font color="orange">2419</font>)
 - <a href="https://yukicoder.me/problems/no/3546">No.3546 Robot on Torus (All Language)</a> (yukicoder contest TSG LIVE! 16 コードゴルフコンテスト (2026-05-16) - F問題、diff <font color="blue">1920</font>)
+- <a href="https://yukicoder.me/problems/no/3555">No.3555 Use Money Wisely</a> (KCPC新歓杯2026 (2026-05-29) - A問題、diff <font color="deepskyblue">1411</font>)
 
 ##### ★☆
 
@@ -2579,6 +2565,36 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3222">No.3222 Let the World Forget Me</a> (yukicoder contest 476 (2025-08-01) - G問題、diff <font color="blue">1723</font>)
 - <a href="https://yukicoder.me/problems/no/3266">No.3266 岩井星人は見ずにはいられない</a> (第2回 岩井星人アンソロジープログラミングコンテスト Div.2 (2025-09-06) - H問題、diff <font color="blue">1690</font>)
 - <a href="https://yukicoder.me/problems/no/3462">No.3462 Buttons</a> (MMA Contest 021 (2026-02-28) - J問題、diff <font color="blue">1632</font>)
+
+　
+<h2 id="１変数一次方程式・不等式の求解">41. １変数一次方程式・不等式の求解</h2>
+
+### 難易度統計
+
+「１変数一次方程式・不等式の求解」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
+- 全体: ★1.8／diff <font color="deepskyblue">1534</font>
+- 2026年: ★2.5／diff <font color="yellowgreen">2358</font>
+- 2025年: ★データなし／diffデータなし
+- 2024年: ★2／diff <font color="deepskyblue">1396</font>
+- 2023年: ★データなし／diffデータなし
+- 2022年: ★1／diff <font color="green">987</font>
+
+### レベル別問題一覧
+
+「１変数一次方程式・不等式の求解」を主たる解法に含む問題のレベルごとの一覧です。
+
+##### ★
+
+- <a href="https://yukicoder.me/problems/no/2088">No.2088 数当てゲーム</a> (yukicoder contest 362 (2022-09-30) - C問題、diff <font color="green">987</font>)
+- <a href="https://yukicoder.me/problems/no/2870">No.2870 Dice Making</a> (yukicoder contest 444 (2024-09-06) - A問題、diff <font color="brown">544</font>)
+
+##### ★★☆
+
+- <a href="https://yukicoder.me/problems/no/3559">No.3559 +A,-B</a> (KCPC新歓杯2026 (2026-05-29) - E問題、diff <font color="yellowgreen">2358</font>)
+
+##### ★★★
+
+- <a href="https://yukicoder.me/problems/no/2882">No.2882 Comeback</a> (yukicoder contest 445（菁々祭プログラミングコンテスト2024） (2024-09-08) - E問題、diff <font color="yellowgreen">2248</font>)
 
 　
 <h2 id="部分回文列挙">42. 部分回文列挙</h2>
@@ -3278,13 +3294,38 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3244">No.3244 Range Multiple of 8 Query</a> (yukicoder contest 479 AngrySadEightお誕生日コンテスト2025 (2025-08-22) - E問題、diff <font color="blue">1867</font>)
 
 　
-<h2 id="場合分け">62. 場合分け</h2>
+<h2 id="三角形の成立条件">62. 三角形の成立条件</h2>
+
+### 難易度統計
+
+「三角形の成立条件」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
+- 全体: ★2／diff <font color="deepskyblue">1412</font>
+- 2026年: ★データなし／diffデータなし
+- 2025年: ★データなし／diffデータなし
+- 2024年: ★データなし／diffデータなし
+- 2023年: ★3／diff <font color="blue">1961</font>
+- 2022年: ★1／diff <font color="green">864</font>
+
+### レベル別問題一覧
+
+「三角形の成立条件」を主たる解法に含む問題のレベルごとの一覧です。
+
+##### ★
+
+- <a href="https://yukicoder.me/problems/no/2140">No.2140 Triangle</a> (yukicoder contest 370 (2022-12-02) - A問題、diff <font color="green">864</font>)
+
+##### ★★★
+
+- <a href="https://yukicoder.me/problems/no/2555">No.2555 Intriguing Triangle</a> (Advent Calendar Contest 2023 (2023-12-01) - A問題、diff <font color="blue">1961</font>)
+
+　
+<h2 id="場合分け">63. 場合分け</h2>
 
 ### 難易度統計
 
 「場合分け」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
-- 全体: ★2／diff <font color="deepskyblue">1410</font>
-- 2026年: ★2.5／diff <font color="blue">1625</font>
+- 全体: ★2／diff <font color="deepskyblue">1418</font>
+- 2026年: ★2.5／diff <font color="blue">1808</font>
 - 2025年: ★1.9／diff <font color="deepskyblue">1399</font>
 - 2024年: ★1.9／diff <font color="deepskyblue">1267</font>
 - 2023年: ★2／diff <font color="deepskyblue">1323</font>
@@ -3394,6 +3435,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3374">No.3374 Caesar Shift Game</a> (yukicoder contest 489 (2025-11-21) - C問題、diff <font color="blue">1622</font>)
 - <a href="https://yukicoder.me/problems/no/3395">No.3395 Range Flipping Game</a> (Advent Calendar Contest 2025 (2025-12-01) - B問題、diff <font color="blue">1844</font>)
 - <a href="https://yukicoder.me/problems/no/3548">No.3548 SigMax Digits (Construction ver.)</a> (yukicoder contest 500 (2026-05-22) - B問題、diff <font color="blue">1650</font>)
+- <a href="https://yukicoder.me/problems/no/3559">No.3559 +A,-B</a> (KCPC新歓杯2026 (2026-05-29) - E問題、diff <font color="yellowgreen">2358</font>)
 
 ##### ★★★
 
@@ -3441,31 +3483,6 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 ##### ★★★★★
 
 - <a href="https://yukicoder.me/problems/no/2151">No.2151 3 on Torus-Lohkous</a> (Advent Calendar Contest 2022 (2022-12-01) - H問題、diff <font color="darkgoldenrod ">3257</font>)
-
-　
-<h2 id="三角形の成立条件">63. 三角形の成立条件</h2>
-
-### 難易度統計
-
-「三角形の成立条件」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
-- 全体: ★2／diff <font color="deepskyblue">1412</font>
-- 2026年: ★データなし／diffデータなし
-- 2025年: ★データなし／diffデータなし
-- 2024年: ★データなし／diffデータなし
-- 2023年: ★3／diff <font color="blue">1961</font>
-- 2022年: ★1／diff <font color="green">864</font>
-
-### レベル別問題一覧
-
-「三角形の成立条件」を主たる解法に含む問題のレベルごとの一覧です。
-
-##### ★
-
-- <a href="https://yukicoder.me/problems/no/2140">No.2140 Triangle</a> (yukicoder contest 370 (2022-12-02) - A問題、diff <font color="green">864</font>)
-
-##### ★★★
-
-- <a href="https://yukicoder.me/problems/no/2555">No.2555 Intriguing Triangle</a> (Advent Calendar Contest 2023 (2023-12-01) - A問題、diff <font color="blue">1961</font>)
 
 　
 <h2 id="LCMの約数関係判定をGCDのLCM計算に帰着">64. LCMの約数関係判定をGCDのLCM計算に帰着</h2>
@@ -6101,49 +6118,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2831">No.2831 Cos Bomb Crasher</a> (yukicoder contest 439 (2024-08-02) - E問題、diff <font color="red">3143</font>)
 
 　
-<h2 id="移動者の状態や選択履歴を頂点情報に追加">146. 移動者の状態や選択履歴を頂点情報に追加</h2>
-
-### 難易度統計
-
-「移動者の状態や選択履歴を頂点情報に追加」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
-- 全体: ★2.3／diff <font color="deepskyblue">1590</font>
-- 2026年: ★データなし／diffデータなし
-- 2025年: ★2.3／diff <font color="deepskyblue">1538</font>
-- 2024年: ★2.2／diff <font color="blue">1660</font>
-- 2023年: ★2.5／diff <font color="blue">1621</font>
-- 2022年: ★データなし／diffデータなし
-
-### レベル別問題一覧
-
-「移動者の状態や選択履歴を頂点情報に追加」を主たる解法に含む問題のレベルごとの一覧です。
-
-##### ★★
-
-- <a href="https://yukicoder.me/problems/no/2759">No.2759 Take Pictures, Elements?</a> (yukicoder contest 430 (2024-05-17) - C問題、diff <font color="deepskyblue">1565</font>)
-- <a href="https://yukicoder.me/problems/no/2805">No.2805 Go to School</a> (yukicoder contest 436 ('09 Contest 002 day1) (2024-07-12) - C問題、diff <font color="blue">1720</font>)
-- <a href="https://yukicoder.me/problems/no/2855">No.2855 Move on Grid</a> (yukicoder contest 442 (2024-08-25) - F問題、diff <font color="deepskyblue">1510</font>)
-- <a href="https://yukicoder.me/problems/no/3111">No.3111 Toll Optimization</a> (CPCTF 2025 : PPC (2025-04-18) - E問題、diff <font color="deepskyblue">1380</font>)
-- <a href="https://yukicoder.me/problems/no/3158">No.3158 Collect Stamps</a> (KCPC新歓杯 -Happy Birthday physics0523- (2025-05-23) - D問題、diff <font color="green">1184</font>)
-- <a href="https://yukicoder.me/problems/no/3263">No.3263 違法な散歩道</a> (第2回 岩井星人アンソロジープログラミングコンテスト Div.2 (2025-09-06) - E問題、diff <font color="gray">205</font>)
-- <a href="https://yukicoder.me/problems/no/3385">No.3385 Up Down Hiking (C++)</a> (yukicoder contest TSG LIVE! 15 コードゴルフコンテスト (2025-11-22) - G問題、diffデータなし)
-- <a href="https://yukicoder.me/problems/no/3386">No.3386 Up Down Hiking (Python)</a> (yukicoder contest TSG LIVE! 15 コードゴルフコンテスト (2025-11-22) - H問題、diff <font color="yellowgreen">2080</font>)
-
-##### ★★☆
-
-- <a href="https://yukicoder.me/problems/no/2364">No.2364 Knapsack Problem</a> (yukicoder contest 395 (2023-06-30) - A問題、diff <font color="deepskyblue">1352</font>)
-- <a href="https://yukicoder.me/problems/no/2375">No.2375 watasou and hibit's baseball</a> (yukicoder contest 396 (Asakatsu Presents 2) (2023-07-07) - E問題、diff <font color="blue">1890</font>)
-- <a href="https://yukicoder.me/problems/no/2948">No.2948 move move rotti</a> (yukicoder contest 451 (並木中等プログラミングコンテスト 2024) (2024-10-25) - D問題、diff <font color="blue">1778</font>)
-- <a href="https://yukicoder.me/problems/no/2955">No.2955 Pizza Delivery Plan</a> (yukicoder contest 452 (2024-11-08) - C問題、diff <font color="blue">1728</font>)
-- <a href="https://yukicoder.me/problems/no/3393">No.3393 Move on Highway</a> (yukicoder contest 490 (2025-11-28) - G問題、diff <font color="blue">1778</font>)
-
-##### ★★★
-
-- <a href="https://yukicoder.me/problems/no/3121">No.3121 Prime Dance</a> (CPCTF 2025 : PPC (2025-04-18) - O問題、diff <font color="orange">2436</font>)
-- <a href="https://yukicoder.me/problems/no/3199">No.3199 Key-Door Grid</a> (yukicoder contest 473 第1回 生成AI作問コンテスト (2025-07-11) - E問題、diff <font color="deepskyblue">1246</font>)
-- <a href="https://yukicoder.me/problems/no/3312">No.3312 Fire Engine</a> (yukicoder contest 486 オムニバス (2025-10-24) - E問題、diff <font color="yellowgreen">2002</font>)
-
-　
-<h2 id="単調関数の緩和計算">147. <a href="https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#単調関数の緩和計算">単調関数の緩和計算</a></h2>
+<h2 id="単調関数の緩和計算">146. <a href="https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#単調関数の緩和計算">単調関数の緩和計算</a></h2>
 
 ### 難易度統計
 
@@ -6173,13 +6148,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3269">No.3269 Leq-K Partition</a> (yukicoder contest 482 (2025-09-12) - C問題、diff <font color="orange">2412</font>)
 
 　
-<h2 id="貪欲法">148. 貪欲法</h2>
+<h2 id="貪欲法">147. 貪欲法</h2>
 
 ### 難易度統計
 
 「貪欲法」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
-- 全体: ★2.3／diff <font color="blue">1626</font>
-- 2026年: ★2.4／diff <font color="deepskyblue">1489</font>
+- 全体: ★2.3／diff <font color="blue">1627</font>
+- 2026年: ★2.3／diff <font color="deepskyblue">1517</font>
 - 2025年: ★2.4／diff <font color="blue">1694</font>
 - 2024年: ★2.3／diff <font color="blue">1759</font>
 - 2023年: ★2.1／diff <font color="deepskyblue">1363</font>
@@ -6234,6 +6209,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3434">No.3434 [Cherry 8th Tune N] 大きくして Hold on Card!</a> (yukicoder contest 491 Go on Back!! (2026-01-23) - B問題、diff <font color="green">825</font>)
 - <a href="https://yukicoder.me/problems/no/3459">No.3459 Defeat Slimes</a> (MMA Contest 021 (2026-02-28) - G問題、diff <font color="deepskyblue">1433</font>)
 - <a href="https://yukicoder.me/problems/no/3512">No.3512 moesode</a> (yukicoder contest 497 聖光学院プログラミングコンテスト2026 day1 (2026-04-24) - B問題、diff <font color="deepskyblue">1505</font>)
+- <a href="https://yukicoder.me/problems/no/3558">No.3558 Dominoes, Black and White</a> (KCPC新歓杯2026 (2026-05-29) - D問題、diff <font color="blue">1683</font>)
 
 ##### ★★☆
 
@@ -6296,7 +6272,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2987">No.2987 Colorful University of Tree</a> (Advent Calendar Contest 2024 (2024-12-01) - K問題、diff <font color="darkgoldenrod ">3309</font>)
 
 　
-<h2 id="累積積による冪乗・階乗計算">149. 累積積による冪乗・階乗計算</h2>
+<h2 id="累積積による冪乗・階乗計算">148. 累積積による冪乗・階乗計算</h2>
 
 ### 難易度統計
 
@@ -6398,7 +6374,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3538">No.3538 Not First Place</a> (yukicoder 499 contest (2026-05-08) - F問題、diff <font color="yellowgreen">2255</font>)
 
 　
-<h2 id="多次元コストを一次元に翻訳">150. 多次元コストを一次元に翻訳</h2>
+<h2 id="多次元コストを一次元に翻訳">149. 多次元コストを一次元に翻訳</h2>
 
 ### 難易度統計
 
@@ -6428,7 +6404,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3463">No.3463 Beltway</a> (MMA Contest 021 (2026-02-28) - K問題、diff <font color="blue">1722</font>)
 
 　
-<h2 id="重複選択可ナップサック最適化">151. 重複選択可ナップサック最適化</h2>
+<h2 id="重複選択可ナップサック最適化">150. 重複選択可ナップサック最適化</h2>
 
 ### 難易度統計
 
@@ -6465,7 +6441,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3400">No.3400 Nana's Plus Permutation Game (7 + 7) ÷ 7</a> (Advent Calendar Contest 2025 (2025-12-01) - G問題、diff <font color="darkgoldenrod ">3296</font>)
 
 　
-<h2 id="bit全探索">152. bit全探索</h2>
+<h2 id="bit全探索">151. bit全探索</h2>
 
 ### 難易度統計
 
@@ -6515,6 +6491,49 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2672">No.2672 Subset Xor Sum</a> (yukicoder contest 421  (NUPC2023) (2024-03-15) - B問題、diff <font color="deepskyblue">1416</font>)
 - <a href="https://yukicoder.me/problems/no/2983">No.2983 Christmas Color Grid (Advent Calender ver.)</a> (Advent Calendar Contest 2024 (2024-12-01) - G問題、diff <font color="orange">2799</font>)
 - <a href="https://yukicoder.me/problems/no/3312">No.3312 Fire Engine</a> (yukicoder contest 486 オムニバス (2025-10-24) - E問題、diff <font color="yellowgreen">2002</font>)
+
+　
+<h2 id="移動者の状態や選択履歴を頂点情報に追加">152. 移動者の状態や選択履歴を頂点情報に追加</h2>
+
+### 難易度統計
+
+「移動者の状態や選択履歴を頂点情報に追加」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
+- 全体: ★2.3／diff <font color="blue">1655</font>
+- 2026年: ★3／diff <font color="orange">2635</font>
+- 2025年: ★2.3／diff <font color="deepskyblue">1538</font>
+- 2024年: ★2.2／diff <font color="blue">1660</font>
+- 2023年: ★2.5／diff <font color="blue">1621</font>
+- 2022年: ★データなし／diffデータなし
+
+### レベル別問題一覧
+
+「移動者の状態や選択履歴を頂点情報に追加」を主たる解法に含む問題のレベルごとの一覧です。
+
+##### ★★
+
+- <a href="https://yukicoder.me/problems/no/2759">No.2759 Take Pictures, Elements?</a> (yukicoder contest 430 (2024-05-17) - C問題、diff <font color="deepskyblue">1565</font>)
+- <a href="https://yukicoder.me/problems/no/2805">No.2805 Go to School</a> (yukicoder contest 436 ('09 Contest 002 day1) (2024-07-12) - C問題、diff <font color="blue">1720</font>)
+- <a href="https://yukicoder.me/problems/no/2855">No.2855 Move on Grid</a> (yukicoder contest 442 (2024-08-25) - F問題、diff <font color="deepskyblue">1510</font>)
+- <a href="https://yukicoder.me/problems/no/3111">No.3111 Toll Optimization</a> (CPCTF 2025 : PPC (2025-04-18) - E問題、diff <font color="deepskyblue">1380</font>)
+- <a href="https://yukicoder.me/problems/no/3158">No.3158 Collect Stamps</a> (KCPC新歓杯 -Happy Birthday physics0523- (2025-05-23) - D問題、diff <font color="green">1184</font>)
+- <a href="https://yukicoder.me/problems/no/3263">No.3263 違法な散歩道</a> (第2回 岩井星人アンソロジープログラミングコンテスト Div.2 (2025-09-06) - E問題、diff <font color="gray">205</font>)
+- <a href="https://yukicoder.me/problems/no/3385">No.3385 Up Down Hiking (C++)</a> (yukicoder contest TSG LIVE! 15 コードゴルフコンテスト (2025-11-22) - G問題、diffデータなし)
+- <a href="https://yukicoder.me/problems/no/3386">No.3386 Up Down Hiking (Python)</a> (yukicoder contest TSG LIVE! 15 コードゴルフコンテスト (2025-11-22) - H問題、diff <font color="yellowgreen">2080</font>)
+
+##### ★★☆
+
+- <a href="https://yukicoder.me/problems/no/2364">No.2364 Knapsack Problem</a> (yukicoder contest 395 (2023-06-30) - A問題、diff <font color="deepskyblue">1352</font>)
+- <a href="https://yukicoder.me/problems/no/2375">No.2375 watasou and hibit's baseball</a> (yukicoder contest 396 (Asakatsu Presents 2) (2023-07-07) - E問題、diff <font color="blue">1890</font>)
+- <a href="https://yukicoder.me/problems/no/2948">No.2948 move move rotti</a> (yukicoder contest 451 (並木中等プログラミングコンテスト 2024) (2024-10-25) - D問題、diff <font color="blue">1778</font>)
+- <a href="https://yukicoder.me/problems/no/2955">No.2955 Pizza Delivery Plan</a> (yukicoder contest 452 (2024-11-08) - C問題、diff <font color="blue">1728</font>)
+- <a href="https://yukicoder.me/problems/no/3393">No.3393 Move on Highway</a> (yukicoder contest 490 (2025-11-28) - G問題、diff <font color="blue">1778</font>)
+
+##### ★★★
+
+- <a href="https://yukicoder.me/problems/no/3121">No.3121 Prime Dance</a> (CPCTF 2025 : PPC (2025-04-18) - O問題、diff <font color="orange">2436</font>)
+- <a href="https://yukicoder.me/problems/no/3199">No.3199 Key-Door Grid</a> (yukicoder contest 473 第1回 生成AI作問コンテスト (2025-07-11) - E問題、diff <font color="deepskyblue">1246</font>)
+- <a href="https://yukicoder.me/problems/no/3312">No.3312 Fire Engine</a> (yukicoder contest 486 オムニバス (2025-10-24) - E問題、diff <font color="yellowgreen">2002</font>)
+- <a href="https://yukicoder.me/problems/no/3561">No.3561 Collect KCPC</a> (KCPC新歓杯2026 (2026-05-29) - G問題、diff <font color="orange">2635</font>)
 
 　
 <h2 id="操作・選択を数値に翻訳">153. <a href="https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#操作・選択を数値に翻訳">操作・選択を数値に翻訳</a></h2>
@@ -6774,7 +6793,56 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2447">No.2447 行列累乗根</a> (yukicoder contest 402 (2023-08-25) - G問題、diff <font color="red">3053</font>)
 
 　
-<h2 id="連長圧縮">158. 連長圧縮</h2>
+<h2 id="等差数列の累積和計算">158. 等差数列の累積和計算</h2>
+
+### 難易度統計
+
+「等差数列の累積和計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
+- 全体: ★2.3／diff <font color="blue">1678</font>
+- 2026年: ★2.2／diff <font color="blue">1770</font>
+- 2025年: ★2.7／diff <font color="blue">1956</font>
+- 2024年: ★2.1／diff <font color="blue">1622</font>
+- 2023年: ★2.3／diff <font color="deepskyblue">1368</font>
+- 2022年: ★データなし／diffデータなし
+
+### レベル別問題一覧
+
+「等差数列の累積和計算」を主たる解法に含む問題のレベルごとの一覧です。
+
+##### ★
+
+- <a href="https://yukicoder.me/problems/no/2937">No.2937 Sigma Plus Problem</a> (yukicoder contest 450 (2024-10-18) - A問題、diff <font color="green">978</font>)
+
+##### ★☆
+
+- <a href="https://yukicoder.me/problems/no/2560">No.2560 A_1 < A_2 < ... < A_N</a> (第2回緑以下コンテスト (2023-12-02) - D問題、diff <font color="brown">540</font>)
+
+##### ★★
+
+- <a href="https://yukicoder.me/problems/no/2567">No.2567 A_1 > A_2 > ... > A_N</a> (第2回緑以下コンテスト (2023-12-02) - K問題、diff <font color="green">1179</font>)
+- <a href="https://yukicoder.me/problems/no/2608">No.2608 Divide into two</a> (yukicoder contest 415 (2024-01-19) - B問題、diff <font color="deepskyblue">1247</font>)
+- <a href="https://yukicoder.me/problems/no/2649">No.2649 [Cherry 6th Tune C] Anthem Flower</a> (yukicoder contest 418 (Re: start!) (2024-02-23) - C問題、diff <font color="deepskyblue">1322</font>)
+- <a href="https://yukicoder.me/problems/no/2655">No.2655 Increasing Strides</a> (yukicoder contest 419 (2024-03-01) - A問題、diff <font color="deepskyblue">1210</font>)
+- <a href="https://yukicoder.me/problems/no/3048">No.3048 Swing</a> (yukicoder contest 459 (2025-03-07) - A問題、diff <font color="deepskyblue">1274</font>)
+- <a href="https://yukicoder.me/problems/no/3557">No.3557 KCPC or KUPC 2</a> (KCPC新歓杯2026 (2026-05-29) - C問題、diff <font color="deepskyblue">1554</font>)
+
+##### ★★☆
+
+- <a href="https://yukicoder.me/problems/no/3343">No.3343 Distance Sum of Large Tree</a> (yukicoder contest 作問ハッカソンコンテスト 003 Day1 (2025-11-13) - D問題、diff <font color="orange">2407</font>)
+- <a href="https://yukicoder.me/problems/no/3505">No.3505 Sum of Prod of Root</a> (CPCTF 2026: PPC (2026-04-17) - I問題、diff <font color="blue">1986</font>)
+
+##### ★★★
+
+- <a href="https://yukicoder.me/problems/no/2229">No.2229 Treasure Searching Rod (Hard)</a> (yukicoder contest 378 (2023-02-24) - F問題、diff <font color="blue">1865</font>)
+- <a href="https://yukicoder.me/problems/no/2452">No.2452 Incline</a> (yukicoder contest 403 (2023-09-01) - C問題、diff <font color="blue">1891</font>)
+- <a href="https://yukicoder.me/problems/no/2834">No.2834 Work to Play</a> (yukicoder contest 439 (2024-08-02) - H問題、diff <font color="red">3011</font>)
+- <a href="https://yukicoder.me/problems/no/2891">No.2891 Mint</a> (yukicoder contest 446 (2024-09-13) - F問題、diff <font color="blue">1967</font>)
+- <a href="https://yukicoder.me/problems/no/3118">No.3118 Increment or Multiply</a> (CPCTF 2025 : PPC (2025-04-18) - L問題、diff <font color="yellowgreen">2018</font>)
+- <a href="https://yukicoder.me/problems/no/3304">No.3304 INCREASE decrease</a> (yukicoder contest MMA Contest 020 (2025-10-05) - K問題、diff <font color="orange">2623</font>)
+- <a href="https://yukicoder.me/problems/no/3328">No.3328 岩井ツリーグラフ</a> (第2回 岩井星人アンソロジープログラミングコンテスト Extra (2025-11-01) - F問題、diff <font color="deepskyblue">1461</font>)
+
+　
+<h2 id="連長圧縮">159. 連長圧縮</h2>
 
 ### 難易度統計
 
@@ -6808,7 +6876,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3317">No.3317 ワロングアンサーロングアンサーンスワロンガー</a> (第2回 岩井星人アンソロジープログラミングコンテスト Div.1 (2025-10-31) - B問題、diff <font color="yellowgreen">2133</font>)
 
 　
-<h2 id="二・多項係数を組み合わせに翻訳">159. 二・多項係数を組み合わせに翻訳</h2>
+<h2 id="二・多項係数を組み合わせに翻訳">160. 二・多項係数を組み合わせに翻訳</h2>
 
 ### 難易度統計
 
@@ -6834,7 +6902,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2616">No.2616 中央番目の中央値</a> (yukicoder contest 416 (2024-01-26) - C問題、diff <font color="yellowgreen">2143</font>)
 
 　
-<h2 id="対称群の構造に注目">160. 対称群の構造に注目</h2>
+<h2 id="対称群の構造に注目">161. 対称群の構造に注目</h2>
 
 ### 難易度統計
 
@@ -6881,7 +6949,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3529">No.3529 2p Teleportations</a> (yukicoder contest 聖光学院プログラミングコンテスト2026 day2 (2026-05-04) - D問題、diff <font color="yellowgreen">2285</font>)
 
 　
-<h2 id="整数のリアクティブによる特定">161. 整数のリアクティブによる特定</h2>
+<h2 id="整数のリアクティブによる特定">162. 整数のリアクティブによる特定</h2>
 
 ### 難易度統計
 
@@ -6923,7 +6991,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3522">No.3522 冪乗乗</a> (yukicoder contest 498 リアクティブコンテスト (2026-05-01) - E問題、diff <font color="yellowgreen">2111</font>)
 
 　
-<h2 id="決め打ちによる構築">162. 決め打ちによる構築</h2>
+<h2 id="決め打ちによる構築">163. 決め打ちによる構築</h2>
 
 ### 難易度統計
 
@@ -6960,7 +7028,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3271">No.3271 PQ Dot Product</a> (yukicoder contest 482 (2025-09-12) - E問題、diff <font color="red">2992</font>)
 
 　
-<h2 id="ルジャンドルの公式">163. ルジャンドルの公式</h2>
+<h2 id="ルジャンドルの公式">164. ルジャンドルの公式</h2>
 
 ### 難易度統計
 
@@ -6990,7 +7058,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2902">No.2902 ZERO!!</a> (yukicoder contest 448 (2024-09-27) - A問題、diff <font color="deepskyblue">1406</font>)
 
 　
-<h2 id="左右から走査">164. 左右から走査</h2>
+<h2 id="左右から走査">165. 左右から走査</h2>
 
 ### 難易度統計
 
@@ -7024,7 +7092,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2957">No.2957 Combo Deck Builder</a> (yukicoder contest 452 (2024-11-08) - E問題、diff <font color="orange">2585</font>)
 
 　
-<h2 id="01列・部分集合の構築">165. 01列・部分集合の構築</h2>
+<h2 id="01列・部分集合の構築">166. 01列・部分集合の構築</h2>
 
 ### 難易度統計
 
@@ -7054,7 +7122,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2900">No.2900 Star Divine</a> (yukicoder contest 447 オムニバス (2024-09-20) - G問題、diff <font color="orange">2799</font>)
 
 　
-<h2 id="貪欲法による構築">166. 貪欲法による構築</h2>
+<h2 id="貪欲法による構築">167. 貪欲法による構築</h2>
 
 ### 難易度統計
 
@@ -7084,7 +7152,33 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2900">No.2900 Star Divine</a> (yukicoder contest 447 オムニバス (2024-09-20) - G問題、diff <font color="orange">2799</font>)
 
 　
-<h2 id="必勝戦略のリアクティブ化">167. 必勝戦略のリアクティブ化</h2>
+<h2 id="多次元の最適化を一次元の最適化に帰着">168. 多次元の最適化を一次元の最適化に帰着</h2>
+
+### 難易度統計
+
+「多次元の最適化を一次元の最適化に帰着」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
+- 全体: ★2.3／diff <font color="blue">1857</font>
+- 2026年: ★2／diff <font color="blue">1683</font>
+- 2025年: ★データなし／diffデータなし
+- 2024年: ★2.5／diff <font color="blue">1944</font>
+- 2023年: ★データなし／diffデータなし
+- 2022年: ★データなし／diffデータなし
+
+### レベル別問題一覧
+
+「多次元の最適化を一次元の最適化に帰着」を主たる解法に含む問題のレベルごとの一覧です。
+
+##### ★★
+
+- <a href="https://yukicoder.me/problems/no/3558">No.3558 Dominoes, Black and White</a> (KCPC新歓杯2026 (2026-05-29) - D問題、diff <font color="blue">1683</font>)
+
+##### ★★☆
+
+- <a href="https://yukicoder.me/problems/no/2743">No.2743 Twisted Lattice</a> (CPCTF 2024 : PPC (2024-04-20) - H問題、diff <font color="yellowgreen">2309</font>)
+- <a href="https://yukicoder.me/problems/no/2962">No.2962 Sum Bomb Bomber</a> (yukicoder contest 453 (2024-11-16) - C問題、diff <font color="deepskyblue">1579</font>)
+
+　
+<h2 id="必勝戦略のリアクティブ化">169. 必勝戦略のリアクティブ化</h2>
 
 ### 難易度統計
 
@@ -7113,7 +7207,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3120">No.3120 Lower Nim</a> (CPCTF 2025 : PPC (2025-04-18) - N問題、diff <font color="yellowgreen">2288</font>)
 
 　
-<h2 id="連立一次不等式の解の構築">168. 連立一次不等式の解の構築</h2>
+<h2 id="連立一次不等式の解の構築">170. 連立一次不等式の解の構築</h2>
 
 ### 難易度統計
 
@@ -7139,7 +7233,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3438">No.3438 [Cherry 8th Tune D] 競プロは向いてない</a> (yukicoder contest 491 Go on Back!! (2026-01-23) - F問題、diff <font color="yellowgreen">2343</font>)
 
 　
-<h2 id="bitごとに計算">169. bitごとに計算</h2>
+<h2 id="bitごとに計算">171. bitごとに計算</h2>
 
 ### 難易度統計
 
@@ -7194,7 +7288,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2212">No.2212 One XOR Matrix</a> (yukicoder contest 376 (2023-02-10) - E問題、diff <font color="blue">1971</font>)
 
 　
-<h2 id="素因数分解による約数列挙">170. 素因数分解による約数列挙</h2>
+<h2 id="素因数分解による約数列挙">172. 素因数分解による約数列挙</h2>
 
 ### 難易度統計
 
@@ -7237,7 +7331,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3403">No.3403 Count 1210 Sequence</a> (Advent Calendar Contest 2025 (2025-12-01) - J問題、diff <font color="yellowgreen">2300</font>)
 
 　
-<h2 id="グリッド上の経路数え上げ">171. グリッド上の経路数え上げ</h2>
+<h2 id="グリッド上の経路数え上げ">173. グリッド上の経路数え上げ</h2>
 
 ### 難易度統計
 
@@ -7277,7 +7371,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3429">No.3429 Palindromic Path (Hard)</a> (yukicoder contest YNUCPC Contest 2 (2026-01-11) - K問題、diff <font color="blue">1730</font>)
 
 　
-<h2 id="遷移の収束">172. 遷移の収束</h2>
+<h2 id="遷移の収束">174. 遷移の収束</h2>
 
 ### 難易度統計
 
@@ -7311,7 +7405,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2193">No.2193 メガの下１桁</a> (yukicoder contest 373 (2023-01-13) - J問題、diff <font color="orange">2749</font>)
 
 　
-<h2 id="余事象に注目">173. 余事象に注目</h2>
+<h2 id="余事象に注目">175. 余事象に注目</h2>
 
 ### 難易度統計
 
@@ -7360,13 +7454,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3313">No.3313 Matryoshka</a> (yukicoder contest 486 オムニバス (2025-10-24) - F問題、diff <font color="yellowgreen">2308</font>)
 
 　
-<h2 id="尺取り法">174. 尺取り法</h2>
+<h2 id="尺取り法">176. 尺取り法</h2>
 
 ### 難易度統計
 
 「尺取り法」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
-- 全体: ★2.4／diff <font color="blue">1613</font>
-- 2026年: ★2.6／diff <font color="blue">1758</font>
+- 全体: ★2.4／diff <font color="blue">1614</font>
+- 2026年: ★2.6／diff <font color="blue">1731</font>
 - 2025年: ★2.3／diff <font color="deepskyblue">1390</font>
 - 2024年: ★2.2／diff <font color="deepskyblue">1587</font>
 - 2023年: ★2.3／diff <font color="deepskyblue">1590</font>
@@ -7406,6 +7500,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3072">No.3072 Speedrun Query</a> (yukicoder contest 461 (2025-03-21) - I問題、diff <font color="blue">1671</font>)
 - <a href="https://yukicoder.me/problems/no/3391">No.3391 Line up Dominoes</a> (yukicoder contest 490 (2025-11-28) - E問題、diff <font color="blue">1634</font>)
 - <a href="https://yukicoder.me/problems/no/3409">No.3409 How Many Gift Boxes?</a> (Advent Calendar Contest 2025 (2025-12-01) - P問題、diff <font color="yellowgreen">2359</font>)
+- <a href="https://yukicoder.me/problems/no/3548">No.3548 SigMax Digits (Construction ver.)</a> (yukicoder contest 500 (2026-05-22) - B問題、diff <font color="blue">1650</font>)
 
 ##### ★★★
 
@@ -7423,7 +7518,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2161">No.2161 Black Market</a> (Advent Calendar Contest 2022 (2022-12-01) - L問題、diff <font color="orange">2595</font>)
 
 　
-<h2 id="ナップサック最適化">175. ナップサック最適化</h2>
+<h2 id="ナップサック最適化">177. ナップサック最適化</h2>
 
 ### 難易度統計
 
@@ -7501,7 +7596,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3400">No.3400 Nana's Plus Permutation Game (7 + 7) ÷ 7</a> (Advent Calendar Contest 2025 (2025-12-01) - G問題、diff <font color="darkgoldenrod ">3296</font>)
 
 　
-<h2 id="一種の操作・遷移の反復纏め上げ・打ち切り">176. 一種の操作・遷移の反復纏め上げ・打ち切り</h2>
+<h2 id="一種の操作・遷移の反復纏め上げ・打ち切り">178. 一種の操作・遷移の反復纏め上げ・打ち切り</h2>
 
 ### 難易度統計
 
@@ -7529,7 +7624,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3334">No.3334 I hate Image Convolution</a> (yukicoder contest 487 (2025-11-07) - A問題、diff <font color="yellowgreen">2280</font>)
 
 　
-<h2 id="幅優先探索">177. 幅優先探索</h2>
+<h2 id="幅優先探索">179. 幅優先探索</h2>
 
 ### 難易度統計
 
@@ -7609,7 +7704,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3009">No.3009 Union-Find でつながろう！</a> (yukicoder contest 455 (2025-01-17) - H問題、diff <font color="orange">2777</font>)
 
 　
-<h2 id="位取り記法表示で全探索">178. 位取り記法表示で全探索</h2>
+<h2 id="位取り記法表示で全探索">180. 位取り記法表示で全探索</h2>
 
 ### 難易度統計
 
@@ -7640,55 +7735,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2178">No.2178 Payable Magic Items</a> (yukicoder contest 372 (2023-01-06) - D問題、diff <font color="blue">1989</font>)
 
 　
-<h2 id="等差数列の累積和計算">179. 等差数列の累積和計算</h2>
-
-### 難易度統計
-
-「等差数列の累積和計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
-- 全体: ★2.4／diff <font color="blue">1686</font>
-- 2026年: ★2.5／diff <font color="blue">1986</font>
-- 2025年: ★2.7／diff <font color="blue">1956</font>
-- 2024年: ★2.1／diff <font color="blue">1622</font>
-- 2023年: ★2.3／diff <font color="deepskyblue">1368</font>
-- 2022年: ★データなし／diffデータなし
-
-### レベル別問題一覧
-
-「等差数列の累積和計算」を主たる解法に含む問題のレベルごとの一覧です。
-
-##### ★
-
-- <a href="https://yukicoder.me/problems/no/2937">No.2937 Sigma Plus Problem</a> (yukicoder contest 450 (2024-10-18) - A問題、diff <font color="green">978</font>)
-
-##### ★☆
-
-- <a href="https://yukicoder.me/problems/no/2560">No.2560 A_1 < A_2 < ... < A_N</a> (第2回緑以下コンテスト (2023-12-02) - D問題、diff <font color="brown">540</font>)
-
-##### ★★
-
-- <a href="https://yukicoder.me/problems/no/2567">No.2567 A_1 > A_2 > ... > A_N</a> (第2回緑以下コンテスト (2023-12-02) - K問題、diff <font color="green">1179</font>)
-- <a href="https://yukicoder.me/problems/no/2608">No.2608 Divide into two</a> (yukicoder contest 415 (2024-01-19) - B問題、diff <font color="deepskyblue">1247</font>)
-- <a href="https://yukicoder.me/problems/no/2649">No.2649 [Cherry 6th Tune C] Anthem Flower</a> (yukicoder contest 418 (Re: start!) (2024-02-23) - C問題、diff <font color="deepskyblue">1322</font>)
-- <a href="https://yukicoder.me/problems/no/2655">No.2655 Increasing Strides</a> (yukicoder contest 419 (2024-03-01) - A問題、diff <font color="deepskyblue">1210</font>)
-- <a href="https://yukicoder.me/problems/no/3048">No.3048 Swing</a> (yukicoder contest 459 (2025-03-07) - A問題、diff <font color="deepskyblue">1274</font>)
-
-##### ★★☆
-
-- <a href="https://yukicoder.me/problems/no/3343">No.3343 Distance Sum of Large Tree</a> (yukicoder contest 作問ハッカソンコンテスト 003 Day1 (2025-11-13) - D問題、diff <font color="orange">2407</font>)
-- <a href="https://yukicoder.me/problems/no/3505">No.3505 Sum of Prod of Root</a> (CPCTF 2026: PPC (2026-04-17) - I問題、diff <font color="blue">1986</font>)
-
-##### ★★★
-
-- <a href="https://yukicoder.me/problems/no/2229">No.2229 Treasure Searching Rod (Hard)</a> (yukicoder contest 378 (2023-02-24) - F問題、diff <font color="blue">1865</font>)
-- <a href="https://yukicoder.me/problems/no/2452">No.2452 Incline</a> (yukicoder contest 403 (2023-09-01) - C問題、diff <font color="blue">1891</font>)
-- <a href="https://yukicoder.me/problems/no/2834">No.2834 Work to Play</a> (yukicoder contest 439 (2024-08-02) - H問題、diff <font color="red">3011</font>)
-- <a href="https://yukicoder.me/problems/no/2891">No.2891 Mint</a> (yukicoder contest 446 (2024-09-13) - F問題、diff <font color="blue">1967</font>)
-- <a href="https://yukicoder.me/problems/no/3118">No.3118 Increment or Multiply</a> (CPCTF 2025 : PPC (2025-04-18) - L問題、diff <font color="yellowgreen">2018</font>)
-- <a href="https://yukicoder.me/problems/no/3304">No.3304 INCREASE decrease</a> (yukicoder contest MMA Contest 020 (2025-10-05) - K問題、diff <font color="orange">2623</font>)
-- <a href="https://yukicoder.me/problems/no/3328">No.3328 岩井ツリーグラフ</a> (第2回 岩井星人アンソロジープログラミングコンテスト Extra (2025-11-01) - F問題、diff <font color="deepskyblue">1461</font>)
-
-　
-<h2 id="位取り記法表示">180. 位取り記法表示</h2>
+<h2 id="位取り記法表示">181. 位取り記法表示</h2>
 
 ### 難易度統計
 
@@ -7762,7 +7809,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2589">No.2589 Prepare Integers</a> (Advent Calendar Contest 2023 (2023-12-01) - Q問題、diff <font color="darkgoldenrod ">3503</font>)
 
 　
-<h2 id="オーバーフロー回避">181. オーバーフロー回避</h2>
+<h2 id="オーバーフロー回避">182. オーバーフロー回避</h2>
 
 ### 難易度統計
 
@@ -7812,7 +7859,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2993">No.2993 冪乗乗 mod 冪乗</a> (Advent Calendar Contest 2024 (2024-12-01) - Q問題、diffデータなし)
 
 　
-<h2 id="ソート">182. ソート</h2>
+<h2 id="ソート">183. ソート</h2>
 
 ### 難易度統計
 
@@ -7976,7 +8023,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2160">No.2160 みたりのDominator</a> (Advent Calendar Contest 2022 (2022-12-01) - K問題、diff <font color="darkgoldenrod ">3382</font>)
 
 　
-<h2 id="階乗逆元計算">183. 階乗逆元計算</h2>
+<h2 id="階乗逆元計算">184. 階乗逆元計算</h2>
 
 ### 難易度統計
 
@@ -8041,13 +8088,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3538">No.3538 Not First Place</a> (yukicoder 499 contest (2026-05-08) - F問題、diff <font color="yellowgreen">2255</font>)
 
 　
-<h2 id="変数決め打ち">184. 変数決め打ち</h2>
+<h2 id="変数決め打ち">185. 変数決め打ち</h2>
 
 ### 難易度統計
 
 「変数決め打ち」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
-- 全体: ★2.4／diff <font color="blue">1747</font>
-- 2026年: ★2／diff <font color="deepskyblue">1540</font>
+- 全体: ★2.4／diff <font color="blue">1743</font>
+- 2026年: ★2／diff <font color="deepskyblue">1550</font>
 - 2025年: ★2.5／diff <font color="blue">1733</font>
 - 2024年: ★2.5／diff <font color="blue">1917</font>
 - 2023年: ★2.3／diff <font color="blue">1664</font>
@@ -8094,6 +8141,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3502">No.3502 GCD Knapsack</a> (CPCTF 2026: PPC (2026-04-17) - F問題、diff <font color="deepskyblue">1263</font>)
 - <a href="https://yukicoder.me/problems/no/3504">No.3504 Insert Maze</a> (CPCTF 2026: PPC (2026-04-17) - H問題、diff <font color="blue">1602</font>)
 - <a href="https://yukicoder.me/problems/no/3534">No.3534 Make Many Fences</a> (yukicoder 499 contest (2026-05-08) - B問題、diff <font color="deepskyblue">1252</font>)
+- <a href="https://yukicoder.me/problems/no/3557">No.3557 KCPC or KUPC 2</a> (KCPC新歓杯2026 (2026-05-29) - C問題、diff <font color="deepskyblue">1554</font>)
 
 ##### ★★☆
 
@@ -8127,6 +8175,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3490">No.3490 最高経路問題</a> (yukicoder contest 496 (2026-04-03) - C問題、diff <font color="green">991</font>)
 - <a href="https://yukicoder.me/problems/no/3513">No.3513 Greedy Yokan Party </a> (yukicoder contest 497 聖光学院プログラミングコンテスト2026 day1 (2026-04-24) - C問題、diff <font color="blue">1637</font>)
 - <a href="https://yukicoder.me/problems/no/3537">No.3537 Thank You!</a> (yukicoder 499 contest (2026-05-08) - E問題、diff <font color="blue">1811</font>)
+- <a href="https://yukicoder.me/problems/no/3548">No.3548 SigMax Digits (Construction ver.)</a> (yukicoder contest 500 (2026-05-22) - B問題、diff <font color="blue">1650</font>)
 
 ##### ★★★
 
@@ -8161,7 +8210,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3206">No.3206 う　し　た　ウ　ニ　木　あ　く　ん　笑</a> (yukicoder contest 474 (2025-07-18) - D問題、diff <font color="blue">1774</font>)
 
 　
-<h2 id="法B係数連立一次方程式の解の存在判定">185. 法B係数連立一次方程式の解の存在判定</h2>
+<h2 id="法B係数連立一次方程式の解の存在判定">186. 法B係数連立一次方程式の解の存在判定</h2>
 
 ### 難易度統計
 
@@ -8197,95 +8246,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3031">No.3031 曲面の向き付け</a> (yukicoder contest 457 (2025-02-21) - E問題、diff <font color="blue">1985</font>)
 
 　
-<h2 id="頂点倍化">186. 頂点倍化</h2>
-
-### 難易度統計
-
-「頂点倍化」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
-- 全体: ★2.4／diff <font color="blue">1773</font>
-- 2026年: ★2.7／diff <font color="blue">1904</font>
-- 2025年: ★2.3／diff <font color="blue">1947</font>
-- 2024年: ★2／diff <font color="deepskyblue">1301</font>
-- 2023年: ★2.3／diff <font color="blue">1696</font>
-- 2022年: ★データなし／diffデータなし
-
-### レベル別問題一覧
-
-「頂点倍化」を主たる解法に含む問題のレベルごとの一覧です。
-
-##### ★★
-
-- <a href="https://yukicoder.me/problems/no/2202">No.2202 贅沢てりたまチキン</a> (yukicoder contest 375 (2023-02-03) - B問題、diff <font color="deepskyblue">1254</font>)
-- <a href="https://yukicoder.me/problems/no/2664">No.2664 Prime Sum</a> (yukicoder contest 420 (2024-03-08) - B問題、diff <font color="deepskyblue">1301</font>)
-- <a href="https://yukicoder.me/problems/no/3385">No.3385 Up Down Hiking (C++)</a> (yukicoder contest TSG LIVE! 15 コードゴルフコンテスト (2025-11-22) - G問題、diffデータなし)
-- <a href="https://yukicoder.me/problems/no/3386">No.3386 Up Down Hiking (Python)</a> (yukicoder contest TSG LIVE! 15 コードゴルフコンテスト (2025-11-22) - H問題、diff <font color="yellowgreen">2080</font>)
-
-##### ★★☆
-
-- <a href="https://yukicoder.me/problems/no/2277">No.2277 Honest or Dishonest ?</a> (yukicoder contest 385 (2023-04-21) - C問題、diff <font color="blue">1683</font>)
-- <a href="https://yukicoder.me/problems/no/2293">No.2293 無向辺 2-SAT</a> (yukicoder contest 387 (Union Find Contest) (2023-05-05) - E問題、diff <font color="yellowgreen">2237</font>)
-- <a href="https://yukicoder.me/problems/no/2536">No.2536 同値性と充足可能性</a> (yukicoder contest 412 (2023-11-10) - D問題、diff <font color="blue">1612</font>)
-- <a href="https://yukicoder.me/problems/no/3393">No.3393 Move on Highway</a> (yukicoder contest 490 (2025-11-28) - G問題、diff <font color="blue">1778</font>)
-- <a href="https://yukicoder.me/problems/no/3482">No.3482 Quod Erat Demonstrandum</a> (yukicoder contest 495 (2026-03-27) - B問題、diff <font color="deepskyblue">1205</font>)
-
-##### ★★★
-
-- <a href="https://yukicoder.me/problems/no/3031">No.3031 曲面の向き付け</a> (yukicoder contest 457 (2025-02-21) - E問題、diff <font color="blue">1985</font>)
-- <a href="https://yukicoder.me/problems/no/3517">No.3517 Snake Kunekune Graph</a> (yukicoder contest 497 聖光学院プログラミングコンテスト2026 day1 (2026-04-24) - G問題、diff <font color="orange">2604</font>)
-
-　
-<h2 id="最終手番に注目">187. 最終手番に注目</h2>
-
-### 難易度統計
-
-「最終手番に注目」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
-- 全体: ★2.4／diff <font color="blue">1780</font>
-- 2026年: ★データなし／diffデータなし
-- 2025年: ★データなし／diffデータなし
-- 2024年: ★2.3／diff <font color="blue">1631</font>
-- 2023年: ★2.5／diff <font color="blue">1875</font>
-- 2022年: ★2.6／diff <font color="blue">1951</font>
-
-### レベル別問題一覧
-
-「最終手番に注目」を主たる解法に含む問題のレベルごとの一覧です。
-
-##### ★☆
-
-- <a href="https://yukicoder.me/problems/no/2679">No.2679 MODice</a> (yukicoder contest 422 (第１回 競技プログラミング講習会作問企画コンテスト) (2024-03-20) - A問題、diff <font color="brown">721</font>)
-- <a href="https://yukicoder.me/problems/no/2721">No.2721 "Don't say N" Game</a> (yukicoder contest 427 (ゲーム問題コンテスト) (2024-04-12) - A問題、diff <font color="brown">426</font>)
-
-##### ★★
-
-- <a href="https://yukicoder.me/problems/no/2099">No.2099 [Cherry Alpha B] Time Machine</a> (yukicoder contest 364 (Do you know Cherry Contest?) (2022-10-14) - C問題、diff <font color="blue">1730</font>)
-- <a href="https://yukicoder.me/problems/no/2209">No.2209 Flip and Reverse</a> (yukicoder contest 376 (2023-02-10) - B問題、diff <font color="green">1008</font>)
-- <a href="https://yukicoder.me/problems/no/2812">No.2812 Plus Minus Blackboard</a> (yukicoder contest 437 ('09 Contest 002 day2)  (2024-07-19) - B問題、diff <font color="blue">1698</font>)
-
-##### ★★☆
-
-- <a href="https://yukicoder.me/problems/no/2241">No.2241 Reach 1</a> (yukicoder contest 380 (2023-03-10) - C問題、diff <font color="blue">1838</font>)
-- <a href="https://yukicoder.me/problems/no/2502">No.2502 Optimization in the Dark</a> (yukicoder contest 408 (2023-10-13) - C問題、diff <font color="orange">2503</font>)
-- <a href="https://yukicoder.me/problems/no/2724">No.2724 Coprime Game 1</a> (yukicoder contest 427 (ゲーム問題コンテスト) (2024-04-12) - D問題、diff <font color="blue">1845</font>)
-
-##### ★★★
-
-- <a href="https://yukicoder.me/problems/no/2103">No.2103 ±1s Game</a> (yukicoder contest 365 (2022-10-21) - A問題、diff <font color="blue">1934</font>)
-- <a href="https://yukicoder.me/problems/no/2132">No.2132 1 or X Game</a> (yukicoder contest 369 (2022-11-25) - C問題、diff <font color="yellowgreen">2191</font>)
-- <a href="https://yukicoder.me/problems/no/2278">No.2278 Time Bomb Game 2</a> (yukicoder contest 385 (2023-04-21) - D問題、diff <font color="yellowgreen">2153</font>)
-- <a href="https://yukicoder.me/problems/no/2814">No.2814 Block Game</a> (yukicoder contest 437 ('09 Contest 002 day2)  (2024-07-19) - D問題、diff <font color="orange">2676</font>)
-
-##### ★★★☆
-
-- <a href="https://yukicoder.me/problems/no/2727">No.2727 Tetrahedron Game</a> (yukicoder contest 427 (ゲーム問題コンテスト) (2024-04-12) - G問題、diff <font color="orange">2421</font>)
-
-　
-<h2 id="01列と非負整数の対応">188. 01列と非負整数の対応</h2>
+<h2 id="01列と非負整数の対応">187. 01列と非負整数の対応</h2>
 
 ### 難易度統計
 
 「01列と非負整数の対応」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
-- 全体: ★2.4／diff <font color="blue">1784</font>
-- 2026年: ★2／diff <font color="deepskyblue">1423</font>
+- 全体: ★2.4／diff <font color="blue">1810</font>
+- 2026年: ★2.5／diff <font color="yellowgreen">2029</font>
 - 2025年: ★2.3／diff <font color="blue">1845</font>
 - 2024年: ★2.4／diff <font color="blue">1601</font>
 - 2023年: ★2.5／diff <font color="blue">1909</font>
@@ -8338,6 +8305,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2672">No.2672 Subset Xor Sum</a> (yukicoder contest 421  (NUPC2023) (2024-03-15) - B問題、diff <font color="deepskyblue">1416</font>)
 - <a href="https://yukicoder.me/problems/no/3237">No.3237 Find the Treasure!</a> (yukicoder contest 478 オムニバス (2025-08-15) - F問題、diffデータなし)
 - <a href="https://yukicoder.me/problems/no/3410">No.3410 Happiest Art</a> (Advent Calendar Contest 2025 (2025-12-01) - Q問題、diff <font color="orange">2706</font>)
+- <a href="https://yukicoder.me/problems/no/3562">No.3562 Communicate Sorted Vector</a> (KCPC新歓杯2026 (2026-05-29) - H問題、diff <font color="orange">2635</font>)
 
 ##### ★★★☆
 
@@ -8346,7 +8314,91 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2981">No.2981 Pack Tree into Grid</a> (Advent Calendar Contest 2024 (2024-12-01) - E問題、diff <font color="red">2885</font>)
 
 　
-<h2 id="GCDによるLCM計算">189. GCDによるLCM計算</h2>
+<h2 id="最終手番に注目">188. 最終手番に注目</h2>
+
+### 難易度統計
+
+「最終手番に注目」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
+- 全体: ★2.4／diff <font color="blue">1821</font>
+- 2026年: ★2.5／diff <font color="yellowgreen">2358</font>
+- 2025年: ★データなし／diffデータなし
+- 2024年: ★2.3／diff <font color="blue">1631</font>
+- 2023年: ★2.5／diff <font color="blue">1875</font>
+- 2022年: ★2.6／diff <font color="blue">1951</font>
+
+### レベル別問題一覧
+
+「最終手番に注目」を主たる解法に含む問題のレベルごとの一覧です。
+
+##### ★☆
+
+- <a href="https://yukicoder.me/problems/no/2679">No.2679 MODice</a> (yukicoder contest 422 (第１回 競技プログラミング講習会作問企画コンテスト) (2024-03-20) - A問題、diff <font color="brown">721</font>)
+- <a href="https://yukicoder.me/problems/no/2721">No.2721 "Don't say N" Game</a> (yukicoder contest 427 (ゲーム問題コンテスト) (2024-04-12) - A問題、diff <font color="brown">426</font>)
+
+##### ★★
+
+- <a href="https://yukicoder.me/problems/no/2099">No.2099 [Cherry Alpha B] Time Machine</a> (yukicoder contest 364 (Do you know Cherry Contest?) (2022-10-14) - C問題、diff <font color="blue">1730</font>)
+- <a href="https://yukicoder.me/problems/no/2209">No.2209 Flip and Reverse</a> (yukicoder contest 376 (2023-02-10) - B問題、diff <font color="green">1008</font>)
+- <a href="https://yukicoder.me/problems/no/2812">No.2812 Plus Minus Blackboard</a> (yukicoder contest 437 ('09 Contest 002 day2)  (2024-07-19) - B問題、diff <font color="blue">1698</font>)
+
+##### ★★☆
+
+- <a href="https://yukicoder.me/problems/no/2241">No.2241 Reach 1</a> (yukicoder contest 380 (2023-03-10) - C問題、diff <font color="blue">1838</font>)
+- <a href="https://yukicoder.me/problems/no/2502">No.2502 Optimization in the Dark</a> (yukicoder contest 408 (2023-10-13) - C問題、diff <font color="orange">2503</font>)
+- <a href="https://yukicoder.me/problems/no/2724">No.2724 Coprime Game 1</a> (yukicoder contest 427 (ゲーム問題コンテスト) (2024-04-12) - D問題、diff <font color="blue">1845</font>)
+- <a href="https://yukicoder.me/problems/no/3559">No.3559 +A,-B</a> (KCPC新歓杯2026 (2026-05-29) - E問題、diff <font color="yellowgreen">2358</font>)
+
+##### ★★★
+
+- <a href="https://yukicoder.me/problems/no/2103">No.2103 ±1s Game</a> (yukicoder contest 365 (2022-10-21) - A問題、diff <font color="blue">1934</font>)
+- <a href="https://yukicoder.me/problems/no/2132">No.2132 1 or X Game</a> (yukicoder contest 369 (2022-11-25) - C問題、diff <font color="yellowgreen">2191</font>)
+- <a href="https://yukicoder.me/problems/no/2278">No.2278 Time Bomb Game 2</a> (yukicoder contest 385 (2023-04-21) - D問題、diff <font color="yellowgreen">2153</font>)
+- <a href="https://yukicoder.me/problems/no/2814">No.2814 Block Game</a> (yukicoder contest 437 ('09 Contest 002 day2)  (2024-07-19) - D問題、diff <font color="orange">2676</font>)
+
+##### ★★★☆
+
+- <a href="https://yukicoder.me/problems/no/2727">No.2727 Tetrahedron Game</a> (yukicoder contest 427 (ゲーム問題コンテスト) (2024-04-12) - G問題、diff <font color="orange">2421</font>)
+
+　
+<h2 id="頂点倍化">189. 頂点倍化</h2>
+
+### 難易度統計
+
+「頂点倍化」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
+- 全体: ★2.4／diff <font color="blue">1852</font>
+- 2026年: ★2.8／diff <font color="yellowgreen">2148</font>
+- 2025年: ★2.3／diff <font color="blue">1947</font>
+- 2024年: ★2／diff <font color="deepskyblue">1301</font>
+- 2023年: ★2.3／diff <font color="blue">1696</font>
+- 2022年: ★データなし／diffデータなし
+
+### レベル別問題一覧
+
+「頂点倍化」を主たる解法に含む問題のレベルごとの一覧です。
+
+##### ★★
+
+- <a href="https://yukicoder.me/problems/no/2202">No.2202 贅沢てりたまチキン</a> (yukicoder contest 375 (2023-02-03) - B問題、diff <font color="deepskyblue">1254</font>)
+- <a href="https://yukicoder.me/problems/no/2664">No.2664 Prime Sum</a> (yukicoder contest 420 (2024-03-08) - B問題、diff <font color="deepskyblue">1301</font>)
+- <a href="https://yukicoder.me/problems/no/3385">No.3385 Up Down Hiking (C++)</a> (yukicoder contest TSG LIVE! 15 コードゴルフコンテスト (2025-11-22) - G問題、diffデータなし)
+- <a href="https://yukicoder.me/problems/no/3386">No.3386 Up Down Hiking (Python)</a> (yukicoder contest TSG LIVE! 15 コードゴルフコンテスト (2025-11-22) - H問題、diff <font color="yellowgreen">2080</font>)
+
+##### ★★☆
+
+- <a href="https://yukicoder.me/problems/no/2277">No.2277 Honest or Dishonest ?</a> (yukicoder contest 385 (2023-04-21) - C問題、diff <font color="blue">1683</font>)
+- <a href="https://yukicoder.me/problems/no/2293">No.2293 無向辺 2-SAT</a> (yukicoder contest 387 (Union Find Contest) (2023-05-05) - E問題、diff <font color="yellowgreen">2237</font>)
+- <a href="https://yukicoder.me/problems/no/2536">No.2536 同値性と充足可能性</a> (yukicoder contest 412 (2023-11-10) - D問題、diff <font color="blue">1612</font>)
+- <a href="https://yukicoder.me/problems/no/3393">No.3393 Move on Highway</a> (yukicoder contest 490 (2025-11-28) - G問題、diff <font color="blue">1778</font>)
+- <a href="https://yukicoder.me/problems/no/3482">No.3482 Quod Erat Demonstrandum</a> (yukicoder contest 495 (2026-03-27) - B問題、diff <font color="deepskyblue">1205</font>)
+
+##### ★★★
+
+- <a href="https://yukicoder.me/problems/no/3031">No.3031 曲面の向き付け</a> (yukicoder contest 457 (2025-02-21) - E問題、diff <font color="blue">1985</font>)
+- <a href="https://yukicoder.me/problems/no/3517">No.3517 Snake Kunekune Graph</a> (yukicoder contest 497 聖光学院プログラミングコンテスト2026 day1 (2026-04-24) - G問題、diff <font color="orange">2604</font>)
+- <a href="https://yukicoder.me/problems/no/3561">No.3561 Collect KCPC</a> (KCPC新歓杯2026 (2026-05-29) - G問題、diff <font color="orange">2635</font>)
+
+　
+<h2 id="GCDによるLCM計算">190. GCDによるLCM計算</h2>
 
 ### 難易度統計
 
@@ -8383,13 +8435,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3396">No.3396 ChRisTmas memory</a> (Advent Calendar Contest 2025 (2025-12-01) - C問題、diff <font color="red">2872</font>)
 
 　
-<h2 id="周期性">190. 周期性</h2>
+<h2 id="周期性">191. 周期性</h2>
 
 ### 難易度統計
 
 「周期性」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
-- 全体: ★2.4／diff <font color="blue">1905</font>
-- 2026年: ★2／diff <font color="yellowgreen">2088</font>
+- 全体: ★2.4／diff <font color="blue">1906</font>
+- 2026年: ★2／diff <font color="yellowgreen">2035</font>
 - 2025年: ★2.3／diff <font color="deepskyblue">1496</font>
 - 2024年: ★2.5／diff <font color="yellowgreen">2024</font>
 - 2023年: ★2.6／diff <font color="blue">1962</font>
@@ -8404,6 +8456,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3544">No.3544 Robot on Torus (C++)</a> (yukicoder contest TSG LIVE! 16 コードゴルフコンテスト (2026-05-16) - D問題、diff <font color="yellowgreen">2057</font>)
 - <a href="https://yukicoder.me/problems/no/3545">No.3545 Robot on Torus (Python)</a> (yukicoder contest TSG LIVE! 16 コードゴルフコンテスト (2026-05-16) - E問題、diff <font color="orange">2419</font>)
 - <a href="https://yukicoder.me/problems/no/3546">No.3546 Robot on Torus (All Language)</a> (yukicoder contest TSG LIVE! 16 コードゴルフコンテスト (2026-05-16) - F問題、diff <font color="blue">1920</font>)
+- <a href="https://yukicoder.me/problems/no/3556">No.3556 KCPC or KUPC</a> (KCPC新歓杯2026 (2026-05-29) - B問題、diff <font color="deepskyblue">1554</font>)
 
 ##### ★☆
 
@@ -8423,6 +8476,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3048">No.3048 Swing</a> (yukicoder contest 459 (2025-03-07) - A問題、diff <font color="deepskyblue">1274</font>)
 - <a href="https://yukicoder.me/problems/no/3179">No.3179 3 time mod</a> (yukicoder contest 470 (2025-06-13) - C問題、diff <font color="deepskyblue">1506</font>)
 - <a href="https://yukicoder.me/problems/no/3475">No.3475 Many Hello Substrings</a> (yukicoder contest 494 オムニバス (2026-03-20) - C問題、diff <font color="deepskyblue">1595</font>)
+- <a href="https://yukicoder.me/problems/no/3557">No.3557 KCPC or KUPC 2</a> (KCPC新歓杯2026 (2026-05-29) - C問題、diff <font color="deepskyblue">1554</font>)
 
 ##### ★★☆
 
@@ -8449,6 +8503,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3515">No.3515 Anti EIKO</a> (yukicoder contest 497 聖光学院プログラミングコンテスト2026 day1 (2026-04-24) - E問題、diff <font color="blue">1757</font>)
 - <a href="https://yukicoder.me/problems/no/3516">No.3516 Very Large Range Mod</a> (yukicoder contest 497 聖光学院プログラミングコンテスト2026 day1 (2026-04-24) - F問題、diff <font color="yellowgreen">2264</font>)
 - <a href="https://yukicoder.me/problems/no/3517">No.3517 Snake Kunekune Graph</a> (yukicoder contest 497 聖光学院プログラミングコンテスト2026 day1 (2026-04-24) - G問題、diff <font color="orange">2604</font>)
+- <a href="https://yukicoder.me/problems/no/3564">No.3564 Awkward Timing</a> (KCPC新歓杯2026 (2026-05-29) - J問題、diff <font color="orange">2635</font>)
 
 ##### ★★★☆
 
@@ -8462,7 +8517,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2995">No.2995 The Ruler Sequence Concatenation</a> (Advent Calendar Contest 2024 (2024-12-01) - S問題、diff <font color="darkgoldenrod ">3309</font>)
 
 　
-<h2 id="breakに関する考察">191. <a href="https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#breakに関する考察">breakに関する考察</a></h2>
+<h2 id="breakに関する考察">192. <a href="https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#breakに関する考察">breakに関する考察</a></h2>
 
 ### 難易度統計
 
@@ -8509,7 +8564,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2539">No.2539 スライムゲーム</a> (yukicoder contest 412 (2023-11-10) - G問題、diff <font color="red">3014</font>)
 
 　
-<h2 id="グラフの状態や目的地の変化を有向辺に翻訳">192. グラフの状態や目的地の変化を有向辺に翻訳</h2>
+<h2 id="グラフの状態や目的地の変化を有向辺に翻訳">193. グラフの状態や目的地の変化を有向辺に翻訳</h2>
 
 ### 難易度統計
 
@@ -8540,7 +8595,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2832">No.2832 Nana's Fickle Adventure</a> (yukicoder contest 439 (2024-08-02) - F問題、diff <font color="red">2812</font>)
 
 　
-<h2 id="辞書式順序を位取り記法で翻訳">193. 辞書式順序を位取り記法で翻訳</h2>
+<h2 id="辞書式順序を位取り記法で翻訳">194. 辞書式順序を位取り記法で翻訳</h2>
 
 ### 難易度統計
 
@@ -8574,7 +8629,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3346">No.3346 Tree to DAG</a> (yukicoder contest 作問ハッカソンコンテスト 003 Day1 (2025-11-13) - G問題、diff <font color="red">2867</font>)
 
 　
-<h2 id="可逆元倍による順列の構築">194. 可逆元倍による順列の構築</h2>
+<h2 id="可逆元倍による順列の構築">195. 可逆元倍による順列の構築</h2>
 
 ### 難易度統計
 
@@ -8595,7 +8650,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3267">No.3267 PQ Straight</a> (yukicoder contest 482 (2025-09-12) - A問題、diff <font color="green">1184</font>)
 
 　
-<h2 id="ディオファントス方程式の可証性判定">195. ディオファントス方程式の可証性判定</h2>
+<h2 id="ディオファントス方程式の可証性判定">196. ディオファントス方程式の可証性判定</h2>
 
 ### 難易度統計
 
@@ -8616,7 +8671,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3482">No.3482 Quod Erat Demonstrandum</a> (yukicoder contest 495 (2026-03-27) - B問題、diff <font color="deepskyblue">1205</font>)
 
 　
-<h2 id="複数配列への範囲加算更新を１つの配列に纏め上げ">196. 複数配列への範囲加算更新を１つの配列に纏め上げ</h2>
+<h2 id="複数配列への範囲加算更新を１つの配列に纏め上げ">197. 複数配列への範囲加算更新を１つの配列に纏め上げ</h2>
 
 ### 難易度統計
 
@@ -8637,7 +8692,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2462">No.2462 七人カノン</a> (yukicoder contest 404 (2023-09-08) - C問題、diff <font color="deepskyblue">1358</font>)
 
 　
-<h2 id="最近点計算">197. 最近点計算</h2>
+<h2 id="最近点計算">198. 最近点計算</h2>
 
 ### 難易度統計
 
@@ -8668,7 +8723,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2909">No.2909 Imaginary Summer</a> (単発出題、diffデータなし)
 
 　
-<h2 id="符号全探索による絶対値計算">198. 符号全探索による絶対値計算</h2>
+<h2 id="符号全探索による絶対値計算">199. 符号全探索による絶対値計算</h2>
 
 ### 難易度統計
 
@@ -8690,7 +8745,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3185">No.3185 Three Abs</a> (yukicoder contest 471 (2025-06-20) - C問題、diff <font color="deepskyblue">1401</font>)
 
 　
-<h2 id="可負コストナップサック最適化">199. 可負コストナップサック最適化</h2>
+<h2 id="可負コストナップサック最適化">200. 可負コストナップサック最適化</h2>
 
 ### 難易度統計
 
@@ -8712,7 +8767,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2866">No.2866 yuusaan's Knapsack</a> (yukicoder contest 443 (2024-08-30) - E問題、diff <font color="blue">1611</font>)
 
 　
-<h2 id="挿入ソート">200. 挿入ソート</h2>
+<h2 id="挿入ソート">201. 挿入ソート</h2>
 
 ### 難易度統計
 
@@ -8733,7 +8788,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2210">No.2210 equence Squence Seuence</a> (yukicoder contest 376 (2023-02-10) - C問題、diff <font color="deepskyblue">1489</font>)
 
 　
-<h2 id="先頭・末尾挿入更新">201. 先頭・末尾挿入更新</h2>
+<h2 id="先頭・末尾挿入更新">202. 先頭・末尾挿入更新</h2>
 
 ### 難易度統計
 
@@ -8762,7 +8817,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3058">No.3058 Deque and Brackets</a> (yukicoder contest 460 (2025-03-14) - C問題、diff <font color="orange">2622</font>)
 
 　
-<h2 id="有名数を用いた構築">202. 有名数を用いた構築</h2>
+<h2 id="有名数を用いた構築">203. 有名数を用いた構築</h2>
 
 ### 難易度統計
 
@@ -8783,7 +8838,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3536">No.3536 LCM+ELEMENT=SUM</a> (yukicoder 499 contest (2026-05-08) - D問題、diff <font color="deepskyblue">1544</font>)
 
 　
-<h2 id="区間長総和取得">203. 区間長総和取得</h2>
+<h2 id="区間長総和取得">204. 区間長総和取得</h2>
 
 ### 難易度統計
 
@@ -8804,7 +8859,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3017">No.3017 交互浴</a> (第1回 岩井星人アンソロジープログラミングコンテスト (2025-01-25) - H問題、diff <font color="deepskyblue">1549</font>)
 
 　
-<h2 id="XOR・反転が2回で戻ることに注目">204. XOR・反転が2回で戻ることに注目</h2>
+<h2 id="XOR・反転が2回で戻ることに注目">205. XOR・反転が2回で戻ることに注目</h2>
 
 ### 難易度統計
 
@@ -8830,7 +8885,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3117">No.3117 Reversible Tile</a> (CPCTF 2025 : PPC (2025-04-18) - K問題、diff <font color="yellowgreen">2236</font>)
 
 　
-<h2 id="素数列による試し割り法">205. 素数列による試し割り法</h2>
+<h2 id="素数列による試し割り法">206. 素数列による試し割り法</h2>
 
 ### 難易度統計
 
@@ -8862,7 +8917,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3485">No.3485 Find 495-like Number</a> (yukicoder contest 495 (2026-03-27) - E問題、diff <font color="blue">1801</font>)
 
 　
-<h2 id="strategy stealing argument">206. strategy stealing argument</h2>
+<h2 id="strategy stealing argument">207. strategy stealing argument</h2>
 
 ### 難易度統計
 
@@ -8883,7 +8938,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2722">No.2722 Kenken Fight</a> (yukicoder contest 427 (ゲーム問題コンテスト) (2024-04-12) - B問題、diff <font color="deepskyblue">1588</font>)
 
 　
-<h2 id="関係を集合・配列で管理">207. 関係を集合・配列で管理</h2>
+<h2 id="関係を集合・配列で管理">208. 関係を集合・配列で管理</h2>
 
 ### 難易度統計
 
@@ -8912,7 +8967,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3277">No.3277 Forever Monotonic Number</a> (yukicoder contest  483（オムニバス） (2025-09-19) - D問題、diff <font color="yellowgreen">2054</font>)
 
 　
-<h2 id="bool値のリアクティブによる特定">208. bool値のリアクティブによる特定</h2>
+<h2 id="bool値のリアクティブによる特定">209. bool値のリアクティブによる特定</h2>
 
 ### 難易度統計
 
@@ -8933,7 +8988,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2819">No.2819 Binary Binary-Operator</a> (yukicoder contest 438 (2024-07-26) - A問題、diff <font color="deepskyblue">1596</font>)
 
 　
-<h2 id="ベイズの定理">209. ベイズの定理</h2>
+<h2 id="ベイズの定理">210. ベイズの定理</h2>
 
 ### 難易度統計
 
@@ -8954,7 +9009,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2972">No.2972 確率的素数判定</a> (yukicoder contest 454 (2024-11-29) - D問題、diff <font color="deepskyblue">1598</font>)
 
 　
-<h2 id="閉じた括弧列の構築">210. 閉じた括弧列の構築</h2>
+<h2 id="閉じた括弧列の構築">211. 閉じた括弧列の構築</h2>
 
 ### 難易度統計
 
@@ -8975,7 +9030,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2143">No.2143 Only One Bracket</a> (yukicoder contest 370 (2022-12-02) - D問題、diff <font color="blue">1606</font>)
 
 　
-<h2 id="可負コストナップサック割り当て数え上げ">211. 可負コストナップサック割り当て数え上げ</h2>
+<h2 id="可負コストナップサック割り当て数え上げ">212. 可負コストナップサック割り当て数え上げ</h2>
 
 ### 難易度統計
 
@@ -8996,7 +9051,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2866">No.2866 yuusaan's Knapsack</a> (yukicoder contest 443 (2024-08-30) - E問題、diff <font color="blue">1611</font>)
 
 　
-<h2 id="可負価値ナップサック割り当て数え上げ">212. 可負価値ナップサック割り当て数え上げ</h2>
+<h2 id="可負価値ナップサック割り当て数え上げ">213. 可負価値ナップサック割り当て数え上げ</h2>
 
 ### 難易度統計
 
@@ -9017,7 +9072,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2866">No.2866 yuusaan's Knapsack</a> (yukicoder contest 443 (2024-08-30) - E問題、diff <font color="blue">1611</font>)
 
 　
-<h2 id="複数区間選択ナップサック最適化">213. 複数区間選択ナップサック最適化</h2>
+<h2 id="複数区間選択ナップサック最適化">214. 複数区間選択ナップサック最適化</h2>
 
 ### 難易度統計
 
@@ -9038,7 +9093,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3513">No.3513 Greedy Yokan Party </a> (yukicoder contest 497 聖光学院プログラミングコンテスト2026 day1 (2026-04-24) - C問題、diff <font color="blue">1637</font>)
 
 　
-<h2 id="ディオファントス方程式の因数分解">214. ディオファントス方程式の因数分解</h2>
+<h2 id="ディオファントス方程式の因数分解">215. ディオファントス方程式の因数分解</h2>
 
 ### 難易度統計
 
@@ -9067,7 +9122,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3332">No.3332 Consecutive Power Sum (Small)</a> (wasd314 さんの単発問題コンテスト (2025-11-02) - B問題、diff <font color="deepskyblue">1247</font>)
 
 　
-<h2 id="連結リスト">215. 連結リスト</h2>
+<h2 id="連結リスト">216. 連結リスト</h2>
 
 ### 難易度統計
 
@@ -9100,7 +9155,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3494">No.3494 一点挿入区間和取得</a> (yukicoder contest 496 (2026-04-03) - G問題、diff <font color="yellowgreen">2083</font>)
 
 　
-<h2 id="ヘルド・カープ法">216. ヘルド・カープ法</h2>
+<h2 id="ヘルド・カープ法">217. ヘルド・カープ法</h2>
 
 ### 難易度統計
 
@@ -9132,7 +9187,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3312">No.3312 Fire Engine</a> (yukicoder contest 486 オムニバス (2025-10-24) - E問題、diff <font color="yellowgreen">2002</font>)
 
 　
-<h2 id="商・剰余の差分計算を約数列挙に帰着">217. 商・剰余の差分計算を約数列挙に帰着</h2>
+<h2 id="商・剰余の差分計算を約数列挙に帰着">218. 商・剰余の差分計算を約数列挙に帰着</h2>
 
 ### 難易度統計
 
@@ -9154,7 +9209,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2940">No.2940 Sigma Sigma Div Floor Problem</a> (yukicoder contest 450 (2024-10-18) - D問題、diff <font color="blue">1661</font>)
 
 　
-<h2 id="トーナメントによる最大・最小値計算">218. トーナメントによる最大・最小値計算</h2>
+<h2 id="トーナメントによる最大・最小値計算">219. トーナメントによる最大・最小値計算</h2>
 
 ### 難易度統計
 
@@ -9175,7 +9230,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2978">No.2978 Lexicographically Smallest and Largest Subarray</a> (Advent Calendar Contest 2024 (2024-12-01) - B問題、diff <font color="blue">1659</font>)
 
 　
-<h2 id="最大・最小値のリアクティブによる特定">219. 最大・最小値のリアクティブによる特定</h2>
+<h2 id="最大・最小値のリアクティブによる特定">220. 最大・最小値のリアクティブによる特定</h2>
 
 ### 難易度統計
 
@@ -9196,7 +9251,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2978">No.2978 Lexicographically Smallest and Largest Subarray</a> (Advent Calendar Contest 2024 (2024-12-01) - B問題、diff <font color="blue">1659</font>)
 
 　
-<h2 id="倍数計数クエリを約数列挙に帰着">220. 倍数計数クエリを約数列挙に帰着</h2>
+<h2 id="倍数計数クエリを約数列挙に帰着">221. 倍数計数クエリを約数列挙に帰着</h2>
 
 ### 難易度統計
 
@@ -9217,7 +9272,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2758">No.2758 RDQ</a> (yukicoder contest 430 (2024-05-17) - B問題、diff <font color="blue">1659</font>)
 
 　
-<h2 id="多点BFS">221. 多点BFS</h2>
+<h2 id="多点BFS">222. 多点BFS</h2>
 
 ### 難易度統計
 
@@ -9273,7 +9328,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3009">No.3009 Union-Find でつながろう！</a> (yukicoder contest 455 (2025-01-17) - H問題、diff <font color="orange">2777</font>)
 
 　
-<h2 id="位取り記法による構築">222. 位取り記法による構築</h2>
+<h2 id="位取り記法による構築">223. 位取り記法による構築</h2>
 
 ### 難易度統計
 
@@ -9305,7 +9360,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2198">No.2198 Concon Substrings (COuNt-CONstruct Version)</a> (yukicoder contest 374 (2023-01-20) - E問題、diff <font color="yellowgreen">2050</font>)
 
 　
-<h2 id="マッチ度ごとに管理">223. マッチ度ごとに管理</h2>
+<h2 id="マッチ度ごとに管理">224. マッチ度ごとに管理</h2>
 
 ### 難易度統計
 
@@ -9352,7 +9407,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2992">No.2992 Range ABCD String Query</a> (Advent Calendar Contest 2024 (2024-12-01) - P問題、diff <font color="orange">2478</font>)
 
 　
-<h2 id="mex取得">224. mex取得</h2>
+<h2 id="mex取得">225. mex取得</h2>
 
 ### 難易度統計
 
@@ -9381,7 +9436,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2220">No.2220 Range Insert & Point Mex</a> (yukicoder contest 377 (2023-02-17) - E問題、diff <font color="blue">1927</font>)
 
 　
-<h2 id=",冪乗計算">225. ,冪乗計算</h2>
+<h2 id=",冪乗計算">226. ,冪乗計算</h2>
 
 ### 難易度統計
 
@@ -9402,7 +9457,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3473">No.3473 AtCoder < CMS</a> (yukicoder contest 494 オムニバス (2026-03-20) - A問題、diff <font color="blue">1674</font>)
 
 　
-<h2 id="握手補題">226. 握手補題</h2>
+<h2 id="握手補題">227. 握手補題</h2>
 
 ### 難易度統計
 
@@ -9423,7 +9478,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3220">No.3220 Forest Creation</a> (yukicoder contest 476 (2025-08-01) - E問題、diff <font color="blue">1683</font>)
 
 　
-<h2 id="next_permutation">227. next_permutation</h2>
+<h2 id="next_permutation">228. next_permutation</h2>
 
 ### 難易度統計
 
@@ -9470,7 +9525,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2918">No.2918 Divide Applicants Fairly</a> (単発出題、diffデータなし)
 
 　
-<h2 id="試し割り法">228. 試し割り法</h2>
+<h2 id="試し割り法">229. 試し割り法</h2>
 
 ### 難易度統計
 
@@ -9533,7 +9588,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2993">No.2993 冪乗乗 mod 冪乗</a> (Advent Calendar Contest 2024 (2024-12-01) - Q問題、diffデータなし)
 
 　
-<h2 id="階乗による二項係数計算">229. 階乗による二項係数計算</h2>
+<h2 id="階乗による二項係数計算">230. 階乗による二項係数計算</h2>
 
 ### 難易度統計
 
@@ -9588,7 +9643,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3538">No.3538 Not First Place</a> (yukicoder 499 contest (2026-05-08) - F問題、diff <font color="yellowgreen">2255</font>)
 
 　
-<h2 id="連結成分取得">230. 連結成分取得</h2>
+<h2 id="連結成分取得">231. 連結成分取得</h2>
 
 ### 難易度統計
 
@@ -9653,7 +9708,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3009">No.3009 Union-Find でつながろう！</a> (yukicoder contest 455 (2025-01-17) - H問題、diff <font color="orange">2777</font>)
 
 　
-<h2 id="冪乗による根号消去">231. 冪乗による根号消去</h2>
+<h2 id="冪乗による根号消去">232. 冪乗による根号消去</h2>
 
 ### 難易度統計
 
@@ -9682,7 +9737,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2602">No.2602 Real Collider</a> (yukicoder contest 414 (2024-01-12) - D問題、diff <font color="orange">2419</font>)
 
 　
-<h2 id="ナップサックDP">232. ナップサックDP</h2>
+<h2 id="ナップサックDP">233. ナップサックDP</h2>
 
 ### 難易度統計
 
@@ -9733,7 +9788,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3400">No.3400 Nana's Plus Permutation Game (7 + 7) ÷ 7</a> (Advent Calendar Contest 2025 (2025-12-01) - G問題、diff <font color="darkgoldenrod ">3296</font>)
 
 　
-<h2 id="階乗計算">233. 階乗計算</h2>
+<h2 id="階乗計算">234. 階乗計算</h2>
 
 ### 難易度統計
 
@@ -9799,7 +9854,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3538">No.3538 Not First Place</a> (yukicoder 499 contest (2026-05-08) - F問題、diff <font color="yellowgreen">2255</font>)
 
 　
-<h2 id="素集合データ構造">234. 素集合データ構造</h2>
+<h2 id="素集合データ構造">235. 素集合データ構造</h2>
 
 ### 難易度統計
 
@@ -9865,90 +9920,6 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 ##### ★★★★
 
 - <a href="https://yukicoder.me/problems/no/3034">No.3034 コーエン-マコーレー抽象単体複体</a> (yukicoder contest 457 (2025-02-21) - H問題、diff <font color="red">2892</font>)
-
-　
-<h2 id="累積和">235. 累積和</h2>
-
-### 難易度統計
-
-「累積和」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
-- 全体: ★2.5／diff <font color="blue">1727</font>
-- 2026年: ★2.6／diff <font color="deepskyblue">1557</font>
-- 2025年: ★2.4／diff <font color="deepskyblue">1541</font>
-- 2024年: ★2.5／diff <font color="blue">1917</font>
-- 2023年: ★2.7／diff <font color="blue">1800</font>
-- 2022年: ★2.5／diff <font color="blue">1673</font>
-
-### レベル別問題一覧
-
-「累積和」を主たる解法に含む問題のレベルごとの一覧です。
-
-##### ★☆
-
-- <a href="https://yukicoder.me/problems/no/2092">No.2092 Conjugation</a> (yukicoder contest 363 (2022-10-07) - A問題、diff <font color="brown">406</font>)
-- <a href="https://yukicoder.me/problems/no/2710">No.2710 How many more?</a> (yukicoder contest 425 (MMA Contest 018) (2024-03-31) - E問題、diff <font color="green">990</font>)
-- <a href="https://yukicoder.me/problems/no/2961">No.2961 Shiny Monster Master</a> (yukicoder contest 453 (2024-11-16) - B問題、diff <font color="green">940</font>)
-- <a href="https://yukicoder.me/problems/no/3210">No.3210 Fixed Sign Sequense</a> (yukicoder contest 475 (ゆるCafe) (2025-07-25) - B問題、diff <font color="green">830</font>)
-- <a href="https://yukicoder.me/problems/no/3297">No.3297 Bake Cookies</a> (yukicoder contest MMA Contest 020 (2025-10-05) - D問題、diff <font color="green">966</font>)
-
-##### ★★
-
-- <a href="https://yukicoder.me/problems/no/2124">No.2124 Guess the Permutation</a> (yukicoder contest 368 (2022-11-18) - A問題、diff <font color="green">1158</font>)
-- <a href="https://yukicoder.me/problems/no/2568">No.2568 列辞書順列列</a> (第2回緑以下コンテスト (2023-12-02) - L問題、diff <font color="blue">1632</font>)
-- <a href="https://yukicoder.me/problems/no/2694">No.2694 The Early Bird Catches The Worm</a> (yukicoder contest 423 (Asakatsu Presents 3) (2024-03-22) - D問題、diff <font color="deepskyblue">1276</font>)
-- <a href="https://yukicoder.me/problems/no/2791">No.2791 Beginner Contest</a> (yukicoder contest 434 (2024-06-21) - C問題、diff <font color="deepskyblue">1221</font>)
-- <a href="https://yukicoder.me/problems/no/3164">No.3164 [Chery 7th Tune B] La vie en rose</a> (yukicoder contest 468 Desire for Approval ~Ash blown by the draft leads to the door to a new beginning~ (2025-05-30) - B問題、diff <font color="deepskyblue">1532</font>)
-- <a href="https://yukicoder.me/problems/no/3331">No.3331 Consecutive Cubic Sum</a> (wasd314 さんの単発問題コンテスト (2025-11-02) - A問題、diff <font color="gray">268</font>)
-
-##### ★★☆
-
-- <a href="https://yukicoder.me/problems/no/2111">No.2111 Sum of Diff</a> (yukicoder contest 366 (2022-10-28) - C問題、diff <font color="deepskyblue">1206</font>)
-- <a href="https://yukicoder.me/problems/no/2142">No.2142 Segment Zero</a> (yukicoder contest 370 (2022-12-02) - C問題、diff <font color="blue">1632</font>)
-- <a href="https://yukicoder.me/problems/no/2352">No.2352 Sharpened Knife in Fall</a> (yukicoder contest 393 (2023-06-16) - C問題、diff <font color="deepskyblue">1560</font>)
-- <a href="https://yukicoder.me/problems/no/2419">No.2419 MMA文字列2</a> (MMA Contest 016 (2023-08-12) - F問題、diff <font color="green">810</font>)
-- <a href="https://yukicoder.me/problems/no/2462">No.2462 七人カノン</a> (yukicoder contest 404 (2023-09-08) - C問題、diff <font color="deepskyblue">1358</font>)
-- <a href="https://yukicoder.me/problems/no/2566">No.2566 美しい整数列</a> (第2回緑以下コンテスト (2023-12-02) - J問題、diff <font color="blue">1612</font>)
-- <a href="https://yukicoder.me/problems/no/2625">No.2625 Bouns Ai</a> (yukicoder contest 417 (2024-02-09) - E問題、diff <font color="blue">1654</font>)
-- <a href="https://yukicoder.me/problems/no/2716">No.2716 Falcon Method</a> (yukicoder contest 426 (2024-04-05) - C問題、diff <font color="blue">1809</font>)
-- <a href="https://yukicoder.me/problems/no/2724">No.2724 Coprime Game 1</a> (yukicoder contest 427 (ゲーム問題コンテスト) (2024-04-12) - D問題、diff <font color="blue">1845</font>)
-- <a href="https://yukicoder.me/problems/no/2730">No.2730 Two Types Luggage</a> (yukicoder contest 428 (2024-04-19) - C問題、diff <font color="deepskyblue">1279</font>)
-- <a href="https://yukicoder.me/problems/no/2931">No.2931 Shibuya 109</a> (yukicoder contest 第3回緑以下コンテスト エキストラ (2024-10-12) - A問題、diffデータなし)
-- <a href="https://yukicoder.me/problems/no/3128">No.3128 Isosceles Triangle</a> (yukicoder contest 465 (2025-04-25) - E問題、diff <font color="deepskyblue">1227</font>)
-- <a href="https://yukicoder.me/problems/no/3185">No.3185 Three Abs</a> (yukicoder contest 471 (2025-06-20) - C問題、diff <font color="deepskyblue">1401</font>)
-- <a href="https://yukicoder.me/problems/no/3205">No.3205 Range Pairwise Xor Query</a> (yukicoder contest 474 (2025-07-18) - C問題、diff <font color="green">1133</font>)
-- <a href="https://yukicoder.me/problems/no/3391">No.3391 Line up Dominoes</a> (yukicoder contest 490 (2025-11-28) - E問題、diff <font color="blue">1634</font>)
-- <a href="https://yukicoder.me/problems/no/3409">No.3409 How Many Gift Boxes?</a> (Advent Calendar Contest 2025 (2025-12-01) - P問題、diff <font color="yellowgreen">2359</font>)
-- <a href="https://yukicoder.me/problems/no/3470">No.3470 実行時間の差の合計</a> (yukicoder 2026新ジャッジ contest (2026-03-06) - C問題、diff <font color="green">1038</font>)
-- <a href="https://yukicoder.me/problems/no/3472">No.3472 ジャッジキューの待ち時間クエリ</a> (yukicoder 2026新ジャッジ contest (2026-03-06) - E問題、diff <font color="green">1038</font>)
-- <a href="https://yukicoder.me/problems/no/3513">No.3513 Greedy Yokan Party </a> (yukicoder contest 497 聖光学院プログラミングコンテスト2026 day1 (2026-04-24) - C問題、diff <font color="blue">1637</font>)
-- <a href="https://yukicoder.me/problems/no/3537">No.3537 Thank You!</a> (yukicoder 499 contest (2026-05-08) - E問題、diff <font color="blue">1811</font>)
-
-##### ★★★
-
-- <a href="https://yukicoder.me/problems/no/2279">No.2279 OR Insertion</a> (yukicoder contest 385 (2023-04-21) - E問題、diff <font color="yellowgreen">2153</font>)
-- <a href="https://yukicoder.me/problems/no/2378">No.2378 Cards and Subsequences</a> (yukicoder contest 396 (Asakatsu Presents 2) (2023-07-07) - H問題、diff <font color="orange">2411</font>)
-- <a href="https://yukicoder.me/problems/no/2433">No.2433 Min Increasing Sequence</a> (traP 作問ハッカソンコンテスト 001 (2023-08-18) - J問題、diff <font color="yellowgreen">2042</font>)
-- <a href="https://yukicoder.me/problems/no/2456">No.2456 Stamp Art</a> (yukicoder contest 403 (2023-09-01) - G問題、diff <font color="blue">1998</font>)
-- <a href="https://yukicoder.me/problems/no/2592">No.2592 おでぶなおばけさん 2</a> (Advent Calendar Contest 2023 (2023-12-01) - T問題、diff <font color="orange">2429</font>)
-- <a href="https://yukicoder.me/problems/no/2617">No.2617 容量3のナップザック</a> (yukicoder contest 416 (2024-01-26) - D問題、diff <font color="orange">2491</font>)
-- <a href="https://yukicoder.me/problems/no/2643">No.2643 Many Range Sums Problems</a> (traP 作問ハッカソンコンテスト 002(day2) (2024-02-19) - G問題、diff <font color="orange">2765</font>)
-- <a href="https://yukicoder.me/problems/no/2653">No.2653 [Cherry 6th Tune] Re: start! (Make it Zero!)</a> (yukicoder contest 418 (Re: start!) (2024-02-23) - G問題、diff <font color="yellowgreen">2247</font>)
-- <a href="https://yukicoder.me/problems/no/2687">No.2687 所により大雨</a> (yukicoder contest 422 (第１回 競技プログラミング講習会作問企画コンテスト) (2024-03-20) - I問題、diff <font color="orange">2438</font>)
-- <a href="https://yukicoder.me/problems/no/2833">No.2833 Count Taiko Results</a> (yukicoder contest 439 (2024-08-02) - G問題、diff <font color="orange">2729</font>)
-- <a href="https://yukicoder.me/problems/no/2899">No.2899 Taffy Permutation</a> (yukicoder contest 447 オムニバス (2024-09-20) - F問題、diff <font color="orange">2477</font>)
-- <a href="https://yukicoder.me/problems/no/2966">No.2966 Simple Plus Minus Problem</a> (yukicoder contest 453 (2024-11-16) - G問題、diff <font color="yellowgreen">2130</font>)
-- <a href="https://yukicoder.me/problems/no/3050">No.3050 Prefix Removal</a> (yukicoder contest 459 (2025-03-07) - C問題、diff <font color="blue">1976</font>)
-- <a href="https://yukicoder.me/problems/no/3146">No.3146 RE: Parentheses Counting</a> (yukicoder contest 467 (2025-05-16) - G問題、diff <font color="yellowgreen">2236</font>)
-- <a href="https://yukicoder.me/problems/no/3187">No.3187 Mingle</a> (yukicoder contest 471 (2025-06-20) - E問題、diff <font color="yellowgreen">2242</font>)
-- <a href="https://yukicoder.me/problems/no/3332">No.3332 Consecutive Power Sum (Small)</a> (wasd314 さんの単発問題コンテスト (2025-11-02) - B問題、diff <font color="deepskyblue">1247</font>)
-- <a href="https://yukicoder.me/problems/no/3367">No.3367 Looks like a convolution</a> (yukicoder contest 作問ハッカソンコンテスト 003 Day2 (2025-11-17) - F問題、diff <font color="orange">2523</font>)
-- <a href="https://yukicoder.me/problems/no/3516">No.3516 Very Large Range Mod</a> (yukicoder contest 497 聖光学院プログラミングコンテスト2026 day1 (2026-04-24) - F問題、diff <font color="yellowgreen">2264</font>)
-
-##### ★★★☆
-
-- <a href="https://yukicoder.me/problems/no/2115">No.2115 Making Forest Easy</a> (yukicoder contest 366 (2022-10-28) - G問題、diff <font color="red">2833</font>)
-- <a href="https://yukicoder.me/problems/no/2170">No.2170 Left Addition Machine</a> (Advent Calendar Contest 2022 (2022-12-01) - W問題、diff <font color="red">2804</font>)
-- <a href="https://yukicoder.me/problems/no/2956">No.2956 Substitute with Average</a> (yukicoder contest 452 (2024-11-08) - D問題、diff <font color="yellowgreen">2386</font>)
 
 　
 <h2 id="二部グラフ判定">236. 二部グラフ判定</h2>
@@ -10066,7 +10037,92 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2955">No.2955 Pizza Delivery Plan</a> (yukicoder contest 452 (2024-11-08) - C問題、diff <font color="blue">1728</font>)
 
 　
-<h2 id="集合管理">239. <a href="https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#集合管理">集合管理</a></h2>
+<h2 id="累積和">239. 累積和</h2>
+
+### 難易度統計
+
+「累積和」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
+- 全体: ★2.5／diff <font color="blue">1741</font>
+- 2026年: ★2.5／diff <font color="blue">1714</font>
+- 2025年: ★2.4／diff <font color="deepskyblue">1541</font>
+- 2024年: ★2.5／diff <font color="blue">1917</font>
+- 2023年: ★2.7／diff <font color="blue">1800</font>
+- 2022年: ★2.5／diff <font color="blue">1673</font>
+
+### レベル別問題一覧
+
+「累積和」を主たる解法に含む問題のレベルごとの一覧です。
+
+##### ★☆
+
+- <a href="https://yukicoder.me/problems/no/2092">No.2092 Conjugation</a> (yukicoder contest 363 (2022-10-07) - A問題、diff <font color="brown">406</font>)
+- <a href="https://yukicoder.me/problems/no/2710">No.2710 How many more?</a> (yukicoder contest 425 (MMA Contest 018) (2024-03-31) - E問題、diff <font color="green">990</font>)
+- <a href="https://yukicoder.me/problems/no/2961">No.2961 Shiny Monster Master</a> (yukicoder contest 453 (2024-11-16) - B問題、diff <font color="green">940</font>)
+- <a href="https://yukicoder.me/problems/no/3210">No.3210 Fixed Sign Sequense</a> (yukicoder contest 475 (ゆるCafe) (2025-07-25) - B問題、diff <font color="green">830</font>)
+- <a href="https://yukicoder.me/problems/no/3297">No.3297 Bake Cookies</a> (yukicoder contest MMA Contest 020 (2025-10-05) - D問題、diff <font color="green">966</font>)
+
+##### ★★
+
+- <a href="https://yukicoder.me/problems/no/2124">No.2124 Guess the Permutation</a> (yukicoder contest 368 (2022-11-18) - A問題、diff <font color="green">1158</font>)
+- <a href="https://yukicoder.me/problems/no/2568">No.2568 列辞書順列列</a> (第2回緑以下コンテスト (2023-12-02) - L問題、diff <font color="blue">1632</font>)
+- <a href="https://yukicoder.me/problems/no/2694">No.2694 The Early Bird Catches The Worm</a> (yukicoder contest 423 (Asakatsu Presents 3) (2024-03-22) - D問題、diff <font color="deepskyblue">1276</font>)
+- <a href="https://yukicoder.me/problems/no/2791">No.2791 Beginner Contest</a> (yukicoder contest 434 (2024-06-21) - C問題、diff <font color="deepskyblue">1221</font>)
+- <a href="https://yukicoder.me/problems/no/3164">No.3164 [Chery 7th Tune B] La vie en rose</a> (yukicoder contest 468 Desire for Approval ~Ash blown by the draft leads to the door to a new beginning~ (2025-05-30) - B問題、diff <font color="deepskyblue">1532</font>)
+- <a href="https://yukicoder.me/problems/no/3331">No.3331 Consecutive Cubic Sum</a> (wasd314 さんの単発問題コンテスト (2025-11-02) - A問題、diff <font color="gray">268</font>)
+
+##### ★★☆
+
+- <a href="https://yukicoder.me/problems/no/2111">No.2111 Sum of Diff</a> (yukicoder contest 366 (2022-10-28) - C問題、diff <font color="deepskyblue">1206</font>)
+- <a href="https://yukicoder.me/problems/no/2142">No.2142 Segment Zero</a> (yukicoder contest 370 (2022-12-02) - C問題、diff <font color="blue">1632</font>)
+- <a href="https://yukicoder.me/problems/no/2352">No.2352 Sharpened Knife in Fall</a> (yukicoder contest 393 (2023-06-16) - C問題、diff <font color="deepskyblue">1560</font>)
+- <a href="https://yukicoder.me/problems/no/2419">No.2419 MMA文字列2</a> (MMA Contest 016 (2023-08-12) - F問題、diff <font color="green">810</font>)
+- <a href="https://yukicoder.me/problems/no/2462">No.2462 七人カノン</a> (yukicoder contest 404 (2023-09-08) - C問題、diff <font color="deepskyblue">1358</font>)
+- <a href="https://yukicoder.me/problems/no/2566">No.2566 美しい整数列</a> (第2回緑以下コンテスト (2023-12-02) - J問題、diff <font color="blue">1612</font>)
+- <a href="https://yukicoder.me/problems/no/2625">No.2625 Bouns Ai</a> (yukicoder contest 417 (2024-02-09) - E問題、diff <font color="blue">1654</font>)
+- <a href="https://yukicoder.me/problems/no/2716">No.2716 Falcon Method</a> (yukicoder contest 426 (2024-04-05) - C問題、diff <font color="blue">1809</font>)
+- <a href="https://yukicoder.me/problems/no/2724">No.2724 Coprime Game 1</a> (yukicoder contest 427 (ゲーム問題コンテスト) (2024-04-12) - D問題、diff <font color="blue">1845</font>)
+- <a href="https://yukicoder.me/problems/no/2730">No.2730 Two Types Luggage</a> (yukicoder contest 428 (2024-04-19) - C問題、diff <font color="deepskyblue">1279</font>)
+- <a href="https://yukicoder.me/problems/no/2931">No.2931 Shibuya 109</a> (yukicoder contest 第3回緑以下コンテスト エキストラ (2024-10-12) - A問題、diffデータなし)
+- <a href="https://yukicoder.me/problems/no/3128">No.3128 Isosceles Triangle</a> (yukicoder contest 465 (2025-04-25) - E問題、diff <font color="deepskyblue">1227</font>)
+- <a href="https://yukicoder.me/problems/no/3185">No.3185 Three Abs</a> (yukicoder contest 471 (2025-06-20) - C問題、diff <font color="deepskyblue">1401</font>)
+- <a href="https://yukicoder.me/problems/no/3205">No.3205 Range Pairwise Xor Query</a> (yukicoder contest 474 (2025-07-18) - C問題、diff <font color="green">1133</font>)
+- <a href="https://yukicoder.me/problems/no/3391">No.3391 Line up Dominoes</a> (yukicoder contest 490 (2025-11-28) - E問題、diff <font color="blue">1634</font>)
+- <a href="https://yukicoder.me/problems/no/3409">No.3409 How Many Gift Boxes?</a> (Advent Calendar Contest 2025 (2025-12-01) - P問題、diff <font color="yellowgreen">2359</font>)
+- <a href="https://yukicoder.me/problems/no/3470">No.3470 実行時間の差の合計</a> (yukicoder 2026新ジャッジ contest (2026-03-06) - C問題、diff <font color="green">1038</font>)
+- <a href="https://yukicoder.me/problems/no/3472">No.3472 ジャッジキューの待ち時間クエリ</a> (yukicoder 2026新ジャッジ contest (2026-03-06) - E問題、diff <font color="green">1038</font>)
+- <a href="https://yukicoder.me/problems/no/3513">No.3513 Greedy Yokan Party </a> (yukicoder contest 497 聖光学院プログラミングコンテスト2026 day1 (2026-04-24) - C問題、diff <font color="blue">1637</font>)
+- <a href="https://yukicoder.me/problems/no/3537">No.3537 Thank You!</a> (yukicoder 499 contest (2026-05-08) - E問題、diff <font color="blue">1811</font>)
+- <a href="https://yukicoder.me/problems/no/3560">No.3560 Giant Salamander</a> (KCPC新歓杯2026 (2026-05-29) - F問題、diff <font color="orange">2499</font>)
+
+##### ★★★
+
+- <a href="https://yukicoder.me/problems/no/2279">No.2279 OR Insertion</a> (yukicoder contest 385 (2023-04-21) - E問題、diff <font color="yellowgreen">2153</font>)
+- <a href="https://yukicoder.me/problems/no/2378">No.2378 Cards and Subsequences</a> (yukicoder contest 396 (Asakatsu Presents 2) (2023-07-07) - H問題、diff <font color="orange">2411</font>)
+- <a href="https://yukicoder.me/problems/no/2433">No.2433 Min Increasing Sequence</a> (traP 作問ハッカソンコンテスト 001 (2023-08-18) - J問題、diff <font color="yellowgreen">2042</font>)
+- <a href="https://yukicoder.me/problems/no/2456">No.2456 Stamp Art</a> (yukicoder contest 403 (2023-09-01) - G問題、diff <font color="blue">1998</font>)
+- <a href="https://yukicoder.me/problems/no/2592">No.2592 おでぶなおばけさん 2</a> (Advent Calendar Contest 2023 (2023-12-01) - T問題、diff <font color="orange">2429</font>)
+- <a href="https://yukicoder.me/problems/no/2617">No.2617 容量3のナップザック</a> (yukicoder contest 416 (2024-01-26) - D問題、diff <font color="orange">2491</font>)
+- <a href="https://yukicoder.me/problems/no/2643">No.2643 Many Range Sums Problems</a> (traP 作問ハッカソンコンテスト 002(day2) (2024-02-19) - G問題、diff <font color="orange">2765</font>)
+- <a href="https://yukicoder.me/problems/no/2653">No.2653 [Cherry 6th Tune] Re: start! (Make it Zero!)</a> (yukicoder contest 418 (Re: start!) (2024-02-23) - G問題、diff <font color="yellowgreen">2247</font>)
+- <a href="https://yukicoder.me/problems/no/2687">No.2687 所により大雨</a> (yukicoder contest 422 (第１回 競技プログラミング講習会作問企画コンテスト) (2024-03-20) - I問題、diff <font color="orange">2438</font>)
+- <a href="https://yukicoder.me/problems/no/2833">No.2833 Count Taiko Results</a> (yukicoder contest 439 (2024-08-02) - G問題、diff <font color="orange">2729</font>)
+- <a href="https://yukicoder.me/problems/no/2899">No.2899 Taffy Permutation</a> (yukicoder contest 447 オムニバス (2024-09-20) - F問題、diff <font color="orange">2477</font>)
+- <a href="https://yukicoder.me/problems/no/2966">No.2966 Simple Plus Minus Problem</a> (yukicoder contest 453 (2024-11-16) - G問題、diff <font color="yellowgreen">2130</font>)
+- <a href="https://yukicoder.me/problems/no/3050">No.3050 Prefix Removal</a> (yukicoder contest 459 (2025-03-07) - C問題、diff <font color="blue">1976</font>)
+- <a href="https://yukicoder.me/problems/no/3146">No.3146 RE: Parentheses Counting</a> (yukicoder contest 467 (2025-05-16) - G問題、diff <font color="yellowgreen">2236</font>)
+- <a href="https://yukicoder.me/problems/no/3187">No.3187 Mingle</a> (yukicoder contest 471 (2025-06-20) - E問題、diff <font color="yellowgreen">2242</font>)
+- <a href="https://yukicoder.me/problems/no/3332">No.3332 Consecutive Power Sum (Small)</a> (wasd314 さんの単発問題コンテスト (2025-11-02) - B問題、diff <font color="deepskyblue">1247</font>)
+- <a href="https://yukicoder.me/problems/no/3367">No.3367 Looks like a convolution</a> (yukicoder contest 作問ハッカソンコンテスト 003 Day2 (2025-11-17) - F問題、diff <font color="orange">2523</font>)
+- <a href="https://yukicoder.me/problems/no/3516">No.3516 Very Large Range Mod</a> (yukicoder contest 497 聖光学院プログラミングコンテスト2026 day1 (2026-04-24) - F問題、diff <font color="yellowgreen">2264</font>)
+
+##### ★★★☆
+
+- <a href="https://yukicoder.me/problems/no/2115">No.2115 Making Forest Easy</a> (yukicoder contest 366 (2022-10-28) - G問題、diff <font color="red">2833</font>)
+- <a href="https://yukicoder.me/problems/no/2170">No.2170 Left Addition Machine</a> (Advent Calendar Contest 2022 (2022-12-01) - W問題、diff <font color="red">2804</font>)
+- <a href="https://yukicoder.me/problems/no/2956">No.2956 Substitute with Average</a> (yukicoder contest 452 (2024-11-08) - D問題、diff <font color="yellowgreen">2386</font>)
+
+　
+<h2 id="集合管理">240. <a href="https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#集合管理">集合管理</a></h2>
 
 ### 難易度統計
 
@@ -10199,7 +10255,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3494">No.3494 一点挿入区間和取得</a> (yukicoder contest 496 (2026-04-03) - G問題、diff <font color="yellowgreen">2083</font>)
 
 　
-<h2 id="DAG上の経路数え上げ">240. DAG上の経路数え上げ</h2>
+<h2 id="DAG上の経路数え上げ">241. DAG上の経路数え上げ</h2>
 
 ### 難易度統計
 
@@ -10235,7 +10291,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2966">No.2966 Simple Plus Minus Problem</a> (yukicoder contest 453 (2024-11-16) - G問題、diff <font color="yellowgreen">2130</font>)
 
 　
-<h2 id="経路数え上げ">241. 経路数え上げ</h2>
+<h2 id="経路数え上げ">242. 経路数え上げ</h2>
 
 ### 難易度統計
 
@@ -10283,7 +10339,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3315">No.3315 FPS Game</a> (yukicoder contest 486 オムニバス (2025-10-24) - H問題、diff <font color="yellowgreen">2308</font>)
 
 　
-<h2 id="部分集合DP">242. 部分集合DP</h2>
+<h2 id="部分集合DP">243. 部分集合DP</h2>
 
 ### 難易度統計
 
@@ -10305,7 +10361,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2955">No.2955 Pizza Delivery Plan</a> (yukicoder contest 452 (2024-11-08) - C問題、diff <font color="blue">1728</font>)
 
 　
-<h2 id="ド・モルガンの法則">243. ド・モルガンの法則</h2>
+<h2 id="ド・モルガンの法則">244. ド・モルガンの法則</h2>
 
 ### 難易度統計
 
@@ -10345,7 +10401,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3119">No.3119 A Little Cheat</a> (CPCTF 2025 : PPC (2025-04-18) - M問題、diff <font color="yellowgreen">2315</font>)
 
 　
-<h2 id="外積による三角形の面積計算">244. 外積による三角形の面積計算</h2>
+<h2 id="外積による三角形の面積計算">245. 外積による三角形の面積計算</h2>
 
 ### 難易度統計
 
@@ -10375,7 +10431,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3437">No.3437 [Cherry 8th Tune C] Silhouette</a> (yukicoder contest 491 Go on Back!! (2026-01-23) - E問題、diff <font color="yellowgreen">2163</font>)
 
 　
-<h2 id="素数列挙">245. 素数列挙</h2>
+<h2 id="素数列挙">246. 素数列挙</h2>
 
 ### 難易度統計
 
@@ -10426,7 +10482,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2725">No.2725 Coprime Game 2</a> (yukicoder contest 427 (ゲーム問題コンテスト) (2024-04-12) - E問題、diff <font color="blue">1944</font>)
 
 　
-<h2 id="Vieta Jumping">246. Vieta Jumping</h2>
+<h2 id="Vieta Jumping">247. Vieta Jumping</h2>
 
 ### 難易度統計
 
@@ -10447,7 +10503,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2253">No.2253 Ignore Subtle Differences</a> (yukicoder contest 382 (2023-03-24) - B問題、diff <font color="blue">1768</font>)
 
 　
-<h2 id="価値上限ありナップサック最適化">247. 価値上限ありナップサック最適化</h2>
+<h2 id="価値上限ありナップサック最適化">248. 価値上限ありナップサック最適化</h2>
 
 ### 難易度統計
 
@@ -10468,7 +10524,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2329">No.2329 Nafmo、イカサマをする</a> (MMA Contest 015  (2023-05-28) - H問題、diff <font color="blue">1774</font>)
 
 　
-<h2 id="凸多角形の面積計算">248. 凸多角形の面積計算</h2>
+<h2 id="凸多角形の面積計算">249. 凸多角形の面積計算</h2>
 
 ### 難易度統計
 
@@ -10489,7 +10545,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3100">No.3100 Parallel Translated</a> (yukicoder contest 464 (2025-04-11) - B問題、diff <font color="blue">1777</font>)
 
 　
-<h2 id="相手の選択肢をなくす戦略">249. 相手の選択肢をなくす戦略</h2>
+<h2 id="相手の選択肢をなくす戦略">250. 相手の選択肢をなくす戦略</h2>
 
 ### 難易度統計
 
@@ -10514,13 +10570,46 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3137">No.3137 Non-Intersect Chord Triangle Game</a> (yukicoder contest 466 オムニバスコンテスト (2025-05-02) - F問題、diff <font color="yellowgreen">2066</font>)
 
 　
-<h2 id="冪乗計算">250. 冪乗計算</h2>
+<h2 id="２種の数値を足し引きして１種に帰着">251. ２種の数値を足し引きして１種に帰着</h2>
+
+### 難易度統計
+
+「２種の数値を足し引きして１種に帰着」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
+- 全体: ★2.5／diff <font color="blue">1803</font>
+- 2026年: ★データなし／diffデータなし
+- 2025年: ★データなし／diffデータなし
+- 2024年: ★2.5／diff <font color="blue">1803</font>
+- 2023年: ★データなし／diffデータなし
+- 2022年: ★データなし／diffデータなし
+
+### レベル別問題一覧
+
+「２種の数値を足し引きして１種に帰着」を主たる解法に含む問題のレベルごとの一覧です。
+
+##### ★☆
+
+- <a href="https://yukicoder.me/problems/no/2852">No.2852 Yakitori Optimization Problem</a> (yukicoder contest 442 (2024-08-25) - C問題、diff <font color="brown">774</font>)
+
+##### ★★☆
+
+- <a href="https://yukicoder.me/problems/no/2623">No.2623 Room Allocation</a> (yukicoder contest 417 (2024-02-09) - C問題、diff <font color="deepskyblue">1328</font>)
+- <a href="https://yukicoder.me/problems/no/2723">No.2723 Fortune-telling by Flowers</a> (yukicoder contest 427 (ゲーム問題コンテスト) (2024-04-12) - C問題、diff <font color="blue">1771</font>)
+- <a href="https://yukicoder.me/problems/no/2856">No.2856 Junk Market Game</a> (yukicoder contest 442 (2024-08-25) - G問題、diff <font color="blue">1824</font>)
+
+##### ★★★
+
+- <a href="https://yukicoder.me/problems/no/2603">No.2603 Tone Correction</a> (yukicoder contest 414 (2024-01-12) - E問題、diff <font color="orange">2536</font>)
+- <a href="https://yukicoder.me/problems/no/2933">No.2933 Range ROT Query</a> (yukicoder contest 第3回緑以下コンテスト エキストラ (2024-10-12) - C問題、diffデータなし)
+- <a href="https://yukicoder.me/problems/no/2957">No.2957 Combo Deck Builder</a> (yukicoder contest 452 (2024-11-08) - E問題、diff <font color="orange">2585</font>)
+
+　
+<h2 id="冪乗計算">252. 冪乗計算</h2>
 
 ### 難易度統計
 
 「冪乗計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
-- 全体: ★2.5／diff <font color="blue">1801</font>
-- 2026年: ★2.5／diff <font color="blue">1712</font>
+- 全体: ★2.5／diff <font color="blue">1805</font>
+- 2026年: ★2.5／diff <font color="blue">1762</font>
 - 2025年: ★2.4／diff <font color="blue">1836</font>
 - 2024年: ★2.5／diff <font color="blue">1854</font>
 - 2023年: ★2.5／diff <font color="blue">1769</font>
@@ -10646,42 +10735,10 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3522">No.3522 冪乗乗</a> (yukicoder contest 498 リアクティブコンテスト (2026-05-01) - E問題、diff <font color="yellowgreen">2111</font>)
 - <a href="https://yukicoder.me/problems/no/3538">No.3538 Not First Place</a> (yukicoder 499 contest (2026-05-08) - F問題、diff <font color="yellowgreen">2255</font>)
 - <a href="https://yukicoder.me/problems/no/3551">No.3551 Regions by Random Points 2</a> (yukicoder contest 500 (2026-05-22) - E問題、diff <font color="blue">1768</font>)
+- <a href="https://yukicoder.me/problems/no/3563">No.3563 No T-Junctions in Kyoto</a> (KCPC新歓杯2026 (2026-05-29) - I問題、diff <font color="yellowgreen">2211</font>)
 
 　
-<h2 id="２種の数値を足し引きして１種に帰着">251. ２種の数値を足し引きして１種に帰着</h2>
-
-### 難易度統計
-
-「２種の数値を足し引きして１種に帰着」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
-- 全体: ★2.5／diff <font color="blue">1803</font>
-- 2026年: ★データなし／diffデータなし
-- 2025年: ★データなし／diffデータなし
-- 2024年: ★2.5／diff <font color="blue">1803</font>
-- 2023年: ★データなし／diffデータなし
-- 2022年: ★データなし／diffデータなし
-
-### レベル別問題一覧
-
-「２種の数値を足し引きして１種に帰着」を主たる解法に含む問題のレベルごとの一覧です。
-
-##### ★☆
-
-- <a href="https://yukicoder.me/problems/no/2852">No.2852 Yakitori Optimization Problem</a> (yukicoder contest 442 (2024-08-25) - C問題、diff <font color="brown">774</font>)
-
-##### ★★☆
-
-- <a href="https://yukicoder.me/problems/no/2623">No.2623 Room Allocation</a> (yukicoder contest 417 (2024-02-09) - C問題、diff <font color="deepskyblue">1328</font>)
-- <a href="https://yukicoder.me/problems/no/2723">No.2723 Fortune-telling by Flowers</a> (yukicoder contest 427 (ゲーム問題コンテスト) (2024-04-12) - C問題、diff <font color="blue">1771</font>)
-- <a href="https://yukicoder.me/problems/no/2856">No.2856 Junk Market Game</a> (yukicoder contest 442 (2024-08-25) - G問題、diff <font color="blue">1824</font>)
-
-##### ★★★
-
-- <a href="https://yukicoder.me/problems/no/2603">No.2603 Tone Correction</a> (yukicoder contest 414 (2024-01-12) - E問題、diff <font color="orange">2536</font>)
-- <a href="https://yukicoder.me/problems/no/2933">No.2933 Range ROT Query</a> (yukicoder contest 第3回緑以下コンテスト エキストラ (2024-10-12) - C問題、diffデータなし)
-- <a href="https://yukicoder.me/problems/no/2957">No.2957 Combo Deck Builder</a> (yukicoder contest 452 (2024-11-08) - E問題、diff <font color="orange">2585</font>)
-
-　
-<h2 id="分割の均等化による凸関数の和や積の最適化">252. 分割の均等化による凸関数の和や積の最適化</h2>
+<h2 id="分割の均等化による凸関数の和や積の最適化">253. 分割の均等化による凸関数の和や積の最適化</h2>
 
 ### 難易度統計
 
@@ -10712,7 +10769,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3284">No.3284 Picnic with Friends</a> (yukicoder contest 484 (2025-09-26) - F問題、diff <font color="yellowgreen">2382</font>)
 
 　
-<h2 id="到達可能性判定">253. 到達可能性判定</h2>
+<h2 id="到達可能性判定">254. 到達可能性判定</h2>
 
 ### 難易度統計
 
@@ -10753,7 +10810,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3034">No.3034 コーエン-マコーレー抽象単体複体</a> (yukicoder contest 457 (2025-02-21) - H問題、diff <font color="red">2892</font>)
 
 　
-<h2 id="2集合間距離計算">254. 2集合間距離計算</h2>
+<h2 id="2集合間距離計算">255. 2集合間距離計算</h2>
 
 ### 難易度統計
 
@@ -10775,7 +10832,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3072">No.3072 Speedrun Query</a> (yukicoder contest 461 (2025-03-21) - I問題、diff <font color="blue">1671</font>)
 
 　
-<h2 id="ディオファントス方程式の解の存在判定">255. ディオファントス方程式の解の存在判定</h2>
+<h2 id="ディオファントス方程式の解の存在判定">256. ディオファントス方程式の解の存在判定</h2>
 
 ### 難易度統計
 
@@ -10813,7 +10870,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3408">No.3408 1215 Segments</a> (Advent Calendar Contest 2025 (2025-12-01) - O問題、diff <font color="red">2872</font>)
 
 　
-<h2 id="リアクティブによる特定">256. リアクティブによる特定</h2>
+<h2 id="リアクティブによる特定">257. リアクティブによる特定</h2>
 
 ### 難易度統計
 
@@ -10873,13 +10930,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2831">No.2831 Cos Bomb Crasher</a> (yukicoder contest 439 (2024-08-02) - E問題、diff <font color="red">3143</font>)
 
 　
-<h2 id="modint型">257. modint型</h2>
+<h2 id="modint型">258. modint型</h2>
 
 ### 難易度統計
 
 「modint型」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
-- 全体: ★2.5／diff <font color="blue">1819</font>
-- 2026年: ★2.5／diff <font color="blue">1728</font>
+- 全体: ★2.5／diff <font color="blue">1821</font>
+- 2026年: ★2.6／diff <font color="blue">1755</font>
 - 2025年: ★2.4／diff <font color="blue">1756</font>
 - 2024年: ★2.5／diff <font color="blue">1873</font>
 - 2023年: ★2.5／diff <font color="blue">1803</font>
@@ -11088,9 +11145,10 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3529">No.3529 2p Teleportations</a> (yukicoder contest 聖光学院プログラミングコンテスト2026 day2 (2026-05-04) - D問題、diff <font color="yellowgreen">2285</font>)
 - <a href="https://yukicoder.me/problems/no/3538">No.3538 Not First Place</a> (yukicoder 499 contest (2026-05-08) - F問題、diff <font color="yellowgreen">2255</font>)
 - <a href="https://yukicoder.me/problems/no/3551">No.3551 Regions by Random Points 2</a> (yukicoder contest 500 (2026-05-22) - E問題、diff <font color="blue">1768</font>)
+- <a href="https://yukicoder.me/problems/no/3563">No.3563 No T-Junctions in Kyoto</a> (KCPC新歓杯2026 (2026-05-29) - I問題、diff <font color="yellowgreen">2211</font>)
 
 　
-<h2 id="01列の累積和との内積計算">258. 01列の累積和との内積計算</h2>
+<h2 id="01列の累積和との内積計算">259. 01列の累積和との内積計算</h2>
 
 ### 難易度統計
 
@@ -11120,7 +11178,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3377">No.3377 Sigma Index × A Problems</a> (yukicoder contest 489 (2025-11-21) - F問題、diff <font color="orange">2516</font>)
 
 　
-<h2 id="内積と作用素の転置の関係">259. 内積と作用素の転置の関係</h2>
+<h2 id="内積と作用素の転置の関係">260. 内積と作用素の転置の関係</h2>
 
 ### 難易度統計
 
@@ -11150,7 +11208,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3377">No.3377 Sigma Index × A Problems</a> (yukicoder contest 489 (2025-11-21) - F問題、diff <font color="orange">2516</font>)
 
 　
-<h2 id="操作・遷移の纏め上げ">260. 操作・遷移の纏め上げ</h2>
+<h2 id="操作・遷移の纏め上げ">261. 操作・遷移の纏め上げ</h2>
 
 ### 難易度統計
 
@@ -11209,7 +11267,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2995">No.2995 The Ruler Sequence Concatenation</a> (Advent Calendar Contest 2024 (2024-12-01) - S問題、diff <font color="darkgoldenrod ">3309</font>)
 
 　
-<h2 id="多項定理">261. 多項定理</h2>
+<h2 id="多項定理">262. 多項定理</h2>
 
 ### 難易度統計
 
@@ -11235,7 +11293,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2582">No.2582 Random Average^K</a> (Advent Calendar Contest 2023 (2023-12-01) - J問題、diff <font color="orange">2401</font>)
 
 　
-<h2 id="平方数列の累積和計算">262. 平方数列の累積和計算</h2>
+<h2 id="平方数列の累積和計算">263. 平方数列の累積和計算</h2>
 
 ### 難易度統計
 
@@ -11265,7 +11323,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3328">No.3328 岩井ツリーグラフ</a> (第2回 岩井星人アンソロジープログラミングコンテスト Extra (2025-11-01) - F問題、diff <font color="deepskyblue">1461</font>)
 
 　
-<h2 id="DAGを骨格に持つ二重グラフの最短経路長計算">263. DAGを骨格に持つ二重グラフの最短経路長計算</h2>
+<h2 id="DAGを骨格に持つ二重グラフの最短経路長計算">264. DAGを骨格に持つ二重グラフの最短経路長計算</h2>
 
 ### 難易度統計
 
@@ -11296,57 +11354,6 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2657">No.2657 Falling Block Game</a> (yukicoder contest 419 (2024-03-01) - C問題、diff <font color="yellowgreen">2117</font>)
 - <a href="https://yukicoder.me/problems/no/2690">No.2690 A present from B (Hard)</a> (単発出題、diffデータなし)
 - <a href="https://yukicoder.me/problems/no/3121">No.3121 Prime Dance</a> (CPCTF 2025 : PPC (2025-04-18) - O問題、diff <font color="orange">2436</font>)
-
-　
-<h2 id="ミラー戦略">264. ミラー戦略</h2>
-
-### 難易度統計
-
-「ミラー戦略」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
-- 全体: ★2.5／diff <font color="blue">1843</font>
-- 2026年: ★データなし／diffデータなし
-- 2025年: ★2.5／diff <font color="yellowgreen">2042</font>
-- 2024年: ★2.4／diff <font color="blue">1764</font>
-- 2023年: ★2.6／diff <font color="deepskyblue">1590</font>
-- 2022年: ★2.5／diff <font color="blue">1905</font>
-
-### レベル別問題一覧
-
-「ミラー戦略」を主たる解法に含む問題のレベルごとの一覧です。
-
-##### ★☆
-
-- <a href="https://yukicoder.me/problems/no/2721">No.2721 "Don't say N" Game</a> (yukicoder contest 427 (ゲーム問題コンテスト) (2024-04-12) - A問題、diff <font color="brown">426</font>)
-- <a href="https://yukicoder.me/problems/no/2925">No.2925 2-Letter Shiritori</a> (yukicoder contest 第3回緑以下コンテスト (2024-10-12) - G問題、diff <font color="green">1180</font>)
-
-##### ★★
-
-- <a href="https://yukicoder.me/problems/no/2282">No.2282 Boxed Nim</a> (yukicoder contest 386 (2023-04-28) - A問題、diff <font color="green">912</font>)
-- <a href="https://yukicoder.me/problems/no/2760">No.2760 not fair position game</a> (yukicoder contest 430 (2024-05-17) - D問題、diff <font color="deepskyblue">1498</font>)
-- <a href="https://yukicoder.me/problems/no/3112">No.3112 Decrement or Mod Game</a> (CPCTF 2025 : PPC (2025-04-18) - F問題、diff <font color="deepskyblue">1518</font>)
-- <a href="https://yukicoder.me/problems/no/3300">No.3300 Frog Game</a> (yukicoder contest MMA Contest 020 (2025-10-05) - G問題、diff <font color="blue">1698</font>)
-
-##### ★★☆
-
-- <a href="https://yukicoder.me/problems/no/2059">No.2059 Odd Move Nim</a> (yukicoder contest 358 (2022-08-26) - D問題、diff <font color="yellowgreen">2008</font>)
-- <a href="https://yukicoder.me/problems/no/2126">No.2126 MEX Game</a> (yukicoder contest 368 (2022-11-18) - C問題、diff <font color="blue">1803</font>)
-- <a href="https://yukicoder.me/problems/no/2481">No.2481 Shiritori</a> (yukicoder contest 405 技術室奥プログラミングコンテスト#7 Day1 (2023-09-22) - C問題、diff <font color="blue">1706</font>)
-- <a href="https://yukicoder.me/problems/no/3342">No.3342 AAB Game</a> (yukicoder contest 作問ハッカソンコンテスト 003 Day1 (2025-11-13) - C問題、diff <font color="orange">2620</font>)
-- <a href="https://yukicoder.me/problems/no/3395">No.3395 Range Flipping Game</a> (Advent Calendar Contest 2025 (2025-12-01) - B問題、diff <font color="blue">1844</font>)
-
-##### ★★★
-
-- <a href="https://yukicoder.me/problems/no/2278">No.2278 Time Bomb Game 2</a> (yukicoder contest 385 (2023-04-21) - D問題、diff <font color="yellowgreen">2153</font>)
-- <a href="https://yukicoder.me/problems/no/2476">No.2476 Knight Game</a> (Japan Alumni Group Summer Camp 2023 Day 2 (2023-09-17) - J問題、diffデータなし)
-- <a href="https://yukicoder.me/problems/no/2619">No.2619 Sorted Nim</a> (yukicoder contest 416 (2024-01-26) - F問題、diff <font color="yellowgreen">2349</font>)
-- <a href="https://yukicoder.me/problems/no/2631">No.2631 Rectangle Grid Game</a> (traP 作問ハッカソンコンテスト 002(day1) (2024-02-16) - D問題、diff <font color="yellowgreen">2176</font>)
-- <a href="https://yukicoder.me/problems/no/2726">No.2726 Rooted Tree Nim</a> (yukicoder contest 427 (ゲーム問題コンテスト) (2024-04-12) - F問題、diff <font color="yellowgreen">2046</font>)
-- <a href="https://yukicoder.me/problems/no/2814">No.2814 Block Game</a> (yukicoder contest 437 ('09 Contest 002 day2)  (2024-07-19) - D問題、diff <font color="orange">2676</font>)
-- <a href="https://yukicoder.me/problems/no/3120">No.3120 Lower Nim</a> (CPCTF 2025 : PPC (2025-04-18) - N問題、diff <font color="yellowgreen">2288</font>)
-
-##### ★★★☆
-
-- <a href="https://yukicoder.me/problems/no/3090">No.3090 NimNim</a> (yukicoder contest 463 (2025-04-04) - H問題、diff <font color="yellowgreen">2288</font>)
 
 　
 <h2 id="Dilworthの定理">265. Dilworthの定理</h2>
@@ -11475,7 +11482,110 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2381">No.2381 Gift Exchange Party</a> (yukicoder contest 397(群論コンテスト) (2023-07-14) - C問題、diff <font color="blue">1859</font>)
 
 　
-<h2 id="外積計算">270. 外積計算</h2>
+<h2 id="損をしない変形">270. <a href="https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#損をしない変形">損をしない変形</a></h2>
+
+### 難易度統計
+
+「[損をしない変形](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#損をしない変形)」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
+- 全体: ★2.5／diff <font color="blue">1860</font>
+- 2026年: ★2／diff <font color="deepskyblue">1403</font>
+- 2025年: ★2.6／diff <font color="blue">1797</font>
+- 2024年: ★2.6／diff <font color="blue">1980</font>
+- 2023年: ★2.4／diff <font color="blue">1734</font>
+- 2022年: ★3.1／diff <font color="yellowgreen">2399</font>
+
+### レベル別問題一覧
+
+「[損をしない変形](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#損をしない変形)」を主たる解法に含む問題のレベルごとの一覧です。
+
+##### ★☆
+
+- <a href="https://yukicoder.me/problems/no/2259">No.2259 Gas Station</a> (yukicoder contest 383 (2023-04-07) - A問題、diff <font color="brown">744</font>)
+- <a href="https://yukicoder.me/problems/no/2729">No.2729 Addition and Multiplication in yukicoder (Easy)</a> (yukicoder contest 428 (2024-04-19) - B問題、diff <font color="green">919</font>)
+- <a href="https://yukicoder.me/problems/no/2738">No.2738 CPC To F</a> (CPCTF 2024 : PPC (2024-04-20) - C問題、diff <font color="deepskyblue">1245</font>)
+- <a href="https://yukicoder.me/problems/no/3067">No.3067 +10 Seconds Clock</a> (yukicoder contest 461 (2025-03-21) - D問題、diff <font color="deepskyblue">1250</font>)
+- <a href="https://yukicoder.me/problems/no/3288">No.3288 Sloppy Land Grading</a> (yukicoder contest 485 (2025-10-03) - C問題、diff <font color="green">1156</font>)
+
+##### ★★
+
+- <a href="https://yukicoder.me/problems/no/2141">No.2141 Enumeratest</a> (yukicoder contest 370 (2022-12-02) - B問題、diff <font color="deepskyblue">1356</font>)
+- <a href="https://yukicoder.me/problems/no/2240">No.2240 WAC</a> (yukicoder contest 380 (2023-03-10) - B問題、diff <font color="deepskyblue">1373</font>)
+- <a href="https://yukicoder.me/problems/no/2307">No.2307 [Cherry 5 th Tune *] Cool 46</a> (yukicoder contest 389 (Until that day when "Cherry Month" is over.) (2023-05-19) - C問題、diff <font color="deepskyblue">1345</font>)
+- <a href="https://yukicoder.me/problems/no/2386">No.2386 Udon Coupon (Easy)</a> (yukicoder contest 398 (2023-07-21) - B問題、diff <font color="green">982</font>)
+- <a href="https://yukicoder.me/problems/no/2591">No.2591 安上がりな括弧列</a> (Advent Calendar Contest 2023 (2023-12-01) - S問題、diff <font color="yellowgreen">2121</font>)
+- <a href="https://yukicoder.me/problems/no/2929">No.2929 Miracle Branch</a> (yukicoder contest 第3回緑以下コンテスト (2024-10-12) - K問題、diff <font color="blue">1608</font>)
+- <a href="https://yukicoder.me/problems/no/3254">No.3254 Xor, Max and Sum</a> (yukicoder contest  481（菁々祭プログラミングコンテスト2025） (2025-09-05) - C問題、diff <font color="yellowgreen">2027</font>)
+- <a href="https://yukicoder.me/problems/no/3262">No.3262 水色コーダーさん、その問題d問題ですよ？（1<=d<=N）</a> (第2回 岩井星人アンソロジープログラミングコンテスト Div.2 (2025-09-06) - D問題、diff <font color="gray">205</font>)
+- <a href="https://yukicoder.me/problems/no/3282">No.3282 Photos and Friends</a> (yukicoder contest 484 (2025-09-26) - D問題、diff <font color="blue">1815</font>)
+- <a href="https://yukicoder.me/problems/no/3325">No.3325 陰陽師</a> (第2回 岩井星人アンソロジープログラミングコンテスト Extra (2025-11-01) - C問題、diff <font color="green">1063</font>)
+- <a href="https://yukicoder.me/problems/no/3434">No.3434 [Cherry 8th Tune N] 大きくして Hold on Card!</a> (yukicoder contest 491 Go on Back!! (2026-01-23) - B問題、diff <font color="green">825</font>)
+- <a href="https://yukicoder.me/problems/no/3504">No.3504 Insert Maze</a> (CPCTF 2026: PPC (2026-04-17) - H問題、diff <font color="blue">1602</font>)
+- <a href="https://yukicoder.me/problems/no/3512">No.3512 moesode</a> (yukicoder contest 497 聖光学院プログラミングコンテスト2026 day1 (2026-04-24) - B問題、diff <font color="deepskyblue">1505</font>)
+- <a href="https://yukicoder.me/problems/no/3558">No.3558 Dominoes, Black and White</a> (KCPC新歓杯2026 (2026-05-29) - D問題、diff <font color="blue">1683</font>)
+
+##### ★★☆
+
+- <a href="https://yukicoder.me/problems/no/2078">No.2078 魔抜けなパープル</a> (yukicoder contest 361 (2022-09-25) - A問題、diff <font color="deepskyblue">1529</font>)
+- <a href="https://yukicoder.me/problems/no/2247">No.2247 01 ZigZag</a> (yukicoder contest 381 (2023-03-17) - B問題、diff <font color="blue">1604</font>)
+- <a href="https://yukicoder.me/problems/no/2276">No.2276 I Want AC</a> (yukicoder contest 385 (2023-04-21) - B問題、diff <font color="deepskyblue">1331</font>)
+- <a href="https://yukicoder.me/problems/no/2284">No.2284 Assembly</a> (yukicoder contest 386 (2023-04-28) - C問題、diff <font color="blue">1758</font>)
+- <a href="https://yukicoder.me/problems/no/2309">No.2309 [Cherry 5th Tune D] 夏の先取り</a> (yukicoder contest 389 (Until that day when "Cherry Month" is over.) (2023-05-19) - E問題、diff <font color="yellowgreen">2193</font>)
+- <a href="https://yukicoder.me/problems/no/2501">No.2501 Maximum Inversion Number</a> (yukicoder contest 408 (2023-10-13) - B問題、diff <font color="yellowgreen">2064</font>)
+- <a href="https://yukicoder.me/problems/no/2566">No.2566 美しい整数列</a> (第2回緑以下コンテスト (2023-12-02) - J問題、diff <font color="blue">1612</font>)
+- <a href="https://yukicoder.me/problems/no/2623">No.2623 Room Allocation</a> (yukicoder contest 417 (2024-02-09) - C問題、diff <font color="deepskyblue">1328</font>)
+- <a href="https://yukicoder.me/problems/no/2656">No.2656 XOR Slimes</a> (yukicoder contest 419 (2024-03-01) - B問題、diff <font color="blue">1726</font>)
+- <a href="https://yukicoder.me/problems/no/2744">No.2744 Power! or +1</a> (CPCTF 2024 : PPC (2024-04-20) - I問題、diff <font color="yellowgreen">2309</font>)
+- <a href="https://yukicoder.me/problems/no/2844">No.2844 Birthday Party Decoration</a> (yukicoder contest 441 (2024-08-23) - C問題、diff <font color="deepskyblue">1473</font>)
+- <a href="https://yukicoder.me/problems/no/2845">No.2845 Birthday Pattern in Two Different Calendars</a> (yukicoder contest 441 (2024-08-23) - D問題、diff <font color="blue">1947</font>)
+- <a href="https://yukicoder.me/problems/no/2984">No.2984 [Cherry Anniversary 4] 満開の願いを込めた 27 の桜</a> (Advent Calendar Contest 2024 (2024-12-01) - H問題、diff <font color="orange">2723</font>)
+- <a href="https://yukicoder.me/problems/no/3013">No.3013 ハチマキ買い星人</a> (第1回 岩井星人アンソロジープログラミングコンテスト (2025-01-25) - D問題、diff <font color="green">1176</font>)
+- <a href="https://yukicoder.me/problems/no/3015">No.3015 右に寄せろ！</a> (第1回 岩井星人アンソロジープログラミングコンテスト (2025-01-25) - F問題、diff <font color="deepskyblue">1515</font>)
+- <a href="https://yukicoder.me/problems/no/3049">No.3049 Contest Coordinator</a> (yukicoder contest 459 (2025-03-07) - B問題、diff <font color="deepskyblue">1480</font>)
+- <a href="https://yukicoder.me/problems/no/3072">No.3072 Speedrun Query</a> (yukicoder contest 461 (2025-03-21) - I問題、diff <font color="blue">1671</font>)
+- <a href="https://yukicoder.me/problems/no/3076">No.3076 Goodstuff Deck Builder</a> (yukicoder contest 462 (2025-03-28) - C問題、diff <font color="blue">1782</font>)
+- <a href="https://yukicoder.me/problems/no/3093">No.3093 Safe Infection</a> (QUPC2024 (2025-04-06) - C問題、diff <font color="blue">1783</font>)
+- <a href="https://yukicoder.me/problems/no/3173">No.3173 じゃんけんの勝ちの回数</a> (yukicoder contest 469 (2025-06-06) - C問題、diff <font color="deepskyblue">1396</font>)
+- <a href="https://yukicoder.me/problems/no/3268">No.3268 As Seen in Toasters</a> (yukicoder contest 482 (2025-09-12) - B問題、diff <font color="yellowgreen">2142</font>)
+- <a href="https://yukicoder.me/problems/no/3276">No.3276 Make Smaller Popcount</a> (yukicoder contest  483（オムニバス） (2025-09-19) - C問題、diff <font color="green">1002</font>)
+- <a href="https://yukicoder.me/problems/no/3281">No.3281 Pacific White-sided Dolphin vs Monster</a> (yukicoder contest 484 (2025-09-26) - C問題、diff <font color="blue">1867</font>)
+- <a href="https://yukicoder.me/problems/no/3303">No.3303 Heal Slimes 2</a> (yukicoder contest MMA Contest 020 (2025-10-05) - J問題、diff <font color="yellowgreen">2324</font>)
+- <a href="https://yukicoder.me/problems/no/3417">No.3417 Tired Santa</a> (Advent Calendar Contest 2025 (2025-12-01) - X問題、diff <font color="orange">2492</font>)
+
+##### ★★★
+
+- <a href="https://yukicoder.me/problems/no/2213">No.2213 Neq Move</a> (yukicoder contest 376 (2023-02-10) - F問題、diff <font color="yellowgreen">2086</font>)
+- <a href="https://yukicoder.me/problems/no/2236">No.2236 Lights Out On Simple Graph</a> (yukicoder contest 379 (2023-03-03) - E問題、diff <font color="yellowgreen">2175</font>)
+- <a href="https://yukicoder.me/problems/no/2242">No.2242 Cities and Teleporters</a> (yukicoder contest 380 (2023-03-10) - D問題、diff <font color="yellowgreen">2274</font>)
+- <a href="https://yukicoder.me/problems/no/2422">No.2422 regisys?</a> (MMA Contest 016 (2023-08-12) - I問題、diff <font color="yellowgreen">2353</font>)
+- <a href="https://yukicoder.me/problems/no/2603">No.2603 Tone Correction</a> (yukicoder contest 414 (2024-01-12) - E問題、diff <font color="orange">2536</font>)
+- <a href="https://yukicoder.me/problems/no/2734">No.2734 Addition and Multiplication in yukicoder (Hard)</a> (yukicoder contest 428 (2024-04-19) - G問題、diff <font color="yellowgreen">2034</font>)
+- <a href="https://yukicoder.me/problems/no/2957">No.2957 Combo Deck Builder</a> (yukicoder contest 452 (2024-11-08) - E問題、diff <font color="orange">2585</font>)
+- <a href="https://yukicoder.me/problems/no/3077">No.3077 Goodstuff Deck Builder(Hard)</a> (yukicoder contest 462 (2025-03-28) - D問題、diff <font color="yellowgreen">2246</font>)
+- <a href="https://yukicoder.me/problems/no/3088">No.3088 XOR = SUM</a> (yukicoder contest 463 (2025-04-04) - F問題、diff <font color="deepskyblue">1463</font>)
+- <a href="https://yukicoder.me/problems/no/3305">No.3305 Shift Sort</a> (yukicoder contest MMA Contest 020 (2025-10-05) - L問題、diff <font color="yellowgreen">2324</font>)
+
+##### ★★★☆
+
+- <a href="https://yukicoder.me/problems/no/2096">No.2096 Rage With Our Friends</a> (yukicoder contest 363 (2022-10-07) - E問題、diff <font color="orange">2690</font>)
+- <a href="https://yukicoder.me/problems/no/2106">No.2106 Wild Cacco</a> (yukicoder contest 365 (2022-10-21) - D問題、diff <font color="orange">2532</font>)
+- <a href="https://yukicoder.me/problems/no/2145">No.2145 Segment +-</a> (yukicoder contest 370 (2022-12-02) - F問題、diff <font color="red">2915</font>)
+- <a href="https://yukicoder.me/problems/no/2167">No.2167 Fibonacci Knapsack</a> (Advent Calendar Contest 2022 (2022-12-01) - T問題、diff <font color="red">3019</font>)
+- <a href="https://yukicoder.me/problems/no/2171">No.2171 OR Assignment</a> (Advent Calendar Contest 2022 (2022-12-01) - X問題、diff <font color="orange">2758</font>)
+- <a href="https://yukicoder.me/problems/no/3032">No.3032 ホモトピー入門</a> (yukicoder contest 457 (2025-02-21) - F問題、diff <font color="yellowgreen">2257</font>)
+- <a href="https://yukicoder.me/problems/no/3079">No.3079 Unite Japanese Prefectures</a> (yukicoder contest 462 (2025-03-28) - F問題、diff <font color="yellowgreen">2197</font>)
+- <a href="https://yukicoder.me/problems/no/3148">No.3148 Min-Cost Destruction of Parentheses</a> (yukicoder contest 467 (2025-05-16) - I問題、diff <font color="orange">2565</font>)
+- <a href="https://yukicoder.me/problems/no/3405">No.3405 Engineering University of Tree</a> (Advent Calendar Contest 2025 (2025-12-01) - L問題、diff <font color="orange">2706</font>)
+
+##### ★★★★
+
+- <a href="https://yukicoder.me/problems/no/3023">No.3023 Utility is Max?</a> (yukicoder contest 456 オムニバス (2025-02-14) - E問題、diff <font color="red">2833</font>)
+
+##### ★★★★★
+
+- <a href="https://yukicoder.me/problems/no/2987">No.2987 Colorful University of Tree</a> (Advent Calendar Contest 2024 (2024-12-01) - K問題、diff <font color="darkgoldenrod ">3309</font>)
+
+　
+<h2 id="外積計算">271. 外積計算</h2>
 
 ### 難易度統計
 
@@ -11513,7 +11623,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3438">No.3438 [Cherry 8th Tune D] 競プロは向いてない</a> (yukicoder contest 491 Go on Back!! (2026-01-23) - F問題、diff <font color="yellowgreen">2343</font>)
 
 　
-<h2 id="構築">271. 構築</h2>
+<h2 id="構築">272. 構築</h2>
 
 ### 難易度統計
 
@@ -11642,7 +11752,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2987">No.2987 Colorful University of Tree</a> (Advent Calendar Contest 2024 (2024-12-01) - K問題、diff <font color="darkgoldenrod ">3309</font>)
 
 　
-<h2 id="素数を法とする逆元計算">272. 素数を法とする逆元計算</h2>
+<h2 id="素数を法とする逆元計算">273. 素数を法とする逆元計算</h2>
 
 ### 難易度統計
 
@@ -11744,7 +11854,42 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3551">No.3551 Regions by Random Points 2</a> (yukicoder contest 500 (2026-05-22) - E問題、diff <font color="blue">1768</font>)
 
 　
-<h2 id="ポテンシャル付き素集合データ構造">273. ポテンシャル付き素集合データ構造</h2>
+<h2 id="コスト最小化をコスト決め打ちの成功判定に帰着">274. コスト最小化をコスト決め打ちの成功判定に帰着</h2>
+
+### 難易度統計
+
+「コスト最小化をコスト決め打ちの成功判定に帰着」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
+- 全体: ★2.5／diff <font color="blue">1878</font>
+- 2026年: ★2.1／diff <font color="deepskyblue">1265</font>
+- 2025年: ★2.7／diff <font color="yellowgreen">2211</font>
+- 2024年: ★2.7／diff <font color="yellowgreen">2218</font>
+- 2023年: ★2.7／diff <font color="yellowgreen">2126</font>
+- 2022年: ★データなし／diffデータなし
+
+### レベル別問題一覧
+
+「コスト最小化をコスト決め打ちの成功判定に帰着」を主たる解法に含む問題のレベルごとの一覧です。
+
+##### ★★
+
+- <a href="https://yukicoder.me/problems/no/3534">No.3534 Make Many Fences</a> (yukicoder 499 contest (2026-05-08) - B問題、diff <font color="deepskyblue">1252</font>)
+- <a href="https://yukicoder.me/problems/no/3557">No.3557 KCPC or KUPC 2</a> (KCPC新歓杯2026 (2026-05-29) - C問題、diff <font color="deepskyblue">1554</font>)
+
+##### ★★☆
+
+- <a href="https://yukicoder.me/problems/no/2179">No.2179 Planet Traveler</a> (yukicoder contest 372 (2023-01-06) - E問題、diff <font color="yellowgreen">2044</font>)
+- <a href="https://yukicoder.me/problems/no/2890">No.2890 Chiffon</a> (yukicoder contest 446 (2024-09-13) - E問題、diff <font color="yellowgreen">2275</font>)
+- <a href="https://yukicoder.me/problems/no/3309">No.3309 Aging Railway</a> (yukicoder contest 486 オムニバス (2025-10-24) - B問題、diff <font color="blue">1632</font>)
+- <a href="https://yukicoder.me/problems/no/3490">No.3490 最高経路問題</a> (yukicoder contest 496 (2026-04-03) - C問題、diff <font color="green">991</font>)
+
+##### ★★★
+
+- <a href="https://yukicoder.me/problems/no/2497">No.2497 GCD of LCMs</a> (yukicoder contest 407 (2023-10-06) - F問題、diff <font color="yellowgreen">2209</font>)
+- <a href="https://yukicoder.me/problems/no/2786">No.2786 RMQ on Grid Path</a> (yukicoder contest 433 (2024-06-14) - F問題、diff <font color="yellowgreen">2162</font>)
+- <a href="https://yukicoder.me/problems/no/3368">No.3368 トッピング</a> (yukicoder contest 作問ハッカソンコンテスト 003 Day2 (2025-11-17) - G問題、diff <font color="orange">2790</font>)
+
+　
+<h2 id="ポテンシャル付き素集合データ構造">275. ポテンシャル付き素集合データ構造</h2>
 
 ### 難易度統計
 
@@ -11778,49 +11923,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3031">No.3031 曲面の向き付け</a> (yukicoder contest 457 (2025-02-21) - E問題、diff <font color="blue">1985</font>)
 
 　
-<h2 id="充足可能性判定">274. 充足可能性判定</h2>
-
-### 難易度統計
-
-「充足可能性判定」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
-- 全体: ★2.5／diff <font color="blue">1879</font>
-- 2026年: ★データなし／diffデータなし
-- 2025年: ★3／diff <font color="blue">1985</font>
-- 2024年: ★2.6／diff <font color="yellowgreen">2036</font>
-- 2023年: ★2.4／diff <font color="blue">1716</font>
-- 2022年: ★2.7／diff <font color="blue">1842</font>
-
-### レベル別問題一覧
-
-「充足可能性判定」を主たる解法に含む問題のレベルごとの一覧です。
-
-##### ★★
-
-- <a href="https://yukicoder.me/problems/no/2090">No.2090 否定論理積と充足可能性</a> (yukicoder contest 362 (2022-09-30) - E問題、diff <font color="deepskyblue">1358</font>)
-- <a href="https://yukicoder.me/problems/no/2202">No.2202 贅沢てりたまチキン</a> (yukicoder contest 375 (2023-02-03) - B問題、diff <font color="deepskyblue">1254</font>)
-- <a href="https://yukicoder.me/problems/no/2664">No.2664 Prime Sum</a> (yukicoder contest 420 (2024-03-08) - B問題、diff <font color="deepskyblue">1301</font>)
-
-##### ★★☆
-
-- <a href="https://yukicoder.me/problems/no/2277">No.2277 Honest or Dishonest ?</a> (yukicoder contest 385 (2023-04-21) - C問題、diff <font color="blue">1683</font>)
-- <a href="https://yukicoder.me/problems/no/2291">No.2291 Union Find Estimate</a> (yukicoder contest 387 (Union Find Contest) (2023-05-05) - C問題、diff <font color="blue">1795</font>)
-- <a href="https://yukicoder.me/problems/no/2293">No.2293 無向辺 2-SAT</a> (yukicoder contest 387 (Union Find Contest) (2023-05-05) - E問題、diff <font color="yellowgreen">2237</font>)
-- <a href="https://yukicoder.me/problems/no/2536">No.2536 同値性と充足可能性</a> (yukicoder contest 412 (2023-11-10) - D問題、diff <font color="blue">1612</font>)
-- <a href="https://yukicoder.me/problems/no/2674">No.2674 k-Walk on Bipartite</a> (yukicoder contest 421  (NUPC2023) (2024-03-15) - D問題、diff <font color="blue">1920</font>)
-- <a href="https://yukicoder.me/problems/no/2895">No.2895 Zero XOR Subset</a> (yukicoder contest 447 オムニバス (2024-09-20) - B問題、diff <font color="yellowgreen">2008</font>)
-
-##### ★★★
-
-- <a href="https://yukicoder.me/problems/no/2643">No.2643 Many Range Sums Problems</a> (traP 作問ハッカソンコンテスト 002(day2) (2024-02-19) - G問題、diff <font color="orange">2765</font>)
-- <a href="https://yukicoder.me/problems/no/2914">No.2914 正閉路検出</a> (yukicoder contest 449 (2024-10-04) - E問題、diff <font color="yellowgreen">2187</font>)
-- <a href="https://yukicoder.me/problems/no/3031">No.3031 曲面の向き付け</a> (yukicoder contest 457 (2025-02-21) - E問題、diff <font color="blue">1985</font>)
-
-##### ★★★☆
-
-- <a href="https://yukicoder.me/problems/no/2121">No.2121 帰属関係と充足可能性</a> (yukicoder contest 367 (2022-11-04) - E問題、diff <font color="yellowgreen">2326</font>)
-
-　
-<h2 id="円環の倍化実装">275. 円環の倍化実装</h2>
+<h2 id="円環の倍化実装">276. 円環の倍化実装</h2>
 
 ### 難易度統計
 
@@ -11852,7 +11955,59 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3147">No.3147 Parentheses Modification and Rotation (RM Ver.)	</a> (yukicoder contest 467 (2025-05-16) - H問題、diff <font color="yellowgreen">2154</font>)
 
 　
-<h2 id="最小公倍数計算">276. 最小公倍数計算</h2>
+<h2 id="ミラー戦略">277. ミラー戦略</h2>
+
+### 難易度統計
+
+「ミラー戦略」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
+- 全体: ★2.5／diff <font color="blue">1885</font>
+- 2026年: ★3／diff <font color="orange">2635</font>
+- 2025年: ★2.5／diff <font color="yellowgreen">2042</font>
+- 2024年: ★2.4／diff <font color="blue">1764</font>
+- 2023年: ★2.6／diff <font color="deepskyblue">1590</font>
+- 2022年: ★2.5／diff <font color="blue">1905</font>
+
+### レベル別問題一覧
+
+「ミラー戦略」を主たる解法に含む問題のレベルごとの一覧です。
+
+##### ★☆
+
+- <a href="https://yukicoder.me/problems/no/2721">No.2721 "Don't say N" Game</a> (yukicoder contest 427 (ゲーム問題コンテスト) (2024-04-12) - A問題、diff <font color="brown">426</font>)
+- <a href="https://yukicoder.me/problems/no/2925">No.2925 2-Letter Shiritori</a> (yukicoder contest 第3回緑以下コンテスト (2024-10-12) - G問題、diff <font color="green">1180</font>)
+
+##### ★★
+
+- <a href="https://yukicoder.me/problems/no/2282">No.2282 Boxed Nim</a> (yukicoder contest 386 (2023-04-28) - A問題、diff <font color="green">912</font>)
+- <a href="https://yukicoder.me/problems/no/2760">No.2760 not fair position game</a> (yukicoder contest 430 (2024-05-17) - D問題、diff <font color="deepskyblue">1498</font>)
+- <a href="https://yukicoder.me/problems/no/3112">No.3112 Decrement or Mod Game</a> (CPCTF 2025 : PPC (2025-04-18) - F問題、diff <font color="deepskyblue">1518</font>)
+- <a href="https://yukicoder.me/problems/no/3300">No.3300 Frog Game</a> (yukicoder contest MMA Contest 020 (2025-10-05) - G問題、diff <font color="blue">1698</font>)
+
+##### ★★☆
+
+- <a href="https://yukicoder.me/problems/no/2059">No.2059 Odd Move Nim</a> (yukicoder contest 358 (2022-08-26) - D問題、diff <font color="yellowgreen">2008</font>)
+- <a href="https://yukicoder.me/problems/no/2126">No.2126 MEX Game</a> (yukicoder contest 368 (2022-11-18) - C問題、diff <font color="blue">1803</font>)
+- <a href="https://yukicoder.me/problems/no/2481">No.2481 Shiritori</a> (yukicoder contest 405 技術室奥プログラミングコンテスト#7 Day1 (2023-09-22) - C問題、diff <font color="blue">1706</font>)
+- <a href="https://yukicoder.me/problems/no/3342">No.3342 AAB Game</a> (yukicoder contest 作問ハッカソンコンテスト 003 Day1 (2025-11-13) - C問題、diff <font color="orange">2620</font>)
+- <a href="https://yukicoder.me/problems/no/3395">No.3395 Range Flipping Game</a> (Advent Calendar Contest 2025 (2025-12-01) - B問題、diff <font color="blue">1844</font>)
+
+##### ★★★
+
+- <a href="https://yukicoder.me/problems/no/2278">No.2278 Time Bomb Game 2</a> (yukicoder contest 385 (2023-04-21) - D問題、diff <font color="yellowgreen">2153</font>)
+- <a href="https://yukicoder.me/problems/no/2476">No.2476 Knight Game</a> (Japan Alumni Group Summer Camp 2023 Day 2 (2023-09-17) - J問題、diffデータなし)
+- <a href="https://yukicoder.me/problems/no/2619">No.2619 Sorted Nim</a> (yukicoder contest 416 (2024-01-26) - F問題、diff <font color="yellowgreen">2349</font>)
+- <a href="https://yukicoder.me/problems/no/2631">No.2631 Rectangle Grid Game</a> (traP 作問ハッカソンコンテスト 002(day1) (2024-02-16) - D問題、diff <font color="yellowgreen">2176</font>)
+- <a href="https://yukicoder.me/problems/no/2726">No.2726 Rooted Tree Nim</a> (yukicoder contest 427 (ゲーム問題コンテスト) (2024-04-12) - F問題、diff <font color="yellowgreen">2046</font>)
+- <a href="https://yukicoder.me/problems/no/2814">No.2814 Block Game</a> (yukicoder contest 437 ('09 Contest 002 day2)  (2024-07-19) - D問題、diff <font color="orange">2676</font>)
+- <a href="https://yukicoder.me/problems/no/3120">No.3120 Lower Nim</a> (CPCTF 2025 : PPC (2025-04-18) - N問題、diff <font color="yellowgreen">2288</font>)
+- <a href="https://yukicoder.me/problems/no/3564">No.3564 Awkward Timing</a> (KCPC新歓杯2026 (2026-05-29) - J問題、diff <font color="orange">2635</font>)
+
+##### ★★★☆
+
+- <a href="https://yukicoder.me/problems/no/3090">No.3090 NimNim</a> (yukicoder contest 463 (2025-04-04) - H問題、diff <font color="yellowgreen">2288</font>)
+
+　
+<h2 id="最小公倍数計算">278. 最小公倍数計算</h2>
 
 ### 難易度統計
 
@@ -11891,7 +12046,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3396">No.3396 ChRisTmas memory</a> (Advent Calendar Contest 2025 (2025-12-01) - C問題、diff <font color="red">2872</font>)
 
 　
-<h2 id="01BFS">277. 01BFS</h2>
+<h2 id="01BFS">279. 01BFS</h2>
 
 ### 難易度統計
 
@@ -11921,7 +12076,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2096">No.2096 Rage With Our Friends</a> (yukicoder contest 363 (2022-10-07) - E問題、diff <font color="orange">2690</font>)
 
 　
-<h2 id="独立事象の積への分解による確率計算・数え上げ">278. 独立事象の積への分解による確率計算・数え上げ</h2>
+<h2 id="独立事象の積への分解による確率計算・数え上げ">280. 独立事象の積への分解による確率計算・数え上げ</h2>
 
 ### 難易度統計
 
@@ -11959,7 +12114,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3366">No.3366 Reversible Tile:Revival</a> (yukicoder contest 作問ハッカソンコンテスト 003 Day2 (2025-11-17) - E問題、diff <font color="orange">2604</font>)
 
 　
-<h2 id="経路・手順・遷移の構築">279. 経路・手順・遷移の構築</h2>
+<h2 id="経路・手順・遷移の構築">281. 経路・手順・遷移の構築</h2>
 
 ### 難易度統計
 
@@ -12004,7 +12159,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2411">No.2411 Reverse Directions</a> (yukicoder contest 401 (2023-08-11) - E問題、diff <font color="yellowgreen">2068</font>)
 
 　
-<h2 id="選択回数依存コスト重複選択可ナップサック最適化">280. 選択回数依存コスト重複選択可ナップサック最適化</h2>
+<h2 id="選択回数依存コスト重複選択可ナップサック最適化">282. 選択回数依存コスト重複選択可ナップサック最適化</h2>
 
 ### 難易度統計
 
@@ -12025,7 +12180,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2701">No.2701 A cans -> B cans</a> (yukicoder contest 424 (2024-03-29) - C問題、diff <font color="blue">1900</font>)
 
 　
-<h2 id="座標のリアクティブによる特定">281. 座標のリアクティブによる特定</h2>
+<h2 id="座標のリアクティブによる特定">283. 座標のリアクティブによる特定</h2>
 
 ### 難易度統計
 
@@ -12060,7 +12215,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2831">No.2831 Cos Bomb Crasher</a> (yukicoder contest 439 (2024-08-02) - E問題、diff <font color="red">3143</font>)
 
 　
-<h2 id="lower_bound・upper_bound取得">282. lower_bound・upper_bound取得</h2>
+<h2 id="lower_bound・upper_bound取得">284. lower_bound・upper_bound取得</h2>
 
 ### 難易度統計
 
@@ -12096,7 +12251,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3348">No.3348 Tree Balance</a> (yukicoder contest 作問ハッカソンコンテスト 003 Day1 (2025-11-13) - I問題、diff <font color="darkgoldenrod ">3219</font>)
 
 　
-<h2 id="可換な操作・選択の最終結果に注目した確率計算">283. 可換な操作・選択の最終結果に注目した確率計算</h2>
+<h2 id="可換な操作・選択の最終結果に注目した確率計算">285. 可換な操作・選択の最終結果に注目した確率計算</h2>
 
 ### 難易度統計
 
@@ -12117,7 +12272,50 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3483">No.3483 A Forbidden Fruit</a> (yukicoder contest 495 (2026-03-27) - C問題、diff <font color="blue">1914</font>)
 
 　
-<h2 id="コストなしナップサック割り当て数え上げ">284. コストなしナップサック割り当て数え上げ</h2>
+<h2 id="充足可能性判定">286. 充足可能性判定</h2>
+
+### 難易度統計
+
+「充足可能性判定」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
+- 全体: ★2.5／diff <font color="blue">1923</font>
+- 2026年: ★2.5／diff <font color="orange">2499</font>
+- 2025年: ★3／diff <font color="blue">1985</font>
+- 2024年: ★2.6／diff <font color="yellowgreen">2036</font>
+- 2023年: ★2.4／diff <font color="blue">1716</font>
+- 2022年: ★2.7／diff <font color="blue">1842</font>
+
+### レベル別問題一覧
+
+「充足可能性判定」を主たる解法に含む問題のレベルごとの一覧です。
+
+##### ★★
+
+- <a href="https://yukicoder.me/problems/no/2090">No.2090 否定論理積と充足可能性</a> (yukicoder contest 362 (2022-09-30) - E問題、diff <font color="deepskyblue">1358</font>)
+- <a href="https://yukicoder.me/problems/no/2202">No.2202 贅沢てりたまチキン</a> (yukicoder contest 375 (2023-02-03) - B問題、diff <font color="deepskyblue">1254</font>)
+- <a href="https://yukicoder.me/problems/no/2664">No.2664 Prime Sum</a> (yukicoder contest 420 (2024-03-08) - B問題、diff <font color="deepskyblue">1301</font>)
+
+##### ★★☆
+
+- <a href="https://yukicoder.me/problems/no/2277">No.2277 Honest or Dishonest ?</a> (yukicoder contest 385 (2023-04-21) - C問題、diff <font color="blue">1683</font>)
+- <a href="https://yukicoder.me/problems/no/2291">No.2291 Union Find Estimate</a> (yukicoder contest 387 (Union Find Contest) (2023-05-05) - C問題、diff <font color="blue">1795</font>)
+- <a href="https://yukicoder.me/problems/no/2293">No.2293 無向辺 2-SAT</a> (yukicoder contest 387 (Union Find Contest) (2023-05-05) - E問題、diff <font color="yellowgreen">2237</font>)
+- <a href="https://yukicoder.me/problems/no/2536">No.2536 同値性と充足可能性</a> (yukicoder contest 412 (2023-11-10) - D問題、diff <font color="blue">1612</font>)
+- <a href="https://yukicoder.me/problems/no/2674">No.2674 k-Walk on Bipartite</a> (yukicoder contest 421  (NUPC2023) (2024-03-15) - D問題、diff <font color="blue">1920</font>)
+- <a href="https://yukicoder.me/problems/no/2895">No.2895 Zero XOR Subset</a> (yukicoder contest 447 オムニバス (2024-09-20) - B問題、diff <font color="yellowgreen">2008</font>)
+- <a href="https://yukicoder.me/problems/no/3560">No.3560 Giant Salamander</a> (KCPC新歓杯2026 (2026-05-29) - F問題、diff <font color="orange">2499</font>)
+
+##### ★★★
+
+- <a href="https://yukicoder.me/problems/no/2643">No.2643 Many Range Sums Problems</a> (traP 作問ハッカソンコンテスト 002(day2) (2024-02-19) - G問題、diff <font color="orange">2765</font>)
+- <a href="https://yukicoder.me/problems/no/2914">No.2914 正閉路検出</a> (yukicoder contest 449 (2024-10-04) - E問題、diff <font color="yellowgreen">2187</font>)
+- <a href="https://yukicoder.me/problems/no/3031">No.3031 曲面の向き付け</a> (yukicoder contest 457 (2025-02-21) - E問題、diff <font color="blue">1985</font>)
+
+##### ★★★☆
+
+- <a href="https://yukicoder.me/problems/no/2121">No.2121 帰属関係と充足可能性</a> (yukicoder contest 367 (2022-11-04) - E問題、diff <font color="yellowgreen">2326</font>)
+
+　
+<h2 id="コストなしナップサック割り当て数え上げ">287. コストなしナップサック割り当て数え上げ</h2>
 
 ### 難易度統計
 
@@ -12142,7 +12340,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2378">No.2378 Cards and Subsequences</a> (yukicoder contest 396 (Asakatsu Presents 2) (2023-07-07) - H問題、diff <font color="orange">2411</font>)
 
 　
-<h2 id="Manacherのアルゴリズム">285. Manacherのアルゴリズム</h2>
+<h2 id="Manacherのアルゴリズム">288. Manacherのアルゴリズム</h2>
 
 ### 難易度統計
 
@@ -12163,7 +12361,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3392">No.3392 Count 23578 Sequence</a> (yukicoder contest 490 (2025-11-28) - F問題、diff <font color="blue">1927</font>)
 
 　
-<h2 id="回文数え上げ">286. 回文数え上げ</h2>
+<h2 id="回文数え上げ">289. 回文数え上げ</h2>
 
 ### 難易度統計
 
@@ -12184,7 +12382,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3392">No.3392 Count 23578 Sequence</a> (yukicoder contest 490 (2025-11-28) - F問題、diff <font color="blue">1927</font>)
 
 　
-<h2 id="帰属区間取得">287. 帰属区間取得</h2>
+<h2 id="帰属区間取得">290. 帰属区間取得</h2>
 
 ### 難易度統計
 
@@ -12218,29 +12416,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3284">No.3284 Picnic with Friends</a> (yukicoder contest 484 (2025-09-26) - F問題、diff <font color="yellowgreen">2382</font>)
 
 　
-<h2 id="多次元の最適化を一次元の最適化に帰着">288. 多次元の最適化を一次元の最適化に帰着</h2>
-
-### 難易度統計
-
-「多次元の最適化を一次元の最適化に帰着」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
-- 全体: ★2.5／diff <font color="blue">1944</font>
-- 2026年: ★データなし／diffデータなし
-- 2025年: ★データなし／diffデータなし
-- 2024年: ★2.5／diff <font color="blue">1944</font>
-- 2023年: ★データなし／diffデータなし
-- 2022年: ★データなし／diffデータなし
-
-### レベル別問題一覧
-
-「多次元の最適化を一次元の最適化に帰着」を主たる解法に含む問題のレベルごとの一覧です。
-
-##### ★★☆
-
-- <a href="https://yukicoder.me/problems/no/2743">No.2743 Twisted Lattice</a> (CPCTF 2024 : PPC (2024-04-20) - H問題、diff <font color="yellowgreen">2309</font>)
-- <a href="https://yukicoder.me/problems/no/2962">No.2962 Sum Bomb Bomber</a> (yukicoder contest 453 (2024-11-16) - C問題、diff <font color="deepskyblue">1579</font>)
-
-　
-<h2 id="経路を始点からの経路と終点からの経路に分割">289. 経路を始点からの経路と終点からの経路に分割</h2>
+<h2 id="経路を始点からの経路と終点からの経路に分割">291. 経路を始点からの経路と終点からの経路に分割</h2>
 
 ### 難易度統計
 
@@ -12276,7 +12452,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2411">No.2411 Reverse Directions</a> (yukicoder contest 401 (2023-08-11) - E問題、diff <font color="yellowgreen">2068</font>)
 
 　
-<h2 id="法B係数連立一次方程式の解の数え上げ">290. 法B係数連立一次方程式の解の数え上げ</h2>
+<h2 id="法B係数連立一次方程式の解の数え上げ">292. 法B係数連立一次方程式の解の数え上げ</h2>
 
 ### 難易度統計
 
@@ -12300,7 +12476,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3255">No.3255 01 Matrix Counting</a> (yukicoder contest  481（菁々祭プログラミングコンテスト2025） (2025-09-05) - D問題、diff <font color="blue">1883</font>)
 
 　
-<h2 id="有理数型">291. 有理数型</h2>
+<h2 id="有理数型">293. 有理数型</h2>
 
 ### 難易度統計
 
@@ -12344,7 +12520,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3400">No.3400 Nana's Plus Permutation Game (7 + 7) ÷ 7</a> (Advent Calendar Contest 2025 (2025-12-01) - G問題、diff <font color="darkgoldenrod ">3296</font>)
 
 　
-<h2 id="良いケースに帰着">292. <a href="https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#良いケースに帰着">良いケースに帰着</a></h2>
+<h2 id="良いケースに帰着">294. <a href="https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#良いケースに帰着">良いケースに帰着</a></h2>
 
 ### 難易度統計
 
@@ -12389,7 +12565,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2987">No.2987 Colorful University of Tree</a> (Advent Calendar Contest 2024 (2024-12-01) - K問題、diff <font color="darkgoldenrod ">3309</font>)
 
 　
-<h2 id="分割の均等化">293. 分割の均等化</h2>
+<h2 id="分割の均等化">295. 分割の均等化</h2>
 
 ### 難易度統計
 
@@ -12423,7 +12599,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3348">No.3348 Tree Balance</a> (yukicoder contest 作問ハッカソンコンテスト 003 Day1 (2025-11-13) - I問題、diff <font color="darkgoldenrod ">3219</font>)
 
 　
-<h2 id="行列の構築">294. 行列の構築</h2>
+<h2 id="行列の構築">296. 行列の構築</h2>
 
 ### 難易度統計
 
@@ -12463,7 +12639,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2212">No.2212 One XOR Matrix</a> (yukicoder contest 376 (2023-02-10) - E問題、diff <font color="blue">1971</font>)
 
 　
-<h2 id="数直線上のスタンプラリーで押下済みのスタンプの集合を区間に制限する次元削減">295. 数直線上のスタンプラリーで押下済みのスタンプの集合を区間に制限する次元削減</h2>
+<h2 id="数直線上のスタンプラリーで押下済みのスタンプの集合を区間に制限する次元削減">297. 数直線上のスタンプラリーで押下済みのスタンプの集合を区間に制限する次元削減</h2>
 
 ### 難易度統計
 
@@ -12485,7 +12661,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3417">No.3417 Tired Santa</a> (Advent Calendar Contest 2025 (2025-12-01) - X問題、diff <font color="orange">2492</font>)
 
 　
-<h2 id="四乗数列の累積和計算">296. 四乗数列の累積和計算</h2>
+<h2 id="四乗数列の累積和計算">298. 四乗数列の累積和計算</h2>
 
 ### 難易度統計
 
@@ -12506,7 +12682,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3505">No.3505 Sum of Prod of Root</a> (CPCTF 2026: PPC (2026-04-17) - I問題、diff <font color="blue">1986</font>)
 
 　
-<h2 id="立方数列の累積和計算">297. 立方数列の累積和計算</h2>
+<h2 id="立方数列の累積和計算">299. 立方数列の累積和計算</h2>
 
 ### 難易度統計
 
@@ -12527,7 +12703,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3505">No.3505 Sum of Prod of Root</a> (CPCTF 2026: PPC (2026-04-17) - I問題、diff <font color="blue">1986</font>)
 
 　
-<h2 id="始点と終点からの最短・最長経路長計算">298. 始点と終点からの最短・最長経路長計算</h2>
+<h2 id="始点と終点からの最短・最長経路長計算">300. 始点と終点からの最短・最長経路長計算</h2>
 
 ### 難易度統計
 
@@ -12562,7 +12738,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2411">No.2411 Reverse Directions</a> (yukicoder contest 401 (2023-08-11) - E問題、diff <font color="yellowgreen">2068</font>)
 
 　
-<h2 id="順列から1を引いて合同式に帰着">299. 順列から1を引いて合同式に帰着</h2>
+<h2 id="順列から1を引いて合同式に帰着">301. 順列から1を引いて合同式に帰着</h2>
 
 ### 難易度統計
 
@@ -12584,7 +12760,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3267">No.3267 PQ Straight</a> (yukicoder contest 482 (2025-09-12) - A問題、diff <font color="green">1184</font>)
 
 　
-<h2 id="連分数展開">300. 連分数展開</h2>
+<h2 id="連分数展開">302. 連分数展開</h2>
 
 ### 難易度統計
 
@@ -12609,7 +12785,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2602">No.2602 Real Collider</a> (yukicoder contest 414 (2024-01-12) - D問題、diff <font color="orange">2419</font>)
 
 　
-<h2 id="テストケースの構築">301. テストケースの構築</h2>
+<h2 id="テストケースの構築">303. テストケースの構築</h2>
 
 ### 難易度統計
 
@@ -12630,7 +12806,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2700">No.2700 Please Hack Greedy Solution!</a> (yukicoder contest 424 (2024-03-29) - B問題、diff <font color="yellowgreen">2030</font>)
 
 　
-<h2 id="乱択による構築">302. 乱択による構築</h2>
+<h2 id="乱択による構築">304. 乱択による構築</h2>
 
 ### 難易度統計
 
@@ -12661,7 +12837,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2900">No.2900 Star Divine</a> (yukicoder contest 447 オムニバス (2024-09-20) - G問題、diff <font color="orange">2799</font>)
 
 　
-<h2 id="和・積への分解によるオーバーフロー回避">303. 和・積への分解によるオーバーフロー回避</h2>
+<h2 id="和・積への分解によるオーバーフロー回避">305. 和・積への分解によるオーバーフロー回避</h2>
 
 ### 難易度統計
 
@@ -12686,7 +12862,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2602">No.2602 Real Collider</a> (yukicoder contest 414 (2024-01-12) - D問題、diff <font color="orange">2419</font>)
 
 　
-<h2 id="積和の公式">304. 積和の公式</h2>
+<h2 id="積和の公式">306. 積和の公式</h2>
 
 ### 難易度統計
 
@@ -12708,7 +12884,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3344">No.3344 Common Tangent Line</a> (yukicoder contest 作問ハッカソンコンテスト 003 Day1 (2025-11-13) - E問題、diff <font color="orange">2509</font>)
 
 　
-<h2 id="互換と置換の交換関係">305. 互換と置換の交換関係</h2>
+<h2 id="互換と置換の交換関係">307. 互換と置換の交換関係</h2>
 
 ### 難易度統計
 
@@ -12733,7 +12909,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3007">No.3007 組み紐</a> (yukicoder contest 455 (2025-01-17) - F問題、diff <font color="red">2892</font>)
 
 　
-<h2 id="上限・下限値に言及する質問">306. 上限・下限値に言及する質問</h2>
+<h2 id="上限・下限値に言及する質問">308. 上限・下限値に言及する質問</h2>
 
 ### 難易度統計
 
@@ -12763,7 +12939,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3400">No.3400 Nana's Plus Permutation Game (7 + 7) ÷ 7</a> (Advent Calendar Contest 2025 (2025-12-01) - G問題、diff <font color="darkgoldenrod ">3296</font>)
 
 　
-<h2 id="反射の倍化実装">307. 反射の倍化実装</h2>
+<h2 id="反射の倍化実装">309. 反射の倍化実装</h2>
 
 ### 難易度統計
 
@@ -12784,7 +12960,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2432">No.2432 Flip and Move</a> (traP 作問ハッカソンコンテスト 001 (2023-08-18) - I問題、diff <font color="yellowgreen">2191</font>)
 
 　
-<h2 id="木の最長経路長計算">308. 木の最長経路長計算</h2>
+<h2 id="木の最長経路長計算">310. 木の最長経路長計算</h2>
 
 ### 難易度統計
 
@@ -12809,7 +12985,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3272">No.3272 Separate Contractions</a> (yukicoder contest 482 (2025-09-12) - F問題、diff <font color="red">2868</font>)
 
 　
-<h2 id="木の直径計算">309. 木の直径計算</h2>
+<h2 id="木の直径計算">311. 木の直径計算</h2>
 
 ### 難易度統計
 
@@ -12834,7 +13010,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3272">No.3272 Separate Contractions</a> (yukicoder contest 482 (2025-09-12) - F問題、diff <font color="red">2868</font>)
 
 　
-<h2 id="定数倍メモリ削減">310. 定数倍メモリ削減</h2>
+<h2 id="定数倍メモリ削減">312. 定数倍メモリ削減</h2>
 
 ### 難易度統計
 
@@ -12855,7 +13031,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2510">No.2510 Six Cube Sum Counting</a> (yukicoder contest 409 (2023-10-20) - C問題、diff <font color="yellowgreen">2219</font>)
 
 　
-<h2 id="データ構造の変更箇所のみを戻す初期化">311. データ構造の変更箇所のみを戻す初期化</h2>
+<h2 id="データ構造の変更箇所のみを戻す初期化">313. データ構造の変更箇所のみを戻す初期化</h2>
 
 ### 難易度統計
 
@@ -12876,7 +13052,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2293">No.2293 無向辺 2-SAT</a> (yukicoder contest 387 (Union Find Contest) (2023-05-05) - E問題、diff <font color="yellowgreen">2237</font>)
 
 　
-<h2 id="置換の位数計算">312. 置換の位数計算</h2>
+<h2 id="置換の位数計算">314. 置換の位数計算</h2>
 
 ### 難易度統計
 
@@ -12898,7 +13074,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2986">No.2986 Permutation Puzzle</a> (Advent Calendar Contest 2024 (2024-12-01) - J問題、diff <font color="orange">2654</font>)
 
 　
-<h2 id="Cartesian tree">313. Cartesian tree</h2>
+<h2 id="Cartesian tree">315. Cartesian tree</h2>
 
 ### 難易度統計
 
@@ -12923,7 +13099,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3061">No.3061 Cut and Maximums</a> (yukicoder contest 460 (2025-03-14) - F問題、diff <font color="red">2971</font>)
 
 　
-<h2 id="四元数演算">314. 四元数演算</h2>
+<h2 id="四元数演算">316. 四元数演算</h2>
 
 ### 難易度統計
 
@@ -12944,7 +13120,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2189">No.2189 六平方和</a> (yukicoder contest 373 (2023-01-13) - F問題、diff <font color="yellowgreen">2339</font>)
 
 　
-<h2 id="四平方定理">315. 四平方定理</h2>
+<h2 id="四平方定理">317. 四平方定理</h2>
 
 ### 難易度統計
 
@@ -12965,7 +13141,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2189">No.2189 六平方和</a> (yukicoder contest 373 (2023-01-13) - F問題、diff <font color="yellowgreen">2339</font>)
 
 　
-<h2 id="平方数前計算による平方剰余判定">316. 平方数前計算による平方剰余判定</h2>
+<h2 id="平方数前計算による平方剰余判定">318. 平方数前計算による平方剰余判定</h2>
 
 ### 難易度統計
 
@@ -12986,7 +13162,28 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2189">No.2189 六平方和</a> (yukicoder contest 373 (2023-01-13) - F問題、diff <font color="yellowgreen">2339</font>)
 
 　
-<h2 id="全順序集合を状態に持つゲームをP状態とN状態の区間に分割">317. 全順序集合を状態に持つゲームをP状態とN状態の区間に分割</h2>
+<h2 id="線形な振動計算">319. 線形な振動計算</h2>
+
+### 難易度統計
+
+「線形な振動計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
+- 全体: ★2.5／diff <font color="yellowgreen">2358</font>
+- 2026年: ★2.5／diff <font color="yellowgreen">2358</font>
+- 2025年: ★データなし／diffデータなし
+- 2024年: ★データなし／diffデータなし
+- 2023年: ★データなし／diffデータなし
+- 2022年: ★データなし／diffデータなし
+
+### レベル別問題一覧
+
+「線形な振動計算」を主たる解法に含む問題のレベルごとの一覧です。
+
+##### ★★☆
+
+- <a href="https://yukicoder.me/problems/no/3559">No.3559 +A,-B</a> (KCPC新歓杯2026 (2026-05-29) - E問題、diff <font color="yellowgreen">2358</font>)
+
+　
+<h2 id="全順序集合を状態に持つゲームをP状態とN状態の区間に分割">320. 全順序集合を状態に持つゲームをP状態とN状態の区間に分割</h2>
 
 ### 難易度統計
 
@@ -13007,7 +13204,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2551">No.2551 2, 3, 5, 7 Game</a> (MMA Contest 017 (2023-11-25) - E問題、diff <font color="orange">2501</font>)
 
 　
-<h2 id="必勝戦略のリアクティブによる特定">318. 必勝戦略のリアクティブによる特定</h2>
+<h2 id="必勝戦略のリアクティブによる特定">321. 必勝戦略のリアクティブによる特定</h2>
 
 ### 難易度統計
 
@@ -13028,7 +13225,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2502">No.2502 Optimization in the Dark</a> (yukicoder contest 408 (2023-10-13) - C問題、diff <font color="orange">2503</font>)
 
 　
-<h2 id="円の接線計算">319. 円の接線計算</h2>
+<h2 id="円の接線計算">322. 円の接線計算</h2>
 
 ### 難易度統計
 
@@ -13049,7 +13246,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3344">No.3344 Common Tangent Line</a> (yukicoder contest 作問ハッカソンコンテスト 003 Day1 (2025-11-13) - E問題、diff <font color="orange">2509</font>)
 
 　
-<h2 id="ニュートン法">320. ニュートン法</h2>
+<h2 id="ニュートン法">323. ニュートン法</h2>
 
 ### 難易度統計
 
@@ -13070,7 +13267,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2271">No.2271 平方根の１３桁精度近似計算</a> (yukicoder contest 384 (2023-04-14) - E問題、diff <font color="orange">2788</font>)
 
 　
-<h2 id="区間一次式加算更新">321. 区間一次式加算更新</h2>
+<h2 id="区間一次式加算更新">324. 区間一次式加算更新</h2>
 
 ### 難易度統計
 
@@ -13091,7 +13288,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2662">No.2662 Installing Cell Towers</a> (単発出題、diffデータなし)
 
 　
-<h2 id="桁の制約を位取り記法で翻訳">322. 桁の制約を位取り記法で翻訳</h2>
+<h2 id="桁の制約を位取り記法で翻訳">325. 桁の制約を位取り記法で翻訳</h2>
 
 ### 難易度統計
 
@@ -13121,7 +13318,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2144">No.2144 MM</a> (yukicoder contest 370 (2022-12-02) - E問題、diff <font color="orange">2500</font>)
 
 　
-<h2 id="言及する成分数を最大化する質問">323. 言及する成分数を最大化する質問</h2>
+<h2 id="言及する成分数を最大化する質問">326. 言及する成分数を最大化する質問</h2>
 
 ### 難易度統計
 
@@ -13150,7 +13347,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2496">No.2496 LCM between Permutations</a> (yukicoder contest 407 (2023-10-06) - E問題、diff <font color="yellowgreen">2309</font>)
 
 　
-<h2 id="パスカルの三角形">324. パスカルの三角形</h2>
+<h2 id="パスカルの三角形">327. パスカルの三角形</h2>
 
 ### 難易度統計
 
@@ -13176,7 +13373,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3492">No.3492 区間冪乗加算一点取得</a> (yukicoder contest 496 (2026-04-03) - E問題、diff <font color="blue">1636</font>)
 
 　
-<h2 id="不明な想定解">325. <a href="https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#不明な想定解">不明な想定解</a></h2>
+<h2 id="不明な想定解">328. <a href="https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#不明な想定解">不明な想定解</a></h2>
 
 ### 難易度統計
 
@@ -13202,7 +13399,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2476">No.2476 Knight Game</a> (Japan Alumni Group Summer Camp 2023 Day 2 (2023-09-17) - J問題、diffデータなし)
 
 　
-<h2 id="一点を切片の差に翻訳">326. 一点を切片の差に翻訳</h2>
+<h2 id="一点を切片の差に翻訳">329. 一点を切片の差に翻訳</h2>
 
 ### 難易度統計
 
@@ -13228,7 +13425,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3213">No.3213 depth max K</a> (yukicoder contest 475 (ゆるCafe) (2025-07-25) - E問題、diff <font color="blue">1676</font>)
 
 　
-<h2 id="連結成分の値の更新">327. <a href="https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#連結成分の値の更新">連結成分の値の更新</a></h2>
+<h2 id="連結成分の値の更新">330. <a href="https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#連結成分の値の更新">連結成分の値の更新</a></h2>
 
 ### 難易度統計
 
@@ -13257,7 +13454,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3369">No.3369 Find MyakuMyaku</a> (yukicoder contest 作問ハッカソンコンテスト 003 Day2 (2025-11-17) - H問題、diff <font color="orange">2449</font>)
 
 　
-<h2 id="約数列挙">328. 約数列挙</h2>
+<h2 id="約数列挙">331. 約数列挙</h2>
 
 ### 難易度統計
 
@@ -13316,63 +13513,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3414">No.3414 Aperiodic Sequence</a> (Advent Calendar Contest 2025 (2025-12-01) - U問題、diff <font color="orange">2658</font>)
 
 　
-<h2 id="ダイクストラ法">329. ダイクストラ法</h2>
-
-### 難易度統計
-
-「ダイクストラ法」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
-- 全体: ★2.6／diff <font color="blue">1743</font>
-- 2026年: ★2.8／diff <font color="blue">1677</font>
-- 2025年: ★2.3／diff <font color="deepskyblue">1349</font>
-- 2024年: ★2.5／diff <font color="blue">1841</font>
-- 2023年: ★2.7／diff <font color="blue">1841</font>
-- 2022年: ★データなし／diffデータなし
-
-### レベル別問題一覧
-
-「ダイクストラ法」を主たる解法に含む問題のレベルごとの一覧です。
-
-##### ★★
-
-- <a href="https://yukicoder.me/problems/no/2739">No.2739 Time is money</a> (CPCTF 2024 : PPC (2024-04-20) - D問題、diff <font color="blue">1695</font>)
-- <a href="https://yukicoder.me/problems/no/2759">No.2759 Take Pictures, Elements?</a> (yukicoder contest 430 (2024-05-17) - C問題、diff <font color="deepskyblue">1565</font>)
-- <a href="https://yukicoder.me/problems/no/2805">No.2805 Go to School</a> (yukicoder contest 436 ('09 Contest 002 day1) (2024-07-12) - C問題、diff <font color="blue">1720</font>)
-- <a href="https://yukicoder.me/problems/no/2855">No.2855 Move on Grid</a> (yukicoder contest 442 (2024-08-25) - F問題、diff <font color="deepskyblue">1510</font>)
-- <a href="https://yukicoder.me/problems/no/3111">No.3111 Toll Optimization</a> (CPCTF 2025 : PPC (2025-04-18) - E問題、diff <font color="deepskyblue">1380</font>)
-
-##### ★★☆
-
-- <a href="https://yukicoder.me/problems/no/2179">No.2179 Planet Traveler</a> (yukicoder contest 372 (2023-01-06) - E問題、diff <font color="yellowgreen">2044</font>)
-- <a href="https://yukicoder.me/problems/no/2354">No.2354 Poor Sight in Winter</a> (yukicoder contest 393 (2023-06-16) - E問題、diff <font color="blue">1670</font>)
-- <a href="https://yukicoder.me/problems/no/2387">No.2387 Yokan Factory</a> (yukicoder contest 398 (2023-07-21) - C問題、diff <font color="deepskyblue">1376</font>)
-- <a href="https://yukicoder.me/problems/no/2569">No.2569 はじめてのおつかいHard</a> (緑以下コンテスト  Extra (2023-12-02) - A問題、diff <font color="deepskyblue">1385</font>)
-- <a href="https://yukicoder.me/problems/no/2673">No.2673 A present from B</a> (yukicoder contest 421  (NUPC2023) (2024-03-15) - C問題、diff <font color="blue">1806</font>)
-- <a href="https://yukicoder.me/problems/no/2695">No.2695 Warp Zone</a> (yukicoder contest 423 (Asakatsu Presents 3) (2024-03-22) - E問題、diff <font color="deepskyblue">1337</font>)
-- <a href="https://yukicoder.me/problems/no/2744">No.2744 Power! or +1</a> (CPCTF 2024 : PPC (2024-04-20) - I問題、diff <font color="yellowgreen">2309</font>)
-- <a href="https://yukicoder.me/problems/no/2913">No.2913 二次元距離空間</a> (yukicoder contest 449 (2024-10-04) - D問題、diff <font color="deepskyblue">1567</font>)
-- <a href="https://yukicoder.me/problems/no/3013">No.3013 ハチマキ買い星人</a> (第1回 岩井星人アンソロジープログラミングコンテスト (2025-01-25) - D問題、diff <font color="green">1176</font>)
-- <a href="https://yukicoder.me/problems/no/3326">No.3326 岩井星人の帰星</a> (第2回 岩井星人アンソロジープログラミングコンテスト Extra (2025-11-01) - D問題、diff <font color="green">1063</font>)
-- <a href="https://yukicoder.me/problems/no/3393">No.3393 Move on Highway</a> (yukicoder contest 490 (2025-11-28) - G問題、diff <font color="blue">1778</font>)
-- <a href="https://yukicoder.me/problems/no/3490">No.3490 最高経路問題</a> (yukicoder contest 496 (2026-04-03) - C問題、diff <font color="green">991</font>)
-
-##### ★★★
-
-- <a href="https://yukicoder.me/problems/no/2328">No.2328 Build Walls</a> (MMA Contest 015  (2023-05-28) - G問題、diff <font color="blue">1915</font>)
-- <a href="https://yukicoder.me/problems/no/2366">No.2366 登校</a> (yukicoder contest 395 (2023-06-30) - C問題、diff <font color="yellowgreen">2294</font>)
-- <a href="https://yukicoder.me/problems/no/2477">No.2477 Drifting</a> (Japan Alumni Group Summer Camp 2023 Day 2 (2023-09-17) - K問題、diffデータなし)
-- <a href="https://yukicoder.me/problems/no/2497">No.2497 GCD of LCMs</a> (yukicoder contest 407 (2023-10-06) - F問題、diff <font color="yellowgreen">2209</font>)
-- <a href="https://yukicoder.me/problems/no/2764">No.2764 Warp Drive Spacecraft</a> (yukicoder contest 430 (2024-05-17) - H問題、diff <font color="yellowgreen">2354</font>)
-- <a href="https://yukicoder.me/problems/no/2915">No.2915 辺更新価値最大化</a> (yukicoder contest 449 (2024-10-04) - F問題、diff <font color="yellowgreen">2321</font>)
-- <a href="https://yukicoder.me/problems/no/2916">No.2916 累進コスト最小化</a> (yukicoder contest 449 (2024-10-04) - G問題、diff <font color="yellowgreen">2076</font>)
-- <a href="https://yukicoder.me/problems/no/3463">No.3463 Beltway</a> (MMA Contest 021 (2026-02-28) - K問題、diff <font color="blue">1722</font>)
-- <a href="https://yukicoder.me/problems/no/3523">No.3523 順路指定最近点</a> (yukicoder contest 498 リアクティブコンテスト (2026-05-01) - F問題、diff <font color="yellowgreen">2318</font>)
-
-##### ★★★☆
-
-- <a href="https://yukicoder.me/problems/no/2909">No.2909 Imaginary Summer</a> (単発出題、diffデータなし)
-
-　
-<h2 id="max・min・絶対値の場合分けによる一次式への翻訳">330. max・min・絶対値の場合分けによる一次式への翻訳</h2>
+<h2 id="max・min・絶対値の場合分けによる一次式への翻訳">332. max・min・絶対値の場合分けによる一次式への翻訳</h2>
 
 ### 難易度統計
 
@@ -13412,7 +13553,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2077">No.2077 Get Minimum Algorithm</a> (yukicoder contest 360 (2022-09-16) - H問題、diff <font color="orange">2707</font>)
 
 　
-<h2 id="写像・配列を像・頻度表で管理">331. 写像・配列を像・頻度表で管理</h2>
+<h2 id="写像・配列を像・頻度表で管理">333. 写像・配列を像・頻度表で管理</h2>
 
 ### 難易度統計
 
@@ -13473,7 +13614,64 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2918">No.2918 Divide Applicants Fairly</a> (単発出題、diffデータなし)
 
 　
-<h2 id="最短経路長計算">332. 最短経路長計算</h2>
+<h2 id="ダイクストラ法">334. ダイクストラ法</h2>
+
+### 難易度統計
+
+「ダイクストラ法」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
+- 全体: ★2.6／diff <font color="blue">1777</font>
+- 2026年: ★2.8／diff <font color="blue">1916</font>
+- 2025年: ★2.3／diff <font color="deepskyblue">1349</font>
+- 2024年: ★2.5／diff <font color="blue">1841</font>
+- 2023年: ★2.7／diff <font color="blue">1841</font>
+- 2022年: ★データなし／diffデータなし
+
+### レベル別問題一覧
+
+「ダイクストラ法」を主たる解法に含む問題のレベルごとの一覧です。
+
+##### ★★
+
+- <a href="https://yukicoder.me/problems/no/2739">No.2739 Time is money</a> (CPCTF 2024 : PPC (2024-04-20) - D問題、diff <font color="blue">1695</font>)
+- <a href="https://yukicoder.me/problems/no/2759">No.2759 Take Pictures, Elements?</a> (yukicoder contest 430 (2024-05-17) - C問題、diff <font color="deepskyblue">1565</font>)
+- <a href="https://yukicoder.me/problems/no/2805">No.2805 Go to School</a> (yukicoder contest 436 ('09 Contest 002 day1) (2024-07-12) - C問題、diff <font color="blue">1720</font>)
+- <a href="https://yukicoder.me/problems/no/2855">No.2855 Move on Grid</a> (yukicoder contest 442 (2024-08-25) - F問題、diff <font color="deepskyblue">1510</font>)
+- <a href="https://yukicoder.me/problems/no/3111">No.3111 Toll Optimization</a> (CPCTF 2025 : PPC (2025-04-18) - E問題、diff <font color="deepskyblue">1380</font>)
+
+##### ★★☆
+
+- <a href="https://yukicoder.me/problems/no/2179">No.2179 Planet Traveler</a> (yukicoder contest 372 (2023-01-06) - E問題、diff <font color="yellowgreen">2044</font>)
+- <a href="https://yukicoder.me/problems/no/2354">No.2354 Poor Sight in Winter</a> (yukicoder contest 393 (2023-06-16) - E問題、diff <font color="blue">1670</font>)
+- <a href="https://yukicoder.me/problems/no/2387">No.2387 Yokan Factory</a> (yukicoder contest 398 (2023-07-21) - C問題、diff <font color="deepskyblue">1376</font>)
+- <a href="https://yukicoder.me/problems/no/2569">No.2569 はじめてのおつかいHard</a> (緑以下コンテスト  Extra (2023-12-02) - A問題、diff <font color="deepskyblue">1385</font>)
+- <a href="https://yukicoder.me/problems/no/2673">No.2673 A present from B</a> (yukicoder contest 421  (NUPC2023) (2024-03-15) - C問題、diff <font color="blue">1806</font>)
+- <a href="https://yukicoder.me/problems/no/2695">No.2695 Warp Zone</a> (yukicoder contest 423 (Asakatsu Presents 3) (2024-03-22) - E問題、diff <font color="deepskyblue">1337</font>)
+- <a href="https://yukicoder.me/problems/no/2744">No.2744 Power! or +1</a> (CPCTF 2024 : PPC (2024-04-20) - I問題、diff <font color="yellowgreen">2309</font>)
+- <a href="https://yukicoder.me/problems/no/2913">No.2913 二次元距離空間</a> (yukicoder contest 449 (2024-10-04) - D問題、diff <font color="deepskyblue">1567</font>)
+- <a href="https://yukicoder.me/problems/no/3013">No.3013 ハチマキ買い星人</a> (第1回 岩井星人アンソロジープログラミングコンテスト (2025-01-25) - D問題、diff <font color="green">1176</font>)
+- <a href="https://yukicoder.me/problems/no/3326">No.3326 岩井星人の帰星</a> (第2回 岩井星人アンソロジープログラミングコンテスト Extra (2025-11-01) - D問題、diff <font color="green">1063</font>)
+- <a href="https://yukicoder.me/problems/no/3393">No.3393 Move on Highway</a> (yukicoder contest 490 (2025-11-28) - G問題、diff <font color="blue">1778</font>)
+- <a href="https://yukicoder.me/problems/no/3490">No.3490 最高経路問題</a> (yukicoder contest 496 (2026-04-03) - C問題、diff <font color="green">991</font>)
+
+##### ★★★
+
+- <a href="https://yukicoder.me/problems/no/2328">No.2328 Build Walls</a> (MMA Contest 015  (2023-05-28) - G問題、diff <font color="blue">1915</font>)
+- <a href="https://yukicoder.me/problems/no/2366">No.2366 登校</a> (yukicoder contest 395 (2023-06-30) - C問題、diff <font color="yellowgreen">2294</font>)
+- <a href="https://yukicoder.me/problems/no/2477">No.2477 Drifting</a> (Japan Alumni Group Summer Camp 2023 Day 2 (2023-09-17) - K問題、diffデータなし)
+- <a href="https://yukicoder.me/problems/no/2497">No.2497 GCD of LCMs</a> (yukicoder contest 407 (2023-10-06) - F問題、diff <font color="yellowgreen">2209</font>)
+- <a href="https://yukicoder.me/problems/no/2764">No.2764 Warp Drive Spacecraft</a> (yukicoder contest 430 (2024-05-17) - H問題、diff <font color="yellowgreen">2354</font>)
+- <a href="https://yukicoder.me/problems/no/2915">No.2915 辺更新価値最大化</a> (yukicoder contest 449 (2024-10-04) - F問題、diff <font color="yellowgreen">2321</font>)
+- <a href="https://yukicoder.me/problems/no/2916">No.2916 累進コスト最小化</a> (yukicoder contest 449 (2024-10-04) - G問題、diff <font color="yellowgreen">2076</font>)
+- <a href="https://yukicoder.me/problems/no/3463">No.3463 Beltway</a> (MMA Contest 021 (2026-02-28) - K問題、diff <font color="blue">1722</font>)
+- <a href="https://yukicoder.me/problems/no/3523">No.3523 順路指定最近点</a> (yukicoder contest 498 リアクティブコンテスト (2026-05-01) - F問題、diff <font color="yellowgreen">2318</font>)
+- <a href="https://yukicoder.me/problems/no/3561">No.3561 Collect KCPC</a> (KCPC新歓杯2026 (2026-05-29) - G問題、diff <font color="orange">2635</font>)
+
+##### ★★★☆
+
+- <a href="https://yukicoder.me/problems/no/2909">No.2909 Imaginary Summer</a> (単発出題、diffデータなし)
+
+　
+<h2 id="最短経路長計算">335. 最短経路長計算</h2>
 
 ### 難易度統計
 
@@ -13554,7 +13752,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2909">No.2909 Imaginary Summer</a> (単発出題、diffデータなし)
 
 　
-<h2 id="桁ごとに計算">333. 桁ごとに計算</h2>
+<h2 id="桁ごとに計算">336. 桁ごとに計算</h2>
 
 ### 難易度統計
 
@@ -13623,7 +13821,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2589">No.2589 Prepare Integers</a> (Advent Calendar Contest 2023 (2023-12-01) - Q問題、diff <font color="darkgoldenrod ">3503</font>)
 
 　
-<h2 id="数列・配列の構築">334. 数列・配列の構築</h2>
+<h2 id="数列・配列の構築">337. 数列・配列の構築</h2>
 
 ### 難易度統計
 
@@ -13660,7 +13858,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3223">No.3223 K-XOR Increasing Sequence</a> (yukicoder contest 476 (2025-08-01) - H問題、diff <font color="red">2843</font>)
 
 　
-<h2 id="上限付き演算によるオーバーフロー回避">335. 上限付き演算によるオーバーフロー回避</h2>
+<h2 id="上限付き演算によるオーバーフロー回避">338. 上限付き演算によるオーバーフロー回避</h2>
 
 ### 難易度統計
 
@@ -13700,7 +13898,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2993">No.2993 冪乗乗 mod 冪乗</a> (Advent Calendar Contest 2024 (2024-12-01) - Q問題、diffデータなし)
 
 　
-<h2 id="区間族管理">336. 区間族管理</h2>
+<h2 id="区間族管理">339. 区間族管理</h2>
 
 ### 難易度統計
 
@@ -13747,7 +13945,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3284">No.3284 Picnic with Friends</a> (yukicoder contest 484 (2025-09-26) - F問題、diff <font color="yellowgreen">2382</font>)
 
 　
-<h2 id="約数計数関数による計算量評価">337. 約数計数関数による計算量評価</h2>
+<h2 id="約数計数関数による計算量評価">340. 約数計数関数による計算量評価</h2>
 
 ### 難易度統計
 
@@ -13773,7 +13971,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2829">No.2829 GCD Divination</a> (yukicoder contest 439 (2024-08-02) - C問題、diff <font color="yellowgreen">2025</font>)
 
 　
-<h2 id="なもり先生グラフを閉路と残りに分割">338. なもり先生グラフを閉路と残りに分割</h2>
+<h2 id="なもり先生グラフを閉路と残りに分割">341. なもり先生グラフを閉路と残りに分割</h2>
 
 ### 難易度統計
 
@@ -13806,7 +14004,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2129">No.2129 Perfect Binary Tree...?</a> (yukicoder contest 368 (2022-11-18) - F問題、diff <font color="red">2892</font>)
 
 　
-<h2 id="実験">339. 実験</h2>
+<h2 id="実験">342. 実験</h2>
 
 ### 難易度統計
 
@@ -13854,13 +14052,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2719">No.2719 Equal Inner Products in Permutation</a> (yukicoder contest 426 (2024-04-05) - F問題、diff <font color="orange">2522</font>)
 
 　
-<h2 id="二分探索">340. 二分探索</h2>
+<h2 id="二分探索">343. 二分探索</h2>
 
 ### 難易度統計
 
 「二分探索」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
-- 全体: ★2.6／diff <font color="blue">1819</font>
-- 2026年: ★2.6／diff <font color="deepskyblue">1565</font>
+- 全体: ★2.6／diff <font color="blue">1822</font>
+- 2026年: ★2.6／diff <font color="blue">1630</font>
 - 2025年: ★2.5／diff <font color="blue">1788</font>
 - 2024年: ★2.5／diff <font color="blue">1938</font>
 - 2023年: ★2.6／diff <font color="blue">1802</font>
@@ -13893,6 +14091,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3325">No.3325 陰陽師</a> (第2回 岩井星人アンソロジープログラミングコンテスト Extra (2025-11-01) - C問題、diff <font color="green">1063</font>)
 - <a href="https://yukicoder.me/problems/no/3359">No.3359 ブリング根の３桁精度近似計算</a> (yukicoder contest 488 小数誤差コンテスト (2025-11-14) - H問題、diff <font color="deepskyblue">1547</font>)
 - <a href="https://yukicoder.me/problems/no/3534">No.3534 Make Many Fences</a> (yukicoder 499 contest (2026-05-08) - B問題、diff <font color="deepskyblue">1252</font>)
+- <a href="https://yukicoder.me/problems/no/3557">No.3557 KCPC or KUPC 2</a> (KCPC新歓杯2026 (2026-05-29) - C問題、diff <font color="deepskyblue">1554</font>)
 
 ##### ★★☆
 
@@ -13933,6 +14132,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3513">No.3513 Greedy Yokan Party </a> (yukicoder contest 497 聖光学院プログラミングコンテスト2026 day1 (2026-04-24) - C問題、diff <font color="blue">1637</font>)
 - <a href="https://yukicoder.me/problems/no/3520">No.3520 L1等距離点</a> (yukicoder contest 498 リアクティブコンテスト (2026-05-01) - C問題、diff <font color="blue">1649</font>)
 - <a href="https://yukicoder.me/problems/no/3537">No.3537 Thank You!</a> (yukicoder 499 contest (2026-05-08) - E問題、diff <font color="blue">1811</font>)
+- <a href="https://yukicoder.me/problems/no/3559">No.3559 +A,-B</a> (KCPC新歓杯2026 (2026-05-29) - E問題、diff <font color="yellowgreen">2358</font>)
 
 ##### ★★★
 
@@ -13979,7 +14179,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2262">No.2262 Fractions</a> (yukicoder contest 383 (2023-04-07) - D問題、diff <font color="red">3018</font>)
 
 　
-<h2 id="エラトステネスの篩による素数判定">341. エラトステネスの篩による素数判定</h2>
+<h2 id="エラトステネスの篩による素数判定">344. エラトステネスの篩による素数判定</h2>
 
 ### 難易度統計
 
@@ -14010,7 +14210,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3478">No.3478 XOR-Folding Primes</a> (yukicoder contest 494 オムニバス (2026-03-20) - F問題、diff <font color="yellowgreen">2115</font>)
 
 　
-<h2 id="フェルマーの小定理による逆元計算">342. フェルマーの小定理による逆元計算</h2>
+<h2 id="フェルマーの小定理による逆元計算">345. フェルマーの小定理による逆元計算</h2>
 
 ### 難易度統計
 
@@ -14048,7 +14248,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3551">No.3551 Regions by Random Points 2</a> (yukicoder contest 500 (2026-05-22) - E問題、diff <font color="blue">1768</font>)
 
 　
-<h2 id="区間を切片の差に翻訳">343. 区間を切片の差に翻訳</h2>
+<h2 id="区間を切片の差に翻訳">346. 区間を切片の差に翻訳</h2>
 
 ### 難易度統計
 
@@ -14081,7 +14281,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2989">No.2989 Fibonacci Prize</a> (Advent Calendar Contest 2024 (2024-12-01) - M問題、diff <font color="orange">2478</font>)
 
 　
-<h2 id="複素数演算">344. 複素数演算</h2>
+<h2 id="複素数演算">347. 複素数演算</h2>
 
 ### 難易度統計
 
@@ -14114,7 +14314,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2976">No.2976 高階多点評価</a> (yukicoder contest 454 (2024-11-29) - H問題、diff <font color="red">3030</font>)
 
 　
-<h2 id="01列と部分集合の対応">345. 01列と部分集合の対応</h2>
+<h2 id="01列と部分集合の対応">348. 01列と部分集合の対応</h2>
 
 ### 難易度統計
 
@@ -14162,7 +14362,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2121">No.2121 帰属関係と充足可能性</a> (yukicoder contest 367 (2022-11-04) - E問題、diff <font color="yellowgreen">2326</font>)
 
 　
-<h2 id="二項係数計算">346. 二項係数計算</h2>
+<h2 id="二項係数計算">349. 二項係数計算</h2>
 
 ### 難易度統計
 
@@ -14236,7 +14436,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2344">No.2344 (l+r)^2</a> (yukicoder contest 392 (2023-06-09) - B問題、diff <font color="orange">2768</font>)
 
 　
-<h2 id="素数計数関数前計算">347. 素数計数関数前計算</h2>
+<h2 id="素数計数関数前計算">350. 素数計数関数前計算</h2>
 
 ### 難易度統計
 
@@ -14262,7 +14462,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3478">No.3478 XOR-Folding Primes</a> (yukicoder contest 494 オムニバス (2026-03-20) - F問題、diff <font color="yellowgreen">2115</font>)
 
 　
-<h2 id="素数を用いた構築">348. 素数を用いた構築</h2>
+<h2 id="素数を用いた構築">351. 素数を用いた構築</h2>
 
 ### 難易度統計
 
@@ -14292,154 +14492,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2610">No.2610 Decreasing LCMs</a> (yukicoder contest 415 (2024-01-19) - D問題、diff <font color="yellowgreen">2129</font>)
 
 　
-<h2 id="損をしない変形">349. <a href="https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#損をしない変形">損をしない変形</a></h2>
-
-### 難易度統計
-
-「[損をしない変形](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#損をしない変形)」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
-- 全体: ★2.6／diff <font color="blue">1862</font>
-- 2026年: ★2／diff <font color="deepskyblue">1310</font>
-- 2025年: ★2.6／diff <font color="blue">1797</font>
-- 2024年: ★2.6／diff <font color="blue">1980</font>
-- 2023年: ★2.4／diff <font color="blue">1734</font>
-- 2022年: ★3.1／diff <font color="yellowgreen">2399</font>
-
-### レベル別問題一覧
-
-「[損をしない変形](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#損をしない変形)」を主たる解法に含む問題のレベルごとの一覧です。
-
-##### ★☆
-
-- <a href="https://yukicoder.me/problems/no/2259">No.2259 Gas Station</a> (yukicoder contest 383 (2023-04-07) - A問題、diff <font color="brown">744</font>)
-- <a href="https://yukicoder.me/problems/no/2729">No.2729 Addition and Multiplication in yukicoder (Easy)</a> (yukicoder contest 428 (2024-04-19) - B問題、diff <font color="green">919</font>)
-- <a href="https://yukicoder.me/problems/no/2738">No.2738 CPC To F</a> (CPCTF 2024 : PPC (2024-04-20) - C問題、diff <font color="deepskyblue">1245</font>)
-- <a href="https://yukicoder.me/problems/no/3067">No.3067 +10 Seconds Clock</a> (yukicoder contest 461 (2025-03-21) - D問題、diff <font color="deepskyblue">1250</font>)
-- <a href="https://yukicoder.me/problems/no/3288">No.3288 Sloppy Land Grading</a> (yukicoder contest 485 (2025-10-03) - C問題、diff <font color="green">1156</font>)
-
-##### ★★
-
-- <a href="https://yukicoder.me/problems/no/2141">No.2141 Enumeratest</a> (yukicoder contest 370 (2022-12-02) - B問題、diff <font color="deepskyblue">1356</font>)
-- <a href="https://yukicoder.me/problems/no/2240">No.2240 WAC</a> (yukicoder contest 380 (2023-03-10) - B問題、diff <font color="deepskyblue">1373</font>)
-- <a href="https://yukicoder.me/problems/no/2307">No.2307 [Cherry 5 th Tune *] Cool 46</a> (yukicoder contest 389 (Until that day when "Cherry Month" is over.) (2023-05-19) - C問題、diff <font color="deepskyblue">1345</font>)
-- <a href="https://yukicoder.me/problems/no/2386">No.2386 Udon Coupon (Easy)</a> (yukicoder contest 398 (2023-07-21) - B問題、diff <font color="green">982</font>)
-- <a href="https://yukicoder.me/problems/no/2591">No.2591 安上がりな括弧列</a> (Advent Calendar Contest 2023 (2023-12-01) - S問題、diff <font color="yellowgreen">2121</font>)
-- <a href="https://yukicoder.me/problems/no/2929">No.2929 Miracle Branch</a> (yukicoder contest 第3回緑以下コンテスト (2024-10-12) - K問題、diff <font color="blue">1608</font>)
-- <a href="https://yukicoder.me/problems/no/3254">No.3254 Xor, Max and Sum</a> (yukicoder contest  481（菁々祭プログラミングコンテスト2025） (2025-09-05) - C問題、diff <font color="yellowgreen">2027</font>)
-- <a href="https://yukicoder.me/problems/no/3262">No.3262 水色コーダーさん、その問題d問題ですよ？（1<=d<=N）</a> (第2回 岩井星人アンソロジープログラミングコンテスト Div.2 (2025-09-06) - D問題、diff <font color="gray">205</font>)
-- <a href="https://yukicoder.me/problems/no/3282">No.3282 Photos and Friends</a> (yukicoder contest 484 (2025-09-26) - D問題、diff <font color="blue">1815</font>)
-- <a href="https://yukicoder.me/problems/no/3325">No.3325 陰陽師</a> (第2回 岩井星人アンソロジープログラミングコンテスト Extra (2025-11-01) - C問題、diff <font color="green">1063</font>)
-- <a href="https://yukicoder.me/problems/no/3434">No.3434 [Cherry 8th Tune N] 大きくして Hold on Card!</a> (yukicoder contest 491 Go on Back!! (2026-01-23) - B問題、diff <font color="green">825</font>)
-- <a href="https://yukicoder.me/problems/no/3504">No.3504 Insert Maze</a> (CPCTF 2026: PPC (2026-04-17) - H問題、diff <font color="blue">1602</font>)
-- <a href="https://yukicoder.me/problems/no/3512">No.3512 moesode</a> (yukicoder contest 497 聖光学院プログラミングコンテスト2026 day1 (2026-04-24) - B問題、diff <font color="deepskyblue">1505</font>)
-
-##### ★★☆
-
-- <a href="https://yukicoder.me/problems/no/2078">No.2078 魔抜けなパープル</a> (yukicoder contest 361 (2022-09-25) - A問題、diff <font color="deepskyblue">1529</font>)
-- <a href="https://yukicoder.me/problems/no/2247">No.2247 01 ZigZag</a> (yukicoder contest 381 (2023-03-17) - B問題、diff <font color="blue">1604</font>)
-- <a href="https://yukicoder.me/problems/no/2276">No.2276 I Want AC</a> (yukicoder contest 385 (2023-04-21) - B問題、diff <font color="deepskyblue">1331</font>)
-- <a href="https://yukicoder.me/problems/no/2284">No.2284 Assembly</a> (yukicoder contest 386 (2023-04-28) - C問題、diff <font color="blue">1758</font>)
-- <a href="https://yukicoder.me/problems/no/2309">No.2309 [Cherry 5th Tune D] 夏の先取り</a> (yukicoder contest 389 (Until that day when "Cherry Month" is over.) (2023-05-19) - E問題、diff <font color="yellowgreen">2193</font>)
-- <a href="https://yukicoder.me/problems/no/2501">No.2501 Maximum Inversion Number</a> (yukicoder contest 408 (2023-10-13) - B問題、diff <font color="yellowgreen">2064</font>)
-- <a href="https://yukicoder.me/problems/no/2566">No.2566 美しい整数列</a> (第2回緑以下コンテスト (2023-12-02) - J問題、diff <font color="blue">1612</font>)
-- <a href="https://yukicoder.me/problems/no/2623">No.2623 Room Allocation</a> (yukicoder contest 417 (2024-02-09) - C問題、diff <font color="deepskyblue">1328</font>)
-- <a href="https://yukicoder.me/problems/no/2656">No.2656 XOR Slimes</a> (yukicoder contest 419 (2024-03-01) - B問題、diff <font color="blue">1726</font>)
-- <a href="https://yukicoder.me/problems/no/2744">No.2744 Power! or +1</a> (CPCTF 2024 : PPC (2024-04-20) - I問題、diff <font color="yellowgreen">2309</font>)
-- <a href="https://yukicoder.me/problems/no/2844">No.2844 Birthday Party Decoration</a> (yukicoder contest 441 (2024-08-23) - C問題、diff <font color="deepskyblue">1473</font>)
-- <a href="https://yukicoder.me/problems/no/2845">No.2845 Birthday Pattern in Two Different Calendars</a> (yukicoder contest 441 (2024-08-23) - D問題、diff <font color="blue">1947</font>)
-- <a href="https://yukicoder.me/problems/no/2984">No.2984 [Cherry Anniversary 4] 満開の願いを込めた 27 の桜</a> (Advent Calendar Contest 2024 (2024-12-01) - H問題、diff <font color="orange">2723</font>)
-- <a href="https://yukicoder.me/problems/no/3013">No.3013 ハチマキ買い星人</a> (第1回 岩井星人アンソロジープログラミングコンテスト (2025-01-25) - D問題、diff <font color="green">1176</font>)
-- <a href="https://yukicoder.me/problems/no/3015">No.3015 右に寄せろ！</a> (第1回 岩井星人アンソロジープログラミングコンテスト (2025-01-25) - F問題、diff <font color="deepskyblue">1515</font>)
-- <a href="https://yukicoder.me/problems/no/3049">No.3049 Contest Coordinator</a> (yukicoder contest 459 (2025-03-07) - B問題、diff <font color="deepskyblue">1480</font>)
-- <a href="https://yukicoder.me/problems/no/3072">No.3072 Speedrun Query</a> (yukicoder contest 461 (2025-03-21) - I問題、diff <font color="blue">1671</font>)
-- <a href="https://yukicoder.me/problems/no/3076">No.3076 Goodstuff Deck Builder</a> (yukicoder contest 462 (2025-03-28) - C問題、diff <font color="blue">1782</font>)
-- <a href="https://yukicoder.me/problems/no/3093">No.3093 Safe Infection</a> (QUPC2024 (2025-04-06) - C問題、diff <font color="blue">1783</font>)
-- <a href="https://yukicoder.me/problems/no/3173">No.3173 じゃんけんの勝ちの回数</a> (yukicoder contest 469 (2025-06-06) - C問題、diff <font color="deepskyblue">1396</font>)
-- <a href="https://yukicoder.me/problems/no/3268">No.3268 As Seen in Toasters</a> (yukicoder contest 482 (2025-09-12) - B問題、diff <font color="yellowgreen">2142</font>)
-- <a href="https://yukicoder.me/problems/no/3276">No.3276 Make Smaller Popcount</a> (yukicoder contest  483（オムニバス） (2025-09-19) - C問題、diff <font color="green">1002</font>)
-- <a href="https://yukicoder.me/problems/no/3281">No.3281 Pacific White-sided Dolphin vs Monster</a> (yukicoder contest 484 (2025-09-26) - C問題、diff <font color="blue">1867</font>)
-- <a href="https://yukicoder.me/problems/no/3303">No.3303 Heal Slimes 2</a> (yukicoder contest MMA Contest 020 (2025-10-05) - J問題、diff <font color="yellowgreen">2324</font>)
-- <a href="https://yukicoder.me/problems/no/3417">No.3417 Tired Santa</a> (Advent Calendar Contest 2025 (2025-12-01) - X問題、diff <font color="orange">2492</font>)
-
-##### ★★★
-
-- <a href="https://yukicoder.me/problems/no/2213">No.2213 Neq Move</a> (yukicoder contest 376 (2023-02-10) - F問題、diff <font color="yellowgreen">2086</font>)
-- <a href="https://yukicoder.me/problems/no/2236">No.2236 Lights Out On Simple Graph</a> (yukicoder contest 379 (2023-03-03) - E問題、diff <font color="yellowgreen">2175</font>)
-- <a href="https://yukicoder.me/problems/no/2242">No.2242 Cities and Teleporters</a> (yukicoder contest 380 (2023-03-10) - D問題、diff <font color="yellowgreen">2274</font>)
-- <a href="https://yukicoder.me/problems/no/2422">No.2422 regisys?</a> (MMA Contest 016 (2023-08-12) - I問題、diff <font color="yellowgreen">2353</font>)
-- <a href="https://yukicoder.me/problems/no/2603">No.2603 Tone Correction</a> (yukicoder contest 414 (2024-01-12) - E問題、diff <font color="orange">2536</font>)
-- <a href="https://yukicoder.me/problems/no/2734">No.2734 Addition and Multiplication in yukicoder (Hard)</a> (yukicoder contest 428 (2024-04-19) - G問題、diff <font color="yellowgreen">2034</font>)
-- <a href="https://yukicoder.me/problems/no/2957">No.2957 Combo Deck Builder</a> (yukicoder contest 452 (2024-11-08) - E問題、diff <font color="orange">2585</font>)
-- <a href="https://yukicoder.me/problems/no/3077">No.3077 Goodstuff Deck Builder(Hard)</a> (yukicoder contest 462 (2025-03-28) - D問題、diff <font color="yellowgreen">2246</font>)
-- <a href="https://yukicoder.me/problems/no/3088">No.3088 XOR = SUM</a> (yukicoder contest 463 (2025-04-04) - F問題、diff <font color="deepskyblue">1463</font>)
-- <a href="https://yukicoder.me/problems/no/3305">No.3305 Shift Sort</a> (yukicoder contest MMA Contest 020 (2025-10-05) - L問題、diff <font color="yellowgreen">2324</font>)
-
-##### ★★★☆
-
-- <a href="https://yukicoder.me/problems/no/2096">No.2096 Rage With Our Friends</a> (yukicoder contest 363 (2022-10-07) - E問題、diff <font color="orange">2690</font>)
-- <a href="https://yukicoder.me/problems/no/2106">No.2106 Wild Cacco</a> (yukicoder contest 365 (2022-10-21) - D問題、diff <font color="orange">2532</font>)
-- <a href="https://yukicoder.me/problems/no/2145">No.2145 Segment +-</a> (yukicoder contest 370 (2022-12-02) - F問題、diff <font color="red">2915</font>)
-- <a href="https://yukicoder.me/problems/no/2167">No.2167 Fibonacci Knapsack</a> (Advent Calendar Contest 2022 (2022-12-01) - T問題、diff <font color="red">3019</font>)
-- <a href="https://yukicoder.me/problems/no/2171">No.2171 OR Assignment</a> (Advent Calendar Contest 2022 (2022-12-01) - X問題、diff <font color="orange">2758</font>)
-- <a href="https://yukicoder.me/problems/no/3032">No.3032 ホモトピー入門</a> (yukicoder contest 457 (2025-02-21) - F問題、diff <font color="yellowgreen">2257</font>)
-- <a href="https://yukicoder.me/problems/no/3079">No.3079 Unite Japanese Prefectures</a> (yukicoder contest 462 (2025-03-28) - F問題、diff <font color="yellowgreen">2197</font>)
-- <a href="https://yukicoder.me/problems/no/3148">No.3148 Min-Cost Destruction of Parentheses</a> (yukicoder contest 467 (2025-05-16) - I問題、diff <font color="orange">2565</font>)
-- <a href="https://yukicoder.me/problems/no/3405">No.3405 Engineering University of Tree</a> (Advent Calendar Contest 2025 (2025-12-01) - L問題、diff <font color="orange">2706</font>)
-
-##### ★★★★
-
-- <a href="https://yukicoder.me/problems/no/3023">No.3023 Utility is Max?</a> (yukicoder contest 456 オムニバス (2025-02-14) - E問題、diff <font color="red">2833</font>)
-
-##### ★★★★★
-
-- <a href="https://yukicoder.me/problems/no/2987">No.2987 Colorful University of Tree</a> (Advent Calendar Contest 2024 (2024-12-01) - K問題、diff <font color="darkgoldenrod ">3309</font>)
-
-　
-<h2 id="合成による次元削減">350. <a href="https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#合成による次元削減">合成による次元削減</a></h2>
-
-### 難易度統計
-
-「[合成による次元削減](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#合成による次元削減)」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
-- 全体: ★2.6／diff <font color="blue">1862</font>
-- 2026年: ★データなし／diffデータなし
-- 2025年: ★3／diff <font color="yellowgreen">2018</font>
-- 2024年: ★2.6／diff <font color="yellowgreen">2082</font>
-- 2023年: ★2.5／diff <font color="green">1172</font>
-- 2022年: ★データなし／diffデータなし
-
-### レベル別問題一覧
-
-「[合成による次元削減](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#合成による次元削減)」を主たる解法に含む問題のレベルごとの一覧です。
-
-##### ★★
-
-- <a href="https://yukicoder.me/problems/no/2408">No.2408 Lakes and Fish</a> (yukicoder contest 401 (2023-08-11) - B問題、diff <font color="brown">657</font>)
-- <a href="https://yukicoder.me/problems/no/2741">No.2741 Balanced Choice</a> (CPCTF 2024 : PPC (2024-04-20) - F問題、diff <font color="deepskyblue">1557</font>)
-
-##### ★★☆
-
-- <a href="https://yukicoder.me/problems/no/2486">No.2486 Don't come next to me</a> (yukicoder contest 406 技術室奥プログラミングコンテスト#7 Day2 (2023-09-29) - A問題、diff <font color="brown">712</font>)
-- <a href="https://yukicoder.me/problems/no/2683">No.2683 Two Sheets</a> (yukicoder contest 422 (第１回 競技プログラミング講習会作問企画コンテスト) (2024-03-20) - E問題、diff <font color="yellowgreen">2031</font>)
-- <a href="https://yukicoder.me/problems/no/2686">No.2686 商品券の使い道</a> (yukicoder contest 422 (第１回 競技プログラミング講習会作問企画コンテスト) (2024-03-20) - H問題、diff <font color="yellowgreen">2031</font>)
-- <a href="https://yukicoder.me/problems/no/2743">No.2743 Twisted Lattice</a> (CPCTF 2024 : PPC (2024-04-20) - H問題、diff <font color="yellowgreen">2309</font>)
-
-##### ★★★
-
-- <a href="https://yukicoder.me/problems/no/2331">No.2331 Maximum Quadrilateral</a> (MMA Contest 015  (2023-05-28) - J問題、diff <font color="yellowgreen">2147</font>)
-- <a href="https://yukicoder.me/problems/no/2746">No.2746 Bicolor Pyramid</a> (CPCTF 2024 : PPC (2024-04-20) - K問題、diff <font color="orange">2423</font>)
-- <a href="https://yukicoder.me/problems/no/2769">No.2769 Number of Rhombi</a> (yukicoder contest 431 (2024-05-31) - E問題、diff <font color="yellowgreen">2003</font>)
-- <a href="https://yukicoder.me/problems/no/2846">No.2846 Birthday Cake</a> (yukicoder contest 441 (2024-08-23) - E問題、diff <font color="yellowgreen">2116</font>)
-- <a href="https://yukicoder.me/problems/no/2868">No.2868 Another String of yuusaan</a> (yukicoder contest 443 (2024-08-30) - G問題、diff <font color="yellowgreen">2191</font>)
-- <a href="https://yukicoder.me/problems/no/3244">No.3244 Range Multiple of 8 Query</a> (yukicoder contest 479 AngrySadEightお誕生日コンテスト2025 (2025-08-22) - E問題、diff <font color="blue">1867</font>)
-- <a href="https://yukicoder.me/problems/no/3292">No.3292 World Map Distance</a> (yukicoder contest 485 (2025-10-03) - G問題、diff <font color="yellowgreen">2170</font>)
-
-　
-<h2 id="繰り返し二乗法">351. 繰り返し二乗法</h2>
+<h2 id="繰り返し二乗法">352. 繰り返し二乗法</h2>
 
 ### 難易度統計
 
 「繰り返し二乗法」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
-- 全体: ★2.6／diff <font color="blue">1863</font>
-- 2026年: ★2.7／diff <font color="blue">1731</font>
+- 全体: ★2.6／diff <font color="blue">1868</font>
+- 2026年: ★2.7／diff <font color="blue">1784</font>
 - 2025年: ★2.5／diff <font color="blue">1779</font>
 - 2024年: ★2.7／diff <font color="yellowgreen">2065</font>
 - 2023年: ★2.5／diff <font color="blue">1861</font>
@@ -14530,9 +14589,10 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3515">No.3515 Anti EIKO</a> (yukicoder contest 497 聖光学院プログラミングコンテスト2026 day1 (2026-04-24) - E問題、diff <font color="blue">1757</font>)
 - <a href="https://yukicoder.me/problems/no/3522">No.3522 冪乗乗</a> (yukicoder contest 498 リアクティブコンテスト (2026-05-01) - E問題、diff <font color="yellowgreen">2111</font>)
 - <a href="https://yukicoder.me/problems/no/3551">No.3551 Regions by Random Points 2</a> (yukicoder contest 500 (2026-05-22) - E問題、diff <font color="blue">1768</font>)
+- <a href="https://yukicoder.me/problems/no/3563">No.3563 No T-Junctions in Kyoto</a> (KCPC新歓杯2026 (2026-05-29) - I問題、diff <font color="yellowgreen">2211</font>)
 
 　
-<h2 id="素因数分解">352. 素因数分解</h2>
+<h2 id="素因数分解">353. 素因数分解</h2>
 
 ### 難易度統計
 
@@ -14611,7 +14671,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2993">No.2993 冪乗乗 mod 冪乗</a> (Advent Calendar Contest 2024 (2024-12-01) - Q問題、diffデータなし)
 
 　
-<h2 id="三平方の定理">353. 三平方の定理</h2>
+<h2 id="三平方の定理">354. 三平方の定理</h2>
 
 ### 難易度統計
 
@@ -14641,7 +14701,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2831">No.2831 Cos Bomb Crasher</a> (yukicoder contest 439 (2024-08-02) - E問題、diff <font color="red">3143</font>)
 
 　
-<h2 id="一要素削除更新">354. 一要素削除更新</h2>
+<h2 id="一要素削除更新">355. 一要素削除更新</h2>
 
 ### 難易度統計
 
@@ -14691,7 +14751,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3494">No.3494 一点挿入区間和取得</a> (yukicoder contest 496 (2026-04-03) - G問題、diff <font color="yellowgreen">2083</font>)
 
 　
-<h2 id="ナップサック分割統治">355. ナップサック分割統治</h2>
+<h2 id="ナップサック分割統治">356. ナップサック分割統治</h2>
 
 ### 難易度統計
 
@@ -14722,7 +14782,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2846">No.2846 Birthday Cake</a> (yukicoder contest 441 (2024-08-23) - E問題、diff <font color="yellowgreen">2116</font>)
 
 　
-<h2 id="１つの桁・成分のみ特定する質問">356. １つの桁・成分のみ特定する質問</h2>
+<h2 id="１つの桁・成分のみ特定する質問">357. １つの桁・成分のみ特定する質問</h2>
 
 ### 難易度統計
 
@@ -14764,7 +14824,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2831">No.2831 Cos Bomb Crasher</a> (yukicoder contest 439 (2024-08-02) - E問題、diff <font color="red">3143</font>)
 
 　
-<h2 id="制約からグラフの種類を特定">357. 制約からグラフの種類を特定</h2>
+<h2 id="制約からグラフの種類を特定">358. 制約からグラフの種類を特定</h2>
 
 ### 難易度統計
 
@@ -14801,13 +14861,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2584">No.2584 The University of Tree</a> (Advent Calendar Contest 2023 (2023-12-01) - L問題、diff <font color="red">2960</font>)
 
 　
-<h2 id="不変量に注目">358. 不変量に注目</h2>
+<h2 id="不変量に注目">359. 不変量に注目</h2>
 
 ### 難易度統計
 
 「不変量に注目」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
-- 全体: ★2.6／diff <font color="blue">1887</font>
-- 2026年: ★2.8／diff <font color="blue">1716</font>
+- 全体: ★2.6／diff <font color="blue">1892</font>
+- 2026年: ★2.5／diff <font color="blue">1842</font>
 - 2025年: ★2.5／diff <font color="blue">1897</font>
 - 2024年: ★2.6／diff <font color="blue">1889</font>
 - 2023年: ★2.5／diff <font color="blue">1689</font>
@@ -14820,6 +14880,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 ##### ★
 
 - <a href="https://yukicoder.me/problems/no/2714">No.2714 Amaou</a> (yukicoder contest 426 (2024-04-05) - A問題、diff <font color="brown">595</font>)
+- <a href="https://yukicoder.me/problems/no/3556">No.3556 KCPC or KUPC</a> (KCPC新歓杯2026 (2026-05-29) - B問題、diff <font color="deepskyblue">1554</font>)
 
 ##### ★☆
 
@@ -14894,6 +14955,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3408">No.3408 1215 Segments</a> (Advent Calendar Contest 2025 (2025-12-01) - O問題、diff <font color="red">2872</font>)
 - <a href="https://yukicoder.me/problems/no/3410">No.3410 Happiest Art</a> (Advent Calendar Contest 2025 (2025-12-01) - Q問題、diff <font color="orange">2706</font>)
 - <a href="https://yukicoder.me/problems/no/3430">No.3430 Flip the Grid</a> (yukicoder contest YNUCPC Contest 2 (2026-01-11) - L問題、diff <font color="yellowgreen">2103</font>)
+- <a href="https://yukicoder.me/problems/no/3564">No.3564 Awkward Timing</a> (KCPC新歓杯2026 (2026-05-29) - J問題、diff <font color="orange">2635</font>)
 
 ##### ★★★☆
 
@@ -14916,7 +14978,47 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2987">No.2987 Colorful University of Tree</a> (Advent Calendar Contest 2024 (2024-12-01) - K問題、diff <font color="darkgoldenrod ">3309</font>)
 
 　
-<h2 id="bitDP">359. bitDP</h2>
+<h2 id="合成による次元削減">360. <a href="https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#合成による次元削減">合成による次元削減</a></h2>
+
+### 難易度統計
+
+「[合成による次元削減](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#合成による次元削減)」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
+- 全体: ★2.6／diff <font color="blue">1898</font>
+- 2026年: ★2.5／diff <font color="yellowgreen">2358</font>
+- 2025年: ★3／diff <font color="yellowgreen">2018</font>
+- 2024年: ★2.6／diff <font color="yellowgreen">2082</font>
+- 2023年: ★2.5／diff <font color="green">1172</font>
+- 2022年: ★データなし／diffデータなし
+
+### レベル別問題一覧
+
+「[合成による次元削減](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#合成による次元削減)」を主たる解法に含む問題のレベルごとの一覧です。
+
+##### ★★
+
+- <a href="https://yukicoder.me/problems/no/2408">No.2408 Lakes and Fish</a> (yukicoder contest 401 (2023-08-11) - B問題、diff <font color="brown">657</font>)
+- <a href="https://yukicoder.me/problems/no/2741">No.2741 Balanced Choice</a> (CPCTF 2024 : PPC (2024-04-20) - F問題、diff <font color="deepskyblue">1557</font>)
+
+##### ★★☆
+
+- <a href="https://yukicoder.me/problems/no/2486">No.2486 Don't come next to me</a> (yukicoder contest 406 技術室奥プログラミングコンテスト#7 Day2 (2023-09-29) - A問題、diff <font color="brown">712</font>)
+- <a href="https://yukicoder.me/problems/no/2683">No.2683 Two Sheets</a> (yukicoder contest 422 (第１回 競技プログラミング講習会作問企画コンテスト) (2024-03-20) - E問題、diff <font color="yellowgreen">2031</font>)
+- <a href="https://yukicoder.me/problems/no/2686">No.2686 商品券の使い道</a> (yukicoder contest 422 (第１回 競技プログラミング講習会作問企画コンテスト) (2024-03-20) - H問題、diff <font color="yellowgreen">2031</font>)
+- <a href="https://yukicoder.me/problems/no/2743">No.2743 Twisted Lattice</a> (CPCTF 2024 : PPC (2024-04-20) - H問題、diff <font color="yellowgreen">2309</font>)
+- <a href="https://yukicoder.me/problems/no/3559">No.3559 +A,-B</a> (KCPC新歓杯2026 (2026-05-29) - E問題、diff <font color="yellowgreen">2358</font>)
+
+##### ★★★
+
+- <a href="https://yukicoder.me/problems/no/2331">No.2331 Maximum Quadrilateral</a> (MMA Contest 015  (2023-05-28) - J問題、diff <font color="yellowgreen">2147</font>)
+- <a href="https://yukicoder.me/problems/no/2746">No.2746 Bicolor Pyramid</a> (CPCTF 2024 : PPC (2024-04-20) - K問題、diff <font color="orange">2423</font>)
+- <a href="https://yukicoder.me/problems/no/2769">No.2769 Number of Rhombi</a> (yukicoder contest 431 (2024-05-31) - E問題、diff <font color="yellowgreen">2003</font>)
+- <a href="https://yukicoder.me/problems/no/2846">No.2846 Birthday Cake</a> (yukicoder contest 441 (2024-08-23) - E問題、diff <font color="yellowgreen">2116</font>)
+- <a href="https://yukicoder.me/problems/no/2868">No.2868 Another String of yuusaan</a> (yukicoder contest 443 (2024-08-30) - G問題、diff <font color="yellowgreen">2191</font>)
+- <a href="https://yukicoder.me/problems/no/3244">No.3244 Range Multiple of 8 Query</a> (yukicoder contest 479 AngrySadEightお誕生日コンテスト2025 (2025-08-22) - E問題、diff <font color="blue">1867</font>)
+- <a href="https://yukicoder.me/problems/no/3292">No.3292 World Map Distance</a> (yukicoder contest 485 (2025-10-03) - G問題、diff <font color="yellowgreen">2170</font>)
+
+　
+<h2 id="bitDP">361. bitDP</h2>
 
 ### 難易度統計
 
@@ -14951,7 +15053,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3312">No.3312 Fire Engine</a> (yukicoder contest 486 オムニバス (2025-10-24) - E問題、diff <font color="yellowgreen">2002</font>)
 
 　
-<h2 id="等比数列の累積和計算">360. 等比数列の累積和計算</h2>
+<h2 id="等比数列の累積和計算">362. 等比数列の累積和計算</h2>
 
 ### 難易度統計
 
@@ -14999,7 +15101,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2448">No.2448 一次変換と面積</a> (yukicoder contest 402 (2023-08-25) - H問題、diff <font color="red">3185</font>)
 
 　
-<h2 id="フェルマーの小定理">361. フェルマーの小定理</h2>
+<h2 id="フェルマーの小定理">363. フェルマーの小定理</h2>
 
 ### 難易度統計
 
@@ -15052,7 +15154,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2995">No.2995 The Ruler Sequence Concatenation</a> (Advent Calendar Contest 2024 (2024-12-01) - S問題、diff <font color="darkgoldenrod ">3309</font>)
 
 　
-<h2 id="順列のリアクティブによる特定">362. 順列のリアクティブによる特定</h2>
+<h2 id="順列のリアクティブによる特定">364. 順列のリアクティブによる特定</h2>
 
 ### 難易度統計
 
@@ -15082,7 +15184,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3400">No.3400 Nana's Plus Permutation Game (7 + 7) ÷ 7</a> (Advent Calendar Contest 2025 (2025-12-01) - G問題、diff <font color="darkgoldenrod ">3296</font>)
 
 　
-<h2 id="imos法">363. imos法</h2>
+<h2 id="imos法">365. imos法</h2>
 
 ### 難易度統計
 
@@ -15136,159 +15238,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2133">No.2133 Take it easy!</a> (yukicoder contest 369 (2022-11-25) - D問題、diff <font color="orange">2649</font>)
 
 　
-<h2 id="01列に翻訳">364. <a href="https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#01列に翻訳">01列に翻訳</a></h2>
-
-### 難易度統計
-
-「[01列に翻訳](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#01列に翻訳)」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
-- 全体: ★2.6／diff <font color="blue">1918</font>
-- 2026年: ★データなし／diffデータなし
-- 2025年: ★2.5／diff <font color="blue">1988</font>
-- 2024年: ★2.6／diff <font color="blue">1747</font>
-- 2023年: ★2.5／diff <font color="blue">1925</font>
-- 2022年: ★3／diff <font color="yellowgreen">2117</font>
-
-### レベル別問題一覧
-
-「[01列に翻訳](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#01列に翻訳)」を主たる解法に含む問題のレベルごとの一覧です。
-
-##### ★
-
-- <a href="https://yukicoder.me/problems/no/2533">No.2533 A⇒B問題</a> (yukicoder contest 412 (2023-11-10) - A問題、diff <font color="gray">371</font>)
-
-##### ★☆
-
-- <a href="https://yukicoder.me/problems/no/2118">No.2118 遺伝的有限集合の数え上げ</a> (yukicoder contest 367 (2022-11-04) - B問題、diff <font color="deepskyblue">1343</font>)
-- <a href="https://yukicoder.me/problems/no/2268">No.2268 NGワード回避</a> (yukicoder contest 384 (2023-04-14) - B問題、diff <font color="deepskyblue">1306</font>)
-- <a href="https://yukicoder.me/problems/no/3299">No.3299 K-th MMA String</a> (yukicoder contest MMA Contest 020 (2025-10-05) - F問題、diff <font color="deepskyblue">1513</font>)
-
-##### ★★
-
-- <a href="https://yukicoder.me/problems/no/2090">No.2090 否定論理積と充足可能性</a> (yukicoder contest 362 (2022-09-30) - E問題、diff <font color="deepskyblue">1358</font>)
-- <a href="https://yukicoder.me/problems/no/2711">No.2711 Connecting Lights</a> (yukicoder contest 425 (MMA Contest 018) (2024-03-31) - F問題、diff <font color="deepskyblue">1396</font>)
-- <a href="https://yukicoder.me/problems/no/2872">No.2872 Depth of the Parentheses</a> (yukicoder contest 444 (2024-09-06) - C問題、diff <font color="deepskyblue">1330</font>)
-- <a href="https://yukicoder.me/problems/no/3158">No.3158 Collect Stamps</a> (KCPC新歓杯 -Happy Birthday physics0523- (2025-05-23) - D問題、diff <font color="green">1184</font>)
-- <a href="https://yukicoder.me/problems/no/3275">No.3275 Minesweeper on Graph</a> (yukicoder contest  483（オムニバス） (2025-09-19) - B問題、diff <font color="green">1002</font>)
-
-##### ★★☆
-
-- <a href="https://yukicoder.me/problems/no/2270">No.2270 T0空間</a> (yukicoder contest 384 (2023-04-14) - D問題、diff <font color="yellowgreen">2066</font>)
-- <a href="https://yukicoder.me/problems/no/2364">No.2364 Knapsack Problem</a> (yukicoder contest 395 (2023-06-30) - A問題、diff <font color="deepskyblue">1352</font>)
-- <a href="https://yukicoder.me/problems/no/2442">No.2442 線形写像</a> (yukicoder contest 402 (2023-08-25) - B問題、diff <font color="blue">1714</font>)
-- <a href="https://yukicoder.me/problems/no/2630">No.2630 Colorful Vertices and Cheapest Paths </a> (traP 作問ハッカソンコンテスト 002(day1) (2024-02-16) - C問題、diff <font color="deepskyblue">1435</font>)
-- <a href="https://yukicoder.me/problems/no/2686">No.2686 商品券の使い道</a> (yukicoder contest 422 (第１回 競技プログラミング講習会作問企画コンテスト) (2024-03-20) - H問題、diff <font color="yellowgreen">2031</font>)
-- <a href="https://yukicoder.me/problems/no/2730">No.2730 Two Types Luggage</a> (yukicoder contest 428 (2024-04-19) - C問題、diff <font color="deepskyblue">1279</font>)
-- <a href="https://yukicoder.me/problems/no/2932">No.2932 えっえっ嘘嘘嘘待って待って待って？？？えマジで？ほんとに？マジでやばすぎなんだけど？えっおっほんとにこんなにDPしちゃっていいんですかい？？？マジでやばすぎなんだけど？？？</a> (yukicoder contest 第3回緑以下コンテスト エキストラ (2024-10-12) - B問題、diffデータなし)
-- <a href="https://yukicoder.me/problems/no/2948">No.2948 move move rotti</a> (yukicoder contest 451 (並木中等プログラミングコンテスト 2024) (2024-10-25) - D問題、diff <font color="blue">1778</font>)
-- <a href="https://yukicoder.me/problems/no/2955">No.2955 Pizza Delivery Plan</a> (yukicoder contest 452 (2024-11-08) - C問題、diff <font color="blue">1728</font>)
-- <a href="https://yukicoder.me/problems/no/3172">No.3172 三角関数べき乗のフーリエ級数展開</a> (yukicoder contest 469 (2025-06-06) - B問題、diff <font color="deepskyblue">1595</font>)
-- <a href="https://yukicoder.me/problems/no/3311">No.3311 フィルター</a> (yukicoder contest 486 オムニバス (2025-10-24) - D問題、diff <font color="yellowgreen">2049</font>)
-- <a href="https://yukicoder.me/problems/no/3342">No.3342 AAB Game</a> (yukicoder contest 作問ハッカソンコンテスト 003 Day1 (2025-11-13) - C問題、diff <font color="orange">2620</font>)
-
-##### ★★★
-
-- <a href="https://yukicoder.me/problems/no/2134">No.2134 $\sigma$-algebra over Finite Set</a> (yukicoder contest 369 (2022-11-25) - E問題、diff <font color="yellowgreen">2245</font>)
-- <a href="https://yukicoder.me/problems/no/2152">No.2152 [Cherry Anniversary 2]  19 Petals of Cherry</a> (Advent Calendar Contest 2022 (2022-12-01) - I問題、diff <font color="yellowgreen">2344</font>)
-- <a href="https://yukicoder.me/problems/no/2236">No.2236 Lights Out On Simple Graph</a> (yukicoder contest 379 (2023-03-03) - E問題、diff <font color="yellowgreen">2175</font>)
-- <a href="https://yukicoder.me/problems/no/2389">No.2389 Cheating Code Golf</a> (yukicoder contest 398 (2023-07-21) - E問題、diff <font color="orange">2451</font>)
-- <a href="https://yukicoder.me/problems/no/2445">No.2445 奇行列式</a> (yukicoder contest 402 (2023-08-25) - E問題、diff <font color="yellowgreen">2365</font>)
-- <a href="https://yukicoder.me/problems/no/2538">No.2538 2進元ゲーム</a> (yukicoder contest 412 (2023-11-10) - F問題、diff <font color="orange">2436</font>)
-- <a href="https://yukicoder.me/problems/no/2672">No.2672 Subset Xor Sum</a> (yukicoder contest 421  (NUPC2023) (2024-03-15) - B問題、diff <font color="deepskyblue">1416</font>)
-- <a href="https://yukicoder.me/problems/no/2792">No.2792 Security Cameras on Young Diagram</a> (yukicoder contest 434 (2024-06-21) - D問題、diff <font color="blue">1813</font>)
-- <a href="https://yukicoder.me/problems/no/2966">No.2966 Simple Plus Minus Problem</a> (yukicoder contest 453 (2024-11-16) - G問題、diff <font color="yellowgreen">2130</font>)
-- <a href="https://yukicoder.me/problems/no/3138">No.3138 Minimum Bracket Subsequence</a> (yukicoder contest 466 オムニバスコンテスト (2025-05-02) - G問題、diff <font color="orange">2666</font>)
-- <a href="https://yukicoder.me/problems/no/3237">No.3237 Find the Treasure!</a> (yukicoder contest 478 オムニバス (2025-08-15) - F問題、diffデータなし)
-- <a href="https://yukicoder.me/problems/no/3410">No.3410 Happiest Art</a> (Advent Calendar Contest 2025 (2025-12-01) - Q問題、diff <font color="orange">2706</font>)
-
-##### ★★★☆
-
-- <a href="https://yukicoder.me/problems/no/2121">No.2121 帰属関係と充足可能性</a> (yukicoder contest 367 (2022-11-04) - E問題、diff <font color="yellowgreen">2326</font>)
-- <a href="https://yukicoder.me/problems/no/2539">No.2539 スライムゲーム</a> (yukicoder contest 412 (2023-11-10) - G問題、diff <font color="red">3014</font>)
-- <a href="https://yukicoder.me/problems/no/2981">No.2981 Pack Tree into Grid</a> (Advent Calendar Contest 2024 (2024-12-01) - E問題、diff <font color="red">2885</font>)
-- <a href="https://yukicoder.me/problems/no/3148">No.3148 Min-Cost Destruction of Parentheses</a> (yukicoder contest 467 (2025-05-16) - I問題、diff <font color="orange">2565</font>)
-
-##### ★★★★★
-
-- <a href="https://yukicoder.me/problems/no/2149">No.2149 Vanitas Vanitatum</a> (Advent Calendar Contest 2022 (2022-12-01) - F問題、diff <font color="red">3086</font>)
-
-　
-<h2 id="コスト最小化をコスト決め打ちの成功判定に帰着">365. コスト最小化をコスト決め打ちの成功判定に帰着</h2>
-
-### 難易度統計
-
-「コスト最小化をコスト決め打ちの成功判定に帰着」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
-- 全体: ★2.6／diff <font color="blue">1919</font>
-- 2026年: ★2.2／diff <font color="green">1121</font>
-- 2025年: ★2.7／diff <font color="yellowgreen">2211</font>
-- 2024年: ★2.7／diff <font color="yellowgreen">2218</font>
-- 2023年: ★2.7／diff <font color="yellowgreen">2126</font>
-- 2022年: ★データなし／diffデータなし
-
-### レベル別問題一覧
-
-「コスト最小化をコスト決め打ちの成功判定に帰着」を主たる解法に含む問題のレベルごとの一覧です。
-
-##### ★★
-
-- <a href="https://yukicoder.me/problems/no/3534">No.3534 Make Many Fences</a> (yukicoder 499 contest (2026-05-08) - B問題、diff <font color="deepskyblue">1252</font>)
-
-##### ★★☆
-
-- <a href="https://yukicoder.me/problems/no/2179">No.2179 Planet Traveler</a> (yukicoder contest 372 (2023-01-06) - E問題、diff <font color="yellowgreen">2044</font>)
-- <a href="https://yukicoder.me/problems/no/2890">No.2890 Chiffon</a> (yukicoder contest 446 (2024-09-13) - E問題、diff <font color="yellowgreen">2275</font>)
-- <a href="https://yukicoder.me/problems/no/3309">No.3309 Aging Railway</a> (yukicoder contest 486 オムニバス (2025-10-24) - B問題、diff <font color="blue">1632</font>)
-- <a href="https://yukicoder.me/problems/no/3490">No.3490 最高経路問題</a> (yukicoder contest 496 (2026-04-03) - C問題、diff <font color="green">991</font>)
-
-##### ★★★
-
-- <a href="https://yukicoder.me/problems/no/2497">No.2497 GCD of LCMs</a> (yukicoder contest 407 (2023-10-06) - F問題、diff <font color="yellowgreen">2209</font>)
-- <a href="https://yukicoder.me/problems/no/2786">No.2786 RMQ on Grid Path</a> (yukicoder contest 433 (2024-06-14) - F問題、diff <font color="yellowgreen">2162</font>)
-- <a href="https://yukicoder.me/problems/no/3368">No.3368 トッピング</a> (yukicoder contest 作問ハッカソンコンテスト 003 Day2 (2025-11-17) - G問題、diff <font color="orange">2790</font>)
-
-　
-<h2 id="階差数列">366. 階差数列</h2>
-
-### 難易度統計
-
-「階差数列」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
-- 全体: ★2.6／diff <font color="blue">1920</font>
-- 2026年: ★データなし／diffデータなし
-- 2025年: ★2.7／diff <font color="yellowgreen">2103</font>
-- 2024年: ★2.8／diff <font color="yellowgreen">2092</font>
-- 2023年: ★2.2／diff <font color="blue">1692</font>
-- 2022年: ★3／diff <font color="blue">1853</font>
-
-### レベル別問題一覧
-
-「階差数列」を主たる解法に含む問題のレベルごとの一覧です。
-
-##### ★★
-
-- <a href="https://yukicoder.me/problems/no/2188">No.2188 整数列コイントスゲーム</a> (yukicoder contest 373 (2023-01-13) - E問題、diff <font color="yellowgreen">2148</font>)
-- <a href="https://yukicoder.me/problems/no/2451">No.2451 Redistribute Integers</a> (yukicoder contest 403 (2023-09-01) - B問題、diff <font color="green">1158</font>)
-
-##### ★★☆
-
-- <a href="https://yukicoder.me/problems/no/2111">No.2111 Sum of Diff</a> (yukicoder contest 366 (2022-10-28) - C問題、diff <font color="deepskyblue">1206</font>)
-- <a href="https://yukicoder.me/problems/no/2308">No.2308 [Cherry 5th Tune B] もしかして、真?</a> (yukicoder contest 389 (Until that day when "Cherry Month" is over.) (2023-05-19) - D問題、diff <font color="blue">1851</font>)
-- <a href="https://yukicoder.me/problems/no/2566">No.2566 美しい整数列</a> (第2回緑以下コンテスト (2023-12-02) - J問題、diff <font color="blue">1612</font>)
-- <a href="https://yukicoder.me/problems/no/2662">No.2662 Installing Cell Towers</a> (単発出題、diffデータなし)
-- <a href="https://yukicoder.me/problems/no/2962">No.2962 Sum Bomb Bomber</a> (yukicoder contest 453 (2024-11-16) - C問題、diff <font color="deepskyblue">1579</font>)
-- <a href="https://yukicoder.me/problems/no/3392">No.3392 Count 23578 Sequence</a> (yukicoder contest 490 (2025-11-28) - F問題、diff <font color="blue">1927</font>)
-
-##### ★★★
-
-- <a href="https://yukicoder.me/problems/no/2603">No.2603 Tone Correction</a> (yukicoder contest 414 (2024-01-12) - E問題、diff <font color="orange">2536</font>)
-- <a href="https://yukicoder.me/problems/no/2619">No.2619 Sorted Nim</a> (yukicoder contest 416 (2024-01-26) - F問題、diff <font color="yellowgreen">2349</font>)
-- <a href="https://yukicoder.me/problems/no/2821">No.2821 A[i] ← 2A[j] - A[i]</a> (yukicoder contest 438 (2024-07-26) - C問題、diff <font color="blue">1905</font>)
-- <a href="https://yukicoder.me/problems/no/3334">No.3334 I hate Image Convolution</a> (yukicoder contest 487 (2025-11-07) - A問題、diff <font color="yellowgreen">2280</font>)
-
-##### ★★★☆
-
-- <a href="https://yukicoder.me/problems/no/2144">No.2144 MM</a> (yukicoder contest 370 (2022-12-02) - E問題、diff <font color="orange">2500</font>)
-
-　
-<h2 id="端から確定">367. 端から確定</h2>
+<h2 id="端から確定">366. 端から確定</h2>
 
 ### 難易度統計
 
@@ -15386,7 +15336,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2998">No.2998 Rainbow Christmas Tree</a> (Advent Calendar Contest 2024 (2024-12-01) - V問題、diff <font color="darkgoldenrod ">3309</font>)
 
 　
-<h2 id="操作コスト最小化を最短経路長計算に帰着">368. 操作コスト最小化を最短経路長計算に帰着</h2>
+<h2 id="操作コスト最小化を最短経路長計算に帰着">367. 操作コスト最小化を最短経路長計算に帰着</h2>
 
 ### 難易度統計
 
@@ -15416,6 +15366,83 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2328">No.2328 Build Walls</a> (MMA Contest 015  (2023-05-28) - G問題、diff <font color="blue">1915</font>)
 - <a href="https://yukicoder.me/problems/no/2657">No.2657 Falling Block Game</a> (yukicoder contest 419 (2024-03-01) - C問題、diff <font color="yellowgreen">2117</font>)
 - <a href="https://yukicoder.me/problems/no/2690">No.2690 A present from B (Hard)</a> (単発出題、diffデータなし)
+
+　
+<h2 id="01列に翻訳">368. <a href="https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#01列に翻訳">01列に翻訳</a></h2>
+
+### 難易度統計
+
+「[01列に翻訳](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#01列に翻訳)」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
+- 全体: ★2.6／diff <font color="blue">1938</font>
+- 2026年: ★3／diff <font color="orange">2635</font>
+- 2025年: ★2.5／diff <font color="blue">1988</font>
+- 2024年: ★2.6／diff <font color="blue">1747</font>
+- 2023年: ★2.5／diff <font color="blue">1925</font>
+- 2022年: ★3／diff <font color="yellowgreen">2117</font>
+
+### レベル別問題一覧
+
+「[01列に翻訳](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#01列に翻訳)」を主たる解法に含む問題のレベルごとの一覧です。
+
+##### ★
+
+- <a href="https://yukicoder.me/problems/no/2533">No.2533 A⇒B問題</a> (yukicoder contest 412 (2023-11-10) - A問題、diff <font color="gray">371</font>)
+
+##### ★☆
+
+- <a href="https://yukicoder.me/problems/no/2118">No.2118 遺伝的有限集合の数え上げ</a> (yukicoder contest 367 (2022-11-04) - B問題、diff <font color="deepskyblue">1343</font>)
+- <a href="https://yukicoder.me/problems/no/2268">No.2268 NGワード回避</a> (yukicoder contest 384 (2023-04-14) - B問題、diff <font color="deepskyblue">1306</font>)
+- <a href="https://yukicoder.me/problems/no/3299">No.3299 K-th MMA String</a> (yukicoder contest MMA Contest 020 (2025-10-05) - F問題、diff <font color="deepskyblue">1513</font>)
+
+##### ★★
+
+- <a href="https://yukicoder.me/problems/no/2090">No.2090 否定論理積と充足可能性</a> (yukicoder contest 362 (2022-09-30) - E問題、diff <font color="deepskyblue">1358</font>)
+- <a href="https://yukicoder.me/problems/no/2711">No.2711 Connecting Lights</a> (yukicoder contest 425 (MMA Contest 018) (2024-03-31) - F問題、diff <font color="deepskyblue">1396</font>)
+- <a href="https://yukicoder.me/problems/no/2872">No.2872 Depth of the Parentheses</a> (yukicoder contest 444 (2024-09-06) - C問題、diff <font color="deepskyblue">1330</font>)
+- <a href="https://yukicoder.me/problems/no/3158">No.3158 Collect Stamps</a> (KCPC新歓杯 -Happy Birthday physics0523- (2025-05-23) - D問題、diff <font color="green">1184</font>)
+- <a href="https://yukicoder.me/problems/no/3275">No.3275 Minesweeper on Graph</a> (yukicoder contest  483（オムニバス） (2025-09-19) - B問題、diff <font color="green">1002</font>)
+
+##### ★★☆
+
+- <a href="https://yukicoder.me/problems/no/2270">No.2270 T0空間</a> (yukicoder contest 384 (2023-04-14) - D問題、diff <font color="yellowgreen">2066</font>)
+- <a href="https://yukicoder.me/problems/no/2364">No.2364 Knapsack Problem</a> (yukicoder contest 395 (2023-06-30) - A問題、diff <font color="deepskyblue">1352</font>)
+- <a href="https://yukicoder.me/problems/no/2442">No.2442 線形写像</a> (yukicoder contest 402 (2023-08-25) - B問題、diff <font color="blue">1714</font>)
+- <a href="https://yukicoder.me/problems/no/2630">No.2630 Colorful Vertices and Cheapest Paths </a> (traP 作問ハッカソンコンテスト 002(day1) (2024-02-16) - C問題、diff <font color="deepskyblue">1435</font>)
+- <a href="https://yukicoder.me/problems/no/2686">No.2686 商品券の使い道</a> (yukicoder contest 422 (第１回 競技プログラミング講習会作問企画コンテスト) (2024-03-20) - H問題、diff <font color="yellowgreen">2031</font>)
+- <a href="https://yukicoder.me/problems/no/2730">No.2730 Two Types Luggage</a> (yukicoder contest 428 (2024-04-19) - C問題、diff <font color="deepskyblue">1279</font>)
+- <a href="https://yukicoder.me/problems/no/2932">No.2932 えっえっ嘘嘘嘘待って待って待って？？？えマジで？ほんとに？マジでやばすぎなんだけど？えっおっほんとにこんなにDPしちゃっていいんですかい？？？マジでやばすぎなんだけど？？？</a> (yukicoder contest 第3回緑以下コンテスト エキストラ (2024-10-12) - B問題、diffデータなし)
+- <a href="https://yukicoder.me/problems/no/2948">No.2948 move move rotti</a> (yukicoder contest 451 (並木中等プログラミングコンテスト 2024) (2024-10-25) - D問題、diff <font color="blue">1778</font>)
+- <a href="https://yukicoder.me/problems/no/2955">No.2955 Pizza Delivery Plan</a> (yukicoder contest 452 (2024-11-08) - C問題、diff <font color="blue">1728</font>)
+- <a href="https://yukicoder.me/problems/no/3172">No.3172 三角関数べき乗のフーリエ級数展開</a> (yukicoder contest 469 (2025-06-06) - B問題、diff <font color="deepskyblue">1595</font>)
+- <a href="https://yukicoder.me/problems/no/3311">No.3311 フィルター</a> (yukicoder contest 486 オムニバス (2025-10-24) - D問題、diff <font color="yellowgreen">2049</font>)
+- <a href="https://yukicoder.me/problems/no/3342">No.3342 AAB Game</a> (yukicoder contest 作問ハッカソンコンテスト 003 Day1 (2025-11-13) - C問題、diff <font color="orange">2620</font>)
+
+##### ★★★
+
+- <a href="https://yukicoder.me/problems/no/2134">No.2134 $\sigma$-algebra over Finite Set</a> (yukicoder contest 369 (2022-11-25) - E問題、diff <font color="yellowgreen">2245</font>)
+- <a href="https://yukicoder.me/problems/no/2152">No.2152 [Cherry Anniversary 2]  19 Petals of Cherry</a> (Advent Calendar Contest 2022 (2022-12-01) - I問題、diff <font color="yellowgreen">2344</font>)
+- <a href="https://yukicoder.me/problems/no/2236">No.2236 Lights Out On Simple Graph</a> (yukicoder contest 379 (2023-03-03) - E問題、diff <font color="yellowgreen">2175</font>)
+- <a href="https://yukicoder.me/problems/no/2389">No.2389 Cheating Code Golf</a> (yukicoder contest 398 (2023-07-21) - E問題、diff <font color="orange">2451</font>)
+- <a href="https://yukicoder.me/problems/no/2445">No.2445 奇行列式</a> (yukicoder contest 402 (2023-08-25) - E問題、diff <font color="yellowgreen">2365</font>)
+- <a href="https://yukicoder.me/problems/no/2538">No.2538 2進元ゲーム</a> (yukicoder contest 412 (2023-11-10) - F問題、diff <font color="orange">2436</font>)
+- <a href="https://yukicoder.me/problems/no/2672">No.2672 Subset Xor Sum</a> (yukicoder contest 421  (NUPC2023) (2024-03-15) - B問題、diff <font color="deepskyblue">1416</font>)
+- <a href="https://yukicoder.me/problems/no/2792">No.2792 Security Cameras on Young Diagram</a> (yukicoder contest 434 (2024-06-21) - D問題、diff <font color="blue">1813</font>)
+- <a href="https://yukicoder.me/problems/no/2966">No.2966 Simple Plus Minus Problem</a> (yukicoder contest 453 (2024-11-16) - G問題、diff <font color="yellowgreen">2130</font>)
+- <a href="https://yukicoder.me/problems/no/3138">No.3138 Minimum Bracket Subsequence</a> (yukicoder contest 466 オムニバスコンテスト (2025-05-02) - G問題、diff <font color="orange">2666</font>)
+- <a href="https://yukicoder.me/problems/no/3237">No.3237 Find the Treasure!</a> (yukicoder contest 478 オムニバス (2025-08-15) - F問題、diffデータなし)
+- <a href="https://yukicoder.me/problems/no/3410">No.3410 Happiest Art</a> (Advent Calendar Contest 2025 (2025-12-01) - Q問題、diff <font color="orange">2706</font>)
+- <a href="https://yukicoder.me/problems/no/3562">No.3562 Communicate Sorted Vector</a> (KCPC新歓杯2026 (2026-05-29) - H問題、diff <font color="orange">2635</font>)
+
+##### ★★★☆
+
+- <a href="https://yukicoder.me/problems/no/2121">No.2121 帰属関係と充足可能性</a> (yukicoder contest 367 (2022-11-04) - E問題、diff <font color="yellowgreen">2326</font>)
+- <a href="https://yukicoder.me/problems/no/2539">No.2539 スライムゲーム</a> (yukicoder contest 412 (2023-11-10) - G問題、diff <font color="red">3014</font>)
+- <a href="https://yukicoder.me/problems/no/2981">No.2981 Pack Tree into Grid</a> (Advent Calendar Contest 2024 (2024-12-01) - E問題、diff <font color="red">2885</font>)
+- <a href="https://yukicoder.me/problems/no/3148">No.3148 Min-Cost Destruction of Parentheses</a> (yukicoder contest 467 (2025-05-16) - I問題、diff <font color="orange">2565</font>)
+
+##### ★★★★★
+
+- <a href="https://yukicoder.me/problems/no/2149">No.2149 Vanitas Vanitatum</a> (Advent Calendar Contest 2022 (2022-12-01) - F問題、diff <font color="red">3086</font>)
 
 　
 <h2 id="逆元の再帰計算">369. 逆元の再帰計算</h2>
@@ -15767,7 +15794,50 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3250">No.3250 最小公倍数</a> (yukicoder contest 480 (Gemini Tester) (2025-08-29) - C問題、diff <font color="yellowgreen">2253</font>)
 
 　
-<h2 id="不変量を保つ戦略">376. <a href="https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#不変量を保つ戦略">不変量を保つ戦略</a></h2>
+<h2 id="階差数列">376. 階差数列</h2>
+
+### 難易度統計
+
+「階差数列」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
+- 全体: ★2.6／diff <font color="blue">1975</font>
+- 2026年: ★3／diff <font color="orange">2635</font>
+- 2025年: ★2.7／diff <font color="yellowgreen">2103</font>
+- 2024年: ★2.8／diff <font color="yellowgreen">2092</font>
+- 2023年: ★2.2／diff <font color="blue">1692</font>
+- 2022年: ★3／diff <font color="blue">1853</font>
+
+### レベル別問題一覧
+
+「階差数列」を主たる解法に含む問題のレベルごとの一覧です。
+
+##### ★★
+
+- <a href="https://yukicoder.me/problems/no/2188">No.2188 整数列コイントスゲーム</a> (yukicoder contest 373 (2023-01-13) - E問題、diff <font color="yellowgreen">2148</font>)
+- <a href="https://yukicoder.me/problems/no/2451">No.2451 Redistribute Integers</a> (yukicoder contest 403 (2023-09-01) - B問題、diff <font color="green">1158</font>)
+
+##### ★★☆
+
+- <a href="https://yukicoder.me/problems/no/2111">No.2111 Sum of Diff</a> (yukicoder contest 366 (2022-10-28) - C問題、diff <font color="deepskyblue">1206</font>)
+- <a href="https://yukicoder.me/problems/no/2308">No.2308 [Cherry 5th Tune B] もしかして、真?</a> (yukicoder contest 389 (Until that day when "Cherry Month" is over.) (2023-05-19) - D問題、diff <font color="blue">1851</font>)
+- <a href="https://yukicoder.me/problems/no/2566">No.2566 美しい整数列</a> (第2回緑以下コンテスト (2023-12-02) - J問題、diff <font color="blue">1612</font>)
+- <a href="https://yukicoder.me/problems/no/2662">No.2662 Installing Cell Towers</a> (単発出題、diffデータなし)
+- <a href="https://yukicoder.me/problems/no/2962">No.2962 Sum Bomb Bomber</a> (yukicoder contest 453 (2024-11-16) - C問題、diff <font color="deepskyblue">1579</font>)
+- <a href="https://yukicoder.me/problems/no/3392">No.3392 Count 23578 Sequence</a> (yukicoder contest 490 (2025-11-28) - F問題、diff <font color="blue">1927</font>)
+
+##### ★★★
+
+- <a href="https://yukicoder.me/problems/no/2603">No.2603 Tone Correction</a> (yukicoder contest 414 (2024-01-12) - E問題、diff <font color="orange">2536</font>)
+- <a href="https://yukicoder.me/problems/no/2619">No.2619 Sorted Nim</a> (yukicoder contest 416 (2024-01-26) - F問題、diff <font color="yellowgreen">2349</font>)
+- <a href="https://yukicoder.me/problems/no/2821">No.2821 A[i] ← 2A[j] - A[i]</a> (yukicoder contest 438 (2024-07-26) - C問題、diff <font color="blue">1905</font>)
+- <a href="https://yukicoder.me/problems/no/3334">No.3334 I hate Image Convolution</a> (yukicoder contest 487 (2025-11-07) - A問題、diff <font color="yellowgreen">2280</font>)
+- <a href="https://yukicoder.me/problems/no/3562">No.3562 Communicate Sorted Vector</a> (KCPC新歓杯2026 (2026-05-29) - H問題、diff <font color="orange">2635</font>)
+
+##### ★★★☆
+
+- <a href="https://yukicoder.me/problems/no/2144">No.2144 MM</a> (yukicoder contest 370 (2022-12-02) - E問題、diff <font color="orange">2500</font>)
+
+　
+<h2 id="不変量を保つ戦略">377. <a href="https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#不変量を保つ戦略">不変量を保つ戦略</a></h2>
 
 ### 難易度統計
 
@@ -15804,7 +15874,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3090">No.3090 NimNim</a> (yukicoder contest 463 (2025-04-04) - H問題、diff <font color="yellowgreen">2288</font>)
 
 　
-<h2 id="最適化を各寄与の最適化に緩和">377. 最適化を各寄与の最適化に緩和</h2>
+<h2 id="最適化を各寄与の最適化に緩和">378. 最適化を各寄与の最適化に緩和</h2>
 
 ### 難易度統計
 
@@ -15831,7 +15901,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2957">No.2957 Combo Deck Builder</a> (yukicoder contest 452 (2024-11-08) - E問題、diff <font color="orange">2585</font>)
 
 　
-<h2 id="累積max・min">378. 累積max・min</h2>
+<h2 id="累積max・min">379. 累積max・min</h2>
 
 ### 難易度統計
 
@@ -15865,7 +15935,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2950">No.2950 Max Min Product</a> (yukicoder contest 451 (並木中等プログラミングコンテスト 2024) (2024-10-25) - F問題、diff <font color="orange">2581</font>)
 
 　
-<h2 id="小さいケースの構築を拡張">379. 小さいケースの構築を拡張</h2>
+<h2 id="小さいケースの構築を拡張">380. 小さいケースの構築を拡張</h2>
 
 ### 難易度統計
 
@@ -15913,7 +15983,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2151">No.2151 3 on Torus-Lohkous</a> (Advent Calendar Contest 2022 (2022-12-01) - H問題、diff <font color="darkgoldenrod ">3257</font>)
 
 　
-<h2 id="ワーシャル・フロイド法">380. ワーシャル・フロイド法</h2>
+<h2 id="ワーシャル・フロイド法">381. ワーシャル・フロイド法</h2>
 
 ### 難易度統計
 
@@ -15939,7 +16009,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2916">No.2916 累進コスト最小化</a> (yukicoder contest 449 (2024-10-04) - G問題、diff <font color="yellowgreen">2076</font>)
 
 　
-<h2 id="円周角の定理">381. 円周角の定理</h2>
+<h2 id="円周角の定理">382. 円周角の定理</h2>
 
 ### 難易度統計
 
@@ -15973,7 +16043,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2831">No.2831 Cos Bomb Crasher</a> (yukicoder contest 439 (2024-08-02) - E問題、diff <font color="red">3143</font>)
 
 　
-<h2 id="等比数列との内積計算">382. 等比数列との内積計算</h2>
+<h2 id="等比数列との内積計算">383. 等比数列との内積計算</h2>
 
 ### 難易度統計
 
@@ -16002,7 +16072,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2170">No.2170 Left Addition Machine</a> (Advent Calendar Contest 2022 (2022-12-01) - W問題、diff <font color="red">2804</font>)
 
 　
-<h2 id="最遠点計算">383. 最遠点計算</h2>
+<h2 id="最遠点計算">384. 最遠点計算</h2>
 
 ### 難易度統計
 
@@ -16036,7 +16106,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3346">No.3346 Tree to DAG</a> (yukicoder contest 作問ハッカソンコンテスト 003 Day1 (2025-11-13) - G問題、diff <font color="red">2867</font>)
 
 　
-<h2 id="平方剰余判定">384. 平方剰余判定</h2>
+<h2 id="平方剰余判定">385. 平方剰余判定</h2>
 
 ### 難易度統計
 
@@ -16073,7 +16143,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2192">No.2192 平方数の下１４桁</a> (yukicoder contest 373 (2023-01-13) - I問題、diff <font color="red">3117</font>)
 
 　
-<h2 id="周期的構築">385. 周期的構築</h2>
+<h2 id="周期的構築">386. 周期的構築</h2>
 
 ### 難易度統計
 
@@ -16108,7 +16178,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2411">No.2411 Reverse Directions</a> (yukicoder contest 401 (2023-08-11) - E問題、diff <font color="yellowgreen">2068</font>)
 
 　
-<h2 id="結果を決め打って操作・選択を全探索">386. 結果を決め打って操作・選択を全探索</h2>
+<h2 id="結果を決め打って操作・選択を全探索">387. 結果を決め打って操作・選択を全探索</h2>
 
 ### 難易度統計
 
@@ -16133,7 +16203,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3277">No.3277 Forever Monotonic Number</a> (yukicoder contest  483（オムニバス） (2025-09-19) - D問題、diff <font color="yellowgreen">2054</font>)
 
 　
-<h2 id="指定序数の値の計算を被覆の先頭項管理で処理">387. <a href="https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#指定序数の値の計算を被覆の先頭項管理で処理">指定序数の値の計算を被覆の先頭項管理で処理</a></h2>
+<h2 id="指定序数の値の計算を被覆の先頭項管理で処理">388. <a href="https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#指定序数の値の計算を被覆の先頭項管理で処理">指定序数の値の計算を被覆の先頭項管理で処理</a></h2>
 
 ### 難易度統計
 
@@ -16158,7 +16228,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2370">No.2370 He ate many cakes</a> (単発出題、diffデータなし)
 
 　
-<h2 id="部分和の差の最大・最小化">388. 部分和の差の最大・最小化</h2>
+<h2 id="部分和の差の最大・最小化">389. 部分和の差の最大・最小化</h2>
 
 ### 難易度統計
 
@@ -16188,7 +16258,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2918">No.2918 Divide Applicants Fairly</a> (単発出題、diffデータなし)
 
 　
-<h2 id="写像・配列を逆像・逆像上限・逆像下限で管理">389. 写像・配列を逆像・逆像上限・逆像下限で管理</h2>
+<h2 id="写像・配列を逆像・逆像上限・逆像下限で管理">390. 写像・配列を逆像・逆像上限・逆像下限で管理</h2>
 
 ### 難易度統計
 
@@ -16219,7 +16289,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3486">No.3486 Draw a Rainbow</a> (yukicoder contest 495 (2026-03-27) - F問題、diff <font color="yellowgreen">2026</font>)
 
 　
-<h2 id="max・min・絶対値による区間クエリを集合管理と一次式の一点更新に翻訳">390. max・min・絶対値による区間クエリを集合管理と一次式の一点更新に翻訳</h2>
+<h2 id="max・min・絶対値による区間クエリを集合管理と一次式の一点更新に翻訳">391. max・min・絶対値による区間クエリを集合管理と一次式の一点更新に翻訳</h2>
 
 ### 難易度統計
 
@@ -16244,7 +16314,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3078">No.3078 Difference Sum Query</a> (yukicoder contest 462 (2025-03-28) - E問題、diff <font color="blue">1942</font>)
 
 　
-<h2 id="転倒数計算">391. 転倒数計算</h2>
+<h2 id="転倒数計算">392. 転倒数計算</h2>
 
 ### 難易度統計
 
@@ -16277,7 +16347,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3469">No.3469 ジャッジ結果の逆転数</a> (yukicoder 2026新ジャッジ contest (2026-03-06) - B問題、diff <font color="green">1184</font>)
 
 　
-<h2 id="木の最短経路長計算">392. 木の最短経路長計算</h2>
+<h2 id="木の最短経路長計算">393. 木の最短経路長計算</h2>
 
 ### 難易度統計
 
@@ -16313,7 +16383,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2129">No.2129 Perfect Binary Tree...?</a> (yukicoder contest 368 (2022-11-18) - F問題、diff <font color="red">2892</font>)
 
 　
-<h2 id="最終手番のターン数に注目">393. 最終手番のターン数に注目</h2>
+<h2 id="最終手番のターン数に注目">394. 最終手番のターン数に注目</h2>
 
 ### 難易度統計
 
@@ -16347,7 +16417,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2727">No.2727 Tetrahedron Game</a> (yukicoder contest 427 (ゲーム問題コンテスト) (2024-04-12) - G問題、diff <font color="orange">2421</font>)
 
 　
-<h2 id="一要素重複挿入更新">394. 一要素重複挿入更新</h2>
+<h2 id="一要素重複挿入更新">395. 一要素重複挿入更新</h2>
 
 ### 難易度統計
 
@@ -16372,7 +16442,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3101">No.3101 Range Eratosthenes Query</a> (yukicoder contest 464 (2025-04-11) - C問題、diff <font color="blue">1777</font>)
 
 　
-<h2 id="グラフの辺の削除更新">395. グラフの辺の削除更新</h2>
+<h2 id="グラフの辺の削除更新">396. グラフの辺の削除更新</h2>
 
 ### 難易度統計
 
@@ -16409,7 +16479,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3025">No.3025 Chocol∀te</a> (yukicoder contest 456 オムニバス (2025-02-14) - G問題、diff <font color="orange">2433</font>)
 
 　
-<h2 id="01列とグリッド上の経路の対応">396. 01列とグリッド上の経路の対応</h2>
+<h2 id="01列とグリッド上の経路の対応">397. 01列とグリッド上の経路の対応</h2>
 
 ### 難易度統計
 
@@ -16449,7 +16519,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2149">No.2149 Vanitas Vanitatum</a> (Advent Calendar Contest 2022 (2022-12-01) - F問題、diff <font color="red">3086</font>)
 
 　
-<h2 id="ハミルトン路検出">397. ハミルトン路検出</h2>
+<h2 id="ハミルトン路検出">398. ハミルトン路検出</h2>
 
 ### 難易度統計
 
@@ -16474,7 +16544,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3508">No.3508 OR Mapping</a> (CPCTF 2026: PPC (2026-04-17) - L問題、diff <font color="yellowgreen">2065</font>)
 
 　
-<h2 id="コストなしナップサック最適化">398. コストなしナップサック最適化</h2>
+<h2 id="コストなしナップサック最適化">399. コストなしナップサック最適化</h2>
 
 ### 難易度統計
 
@@ -16511,7 +16581,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3201">No.3201 Corporate Synergy</a> (yukicoder contest 473 第1回 生成AI作問コンテスト (2025-07-11) - G問題、diff <font color="blue">1855</font>)
 
 　
-<h2 id="集合からの距離計算">399. 集合からの距離計算</h2>
+<h2 id="集合からの距離計算">400. 集合からの距離計算</h2>
 
 ### 難易度統計
 
@@ -16536,7 +16606,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3222">No.3222 Let the World Forget Me</a> (yukicoder contest 476 (2025-08-01) - G問題、diff <font color="blue">1723</font>)
 
 　
-<h2 id="多点BFSによる集合差分管理">400. 多点BFSによる集合差分管理</h2>
+<h2 id="多点BFSによる集合差分管理">401. 多点BFSによる集合差分管理</h2>
 
 ### 難易度統計
 
@@ -16561,7 +16631,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3222">No.3222 Let the World Forget Me</a> (yukicoder contest 476 (2025-08-01) - G問題、diff <font color="blue">1723</font>)
 
 　
-<h2 id="最大・最小要素取得">401. 最大・最小要素取得</h2>
+<h2 id="最大・最小要素取得">402. 最大・最小要素取得</h2>
 
 ### 難易度統計
 
@@ -16621,7 +16691,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3148">No.3148 Min-Cost Destruction of Parentheses</a> (yukicoder contest 467 (2025-05-16) - I問題、diff <font color="orange">2565</font>)
 
 　
-<h2 id="包除原理">402. 包除原理</h2>
+<h2 id="包除原理">403. 包除原理</h2>
 
 ### 難易度統計
 
@@ -16665,7 +16735,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3414">No.3414 Aperiodic Sequence</a> (Advent Calendar Contest 2025 (2025-12-01) - U問題、diff <font color="orange">2658</font>)
 
 　
-<h2 id="操作逆順">403. 操作逆順</h2>
+<h2 id="操作逆順">404. 操作逆順</h2>
 
 ### 難易度統計
 
@@ -16707,7 +16777,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3494">No.3494 一点挿入区間和取得</a> (yukicoder contest 496 (2026-04-03) - G問題、diff <font color="yellowgreen">2083</font>)
 
 　
-<h2 id="閉路検出">404. 閉路検出</h2>
+<h2 id="閉路検出">405. 閉路検出</h2>
 
 ### 難易度統計
 
@@ -16740,7 +16810,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3508">No.3508 OR Mapping</a> (CPCTF 2026: PPC (2026-04-17) - L問題、diff <font color="yellowgreen">2065</font>)
 
 　
-<h2 id="冪等重みの最短経路長計算">405. 冪等重みの最短経路長計算</h2>
+<h2 id="冪等重みの最短経路長計算">406. 冪等重みの最短経路長計算</h2>
 
 ### 難易度統計
 
@@ -16770,7 +16840,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2786">No.2786 RMQ on Grid Path</a> (yukicoder contest 433 (2024-06-14) - F問題、diff <font color="yellowgreen">2162</font>)
 
 　
-<h2 id="グラフの辺の追加更新">406. グラフの辺の追加更新</h2>
+<h2 id="グラフの辺の追加更新">407. グラフの辺の追加更新</h2>
 
 ### 難易度統計
 
@@ -16816,7 +16886,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3034">No.3034 コーエン-マコーレー抽象単体複体</a> (yukicoder contest 457 (2025-02-21) - H問題、diff <font color="red">2892</font>)
 
 　
-<h2 id="最大・最小要素削除">407. 最大・最小要素削除</h2>
+<h2 id="最大・最小要素削除">408. 最大・最小要素削除</h2>
 
 ### 難易度統計
 
@@ -16865,7 +16935,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3292">No.3292 World Map Distance</a> (yukicoder contest 485 (2025-10-03) - G問題、diff <font color="yellowgreen">2170</font>)
 
 　
-<h2 id="ゼータ関数による計算量評価">408. ゼータ関数による計算量評価</h2>
+<h2 id="ゼータ関数による計算量評価">409. ゼータ関数による計算量評価</h2>
 
 ### 難易度統計
 
@@ -16890,7 +16960,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3485">No.3485 Find 495-like Number</a> (yukicoder contest 495 (2026-03-27) - E問題、diff <font color="blue">1801</font>)
 
 　
-<h2 id="距離空間の重み付きグラフ化">409. <a href="https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#距離空間の重み付きグラフ化">距離空間の重み付きグラフ化</a></h2>
+<h2 id="距離空間の重み付きグラフ化">410. <a href="https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#距離空間の重み付きグラフ化">距離空間の重み付きグラフ化</a></h2>
 
 ### 難易度統計
 
@@ -16923,7 +16993,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2909">No.2909 Imaginary Summer</a> (単発出題、diffデータなし)
 
 　
-<h2 id="優先度付きキュー">410. 優先度付きキュー</h2>
+<h2 id="優先度付きキュー">411. 優先度付きキュー</h2>
 
 ### 難易度統計
 
@@ -16978,7 +17048,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3148">No.3148 Min-Cost Destruction of Parentheses</a> (yukicoder contest 467 (2025-05-16) - I問題、diff <font color="orange">2565</font>)
 
 　
-<h2 id="差分計算">411. 差分計算</h2>
+<h2 id="差分計算">412. 差分計算</h2>
 
 ### 難易度統計
 
@@ -17061,7 +17131,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2162">No.2162 Copy and Paste 2</a> (Advent Calendar Contest 2022 (2022-12-01) - M問題、diff <font color="red">2903</font>)
 
 　
-<h2 id="終点からの最短経路長計算">412. 終点からの最短経路長計算</h2>
+<h2 id="終点からの最短経路長計算">413. 終点からの最短経路長計算</h2>
 
 ### 難易度統計
 
@@ -17100,7 +17170,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2503">No.2503 Typical Path Counting Problem on a Grid</a> (yukicoder contest 408 (2023-10-13) - D問題、diff <font color="orange">2603</font>)
 
 　
-<h2 id="偏角ソート">413. 偏角ソート</h2>
+<h2 id="偏角ソート">414. 偏角ソート</h2>
 
 ### 難易度統計
 
@@ -17127,7 +17197,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3438">No.3438 [Cherry 8th Tune D] 競プロは向いてない</a> (yukicoder contest 491 Go on Back!! (2026-01-23) - F問題、diff <font color="yellowgreen">2343</font>)
 
 　
-<h2 id="表示可能性DP">414. <a href="https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#表示可能性DP">表示可能性DP</a></h2>
+<h2 id="表示可能性DP">415. <a href="https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#表示可能性DP">表示可能性DP</a></h2>
 
 ### 難易度統計
 
@@ -17167,7 +17237,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2727">No.2727 Tetrahedron Game</a> (yukicoder contest 427 (ゲーム問題コンテスト) (2024-04-12) - G問題、diff <font color="orange">2421</font>)
 
 　
-<h2 id="等差数列の累積和との内積計算">415. 等差数列の累積和との内積計算</h2>
+<h2 id="等差数列の累積和との内積計算">416. 等差数列の累積和との内積計算</h2>
 
 ### 難易度統計
 
@@ -17192,7 +17262,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3050">No.3050 Prefix Removal</a> (yukicoder contest 459 (2025-03-07) - C問題、diff <font color="blue">1976</font>)
 
 　
-<h2 id="区間スケジューリング">416. 区間スケジューリング</h2>
+<h2 id="区間スケジューリング">417. 区間スケジューリング</h2>
 
 ### 難易度統計
 
@@ -17217,7 +17287,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2543">No.2543 Many Meetings</a> (yukicoder contest 413 (2023-11-24) - C問題、diff <font color="blue">1985</font>)
 
 　
-<h2 id="二乗の木DP">417. 二乗の木DP</h2>
+<h2 id="二乗の木DP">418. 二乗の木DP</h2>
 
 ### 難易度統計
 
@@ -17242,7 +17312,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3449">No.3449 Mex of Subtree</a> (yukicoder contest 493 (2026-02-20) - C問題、diffデータなし)
 
 　
-<h2 id="スタック">418. スタック</h2>
+<h2 id="スタック">419. スタック</h2>
 
 ### 難易度統計
 
@@ -17292,7 +17362,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3494">No.3494 一点挿入区間和取得</a> (yukicoder contest 496 (2026-04-03) - G問題、diff <font color="yellowgreen">2083</font>)
 
 　
-<h2 id="オイラーの定理による逆元計算">419. オイラーの定理による逆元計算</h2>
+<h2 id="オイラーの定理による逆元計算">420. オイラーの定理による逆元計算</h2>
 
 ### 難易度統計
 
@@ -17317,7 +17387,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3022">No.3022 一元一次式 mod 1000000000</a> (yukicoder contest 456 オムニバス (2025-02-14) - D問題、diff <font color="yellowgreen">2051</font>)
 
 　
-<h2 id="多種の操作・遷移の纏め上げ">420. 多種の操作・遷移の纏め上げ</h2>
+<h2 id="多種の操作・遷移の纏め上げ">421. 多種の操作・遷移の纏め上げ</h2>
 
 ### 難易度統計
 
@@ -17367,7 +17437,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2995">No.2995 The Ruler Sequence Concatenation</a> (Advent Calendar Contest 2024 (2024-12-01) - S問題、diff <font color="darkgoldenrod ">3309</font>)
 
 　
-<h2 id="倍数ゼータ変換">421. 倍数ゼータ変換</h2>
+<h2 id="倍数ゼータ変換">422. 倍数ゼータ変換</h2>
 
 ### 難易度統計
 
@@ -17392,13 +17462,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2075">No.2075 GCD Subsequence</a> (yukicoder contest 360 (2022-09-16) - F問題、diff <font color="yellowgreen">2306</font>)
 
 　
-<h2 id="分割統治法（広義：decrease-and-conquer）">422. 分割統治法（広義：decrease-and-conquer）</h2>
+<h2 id="分割統治法（広義：decrease-and-conquer）">423. 分割統治法（広義：decrease-and-conquer）</h2>
 
 ### 難易度統計
 
 「分割統治法（広義：decrease-and-conquer）」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.7／diff <font color="blue">1959</font>
-- 2026年: ★2.6／diff <font color="blue">1602</font>
+- 2026年: ★2.6／diff <font color="blue">1680</font>
 - 2025年: ★2.8／diff <font color="yellowgreen">2033</font>
 - 2024年: ★2.9／diff <font color="yellowgreen">2142</font>
 - 2023年: ★2.6／diff <font color="blue">1732</font>
@@ -17436,6 +17506,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3204">No.3204 Permuted Integer</a> (yukicoder contest 474 (2025-07-18) - B問題、diff <font color="green">1133</font>)
 - <a href="https://yukicoder.me/problems/no/3254">No.3254 Xor, Max and Sum</a> (yukicoder contest  481（菁々祭プログラミングコンテスト2025） (2025-09-05) - C問題、diff <font color="yellowgreen">2027</font>)
 - <a href="https://yukicoder.me/problems/no/3298">No.3298 K-th Slime</a> (yukicoder contest MMA Contest 020 (2025-10-05) - E問題、diff <font color="green">1140</font>)
+- <a href="https://yukicoder.me/problems/no/3557">No.3557 KCPC or KUPC 2</a> (KCPC新歓杯2026 (2026-05-29) - C問題、diff <font color="deepskyblue">1554</font>)
 
 ##### ★★☆
 
@@ -17486,6 +17557,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3473">No.3473 AtCoder < CMS</a> (yukicoder contest 494 オムニバス (2026-03-20) - A問題、diff <font color="blue">1674</font>)
 - <a href="https://yukicoder.me/problems/no/3505">No.3505 Sum of Prod of Root</a> (CPCTF 2026: PPC (2026-04-17) - I問題、diff <font color="blue">1986</font>)
 - <a href="https://yukicoder.me/problems/no/3528">No.3528 Happy XOR Candy</a> (yukicoder contest 聖光学院プログラミングコンテスト2026 day2 (2026-05-04) - C問題、diff <font color="deepskyblue">1453</font>)
+- <a href="https://yukicoder.me/problems/no/3559">No.3559 +A,-B</a> (KCPC新歓杯2026 (2026-05-29) - E問題、diff <font color="yellowgreen">2358</font>)
 
 ##### ★★★
 
@@ -17577,7 +17649,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2990">No.2990 Interval XOR</a> (Advent Calendar Contest 2024 (2024-12-01) - N問題、diff <font color="red">3115</font>)
 
 　
-<h2 id="負閉路検出">423. 負閉路検出</h2>
+<h2 id="負閉路検出">424. 負閉路検出</h2>
 
 ### 難易度統計
 
@@ -17602,7 +17674,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2914">No.2914 正閉路検出</a> (yukicoder contest 449 (2024-10-04) - E問題、diff <font color="yellowgreen">2187</font>)
 
 　
-<h2 id="第二余弦定理">424. 第二余弦定理</h2>
+<h2 id="第二余弦定理">425. 第二余弦定理</h2>
 
 ### 難易度統計
 
@@ -17627,7 +17699,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2602">No.2602 Real Collider</a> (yukicoder contest 414 (2024-01-12) - D問題、diff <font color="orange">2419</font>)
 
 　
-<h2 id="多倍長整数">425. 多倍長整数</h2>
+<h2 id="多倍長整数">426. 多倍長整数</h2>
 
 ### 難易度統計
 
@@ -17678,7 +17750,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2595">No.2595 Parsing Challenge</a> (Advent Calendar Contest 2023 (2023-12-01) - W問題、diff <font color="darkgoldenrod ">3316</font>)
 
 　
-<h2 id="アルゴリズムのリアクティブ化">426. アルゴリズムのリアクティブ化</h2>
+<h2 id="アルゴリズムのリアクティブ化">427. アルゴリズムのリアクティブ化</h2>
 
 ### 難易度統計
 
@@ -17732,7 +17804,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3525">No.3525 擬奇平方数</a> (yukicoder contest 498 リアクティブコンテスト (2026-05-01) - H問題、diffデータなし)
 
 　
-<h2 id="累積積による二項係数計算">427. 累積積による二項係数計算</h2>
+<h2 id="累積積による二項係数計算">428. 累積積による二項係数計算</h2>
 
 ### 難易度統計
 
@@ -17771,7 +17843,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2973">No.2973 シュニレルマン積分入門</a> (yukicoder contest 454 (2024-11-29) - E問題、diff <font color="orange">2567</font>)
 
 　
-<h2 id="任意・存在を総AND・ORに翻訳">428. 任意・存在を総AND・ORに翻訳</h2>
+<h2 id="任意・存在を総AND・ORに翻訳">429. 任意・存在を総AND・ORに翻訳</h2>
 
 ### 難易度統計
 
@@ -17798,7 +17870,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3009">No.3009 Union-Find でつながろう！</a> (yukicoder contest 455 (2025-01-17) - H問題、diff <font color="orange">2777</font>)
 
 　
-<h2 id="順列の構築">429. 順列の構築</h2>
+<h2 id="順列の構築">430. 順列の構築</h2>
 
 ### 難易度統計
 
@@ -17832,7 +17904,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2719">No.2719 Equal Inner Products in Permutation</a> (yukicoder contest 426 (2024-04-05) - F問題、diff <font color="orange">2522</font>)
 
 　
-<h2 id="動的計画法">430. 動的計画法</h2>
+<h2 id="動的計画法">431. 動的計画法</h2>
 
 ### 難易度統計
 
@@ -18051,7 +18123,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2589">No.2589 Prepare Integers</a> (Advent Calendar Contest 2023 (2023-12-01) - Q問題、diff <font color="darkgoldenrod ">3503</font>)
 
 　
-<h2 id="グラフの頂点の次数をバケット分割">431. グラフの頂点の次数をバケット分割</h2>
+<h2 id="グラフの頂点の次数をバケット分割">432. グラフの頂点の次数をバケット分割</h2>
 
 ### 難易度統計
 
@@ -18076,7 +18148,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3025">No.3025 Chocol∀te</a> (yukicoder contest 456 オムニバス (2025-02-14) - G問題、diff <font color="orange">2433</font>)
 
 　
-<h2 id="コスト最大値の最小化をコスト決め打ちの成功判定に帰着">432. コスト最大値の最小化をコスト決め打ちの成功判定に帰着</h2>
+<h2 id="コスト最大値の最小化をコスト決め打ちの成功判定に帰着">433. コスト最大値の最小化をコスト決め打ちの成功判定に帰着</h2>
 
 ### 難易度統計
 
@@ -18106,7 +18178,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3368">No.3368 トッピング</a> (yukicoder contest 作問ハッカソンコンテスト 003 Day2 (2025-11-17) - G問題、diff <font color="orange">2790</font>)
 
 　
-<h2 id="選択順依存コストナップサック最適化">433. 選択順依存コストナップサック最適化</h2>
+<h2 id="選択順依存コストナップサック最適化">434. 選択順依存コストナップサック最適化</h2>
 
 ### 難易度統計
 
@@ -18131,7 +18203,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3077">No.3077 Goodstuff Deck Builder(Hard)</a> (yukicoder contest 462 (2025-03-28) - D問題、diff <font color="yellowgreen">2246</font>)
 
 　
-<h2 id="凸最適化">434. 凸最適化</h2>
+<h2 id="凸最適化">435. 凸最適化</h2>
 
 ### 難易度統計
 
@@ -18178,7 +18250,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2988">No.2988 Min-Plus Convolution Query</a> (Advent Calendar Contest 2024 (2024-12-01) - L問題、diff <font color="red">3115</font>)
 
 　
-<h2 id="単調列数え上げ">435. 単調列数え上げ</h2>
+<h2 id="単調列数え上げ">436. 単調列数え上げ</h2>
 
 ### 難易度統計
 
@@ -18212,7 +18284,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2483">No.2483 Yet Another Increasing XOR Problem</a> (yukicoder contest 405 技術室奥プログラミングコンテスト#7 Day1 (2023-09-22) - E問題、diff <font color="orange">2798</font>)
 
 　
-<h2 id="ベルマン・フォード法">436. ベルマン・フォード法</h2>
+<h2 id="ベルマン・フォード法">437. ベルマン・フォード法</h2>
 
 ### 難易度統計
 
@@ -18237,7 +18309,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2915">No.2915 辺更新価値最大化</a> (yukicoder contest 449 (2024-10-04) - F問題、diff <font color="yellowgreen">2321</font>)
 
 　
-<h2 id="複数ナップサック最適化">437. 複数ナップサック最適化</h2>
+<h2 id="複数ナップサック最適化">438. 複数ナップサック最適化</h2>
 
 ### 難易度統計
 
@@ -18262,56 +18334,6 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 - <a href="https://yukicoder.me/problems/no/2422">No.2422 regisys?</a> (MMA Contest 016 (2023-08-12) - I問題、diff <font color="yellowgreen">2353</font>)
 - <a href="https://yukicoder.me/problems/no/2746">No.2746 Bicolor Pyramid</a> (CPCTF 2024 : PPC (2024-04-20) - K問題、diff <font color="orange">2423</font>)
-
-　
-<h2 id="既存のアルゴリズムの変形">438. 既存のアルゴリズムの変形</h2>
-
-### 難易度統計
-
-「既存のアルゴリズムの変形」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
-- 全体: ★2.7／diff <font color="yellowgreen">2060</font>
-- 2026年: ★3.1／diff <font color="blue">1985</font>
-- 2025年: ★2.3／diff <font color="blue">1670</font>
-- 2024年: ★2.8／diff <font color="yellowgreen">2146</font>
-- 2023年: ★2.7／diff <font color="yellowgreen">2258</font>
-- 2022年: ★3／diff <font color="yellowgreen">2344</font>
-
-### レベル別問題一覧
-
-「既存のアルゴリズムの変形」を主たる解法に含む問題のレベルごとの一覧です。
-
-##### ★★
-
-- <a href="https://yukicoder.me/problems/no/2591">No.2591 安上がりな括弧列</a> (Advent Calendar Contest 2023 (2023-12-01) - S問題、diff <font color="yellowgreen">2121</font>)
-- <a href="https://yukicoder.me/problems/no/2872">No.2872 Depth of the Parentheses</a> (yukicoder contest 444 (2024-09-06) - C問題、diff <font color="deepskyblue">1330</font>)
-- <a href="https://yukicoder.me/problems/no/3358">No.3358 逆数の小数部分</a> (yukicoder contest 488 小数誤差コンテスト (2025-11-14) - G問題、diff <font color="blue">1611</font>)
-- <a href="https://yukicoder.me/problems/no/3519">No.3519 A/B問題</a> (yukicoder contest 498 リアクティブコンテスト (2026-05-01) - B問題、diff <font color="blue">1859</font>)
-
-##### ★★☆
-
-- <a href="https://yukicoder.me/problems/no/2200">No.2200 Weird Shortest Path</a> (単発出題、diffデータなし)
-- <a href="https://yukicoder.me/problems/no/3212">No.3212 SUPER Guess the Number</a> (yukicoder contest 475 (ゆるCafe) (2025-07-25) - D問題、diff <font color="yellowgreen">2092</font>)
-- <a href="https://yukicoder.me/problems/no/3283">No.3283 Labyrinth and Friends</a> (yukicoder contest 484 (2025-09-26) - E問題、diff <font color="blue">1917</font>)
-- <a href="https://yukicoder.me/problems/no/3326">No.3326 岩井星人の帰星</a> (第2回 岩井星人アンソロジープログラミングコンテスト Extra (2025-11-01) - D問題、diff <font color="green">1063</font>)
-
-##### ★★★
-
-- <a href="https://yukicoder.me/problems/no/2152">No.2152 [Cherry Anniversary 2]  19 Petals of Cherry</a> (Advent Calendar Contest 2022 (2022-12-01) - I問題、diff <font color="yellowgreen">2344</font>)
-- <a href="https://yukicoder.me/problems/no/2250">No.2250 Split Permutation</a> (yukicoder contest 381 (2023-03-17) - E問題、diff <font color="yellowgreen">2170</font>)
-- <a href="https://yukicoder.me/problems/no/2272">No.2272 多項式乗算 mod 258280327</a> (yukicoder contest 384 (2023-04-14) - F問題、diff <font color="orange">2513</font>)
-- <a href="https://yukicoder.me/problems/no/2327">No.2327 Inversion Sum</a> (MMA Contest 015  (2023-05-28) - F問題、diff <font color="yellowgreen">2121</font>)
-- <a href="https://yukicoder.me/problems/no/2445">No.2445 奇行列式</a> (yukicoder contest 402 (2023-08-25) - E問題、diff <font color="yellowgreen">2365</font>)
-- <a href="https://yukicoder.me/problems/no/2477">No.2477 Drifting</a> (Japan Alumni Group Summer Camp 2023 Day 2 (2023-09-17) - K問題、diffデータなし)
-- <a href="https://yukicoder.me/problems/no/2642">No.2642 Don't cut line!</a> (traP 作問ハッカソンコンテスト 002(day2) (2024-02-19) - F問題、diff <font color="yellowgreen">2249</font>)
-- <a href="https://yukicoder.me/problems/no/2698">No.2698 Many Asakatsu</a> (yukicoder contest 423 (Asakatsu Presents 3) (2024-03-22) - H問題、diff <font color="red">2944</font>)
-- <a href="https://yukicoder.me/problems/no/2798">No.2798 Multiple Chain</a> (yukicoder contest 435 (2024-06-28) - D問題、diff <font color="yellowgreen">2134</font>)
-- <a href="https://yukicoder.me/problems/no/2916">No.2916 累進コスト最小化</a> (yukicoder contest 449 (2024-10-04) - G問題、diff <font color="yellowgreen">2076</font>)
-- <a href="https://yukicoder.me/problems/no/3443">No.3443 Sum of (Tree Distances)^K 1</a> (yukicoder contest 492 (2026-02-06) - D問題、diffデータなし)
-- <a href="https://yukicoder.me/problems/no/3522">No.3522 冪乗乗</a> (yukicoder contest 498 リアクティブコンテスト (2026-05-01) - E問題、diff <font color="yellowgreen">2111</font>)
-
-##### ★★★★☆
-
-- <a href="https://yukicoder.me/problems/no/3525">No.3525 擬奇平方数</a> (yukicoder contest 498 リアクティブコンテスト (2026-05-01) - H問題、diffデータなし)
 
 　
 <h2 id="解の公式">439. 解の公式</h2>
@@ -18402,7 +18424,58 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2985">No.2985 May Count Induced C4 Subgraphs</a> (Advent Calendar Contest 2024 (2024-12-01) - I問題、diff <font color="red">3115</font>)
 
 　
-<h2 id="倍数走査によるオイラー関数前計算">441. 倍数走査によるオイラー関数前計算</h2>
+<h2 id="既存のアルゴリズムの変形">441. 既存のアルゴリズムの変形</h2>
+
+### 難易度統計
+
+「既存のアルゴリズムの変形」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
+- 全体: ★2.7／diff <font color="yellowgreen">2091</font>
+- 2026年: ★3.1／diff <font color="yellowgreen">2201</font>
+- 2025年: ★2.3／diff <font color="blue">1670</font>
+- 2024年: ★2.8／diff <font color="yellowgreen">2146</font>
+- 2023年: ★2.7／diff <font color="yellowgreen">2258</font>
+- 2022年: ★3／diff <font color="yellowgreen">2344</font>
+
+### レベル別問題一覧
+
+「既存のアルゴリズムの変形」を主たる解法に含む問題のレベルごとの一覧です。
+
+##### ★★
+
+- <a href="https://yukicoder.me/problems/no/2591">No.2591 安上がりな括弧列</a> (Advent Calendar Contest 2023 (2023-12-01) - S問題、diff <font color="yellowgreen">2121</font>)
+- <a href="https://yukicoder.me/problems/no/2872">No.2872 Depth of the Parentheses</a> (yukicoder contest 444 (2024-09-06) - C問題、diff <font color="deepskyblue">1330</font>)
+- <a href="https://yukicoder.me/problems/no/3358">No.3358 逆数の小数部分</a> (yukicoder contest 488 小数誤差コンテスト (2025-11-14) - G問題、diff <font color="blue">1611</font>)
+- <a href="https://yukicoder.me/problems/no/3519">No.3519 A/B問題</a> (yukicoder contest 498 リアクティブコンテスト (2026-05-01) - B問題、diff <font color="blue">1859</font>)
+
+##### ★★☆
+
+- <a href="https://yukicoder.me/problems/no/2200">No.2200 Weird Shortest Path</a> (単発出題、diffデータなし)
+- <a href="https://yukicoder.me/problems/no/3212">No.3212 SUPER Guess the Number</a> (yukicoder contest 475 (ゆるCafe) (2025-07-25) - D問題、diff <font color="yellowgreen">2092</font>)
+- <a href="https://yukicoder.me/problems/no/3283">No.3283 Labyrinth and Friends</a> (yukicoder contest 484 (2025-09-26) - E問題、diff <font color="blue">1917</font>)
+- <a href="https://yukicoder.me/problems/no/3326">No.3326 岩井星人の帰星</a> (第2回 岩井星人アンソロジープログラミングコンテスト Extra (2025-11-01) - D問題、diff <font color="green">1063</font>)
+
+##### ★★★
+
+- <a href="https://yukicoder.me/problems/no/2152">No.2152 [Cherry Anniversary 2]  19 Petals of Cherry</a> (Advent Calendar Contest 2022 (2022-12-01) - I問題、diff <font color="yellowgreen">2344</font>)
+- <a href="https://yukicoder.me/problems/no/2250">No.2250 Split Permutation</a> (yukicoder contest 381 (2023-03-17) - E問題、diff <font color="yellowgreen">2170</font>)
+- <a href="https://yukicoder.me/problems/no/2272">No.2272 多項式乗算 mod 258280327</a> (yukicoder contest 384 (2023-04-14) - F問題、diff <font color="orange">2513</font>)
+- <a href="https://yukicoder.me/problems/no/2327">No.2327 Inversion Sum</a> (MMA Contest 015  (2023-05-28) - F問題、diff <font color="yellowgreen">2121</font>)
+- <a href="https://yukicoder.me/problems/no/2445">No.2445 奇行列式</a> (yukicoder contest 402 (2023-08-25) - E問題、diff <font color="yellowgreen">2365</font>)
+- <a href="https://yukicoder.me/problems/no/2477">No.2477 Drifting</a> (Japan Alumni Group Summer Camp 2023 Day 2 (2023-09-17) - K問題、diffデータなし)
+- <a href="https://yukicoder.me/problems/no/2642">No.2642 Don't cut line!</a> (traP 作問ハッカソンコンテスト 002(day2) (2024-02-19) - F問題、diff <font color="yellowgreen">2249</font>)
+- <a href="https://yukicoder.me/problems/no/2698">No.2698 Many Asakatsu</a> (yukicoder contest 423 (Asakatsu Presents 3) (2024-03-22) - H問題、diff <font color="red">2944</font>)
+- <a href="https://yukicoder.me/problems/no/2798">No.2798 Multiple Chain</a> (yukicoder contest 435 (2024-06-28) - D問題、diff <font color="yellowgreen">2134</font>)
+- <a href="https://yukicoder.me/problems/no/2916">No.2916 累進コスト最小化</a> (yukicoder contest 449 (2024-10-04) - G問題、diff <font color="yellowgreen">2076</font>)
+- <a href="https://yukicoder.me/problems/no/3443">No.3443 Sum of (Tree Distances)^K 1</a> (yukicoder contest 492 (2026-02-06) - D問題、diffデータなし)
+- <a href="https://yukicoder.me/problems/no/3522">No.3522 冪乗乗</a> (yukicoder contest 498 リアクティブコンテスト (2026-05-01) - E問題、diff <font color="yellowgreen">2111</font>)
+- <a href="https://yukicoder.me/problems/no/3561">No.3561 Collect KCPC</a> (KCPC新歓杯2026 (2026-05-29) - G問題、diff <font color="orange">2635</font>)
+
+##### ★★★★☆
+
+- <a href="https://yukicoder.me/problems/no/3525">No.3525 擬奇平方数</a> (yukicoder contest 498 リアクティブコンテスト (2026-05-01) - H問題、diffデータなし)
+
+　
+<h2 id="倍数走査によるオイラー関数前計算">442. 倍数走査によるオイラー関数前計算</h2>
 
 ### 難易度統計
 
@@ -18427,7 +18500,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2249">No.2249 GCDistance</a> (yukicoder contest 381 (2023-03-17) - D問題、diff <font color="blue">1983</font>)
 
 　
-<h2 id="複数価値ナップサック最適化">442. 複数価値ナップサック最適化</h2>
+<h2 id="複数価値ナップサック最適化">443. 複数価値ナップサック最適化</h2>
 
 ### 難易度統計
 
@@ -18452,7 +18525,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3058">No.3058 Deque and Brackets</a> (yukicoder contest 460 (2025-03-14) - C問題、diff <font color="orange">2622</font>)
 
 　
-<h2 id="変数の対称性">443. 変数の対称性</h2>
+<h2 id="変数の対称性">444. 変数の対称性</h2>
 
 ### 難易度統計
 
@@ -18487,7 +18560,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2503">No.2503 Typical Path Counting Problem on a Grid</a> (yukicoder contest 408 (2023-10-13) - D問題、diff <font color="orange">2603</font>)
 
 　
-<h2 id="inplace DP">444. inplace DP</h2>
+<h2 id="inplace DP">445. inplace DP</h2>
 
 ### 難易度統計
 
@@ -18523,7 +18596,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2162">No.2162 Copy and Paste 2</a> (Advent Calendar Contest 2022 (2022-12-01) - M問題、diff <font color="red">2903</font>)
 
 　
-<h2 id="最大全域木計算">445. 最大全域木計算</h2>
+<h2 id="最大全域木計算">446. 最大全域木計算</h2>
 
 ### 難易度統計
 
@@ -18548,7 +18621,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3270">No.3270 No Coprime Cycles</a> (yukicoder contest 482 (2025-09-12) - D問題、diff <font color="red">2992</font>)
 
 　
-<h2 id="グラフの端点の削除更新">446. グラフの端点の削除更新</h2>
+<h2 id="グラフの端点の削除更新">447. グラフの端点の削除更新</h2>
 
 ### 難易度統計
 
@@ -18573,7 +18646,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3148">No.3148 Min-Cost Destruction of Parentheses</a> (yukicoder contest 467 (2025-05-16) - I問題、diff <font color="orange">2565</font>)
 
 　
-<h2 id="辺のコストが変動するグラフの最短経路長計算">447. 辺のコストが変動するグラフの最短経路長計算</h2>
+<h2 id="辺のコストが変動するグラフの最短経路長計算">448. 辺のコストが変動するグラフの最短経路長計算</h2>
 
 ### 難易度統計
 
@@ -18598,7 +18671,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2916">No.2916 累進コスト最小化</a> (yukicoder contest 449 (2024-10-04) - G問題、diff <font color="yellowgreen">2076</font>)
 
 　
-<h2 id="ラプラスの展開公式による逆行列計算">448. ラプラスの展開公式による逆行列計算</h2>
+<h2 id="ラプラスの展開公式による逆行列計算">449. ラプラスの展開公式による逆行列計算</h2>
 
 ### 難易度統計
 
@@ -18623,7 +18696,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2755">No.2755 行列の共役類</a> (yukicoder contest 429 (2024-05-10) - G問題、diff <font color="orange">2698</font>)
 
 　
-<h2 id="隣接行列による遷移計算">449. 隣接行列による遷移計算</h2>
+<h2 id="隣接行列による遷移計算">450. 隣接行列による遷移計算</h2>
 
 ### 難易度統計
 
@@ -18648,7 +18721,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2832">No.2832 Nana's Fickle Adventure</a> (yukicoder contest 439 (2024-08-02) - F問題、diff <font color="red">2812</font>)
 
 　
-<h2 id="単調増加関数と単調減少関数のmax・minを大小変化点計算に帰着">450. 単調増加関数と単調減少関数のmax・minを大小変化点計算に帰着</h2>
+<h2 id="単調増加関数と単調減少関数のmax・minを大小変化点計算に帰着">451. 単調増加関数と単調減少関数のmax・minを大小変化点計算に帰着</h2>
 
 ### 難易度統計
 
@@ -18673,7 +18746,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3367">No.3367 Looks like a convolution</a> (yukicoder contest 作問ハッカソンコンテスト 003 Day2 (2025-11-17) - F問題、diff <font color="orange">2523</font>)
 
 　
-<h2 id="ファンデルモンドの畳み込み">451. ファンデルモンドの畳み込み</h2>
+<h2 id="ファンデルモンドの畳み込み">452. ファンデルモンドの畳み込み</h2>
 
 ### 難易度統計
 
@@ -18698,7 +18771,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2616">No.2616 中央番目の中央値</a> (yukicoder contest 416 (2024-01-26) - C問題、diff <font color="yellowgreen">2143</font>)
 
 　
-<h2 id="繰り返しB乗法">452. 繰り返しB乗法</h2>
+<h2 id="繰り返しB乗法">453. 繰り返しB乗法</h2>
 
 ### 難易度統計
 
@@ -18723,7 +18796,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2994">No.2994 べき内積</a> (Advent Calendar Contest 2024 (2024-12-01) - R問題、diff <font color="red">2885</font>)
 
 　
-<h2 id="線分の交差判定">453. 線分の交差判定</h2>
+<h2 id="線分の交差判定">454. 線分の交差判定</h2>
 
 ### 難易度統計
 
@@ -18748,7 +18821,32 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3008">No.3008 ワンオペ警備員</a> (yukicoder contest 455 (2025-01-17) - G問題、diff <font color="red">2892</font>)
 
 　
-<h2 id="区間和の指定された区間数え上げ">454. 区間和の指定された区間数え上げ</h2>
+<h2 id="１変数連立一次不等式の充足可能性判定">455. １変数連立一次不等式の充足可能性判定</h2>
+
+### 難易度統計
+
+「１変数連立一次不等式の充足可能性判定」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
+- 全体: ★2.7／diff <font color="orange">2632</font>
+- 2026年: ★2.5／diff <font color="orange">2499</font>
+- 2025年: ★データなし／diffデータなし
+- 2024年: ★3／diff <font color="orange">2765</font>
+- 2023年: ★データなし／diffデータなし
+- 2022年: ★データなし／diffデータなし
+
+### レベル別問題一覧
+
+「１変数連立一次不等式の充足可能性判定」を主たる解法に含む問題のレベルごとの一覧です。
+
+##### ★★☆
+
+- <a href="https://yukicoder.me/problems/no/3560">No.3560 Giant Salamander</a> (KCPC新歓杯2026 (2026-05-29) - F問題、diff <font color="orange">2499</font>)
+
+##### ★★★
+
+- <a href="https://yukicoder.me/problems/no/2643">No.2643 Many Range Sums Problems</a> (traP 作問ハッカソンコンテスト 002(day2) (2024-02-19) - G問題、diff <font color="orange">2765</font>)
+
+　
+<h2 id="区間和の指定された区間数え上げ">456. 区間和の指定された区間数え上げ</h2>
 
 ### 難易度統計
 
@@ -18782,7 +18880,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2956">No.2956 Substitute with Average</a> (yukicoder contest 452 (2024-11-08) - D問題、diff <font color="yellowgreen">2386</font>)
 
 　
-<h2 id="最長単調増加部分列長計算">455. 最長単調増加部分列長計算</h2>
+<h2 id="最長単調増加部分列長計算">457. 最長単調増加部分列長計算</h2>
 
 ### 難易度統計
 
@@ -18808,7 +18906,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3238">No.3238 Shadow</a> (yukicoder contest 478 オムニバス (2025-08-15) - G問題、diffデータなし)
 
 　
-<h2 id="区間削除更新">456. 区間削除更新</h2>
+<h2 id="区間削除更新">458. 区間削除更新</h2>
 
 ### 難易度統計
 
@@ -18834,7 +18932,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3265">No.3265 地元に帰れば天才扱い！</a> (第2回 岩井星人アンソロジープログラミングコンテスト Div.2 (2025-09-06) - G問題、diff <font color="deepskyblue">1233</font>)
 
 　
-<h2 id="文字列・配列の追加・挿入の事前処理">457. 文字列・配列の追加・挿入の事前処理</h2>
+<h2 id="文字列・配列の追加・挿入の事前処理">459. 文字列・配列の追加・挿入の事前処理</h2>
 
 ### 難易度統計
 
@@ -18868,43 +18966,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3494">No.3494 一点挿入区間和取得</a> (yukicoder contest 496 (2026-04-03) - G問題、diff <font color="yellowgreen">2083</font>)
 
 　
-<h2 id="超頂点追加">458. 超頂点追加</h2>
-
-### 難易度統計
-
-「超頂点追加」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
-- 全体: ★2.8／diff <font color="blue">1820</font>
-- 2026年: ★データなし／diffデータなし
-- 2025年: ★2.8／diff <font color="deepskyblue">1509</font>
-- 2024年: ★2.8／diff <font color="blue">1988</font>
-- 2023年: ★2.8／diff <font color="yellowgreen">2068</font>
-- 2022年: ★データなし／diffデータなし
-
-### レベル別問題一覧
-
-「超頂点追加」を主たる解法に含む問題のレベルごとの一覧です。
-
-##### ★★☆
-
-- <a href="https://yukicoder.me/problems/no/2291">No.2291 Union Find Estimate</a> (yukicoder contest 387 (Union Find Contest) (2023-05-05) - C問題、diff <font color="blue">1795</font>)
-- <a href="https://yukicoder.me/problems/no/2897">No.2897 ２集合間距離</a> (yukicoder contest 447 オムニバス (2024-09-20) - D問題、diff <font color="blue">1957</font>)
-- <a href="https://yukicoder.me/problems/no/3173">No.3173 じゃんけんの勝ちの回数</a> (yukicoder contest 469 (2025-06-06) - C問題、diff <font color="deepskyblue">1396</font>)
-- <a href="https://yukicoder.me/problems/no/3326">No.3326 岩井星人の帰星</a> (第2回 岩井星人アンソロジープログラミングコンテスト Extra (2025-11-01) - D問題、diff <font color="green">1063</font>)
-
-##### ★★★
-
-- <a href="https://yukicoder.me/problems/no/2178">No.2178 Payable Magic Items</a> (yukicoder contest 372 (2023-01-06) - D問題、diff <font color="blue">1989</font>)
-- <a href="https://yukicoder.me/problems/no/2263">No.2263 Perms</a> (yukicoder contest 383 (2023-04-07) - E問題、diff <font color="orange">2420</font>)
-- <a href="https://yukicoder.me/problems/no/2604">No.2604 Initial Motion</a> (yukicoder contest 414 (2024-01-12) - F問題、diff <font color="yellowgreen">2048</font>)
-- <a href="https://yukicoder.me/problems/no/2713">No.2713 Just Solitaire</a> (yukicoder contest 425 (MMA Contest 018) (2024-03-31) - H問題、diff <font color="blue">1959</font>)
-- <a href="https://yukicoder.me/problems/no/3222">No.3222 Let the World Forget Me</a> (yukicoder contest 476 (2025-08-01) - G問題、diff <font color="blue">1723</font>)
-
-##### ★★★☆
-
-- <a href="https://yukicoder.me/problems/no/3201">No.3201 Corporate Synergy</a> (yukicoder contest 473 第1回 生成AI作問コンテスト (2025-07-11) - G問題、diff <font color="blue">1855</font>)
-
-　
-<h2 id="動的なグラフの連結成分の頂点数取得">459. 動的なグラフの連結成分の頂点数取得</h2>
+<h2 id="動的なグラフの連結成分の頂点数取得">460. 動的なグラフの連結成分の頂点数取得</h2>
 
 ### 難易度統計
 
@@ -18930,7 +18992,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3369">No.3369 Find MyakuMyaku</a> (yukicoder contest 作問ハッカソンコンテスト 003 Day2 (2025-11-17) - H問題、diff <font color="orange">2449</font>)
 
 　
-<h2 id="選択組み合わせ報酬・罰則付きナップサック最適化">460. 選択組み合わせ報酬・罰則付きナップサック最適化</h2>
+<h2 id="選択組み合わせ報酬・罰則付きナップサック最適化">461. 選択組み合わせ報酬・罰則付きナップサック最適化</h2>
 
 ### 難易度統計
 
@@ -18960,7 +19022,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3201">No.3201 Corporate Synergy</a> (yukicoder contest 473 第1回 生成AI作問コンテスト (2025-07-11) - G問題、diff <font color="blue">1855</font>)
 
 　
-<h2 id="上界制約を無視した数え上げを桁ごとに前計算">461. 上界制約を無視した数え上げを桁ごとに前計算</h2>
+<h2 id="上界制約を無視した数え上げを桁ごとに前計算">462. 上界制約を無視した数え上げを桁ごとに前計算</h2>
 
 ### 難易度統計
 
@@ -18986,7 +19048,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2934">No.2934 Digit Sum</a> (yukicoder contest 第3回緑以下コンテスト エキストラ (2024-10-12) - D問題、diffデータなし)
 
 　
-<h2 id="sorted set">462. sorted set</h2>
+<h2 id="sorted set">463. sorted set</h2>
 
 ### 難易度統計
 
@@ -19025,7 +19087,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3239">No.3239 Omnibus</a> (yukicoder contest 478 (2025-08-15) - H問題、diffデータなし)
 
 　
-<h2 id="集合の変化イベント走査による差分計算">463. 集合の変化イベント走査による差分計算</h2>
+<h2 id="集合の変化イベント走査による差分計算">464. 集合の変化イベント走査による差分計算</h2>
 
 ### 難易度統計
 
@@ -19076,7 +19138,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3148">No.3148 Min-Cost Destruction of Parentheses</a> (yukicoder contest 467 (2025-05-16) - I問題、diff <font color="orange">2565</font>)
 
 　
-<h2 id="指定序数の値の計算を指定始切片数え上げに帰着">464. 指定序数の値の計算を指定始切片数え上げに帰着</h2>
+<h2 id="指定序数の値の計算を指定始切片数え上げに帰着">465. 指定序数の値の計算を指定始切片数え上げに帰着</h2>
 
 ### 難易度統計
 
@@ -19122,7 +19184,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2262">No.2262 Fractions</a> (yukicoder contest 383 (2023-04-07) - D問題、diff <font color="red">3018</font>)
 
 　
-<h2 id="最大二部マッチング">465. 最大二部マッチング</h2>
+<h2 id="最大二部マッチング">466. 最大二部マッチング</h2>
 
 ### 難易度統計
 
@@ -19149,7 +19211,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3345">No.3345 Reducible Sequence</a> (yukicoder contest 作問ハッカソンコンテスト 003 Day1 (2025-11-13) - F問題、diff <font color="blue">1729</font>)
 
 　
-<h2 id="クエリ先読み">466. クエリ先読み</h2>
+<h2 id="クエリ先読み">467. クエリ先読み</h2>
 
 ### 難易度統計
 
@@ -19199,7 +19261,44 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3494">No.3494 一点挿入区間和取得</a> (yukicoder contest 496 (2026-04-03) - G問題、diff <font color="yellowgreen">2083</font>)
 
 　
-<h2 id="素因数分解による付値計算">467. 素因数分解による付値計算</h2>
+<h2 id="超頂点追加">468. 超頂点追加</h2>
+
+### 難易度統計
+
+「超頂点追加」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
+- 全体: ★2.8／diff <font color="blue">1894</font>
+- 2026年: ★3／diff <font color="orange">2635</font>
+- 2025年: ★2.8／diff <font color="deepskyblue">1509</font>
+- 2024年: ★2.8／diff <font color="blue">1988</font>
+- 2023年: ★2.8／diff <font color="yellowgreen">2068</font>
+- 2022年: ★データなし／diffデータなし
+
+### レベル別問題一覧
+
+「超頂点追加」を主たる解法に含む問題のレベルごとの一覧です。
+
+##### ★★☆
+
+- <a href="https://yukicoder.me/problems/no/2291">No.2291 Union Find Estimate</a> (yukicoder contest 387 (Union Find Contest) (2023-05-05) - C問題、diff <font color="blue">1795</font>)
+- <a href="https://yukicoder.me/problems/no/2897">No.2897 ２集合間距離</a> (yukicoder contest 447 オムニバス (2024-09-20) - D問題、diff <font color="blue">1957</font>)
+- <a href="https://yukicoder.me/problems/no/3173">No.3173 じゃんけんの勝ちの回数</a> (yukicoder contest 469 (2025-06-06) - C問題、diff <font color="deepskyblue">1396</font>)
+- <a href="https://yukicoder.me/problems/no/3326">No.3326 岩井星人の帰星</a> (第2回 岩井星人アンソロジープログラミングコンテスト Extra (2025-11-01) - D問題、diff <font color="green">1063</font>)
+
+##### ★★★
+
+- <a href="https://yukicoder.me/problems/no/2178">No.2178 Payable Magic Items</a> (yukicoder contest 372 (2023-01-06) - D問題、diff <font color="blue">1989</font>)
+- <a href="https://yukicoder.me/problems/no/2263">No.2263 Perms</a> (yukicoder contest 383 (2023-04-07) - E問題、diff <font color="orange">2420</font>)
+- <a href="https://yukicoder.me/problems/no/2604">No.2604 Initial Motion</a> (yukicoder contest 414 (2024-01-12) - F問題、diff <font color="yellowgreen">2048</font>)
+- <a href="https://yukicoder.me/problems/no/2713">No.2713 Just Solitaire</a> (yukicoder contest 425 (MMA Contest 018) (2024-03-31) - H問題、diff <font color="blue">1959</font>)
+- <a href="https://yukicoder.me/problems/no/3222">No.3222 Let the World Forget Me</a> (yukicoder contest 476 (2025-08-01) - G問題、diff <font color="blue">1723</font>)
+- <a href="https://yukicoder.me/problems/no/3561">No.3561 Collect KCPC</a> (KCPC新歓杯2026 (2026-05-29) - G問題、diff <font color="orange">2635</font>)
+
+##### ★★★☆
+
+- <a href="https://yukicoder.me/problems/no/3201">No.3201 Corporate Synergy</a> (yukicoder contest 473 第1回 生成AI作問コンテスト (2025-07-11) - G問題、diff <font color="blue">1855</font>)
+
+　
+<h2 id="素因数分解による付値計算">469. 素因数分解による付値計算</h2>
 
 ### 難易度統計
 
@@ -19248,7 +19347,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2993">No.2993 冪乗乗 mod 冪乗</a> (Advent Calendar Contest 2024 (2024-12-01) - Q問題、diffデータなし)
 
 　
-<h2 id="区間和取得">468. 区間和取得</h2>
+<h2 id="区間和取得">470. 区間和取得</h2>
 
 ### 難易度統計
 
@@ -19337,7 +19436,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3524">No.3524 二進範囲更新範囲和取得</a> (yukicoder contest 498 リアクティブコンテスト (2026-05-01) - G問題、diffデータなし)
 
 　
-<h2 id="クエリソート">469. クエリソート</h2>
+<h2 id="クエリソート">471. クエリソート</h2>
 
 ### 難易度統計
 
@@ -19368,7 +19467,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3305">No.3305 Shift Sort</a> (yukicoder contest MMA Contest 020 (2025-10-05) - L問題、diff <font color="yellowgreen">2324</font>)
 
 　
-<h2 id="イベントソート">470. イベントソート</h2>
+<h2 id="イベントソート">472. イベントソート</h2>
 
 ### 難易度統計
 
@@ -19413,7 +19512,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3407">No.3407 Birds-of-Paradise' Christmas Live</a> (Advent Calendar Contest 2025 (2025-12-01) - N問題、diff <font color="orange">2758</font>)
 
 　
-<h2 id="数え上げを総和計算に帰着">471. 数え上げを総和計算に帰着</h2>
+<h2 id="数え上げを総和計算に帰着">473. 数え上げを総和計算に帰着</h2>
 
 ### 難易度統計
 
@@ -19486,7 +19585,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3080">No.3080 Colonies on Line</a> (yukicoder contest 462 (2025-03-28) - G問題、diff <font color="orange">2675</font>)
 
 　
-<h2 id="区間代入更新">472. 区間代入更新</h2>
+<h2 id="区間代入更新">474. 区間代入更新</h2>
 
 ### 難易度統計
 
@@ -19514,7 +19613,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3507">No.3507 RangeSum RangeUpdate RangeSqrt</a> (CPCTF 2026: PPC (2026-04-17) - K問題、diff <font color="blue">1947</font>)
 
 　
-<h2 id="中国剰余定理">473. 中国剰余定理</h2>
+<h2 id="中国剰余定理">475. 中国剰余定理</h2>
 
 ### 難易度統計
 
@@ -19569,7 +19668,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2993">No.2993 冪乗乗 mod 冪乗</a> (Advent Calendar Contest 2024 (2024-12-01) - Q問題、diffデータなし)
 
 　
-<h2 id="区間加算更新">474. 区間加算更新</h2>
+<h2 id="区間加算更新">476. 区間加算更新</h2>
 
 ### 難易度統計
 
@@ -19628,7 +19727,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2163">No.2163 LCA Sum Query</a> (Advent Calendar Contest 2022 (2022-12-01) - N問題、diff <font color="darkgoldenrod ">3382</font>)
 
 　
-<h2 id="区間要素数取得">475. 区間要素数取得</h2>
+<h2 id="区間要素数取得">477. 区間要素数取得</h2>
 
 ### 難易度統計
 
@@ -19678,7 +19777,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3494">No.3494 一点挿入区間和取得</a> (yukicoder contest 496 (2026-04-03) - G問題、diff <font color="yellowgreen">2083</font>)
 
 　
-<h2 id="検索">476. 検索</h2>
+<h2 id="検索">478. 検索</h2>
 
 ### 難易度統計
 
@@ -19743,104 +19842,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2985">No.2985 May Count Induced C4 Subgraphs</a> (Advent Calendar Contest 2024 (2024-12-01) - I問題、diff <font color="red">3115</font>)
 
 　
-<h2 id="付値計算">477. 付値計算</h2>
-
-### 難易度統計
-
-「付値計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
-- 全体: ★2.8／diff <font color="yellowgreen">2002</font>
-- 2026年: ★データなし／diffデータなし
-- 2025年: ★2.6／diff <font color="blue">1873</font>
-- 2024年: ★2.7／diff <font color="blue">1701</font>
-- 2023年: ★2.8／diff <font color="yellowgreen">2160</font>
-- 2022年: ★3.5／diff <font color="blue">1940</font>
-
-### レベル別問題一覧
-
-「付値計算」を主たる解法に含む問題のレベルごとの一覧です。
-
-##### ★☆
-
-- <a href="https://yukicoder.me/problems/no/2379">No.2379 Burnside's Theorem</a> (yukicoder contest 397(群論コンテスト) (2023-07-14) - A問題、diff <font color="brown">719</font>)
-
-##### ★★
-
-- <a href="https://yukicoder.me/problems/no/2326">No.2326 Factorial to the Power of Factorial to the...</a> (MMA Contest 015  (2023-05-28) - E問題、diff <font color="blue">1605</font>)
-- <a href="https://yukicoder.me/problems/no/2380">No.2380 Sylow P-subgroup</a> (yukicoder contest 397(群論コンテスト) (2023-07-14) - B問題、diff <font color="deepskyblue">1233</font>)
-- <a href="https://yukicoder.me/problems/no/2682">No.2682 Visible Divisible</a> (yukicoder contest 422 (第１回 競技プログラミング講習会作問企画コンテスト) (2024-03-20) - D問題、diff <font color="deepskyblue">1447</font>)
-- <a href="https://yukicoder.me/problems/no/2785">No.2785 四乗足す四の末尾の０</a> (yukicoder contest 433 (2024-06-14) - E問題、diff <font color="blue">1673</font>)
-- <a href="https://yukicoder.me/problems/no/2929">No.2929 Miracle Branch</a> (yukicoder contest 第3回緑以下コンテスト (2024-10-12) - K問題、diff <font color="blue">1608</font>)
-- <a href="https://yukicoder.me/problems/no/3241">No.3241 Make Multiplication of 8</a> (yukicoder contest 479 AngrySadEightお誕生日コンテスト2025 (2025-08-22) - B問題、diff <font color="green">868</font>)
-
-##### ★★☆
-
-- <a href="https://yukicoder.me/problems/no/2241">No.2241 Reach 1</a> (yukicoder contest 380 (2023-03-10) - C問題、diff <font color="blue">1838</font>)
-- <a href="https://yukicoder.me/problems/no/2271">No.2271 平方根の１３桁精度近似計算</a> (yukicoder contest 384 (2023-04-14) - E問題、diff <font color="orange">2788</font>)
-- <a href="https://yukicoder.me/problems/no/2365">No.2365 Present of good number</a> (yukicoder contest 395 (2023-06-30) - B問題、diff <font color="blue">1887</font>)
-- <a href="https://yukicoder.me/problems/no/2576">No.2576 LCM Pattern</a> (Advent Calendar Contest 2023 (2023-12-01) - D問題、diff <font color="blue">1842</font>)
-- <a href="https://yukicoder.me/problems/no/3115">No.3115 One Power One Kill</a> (CPCTF 2025 : PPC (2025-04-18) - I問題、diff <font color="blue">1823</font>)
-
-##### ★★★
-
-- <a href="https://yukicoder.me/problems/no/2190">No.2190 平方数の下１２桁</a> (yukicoder contest 373 (2023-01-13) - G問題、diff <font color="orange">2545</font>)
-- <a href="https://yukicoder.me/problems/no/2318">No.2318 Phys Bone Maker</a> (yukicoder contest 390 (2023-05-26) - E問題、diff <font color="yellowgreen">2016</font>)
-- <a href="https://yukicoder.me/problems/no/2497">No.2497 GCD of LCMs</a> (yukicoder contest 407 (2023-10-06) - F問題、diff <font color="yellowgreen">2209</font>)
-- <a href="https://yukicoder.me/problems/no/2798">No.2798 Multiple Chain</a> (yukicoder contest 435 (2024-06-28) - D問題、diff <font color="yellowgreen">2134</font>)
-- <a href="https://yukicoder.me/problems/no/2902">No.2902 ZERO!!</a> (yukicoder contest 448 (2024-09-27) - A問題、diff <font color="deepskyblue">1406</font>)
-- <a href="https://yukicoder.me/problems/no/2954">No.2954 Calculation of Exponentiation</a> (yukicoder contest 452 (2024-11-08) - B問題、diff <font color="blue">1941</font>)
-- <a href="https://yukicoder.me/problems/no/3022">No.3022 一元一次式 mod 1000000000</a> (yukicoder contest 456 オムニバス (2025-02-14) - D問題、diff <font color="yellowgreen">2051</font>)
-- <a href="https://yukicoder.me/problems/no/3186">No.3186 Big Order</a> (yukicoder contest 471 (2025-06-20) - D問題、diff <font color="orange">2753</font>)
-
-##### ★★★☆
-
-- <a href="https://yukicoder.me/problems/no/2120">No.2120 場合の数の下８桁</a> (yukicoder contest 367 (2022-11-04) - D問題、diff <font color="blue">1940</font>)
-- <a href="https://yukicoder.me/problems/no/2192">No.2192 平方数の下１４桁</a> (yukicoder contest 373 (2023-01-13) - I問題、diff <font color="red">3117</font>)
-- <a href="https://yukicoder.me/problems/no/2273">No.2273 一点乗除区間積</a> (yukicoder contest 384 (2023-04-14) - G問題、diff <font color="orange">2708</font>)
-- <a href="https://yukicoder.me/problems/no/2487">No.2487 Multiple of M</a> (yukicoder contest 406 技術室奥プログラミングコンテスト#7 Day2 (2023-09-29) - B問題、diff <font color="orange">2587</font>)
-
-##### ★★★★
-
-- <a href="https://yukicoder.me/problems/no/2193">No.2193 メガの下１桁</a> (yukicoder contest 373 (2023-01-13) - J問題、diff <font color="orange">2749</font>)
-- <a href="https://yukicoder.me/problems/no/2207">No.2207 pCr検査</a> (yukicoder contest 375 (2023-02-03) - G問題、diff <font color="orange">2567</font>)
-
-##### ★★★★☆
-
-- <a href="https://yukicoder.me/problems/no/2993">No.2993 冪乗乗 mod 冪乗</a> (Advent Calendar Contest 2024 (2024-12-01) - Q問題、diffデータなし)
-
-　
-<h2 id="剰余の被除数を止める総和計算">478. 剰余の被除数を止める総和計算</h2>
-
-### 難易度統計
-
-「剰余の被除数を止める総和計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
-- 全体: ★2.8／diff <font color="yellowgreen">2004</font>
-- 2026年: ★データなし／diffデータなし
-- 2025年: ★データなし／diffデータなし
-- 2024年: ★2.7／diff <font color="blue">1810</font>
-- 2023年: ★データなし／diffデータなし
-- 2022年: ★3／diff <font color="yellowgreen">2393</font>
-
-### レベル別問題一覧
-
-「剰余の被除数を止める総和計算」を主たる解法に含む問題のレベルごとの一覧です。
-
-##### ★★☆
-
-- <a href="https://yukicoder.me/problems/no/2880">No.2880 Max Sigma Mod</a> (yukicoder contest 445（菁々祭プログラミングコンテスト2024） (2024-09-08) - C問題、diff <font color="blue">1653</font>)
-
-##### ★★★
-
-- <a href="https://yukicoder.me/problems/no/2127">No.2127 Mod, Sum, Sum, Mod</a> (yukicoder contest 368 (2022-11-18) - D問題、diff <font color="yellowgreen">2393</font>)
-- <a href="https://yukicoder.me/problems/no/2891">No.2891 Mint</a> (yukicoder contest 446 (2024-09-13) - F問題、diff <font color="blue">1967</font>)
-
-　
 <h2 id="同じ値の纏め上げ">479. 同じ値の纏め上げ</h2>
 
 ### 難易度統計
 
 「同じ値の纏め上げ」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
-- 全体: ★2.8／diff <font color="yellowgreen">2005</font>
-- 2026年: ★2.7／diff <font color="blue">1613</font>
+- 全体: ★2.8／diff <font color="blue">1997</font>
+- 2026年: ★2.5／diff <font color="blue">1601</font>
 - 2025年: ★2.8／diff <font color="yellowgreen">2023</font>
 - 2024年: ★3／diff <font color="yellowgreen">2235</font>
 - 2023年: ★2.5／diff <font color="blue">1635</font>
@@ -19860,6 +19868,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2176">No.2176 LRM Question 1</a> (yukicoder contest 372 (2023-01-06) - B問題、diff <font color="green">1139</font>)
 - <a href="https://yukicoder.me/problems/no/2394">No.2394 部分和乗総和</a> (yukicoder contest 399 (2023-07-28) - C問題、diff <font color="deepskyblue">1442</font>)
 - <a href="https://yukicoder.me/problems/no/3204">No.3204 Permuted Integer</a> (yukicoder contest 474 (2025-07-18) - B問題、diff <font color="green">1133</font>)
+- <a href="https://yukicoder.me/problems/no/3557">No.3557 KCPC or KUPC 2</a> (KCPC新歓杯2026 (2026-05-29) - C問題、diff <font color="deepskyblue">1554</font>)
 
 ##### ★★☆
 
@@ -19933,7 +19942,98 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2990">No.2990 Interval XOR</a> (Advent Calendar Contest 2024 (2024-12-01) - N問題、diff <font color="red">3115</font>)
 
 　
-<h2 id="非単射関数の像の濃度による計算量評価">480. 非単射関数の像の濃度による計算量評価</h2>
+<h2 id="付値計算">480. 付値計算</h2>
+
+### 難易度統計
+
+「付値計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
+- 全体: ★2.8／diff <font color="yellowgreen">2002</font>
+- 2026年: ★データなし／diffデータなし
+- 2025年: ★2.6／diff <font color="blue">1873</font>
+- 2024年: ★2.7／diff <font color="blue">1701</font>
+- 2023年: ★2.8／diff <font color="yellowgreen">2160</font>
+- 2022年: ★3.5／diff <font color="blue">1940</font>
+
+### レベル別問題一覧
+
+「付値計算」を主たる解法に含む問題のレベルごとの一覧です。
+
+##### ★☆
+
+- <a href="https://yukicoder.me/problems/no/2379">No.2379 Burnside's Theorem</a> (yukicoder contest 397(群論コンテスト) (2023-07-14) - A問題、diff <font color="brown">719</font>)
+
+##### ★★
+
+- <a href="https://yukicoder.me/problems/no/2326">No.2326 Factorial to the Power of Factorial to the...</a> (MMA Contest 015  (2023-05-28) - E問題、diff <font color="blue">1605</font>)
+- <a href="https://yukicoder.me/problems/no/2380">No.2380 Sylow P-subgroup</a> (yukicoder contest 397(群論コンテスト) (2023-07-14) - B問題、diff <font color="deepskyblue">1233</font>)
+- <a href="https://yukicoder.me/problems/no/2682">No.2682 Visible Divisible</a> (yukicoder contest 422 (第１回 競技プログラミング講習会作問企画コンテスト) (2024-03-20) - D問題、diff <font color="deepskyblue">1447</font>)
+- <a href="https://yukicoder.me/problems/no/2785">No.2785 四乗足す四の末尾の０</a> (yukicoder contest 433 (2024-06-14) - E問題、diff <font color="blue">1673</font>)
+- <a href="https://yukicoder.me/problems/no/2929">No.2929 Miracle Branch</a> (yukicoder contest 第3回緑以下コンテスト (2024-10-12) - K問題、diff <font color="blue">1608</font>)
+- <a href="https://yukicoder.me/problems/no/3241">No.3241 Make Multiplication of 8</a> (yukicoder contest 479 AngrySadEightお誕生日コンテスト2025 (2025-08-22) - B問題、diff <font color="green">868</font>)
+
+##### ★★☆
+
+- <a href="https://yukicoder.me/problems/no/2241">No.2241 Reach 1</a> (yukicoder contest 380 (2023-03-10) - C問題、diff <font color="blue">1838</font>)
+- <a href="https://yukicoder.me/problems/no/2271">No.2271 平方根の１３桁精度近似計算</a> (yukicoder contest 384 (2023-04-14) - E問題、diff <font color="orange">2788</font>)
+- <a href="https://yukicoder.me/problems/no/2365">No.2365 Present of good number</a> (yukicoder contest 395 (2023-06-30) - B問題、diff <font color="blue">1887</font>)
+- <a href="https://yukicoder.me/problems/no/2576">No.2576 LCM Pattern</a> (Advent Calendar Contest 2023 (2023-12-01) - D問題、diff <font color="blue">1842</font>)
+- <a href="https://yukicoder.me/problems/no/3115">No.3115 One Power One Kill</a> (CPCTF 2025 : PPC (2025-04-18) - I問題、diff <font color="blue">1823</font>)
+
+##### ★★★
+
+- <a href="https://yukicoder.me/problems/no/2190">No.2190 平方数の下１２桁</a> (yukicoder contest 373 (2023-01-13) - G問題、diff <font color="orange">2545</font>)
+- <a href="https://yukicoder.me/problems/no/2318">No.2318 Phys Bone Maker</a> (yukicoder contest 390 (2023-05-26) - E問題、diff <font color="yellowgreen">2016</font>)
+- <a href="https://yukicoder.me/problems/no/2497">No.2497 GCD of LCMs</a> (yukicoder contest 407 (2023-10-06) - F問題、diff <font color="yellowgreen">2209</font>)
+- <a href="https://yukicoder.me/problems/no/2798">No.2798 Multiple Chain</a> (yukicoder contest 435 (2024-06-28) - D問題、diff <font color="yellowgreen">2134</font>)
+- <a href="https://yukicoder.me/problems/no/2902">No.2902 ZERO!!</a> (yukicoder contest 448 (2024-09-27) - A問題、diff <font color="deepskyblue">1406</font>)
+- <a href="https://yukicoder.me/problems/no/2954">No.2954 Calculation of Exponentiation</a> (yukicoder contest 452 (2024-11-08) - B問題、diff <font color="blue">1941</font>)
+- <a href="https://yukicoder.me/problems/no/3022">No.3022 一元一次式 mod 1000000000</a> (yukicoder contest 456 オムニバス (2025-02-14) - D問題、diff <font color="yellowgreen">2051</font>)
+- <a href="https://yukicoder.me/problems/no/3186">No.3186 Big Order</a> (yukicoder contest 471 (2025-06-20) - D問題、diff <font color="orange">2753</font>)
+
+##### ★★★☆
+
+- <a href="https://yukicoder.me/problems/no/2120">No.2120 場合の数の下８桁</a> (yukicoder contest 367 (2022-11-04) - D問題、diff <font color="blue">1940</font>)
+- <a href="https://yukicoder.me/problems/no/2192">No.2192 平方数の下１４桁</a> (yukicoder contest 373 (2023-01-13) - I問題、diff <font color="red">3117</font>)
+- <a href="https://yukicoder.me/problems/no/2273">No.2273 一点乗除区間積</a> (yukicoder contest 384 (2023-04-14) - G問題、diff <font color="orange">2708</font>)
+- <a href="https://yukicoder.me/problems/no/2487">No.2487 Multiple of M</a> (yukicoder contest 406 技術室奥プログラミングコンテスト#7 Day2 (2023-09-29) - B問題、diff <font color="orange">2587</font>)
+
+##### ★★★★
+
+- <a href="https://yukicoder.me/problems/no/2193">No.2193 メガの下１桁</a> (yukicoder contest 373 (2023-01-13) - J問題、diff <font color="orange">2749</font>)
+- <a href="https://yukicoder.me/problems/no/2207">No.2207 pCr検査</a> (yukicoder contest 375 (2023-02-03) - G問題、diff <font color="orange">2567</font>)
+
+##### ★★★★☆
+
+- <a href="https://yukicoder.me/problems/no/2993">No.2993 冪乗乗 mod 冪乗</a> (Advent Calendar Contest 2024 (2024-12-01) - Q問題、diffデータなし)
+
+　
+<h2 id="剰余の被除数を止める総和計算">481. 剰余の被除数を止める総和計算</h2>
+
+### 難易度統計
+
+「剰余の被除数を止める総和計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
+- 全体: ★2.8／diff <font color="yellowgreen">2004</font>
+- 2026年: ★データなし／diffデータなし
+- 2025年: ★データなし／diffデータなし
+- 2024年: ★2.7／diff <font color="blue">1810</font>
+- 2023年: ★データなし／diffデータなし
+- 2022年: ★3／diff <font color="yellowgreen">2393</font>
+
+### レベル別問題一覧
+
+「剰余の被除数を止める総和計算」を主たる解法に含む問題のレベルごとの一覧です。
+
+##### ★★☆
+
+- <a href="https://yukicoder.me/problems/no/2880">No.2880 Max Sigma Mod</a> (yukicoder contest 445（菁々祭プログラミングコンテスト2024） (2024-09-08) - C問題、diff <font color="blue">1653</font>)
+
+##### ★★★
+
+- <a href="https://yukicoder.me/problems/no/2127">No.2127 Mod, Sum, Sum, Mod</a> (yukicoder contest 368 (2022-11-18) - D問題、diff <font color="yellowgreen">2393</font>)
+- <a href="https://yukicoder.me/problems/no/2891">No.2891 Mint</a> (yukicoder contest 446 (2024-09-13) - F問題、diff <font color="blue">1967</font>)
+
+　
+<h2 id="非単射関数の像の濃度による計算量評価">482. 非単射関数の像の濃度による計算量評価</h2>
 
 ### 難易度統計
 
@@ -19961,7 +20061,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3102">No.3102 floor sqrt xor</a> (yukicoder contest 464 (2025-04-11) - D問題、diff <font color="yellowgreen">2002</font>)
 
 　
-<h2 id="ポラードの$\rho$">481. ポラードの$\rho$</h2>
+<h2 id="ポラードの$\rho$">483. ポラードの$\rho$</h2>
 
 ### 難易度統計
 
@@ -19992,7 +20092,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2578">No.2578 Jewelry Store</a> (Advent Calendar Contest 2023 (2023-12-01) - F問題、diff <font color="orange">2795</font>)
 
 　
-<h2 id="商のfloorの種類数による計算量評価">482. 商のfloorの種類数による計算量評価</h2>
+<h2 id="商のfloorの種類数による計算量評価">484. 商のfloorの種類数による計算量評価</h2>
 
 ### 難易度統計
 
@@ -20018,7 +20118,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2891">No.2891 Mint</a> (yukicoder contest 446 (2024-09-13) - F問題、diff <font color="blue">1967</font>)
 
 　
-<h2 id="区間の重複度計算">483. 区間の重複度計算</h2>
+<h2 id="区間の重複度計算">485. 区間の重複度計算</h2>
 
 ### 難易度統計
 
@@ -20044,7 +20144,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2133">No.2133 Take it easy!</a> (yukicoder contest 369 (2022-11-25) - D問題、diff <font color="orange">2649</font>)
 
 　
-<h2 id="区間積取得">484. 区間積取得</h2>
+<h2 id="区間積取得">486. 区間積取得</h2>
 
 ### 難易度統計
 
@@ -20070,7 +20170,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2273">No.2273 一点乗除区間積</a> (yukicoder contest 384 (2023-04-14) - G問題、diff <font color="orange">2708</font>)
 
 　
-<h2 id="緩和">485. <a href="https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#緩和">緩和</a></h2>
+<h2 id="緩和">487. <a href="https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#緩和">緩和</a></h2>
 
 ### 難易度統計
 
@@ -20139,7 +20239,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3414">No.3414 Aperiodic Sequence</a> (Advent Calendar Contest 2025 (2025-12-01) - U問題、diff <font color="orange">2658</font>)
 
 　
-<h2 id="半直線上の経路数え上げ">486. 半直線上の経路数え上げ</h2>
+<h2 id="半直線上の経路数え上げ">488. 半直線上の経路数え上げ</h2>
 
 ### 難易度統計
 
@@ -20165,7 +20265,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3403">No.3403 Count 1210 Sequence</a> (Advent Calendar Contest 2025 (2025-12-01) - J問題、diff <font color="yellowgreen">2300</font>)
 
 　
-<h2 id="配列のリアクティブによる特定">487. 配列のリアクティブによる特定</h2>
+<h2 id="配列のリアクティブによる特定">489. 配列のリアクティブによる特定</h2>
 
 ### 難易度統計
 
@@ -20194,7 +20294,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2496">No.2496 LCM between Permutations</a> (yukicoder contest 407 (2023-10-06) - E問題、diff <font color="yellowgreen">2309</font>)
 
 　
-<h2 id="平均値の定理">488. 平均値の定理</h2>
+<h2 id="平均値の定理">490. 平均値の定理</h2>
 
 ### 難易度統計
 
@@ -20223,7 +20323,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2976">No.2976 高階多点評価</a> (yukicoder contest 454 (2024-11-29) - H問題、diff <font color="red">3030</font>)
 
 　
-<h2 id="オイラー関数計算">489. オイラー関数計算</h2>
+<h2 id="オイラー関数計算">491. オイラー関数計算</h2>
 
 ### 難易度統計
 
@@ -20249,7 +20349,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2829">No.2829 GCD Divination</a> (yukicoder contest 439 (2024-08-02) - C問題、diff <font color="yellowgreen">2025</font>)
 
 　
-<h2 id="期待値の線形性">490. 期待値の線形性</h2>
+<h2 id="期待値の線形性">492. 期待値の線形性</h2>
 
 ### 難易度統計
 
@@ -20298,7 +20398,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3174">No.3174 勝ち残りじゃんけん</a> (yukicoder contest 469 (2025-06-06) - D問題、diff <font color="yellowgreen">2315</font>)
 
 　
-<h2 id="最小素因数計算">491. 最小素因数計算</h2>
+<h2 id="最小素因数計算">493. 最小素因数計算</h2>
 
 ### 難易度統計
 
@@ -20343,7 +20443,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2207">No.2207 pCr検査</a> (yukicoder contest 375 (2023-02-03) - G問題、diff <font color="orange">2567</font>)
 
 　
-<h2 id="多重総和・総乗計算">492. 多重総和・総乗計算</h2>
+<h2 id="多重総和・総乗計算">494. 多重総和・総乗計算</h2>
 
 ### 難易度統計
 
@@ -20414,7 +20514,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2988">No.2988 Min-Plus Convolution Query</a> (Advent Calendar Contest 2024 (2024-12-01) - L問題、diff <font color="red">3115</font>)
 
 　
-<h2 id="ユークリッドの互除法">493. ユークリッドの互除法</h2>
+<h2 id="ユークリッドの互除法">495. ユークリッドの互除法</h2>
 
 ### 難易度統計
 
@@ -20491,44 +20591,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2589">No.2589 Prepare Integers</a> (Advent Calendar Contest 2023 (2023-12-01) - Q問題、diff <font color="darkgoldenrod ">3503</font>)
 
 　
-<h2 id="ループ戦略">494. ループ戦略</h2>
-
-### 難易度統計
-
-「ループ戦略」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
-- 全体: ★2.8／diff <font color="yellowgreen">2097</font>
-- 2026年: ★3／diff <font color="yellowgreen">2334</font>
-- 2025年: ★2.5／diff <font color="yellowgreen">2309</font>
-- 2024年: ★データなし／diffデータなし
-- 2023年: ★2.8／diff <font color="blue">1926</font>
-- 2022年: ★データなし／diffデータなし
-
-### レベル別問題一覧
-
-「ループ戦略」を主たる解法に含む問題のレベルごとの一覧です。
-
-##### ★★
-
-- <a href="https://yukicoder.me/problems/no/3234">No.3234 Infinite Propagation</a> (yukicoder contest 478 オムニバス (2025-08-15) - C問題、diffデータなし)
-
-##### ★★☆
-
-- <a href="https://yukicoder.me/problems/no/2228">No.2228 Creeping Ghost</a> (yukicoder contest 378 (2023-02-24) - E問題、diff <font color="blue">1933</font>)
-- <a href="https://yukicoder.me/problems/no/2382">No.2382 Amidakuji M</a> (yukicoder contest 397(群論コンテスト) (2023-07-14) - D問題、diff <font color="deepskyblue">1550</font>)
-
-##### ★★★
-
-- <a href="https://yukicoder.me/problems/no/2278">No.2278 Time Bomb Game 2</a> (yukicoder contest 385 (2023-04-21) - D問題、diff <font color="yellowgreen">2153</font>)
-- <a href="https://yukicoder.me/problems/no/3291">No.3291 K-step Navigation</a> (yukicoder contest 485 (2025-10-03) - F問題、diff <font color="yellowgreen">2309</font>)
-- <a href="https://yukicoder.me/problems/no/3508">No.3508 OR Mapping</a> (CPCTF 2026: PPC (2026-04-17) - L問題、diff <font color="yellowgreen">2065</font>)
-- <a href="https://yukicoder.me/problems/no/3517">No.3517 Snake Kunekune Graph</a> (yukicoder contest 497 聖光学院プログラミングコンテスト2026 day1 (2026-04-24) - G問題、diff <font color="orange">2604</font>)
-
-##### ★★★☆
-
-- <a href="https://yukicoder.me/problems/no/2411">No.2411 Reverse Directions</a> (yukicoder contest 401 (2023-08-11) - E問題、diff <font color="yellowgreen">2068</font>)
-
-　
-<h2 id="内積計算">495. 内積計算</h2>
+<h2 id="内積計算">496. 内積計算</h2>
 
 ### 難易度統計
 
@@ -20568,7 +20631,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2170">No.2170 Left Addition Machine</a> (Advent Calendar Contest 2022 (2022-12-01) - W問題、diff <font color="red">2804</font>)
 
 　
-<h2 id="括弧列DP">496. <a href="https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#括弧列DP">括弧列DP</a></h2>
+<h2 id="括弧列DP">497. <a href="https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#括弧列DP">括弧列DP</a></h2>
 
 ### 難易度統計
 
@@ -20597,7 +20660,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2106">No.2106 Wild Cacco</a> (yukicoder contest 365 (2022-10-21) - D問題、diff <font color="orange">2532</font>)
 
 　
-<h2 id="無向木の有向化">497. 無向木の有向化</h2>
+<h2 id="無向木の有向化">498. 無向木の有向化</h2>
 
 ### 難易度統計
 
@@ -20641,7 +20704,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3206">No.3206 う　し　た　ウ　ニ　木　あ　く　ん　笑</a> (yukicoder contest 474 (2025-07-18) - D問題、diff <font color="blue">1774</font>)
 
 　
-<h2 id="高さ奇数ニム和">498. <a href="https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#高さ奇数ニム和">高さ奇数ニム和</a></h2>
+<h2 id="高さ奇数ニム和">499. <a href="https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#高さ奇数ニム和">高さ奇数ニム和</a></h2>
 
 ### 難易度統計
 
@@ -20667,7 +20730,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2726">No.2726 Rooted Tree Nim</a> (yukicoder contest 427 (ゲーム問題コンテスト) (2024-04-12) - F問題、diff <font color="yellowgreen">2046</font>)
 
 　
-<h2 id="ディオファントス方程式の解の数え上げ">499. ディオファントス方程式の解の数え上げ</h2>
+<h2 id="ディオファントス方程式の解の数え上げ">500. ディオファントス方程式の解の数え上げ</h2>
 
 ### 難易度統計
 
@@ -20695,7 +20758,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2979">No.2979 直角三角形の個数</a> (Advent Calendar Contest 2024 (2024-12-01) - C問題、diff <font color="red">2885</font>)
 
 　
-<h2 id="動的mod">500. 動的mod</h2>
+<h2 id="動的mod">501. 動的mod</h2>
 
 ### 難易度統計
 
@@ -20771,13 +20834,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2993">No.2993 冪乗乗 mod 冪乗</a> (Advent Calendar Contest 2024 (2024-12-01) - Q問題、diffデータなし)
 
 　
-<h2 id="再帰">501. 再帰</h2>
+<h2 id="再帰">502. 再帰</h2>
 
 ### 難易度統計
 
 「再帰」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
-- 全体: ★2.8／diff <font color="yellowgreen">2156</font>
-- 2026年: ★2.7／diff <font color="blue">1751</font>
+- 全体: ★2.8／diff <font color="yellowgreen">2159</font>
+- 2026年: ★2.6／diff <font color="blue">1953</font>
 - 2025年: ★2.7／diff <font color="yellowgreen">2098</font>
 - 2024年: ★2.6／diff <font color="blue">1995</font>
 - 2023年: ★3.4／diff <font color="yellowgreen">2394</font>
@@ -20816,6 +20879,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3283">No.3283 Labyrinth and Friends</a> (yukicoder contest 484 (2025-09-26) - E問題、diff <font color="blue">1917</font>)
 - <a href="https://yukicoder.me/problems/no/3375">No.3375 Binary Grid</a> (yukicoder contest 489 (2025-11-21) - D問題、diff <font color="yellowgreen">2201</font>)
 - <a href="https://yukicoder.me/problems/no/3549">No.3549 SigMax Digits (Judge ver.)</a> (yukicoder contest 500 (2026-05-22) - C問題、diff <font color="deepskyblue">1516</font>)
+- <a href="https://yukicoder.me/problems/no/3559">No.3559 +A,-B</a> (KCPC新歓杯2026 (2026-05-29) - E問題、diff <font color="yellowgreen">2358</font>)
 
 ##### ★★★
 
@@ -20865,7 +20929,45 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2398">No.2398 ヒドラ崩し</a> (yukicoder contest 399 (2023-07-28) - G問題、diff <font color="red">3178</font>)
 
 　
-<h2 id="単位の分解">502. 単位の分解</h2>
+<h2 id="ループ戦略">503. ループ戦略</h2>
+
+### 難易度統計
+
+「ループ戦略」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
+- 全体: ★2.8／diff <font color="yellowgreen">2164</font>
+- 2026年: ★3／diff <font color="orange">2434</font>
+- 2025年: ★2.5／diff <font color="yellowgreen">2309</font>
+- 2024年: ★データなし／diffデータなし
+- 2023年: ★2.8／diff <font color="blue">1926</font>
+- 2022年: ★データなし／diffデータなし
+
+### レベル別問題一覧
+
+「ループ戦略」を主たる解法に含む問題のレベルごとの一覧です。
+
+##### ★★
+
+- <a href="https://yukicoder.me/problems/no/3234">No.3234 Infinite Propagation</a> (yukicoder contest 478 オムニバス (2025-08-15) - C問題、diffデータなし)
+
+##### ★★☆
+
+- <a href="https://yukicoder.me/problems/no/2228">No.2228 Creeping Ghost</a> (yukicoder contest 378 (2023-02-24) - E問題、diff <font color="blue">1933</font>)
+- <a href="https://yukicoder.me/problems/no/2382">No.2382 Amidakuji M</a> (yukicoder contest 397(群論コンテスト) (2023-07-14) - D問題、diff <font color="deepskyblue">1550</font>)
+
+##### ★★★
+
+- <a href="https://yukicoder.me/problems/no/2278">No.2278 Time Bomb Game 2</a> (yukicoder contest 385 (2023-04-21) - D問題、diff <font color="yellowgreen">2153</font>)
+- <a href="https://yukicoder.me/problems/no/3291">No.3291 K-step Navigation</a> (yukicoder contest 485 (2025-10-03) - F問題、diff <font color="yellowgreen">2309</font>)
+- <a href="https://yukicoder.me/problems/no/3508">No.3508 OR Mapping</a> (CPCTF 2026: PPC (2026-04-17) - L問題、diff <font color="yellowgreen">2065</font>)
+- <a href="https://yukicoder.me/problems/no/3517">No.3517 Snake Kunekune Graph</a> (yukicoder contest 497 聖光学院プログラミングコンテスト2026 day1 (2026-04-24) - G問題、diff <font color="orange">2604</font>)
+- <a href="https://yukicoder.me/problems/no/3564">No.3564 Awkward Timing</a> (KCPC新歓杯2026 (2026-05-29) - J問題、diff <font color="orange">2635</font>)
+
+##### ★★★☆
+
+- <a href="https://yukicoder.me/problems/no/2411">No.2411 Reverse Directions</a> (yukicoder contest 401 (2023-08-11) - E問題、diff <font color="yellowgreen">2068</font>)
+
+　
+<h2 id="単位の分解">504. 単位の分解</h2>
 
 ### 難易度統計
 
@@ -20895,7 +20997,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2579">No.2579 Dice Sum Infinity (制約変更版)</a> (Advent Calendar Contest 2023 (2023-12-01) - G問題、diff <font color="red">3196</font>)
 
 　
-<h2 id="半分全列挙">503. 半分全列挙</h2>
+<h2 id="半分全列挙">505. 半分全列挙</h2>
 
 ### 難易度統計
 
@@ -20933,7 +21035,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2918">No.2918 Divide Applicants Fairly</a> (単発出題、diffデータなし)
 
 　
-<h2 id="乱択">504. 乱択</h2>
+<h2 id="乱択">506. 乱択</h2>
 
 ### 難易度統計
 
@@ -20987,7 +21089,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2162">No.2162 Copy and Paste 2</a> (Advent Calendar Contest 2022 (2022-12-01) - M問題、diff <font color="red">2903</font>)
 
 　
-<h2 id="配列の変化イベント走査による差分計算">505. 配列の変化イベント走査による差分計算</h2>
+<h2 id="配列の変化イベント走査による差分計算">507. 配列の変化イベント走査による差分計算</h2>
 
 ### 難易度統計
 
@@ -21014,7 +21116,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3187">No.3187 Mingle</a> (yukicoder contest 471 (2025-06-20) - E問題、diff <font color="yellowgreen">2242</font>)
 
 　
-<h2 id="ディオファントス方程式の解の構築">506. ディオファントス方程式の解の構築</h2>
+<h2 id="ディオファントス方程式の解の構築">508. ディオファントス方程式の解の構築</h2>
 
 ### 難易度統計
 
@@ -21055,7 +21157,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2985">No.2985 May Count Induced C4 Subgraphs</a> (Advent Calendar Contest 2024 (2024-12-01) - I問題、diff <font color="red">3115</font>)
 
 　
-<h2 id="Disjoint Sparse Table">507. Disjoint Sparse Table</h2>
+<h2 id="Disjoint Sparse Table">509. Disjoint Sparse Table</h2>
 
 ### 難易度統計
 
@@ -21082,7 +21184,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3442">No.3442 Good Vertex Connectivity</a> (yukicoder contest 492 (2026-02-06) - C問題、diffデータなし)
 
 　
-<h2 id="Sparse Table">508. Sparse Table</h2>
+<h2 id="Sparse Table">510. Sparse Table</h2>
 
 ### 難易度統計
 
@@ -21108,7 +21210,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3061">No.3061 Cut and Maximums</a> (yukicoder contest 460 (2025-03-14) - F問題、diff <font color="red">2971</font>)
 
 　
-<h2 id="01列と括弧列の対応">509. 01列と括弧列の対応</h2>
+<h2 id="01列と括弧列の対応">511. 01列と括弧列の対応</h2>
 
 ### 難易度統計
 
@@ -21137,7 +21239,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3148">No.3148 Min-Cost Destruction of Parentheses</a> (yukicoder contest 467 (2025-05-16) - I問題、diff <font color="orange">2565</font>)
 
 　
-<h2 id="不変量比較による一致判定">510. 不変量比較による一致判定</h2>
+<h2 id="不変量比較による一致判定">512. 不変量比較による一致判定</h2>
 
 ### 難易度統計
 
@@ -21192,7 +21294,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3231">No.3231 2×2行列相似判定 ～hard～</a> (yukicoder contest 477 線形代数コンテスト (2025-08-08) - H問題、diff <font color="orange">2582</font>)
 
 　
-<h2 id="座標圧縮">511. 座標圧縮</h2>
+<h2 id="座標圧縮">513. 座標圧縮</h2>
 
 ### 難易度統計
 
@@ -21240,7 +21342,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2974">No.2974 関数の芽</a> (yukicoder contest 454 (2024-11-29) - F問題、diff <font color="red">3030</font>)
 
 　
-<h2 id="約数の走査を倍数の走査に帰着">512. 約数の走査を倍数の走査に帰着</h2>
+<h2 id="約数の走査を倍数の走査に帰着">514. 約数の走査を倍数の走査に帰着</h2>
 
 ### 難易度統計
 
@@ -21286,7 +21388,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2207">No.2207 pCr検査</a> (yukicoder contest 375 (2023-02-03) - G問題、diff <font color="orange">2567</font>)
 
 　
-<h2 id="確率漸化式">513. 確率漸化式</h2>
+<h2 id="確率漸化式">515. 確率漸化式</h2>
 
 ### 難易度統計
 
@@ -21314,7 +21416,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2832">No.2832 Nana's Fickle Adventure</a> (yukicoder contest 439 (2024-08-02) - F問題、diff <font color="red">2812</font>)
 
 　
-<h2 id="グラフの頂点の削除更新">514. グラフの頂点の削除更新</h2>
+<h2 id="グラフの頂点の削除更新">516. グラフの頂点の削除更新</h2>
 
 ### 難易度統計
 
@@ -21343,7 +21445,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3148">No.3148 Min-Cost Destruction of Parentheses</a> (yukicoder contest 467 (2025-05-16) - I問題、diff <font color="orange">2565</font>)
 
 　
-<h2 id="木の構築">515. 木の構築</h2>
+<h2 id="木の構築">517. 木の構築</h2>
 
 ### 難易度統計
 
@@ -21372,7 +21474,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2998">No.2998 Rainbow Christmas Tree</a> (Advent Calendar Contest 2024 (2024-12-01) - V問題、diff <font color="darkgoldenrod ">3309</font>)
 
 　
-<h2 id="逆行列計算">516. 逆行列計算</h2>
+<h2 id="逆行列計算">518. 逆行列計算</h2>
 
 ### 難易度統計
 
@@ -21402,7 +21504,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3033">No.3033 エルハートの数え上げ</a> (yukicoder contest 457 (2025-02-21) - G問題、diff <font color="yellowgreen">2373</font>)
 
 　
-<h2 id="SIMD高速化">517. SIMD高速化</h2>
+<h2 id="SIMD高速化">519. SIMD高速化</h2>
 
 ### 難易度統計
 
@@ -21428,7 +21530,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2956">No.2956 Substitute with Average</a> (yukicoder contest 452 (2024-11-08) - D問題、diff <font color="yellowgreen">2386</font>)
 
 　
-<h2 id="指定始切片数え上げ・総和計算を桁ごとの計算に帰着">518. 指定始切片数え上げ・総和計算を桁ごとの計算に帰着</h2>
+<h2 id="指定始切片数え上げ・総和計算を桁ごとの計算に帰着">520. 指定始切片数え上げ・総和計算を桁ごとの計算に帰着</h2>
 
 ### 難易度統計
 
@@ -21476,7 +21578,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2589">No.2589 Prepare Integers</a> (Advent Calendar Contest 2023 (2023-12-01) - Q問題、diff <font color="darkgoldenrod ">3503</font>)
 
 　
-<h2 id="データを不変量別に分割して管理">519. データを不変量別に分割して管理</h2>
+<h2 id="データを不変量別に分割して管理">521. データを不変量別に分割して管理</h2>
 
 ### 難易度統計
 
@@ -21539,7 +21641,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2580">No.2580 Hyperinflation</a> (Advent Calendar Contest 2023 (2023-12-01) - H問題、diff <font color="red">3103</font>)
 
 　
-<h2 id="平面走査">520. 平面走査</h2>
+<h2 id="平面走査">522. 平面走査</h2>
 
 ### 難易度統計
 
@@ -21582,7 +21684,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2956">No.2956 Substitute with Average</a> (yukicoder contest 452 (2024-11-08) - D問題、diff <font color="yellowgreen">2386</font>)
 
 　
-<h2 id="十分大きな法で計算">521. 十分大きな法で計算</h2>
+<h2 id="十分大きな法で計算">523. 十分大きな法で計算</h2>
 
 ### 難易度統計
 
@@ -21622,7 +21724,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2207">No.2207 pCr検査</a> (yukicoder contest 375 (2023-02-03) - G問題、diff <font color="orange">2567</font>)
 
 　
-<h2 id="kth取得">522. kth取得</h2>
+<h2 id="kth取得">524. kth取得</h2>
 
 ### 難易度統計
 
@@ -21658,7 +21760,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3494">No.3494 一点挿入区間和取得</a> (yukicoder contest 496 (2026-04-03) - G問題、diff <font color="yellowgreen">2083</font>)
 
 　
-<h2 id="セグメント木">523. セグメント木</h2>
+<h2 id="セグメント木">525. セグメント木</h2>
 
 ### 難易度統計
 
@@ -21705,7 +21807,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2992">No.2992 Range ABCD String Query</a> (Advent Calendar Contest 2024 (2024-12-01) - P問題、diff <font color="orange">2478</font>)
 
 　
-<h2 id="区間挿入更新">524. 区間挿入更新</h2>
+<h2 id="区間挿入更新">526. 区間挿入更新</h2>
 
 ### 難易度統計
 
@@ -21733,7 +21835,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3284">No.3284 Picnic with Friends</a> (yukicoder contest 484 (2025-09-26) - F問題、diff <font color="yellowgreen">2382</font>)
 
 　
-<h2 id="倍数走査による約数列挙前計算">525. 倍数走査による約数列挙前計算</h2>
+<h2 id="倍数走査による約数列挙前計算">527. 倍数走査による約数列挙前計算</h2>
 
 ### 難易度統計
 
@@ -21769,7 +21871,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3414">No.3414 Aperiodic Sequence</a> (Advent Calendar Contest 2025 (2025-12-01) - U問題、diff <font color="orange">2658</font>)
 
 　
-<h2 id="約数走査を倍数走査に帰着">526. 約数走査を倍数走査に帰着</h2>
+<h2 id="約数走査を倍数走査に帰着">528. 約数走査を倍数走査に帰着</h2>
 
 ### 難易度統計
 
@@ -21805,7 +21907,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3414">No.3414 Aperiodic Sequence</a> (Advent Calendar Contest 2025 (2025-12-01) - U問題、diff <font color="orange">2658</font>)
 
 　
-<h2 id="区間max・min取得">527. 区間max・min取得</h2>
+<h2 id="区間max・min取得">529. 区間max・min取得</h2>
 
 ### 難易度統計
 
@@ -21840,7 +21942,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3442">No.3442 Good Vertex Connectivity</a> (yukicoder contest 492 (2026-02-06) - C問題、diffデータなし)
 
 　
-<h2 id="区間の分割を始切片の分割と終切片の組に翻訳して境目を管理する次元圧縮">528. 区間の分割を始切片の分割と終切片の組に翻訳して境目を管理する次元圧縮</h2>
+<h2 id="区間の分割を始切片の分割と終切片の組に翻訳して境目を管理する次元圧縮">530. 区間の分割を始切片の分割と終切片の組に翻訳して境目を管理する次元圧縮</h2>
 
 ### 難易度統計
 
@@ -21873,7 +21975,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3174">No.3174 勝ち残りじゃんけん</a> (yukicoder contest 469 (2025-06-06) - D問題、diff <font color="yellowgreen">2315</font>)
 
 　
-<h2 id="フェニック木">529. フェニック木</h2>
+<h2 id="フェニック木">531. フェニック木</h2>
 
 ### 難易度統計
 
@@ -21936,7 +22038,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3494">No.3494 一点挿入区間和取得</a> (yukicoder contest 496 (2026-04-03) - G問題、diff <font color="yellowgreen">2083</font>)
 
 　
-<h2 id="モノイド演算に関する区間取得">530. モノイド演算に関する区間取得</h2>
+<h2 id="モノイド演算に関する区間取得">532. モノイド演算に関する区間取得</h2>
 
 ### 難易度統計
 
@@ -21988,7 +22090,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3202">No.3202 Periodic Alternating Subsequence</a> (yukicoder contest 473 第1回 生成AI作問コンテスト (2025-07-11) - H問題、diff <font color="yellowgreen">2399</font>)
 
 　
-<h2 id="スライド最大・最小化">531. スライド最大・最小化</h2>
+<h2 id="スライド最大・最小化">533. スライド最大・最小化</h2>
 
 ### 難易度統計
 
@@ -22017,7 +22119,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3367">No.3367 Looks like a convolution</a> (yukicoder contest 作問ハッカソンコンテスト 003 Day2 (2025-11-17) - F問題、diff <font color="orange">2523</font>)
 
 　
-<h2 id="解法場合分け">532. <a href="https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#解法場合分け">解法場合分け</a></h2>
+<h2 id="解法場合分け">534. <a href="https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#解法場合分け">解法場合分け</a></h2>
 
 ### 難易度統計
 
@@ -22068,7 +22170,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2979">No.2979 直角三角形の個数</a> (Advent Calendar Contest 2024 (2024-12-01) - C問題、diff <font color="red">2885</font>)
 
 　
-<h2 id="木の頂点の深さ計算">533. 木の頂点の深さ計算</h2>
+<h2 id="木の頂点の深さ計算">535. 木の頂点の深さ計算</h2>
 
 ### 難易度統計
 
@@ -22099,7 +22201,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3206">No.3206 う　し　た　ウ　ニ　木　あ　く　ん　笑</a> (yukicoder contest 474 (2025-07-18) - D問題、diff <font color="blue">1774</font>)
 
 　
-<h2 id="バケット分割による２解法の結合">534. バケット分割による２解法の結合</h2>
+<h2 id="バケット分割による２解法の結合">536. バケット分割による２解法の結合</h2>
 
 ### 難易度統計
 
@@ -22141,7 +22243,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2979">No.2979 直角三角形の個数</a> (Advent Calendar Contest 2024 (2024-12-01) - C問題、diff <font color="red">2885</font>)
 
 　
-<h2 id="最小全域木計算">535. 最小全域木計算</h2>
+<h2 id="最小全域木計算">537. 最小全域木計算</h2>
 
 ### 難易度統計
 
@@ -22172,7 +22274,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3079">No.3079 Unite Japanese Prefectures</a> (yukicoder contest 462 (2025-03-28) - F問題、diff <font color="yellowgreen">2197</font>)
 
 　
-<h2 id="特殊ジャッジによるブラックボックス操作">536. 特殊ジャッジによるブラックボックス操作</h2>
+<h2 id="特殊ジャッジによるブラックボックス操作">538. 特殊ジャッジによるブラックボックス操作</h2>
 
 ### 難易度統計
 
@@ -22209,7 +22311,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3525">No.3525 擬奇平方数</a> (yukicoder contest 498 リアクティブコンテスト (2026-05-01) - H問題、diffデータなし)
 
 　
-<h2 id="期待値漸化式">537. 期待値漸化式</h2>
+<h2 id="期待値漸化式">539. 期待値漸化式</h2>
 
 ### 難易度統計
 
@@ -22249,7 +22351,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2579">No.2579 Dice Sum Infinity (制約変更版)</a> (Advent Calendar Contest 2023 (2023-12-01) - G問題、diff <font color="red">3196</font>)
 
 　
-<h2 id="商の反復による付値計算">538. 商の反復による付値計算</h2>
+<h2 id="商の反復による付値計算">540. 商の反復による付値計算</h2>
 
 ### 難易度統計
 
@@ -22294,7 +22396,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2193">No.2193 メガの下１桁</a> (yukicoder contest 373 (2023-01-13) - J問題、diff <font color="orange">2749</font>)
 
 　
-<h2 id="総和計算の期待値への帰着">539. <a href="https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#総和計算の期待値への帰着">総和計算の期待値への帰着</a></h2>
+<h2 id="総和計算の期待値への帰着">541. <a href="https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#総和計算の期待値への帰着">総和計算の期待値への帰着</a></h2>
 
 ### 難易度統計
 
@@ -22324,7 +22426,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3366">No.3366 Reversible Tile:Revival</a> (yukicoder contest 作問ハッカソンコンテスト 003 Day2 (2025-11-17) - E問題、diff <font color="orange">2604</font>)
 
 　
-<h2 id="積和の和積化">540. 積和の和積化</h2>
+<h2 id="積和の和積化">542. 積和の和積化</h2>
 
 ### 難易度統計
 
@@ -22363,7 +22465,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2578">No.2578 Jewelry Store</a> (Advent Calendar Contest 2023 (2023-12-01) - F問題、diff <font color="orange">2795</font>)
 
 　
-<h2 id="木DP">541. 木DP</h2>
+<h2 id="木DP">543. 木DP</h2>
 
 ### 難易度統計
 
@@ -22414,7 +22516,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3405">No.3405 Engineering University of Tree</a> (Advent Calendar Contest 2025 (2025-12-01) - L問題、diff <font color="orange">2706</font>)
 
 　
-<h2 id="$45$度回転">542. $45$度回転</h2>
+<h2 id="$45$度回転">544. $45$度回転</h2>
 
 ### 難易度統計
 
@@ -22442,7 +22544,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2859">No.2859 Falling Balls</a> (yukicoder contest 442 (2024-08-25) - J問題、diff <font color="orange">2454</font>)
 
 　
-<h2 id="再帰的構築">543. 再帰的構築</h2>
+<h2 id="再帰的構築">545. 再帰的構築</h2>
 
 ### 難易度統計
 
@@ -22477,7 +22579,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2212">No.2212 One XOR Matrix</a> (yukicoder contest 376 (2023-02-10) - E問題、diff <font color="blue">1971</font>)
 
 　
-<h2 id="タイリング・LightsOutの解の構築">544. タイリング・LightsOutの解の構築</h2>
+<h2 id="タイリング・LightsOutの解の構築">546. タイリング・LightsOutの解の構築</h2>
 
 ### 難易度統計
 
@@ -22508,7 +22610,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2837">No.2837 Flip Triomino</a> (yukicoder contest 440 (2024-08-09) - C問題、diff <font color="yellowgreen">2099</font>)
 
 　
-<h2 id="B進法位取り記法と法Bベクトルの対応">545. B進法位取り記法と法Bベクトルの対応</h2>
+<h2 id="B進法位取り記法と法Bベクトルの対応">547. B進法位取り記法と法Bベクトルの対応</h2>
 
 ### 難易度統計
 
@@ -22542,7 +22644,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2589">No.2589 Prepare Integers</a> (Advent Calendar Contest 2023 (2023-12-01) - Q問題、diff <font color="darkgoldenrod ">3503</font>)
 
 　
-<h2 id="グラフ・状態の圧縮による次元削減">546. グラフ・状態の圧縮による次元削減</h2>
+<h2 id="グラフ・状態の圧縮による次元削減">548. グラフ・状態の圧縮による次元削減</h2>
 
 ### 難易度統計
 
@@ -22570,7 +22672,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3121">No.3121 Prime Dance</a> (CPCTF 2025 : PPC (2025-04-18) - O問題、diff <font color="orange">2436</font>)
 
 　
-<h2 id="木の頂点の重さ計算">547. 木の頂点の重さ計算</h2>
+<h2 id="木の頂点の重さ計算">549. 木の頂点の重さ計算</h2>
 
 ### 難易度統計
 
@@ -22601,7 +22703,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2115">No.2115 Making Forest Easy</a> (yukicoder contest 366 (2022-10-28) - G問題、diff <font color="red">2833</font>)
 
 　
-<h2 id="冪乗数である約数列挙">548. 冪乗数である約数列挙</h2>
+<h2 id="冪乗数である約数列挙">550. 冪乗数である約数列挙</h2>
 
 ### 難易度統計
 
@@ -22622,7 +22724,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2902">No.2902 ZERO!!</a> (yukicoder contest 448 (2024-09-27) - A問題、diff <font color="deepskyblue">1406</font>)
 
 　
-<h2 id="多角形の凸性判定">549. 多角形の凸性判定</h2>
+<h2 id="多角形の凸性判定">551. 多角形の凸性判定</h2>
 
 ### 難易度統計
 
@@ -22643,7 +22745,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3154">No.3154 convex polygon judge</a> (Math Cafe 1 (2025-05-20) - F問題、diff <font color="deepskyblue">1542</font>)
 
 　
-<h2 id="区間多項式加算更新">550. 区間多項式加算更新</h2>
+<h2 id="区間多項式加算更新">552. 区間多項式加算更新</h2>
 
 ### 難易度統計
 
@@ -22664,7 +22766,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2395">No.2395 区間二次変換一点取得</a> (yukicoder contest 399 (2023-07-28) - D問題、diff <font color="blue">1627</font>)
 
 　
-<h2 id="区間更新と一点取得をクエリ二乗で処理">551. 区間更新と一点取得をクエリ二乗で処理</h2>
+<h2 id="区間更新と一点取得をクエリ二乗で処理">553. 区間更新と一点取得をクエリ二乗で処理</h2>
 
 ### 難易度統計
 
@@ -22685,7 +22787,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3492">No.3492 区間冪乗加算一点取得</a> (yukicoder contest 496 (2026-04-03) - E問題、diff <font color="blue">1636</font>)
 
 　
-<h2 id="区間冪乗加算更新">552. 区間冪乗加算更新</h2>
+<h2 id="区間冪乗加算更新">554. 区間冪乗加算更新</h2>
 
 ### 難易度統計
 
@@ -22706,7 +22808,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3492">No.3492 区間冪乗加算一点取得</a> (yukicoder contest 496 (2026-04-03) - E問題、diff <font color="blue">1636</font>)
 
 　
-<h2 id="オイラー線">553. オイラー線</h2>
+<h2 id="オイラー線">555. オイラー線</h2>
 
 ### 難易度統計
 
@@ -22727,7 +22829,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3181">No.3181 find H</a> (yukicoder contest 470 (2025-06-13) - E問題、diff <font color="blue">1667</font>)
 
 　
-<h2 id="ハミルトン路構築">554. ハミルトン路構築</h2>
+<h2 id="ハミルトン路構築">556. ハミルトン路構築</h2>
 
 ### 難易度統計
 
@@ -22752,7 +22854,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2085">No.2085 Directed Complete Graph</a> (単発出題、diffデータなし)
 
 　
-<h2 id="上限・下限付き加法を累積和に帰着">555. 上限・下限付き加法を累積和に帰着</h2>
+<h2 id="上限・下限付き加法を累積和に帰着">557. 上限・下限付き加法を累積和に帰着</h2>
 
 ### 難易度統計
 
@@ -22773,7 +22875,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3266">No.3266 岩井星人は見ずにはいられない</a> (第2回 岩井星人アンソロジープログラミングコンテスト Div.2 (2025-09-06) - H問題、diff <font color="blue">1690</font>)
 
 　
-<h2 id="商の剰余計算を大きい法に帰着">556. 商の剰余計算を大きい法に帰着</h2>
+<h2 id="商の剰余計算を大きい法に帰着">558. 商の剰余計算を大きい法に帰着</h2>
 
 ### 難易度統計
 
@@ -22802,7 +22904,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2993">No.2993 冪乗乗 mod 冪乗</a> (Advent Calendar Contest 2024 (2024-12-01) - Q問題、diffデータなし)
 
 　
-<h2 id="LowLink">557. LowLink</h2>
+<h2 id="LowLink">559. LowLink</h2>
 
 ### 難易度統計
 
@@ -22823,7 +22925,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3463">No.3463 Beltway</a> (MMA Contest 021 (2026-02-28) - K問題、diff <font color="blue">1722</font>)
 
 　
-<h2 id="無向グラフの橋計算">558. 無向グラフの橋計算</h2>
+<h2 id="無向グラフの橋計算">560. 無向グラフの橋計算</h2>
 
 ### 難易度統計
 
@@ -22844,7 +22946,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3463">No.3463 Beltway</a> (MMA Contest 021 (2026-02-28) - K問題、diff <font color="blue">1722</font>)
 
 　
-<h2 id="最大流計算">559. 最大流計算</h2>
+<h2 id="最大流計算">561. 最大流計算</h2>
 
 ### 難易度統計
 
@@ -22873,7 +22975,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3201">No.3201 Corporate Synergy</a> (yukicoder contest 473 第1回 生成AI作問コンテスト (2025-07-11) - G問題、diff <font color="blue">1855</font>)
 
 　
-<h2 id="楕円の面積計算">560. 楕円の面積計算</h2>
+<h2 id="楕円の面積計算">562. 楕円の面積計算</h2>
 
 ### 難易度統計
 
@@ -22894,7 +22996,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3168">No.3168 [Cherry 7th Tune D] Manhole</a> (yukicoder contest 468 Desire for Approval ~Ash blown by the draft leads to the door to a new beginning~ (2025-05-30) - F問題、diff <font color="blue">1738</font>)
 
 　
-<h2 id="ナップサック割り当ての構築">561. ナップサック割り当ての構築</h2>
+<h2 id="ナップサック割り当ての構築">563. ナップサック割り当ての構築</h2>
 
 ### 難易度統計
 
@@ -22915,7 +23017,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3329">No.3329 Only the Rightest Choice is Right!!!</a> (第2回 岩井星人アンソロジープログラミングコンテスト Extra (2025-11-01) - G問題、diff <font color="blue">1760</font>)
 
 　
-<h2 id="積分による確率・期待値計算">562. 積分による確率・期待値計算</h2>
+<h2 id="積分による確率・期待値計算">564. 積分による確率・期待値計算</h2>
 
 ### 難易度統計
 
@@ -22936,7 +23038,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3551">No.3551 Regions by Random Points 2</a> (yukicoder contest 500 (2026-05-22) - E問題、diff <font color="blue">1768</font>)
 
 　
-<h2 id="最大非自明約数計算">563. 最大非自明約数計算</h2>
+<h2 id="最大非自明約数計算">565. 最大非自明約数計算</h2>
 
 ### 難易度統計
 
@@ -22957,7 +23059,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3101">No.3101 Range Eratosthenes Query</a> (yukicoder contest 464 (2025-04-11) - C問題、diff <font color="blue">1777</font>)
 
 　
-<h2 id="ミラーラビン法">564. ミラーラビン法</h2>
+<h2 id="ミラーラビン法">566. ミラーラビン法</h2>
 
 ### 難易度統計
 
@@ -22978,7 +23080,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3485">No.3485 Find 495-like Number</a> (yukicoder contest 495 (2026-03-27) - E問題、diff <font color="blue">1801</font>)
 
 　
-<h2 id="区間篩">565. 区間篩</h2>
+<h2 id="区間篩">567. 区間篩</h2>
 
 ### 難易度統計
 
@@ -22999,7 +23101,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3485">No.3485 Find 495-like Number</a> (yukicoder contest 495 (2026-03-27) - E問題、diff <font color="blue">1801</font>)
 
 　
-<h2 id="交代和">566. 交代和</h2>
+<h2 id="交代和">568. 交代和</h2>
 
 ### 難易度統計
 
@@ -23024,7 +23126,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2144">No.2144 MM</a> (yukicoder contest 370 (2022-12-02) - E問題、diff <font color="orange">2500</font>)
 
 　
-<h2 id="凸関数の高々２対１性">567. 凸関数の高々２対１性</h2>
+<h2 id="凸関数の高々２対１性">569. 凸関数の高々２対１性</h2>
 
 ### 難易度統計
 
@@ -23045,7 +23147,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2903">No.2903 A Round-the-World Trip with the Tent</a> (yukicoder contest 448 (2024-09-27) - B問題、diff <font color="blue">1900</font>)
 
 　
-<h2 id="最小元の個数計算を最小値とその個数計算に帰着">568. 最小元の個数計算を最小値とその個数計算に帰着</h2>
+<h2 id="最小元の個数計算を最小値とその個数計算に帰着">570. 最小元の個数計算を最小値とその個数計算に帰着</h2>
 
 ### 難易度統計
 
@@ -23066,7 +23168,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3094">No.3094 Stapler</a> (QUPC2024 (2025-04-06) - D問題、diff <font color="blue">1904</font>)
 
 　
-<h2 id="フロー">569. フロー</h2>
+<h2 id="フロー">571. フロー</h2>
 
 ### 難易度統計
 
@@ -23099,7 +23201,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3201">No.3201 Corporate Synergy</a> (yukicoder contest 473 第1回 生成AI作問コンテスト (2025-07-11) - G問題、diff <font color="blue">1855</font>)
 
 　
-<h2 id="素因数分解によるLCM計算">570. 素因数分解によるLCM計算</h2>
+<h2 id="素因数分解によるLCM計算">572. 素因数分解によるLCM計算</h2>
 
 ### 難易度統計
 
@@ -23124,7 +23226,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3250">No.3250 最小公倍数</a> (yukicoder contest 480 (Gemini Tester) (2025-08-29) - C問題、diff <font color="yellowgreen">2253</font>)
 
 　
-<h2 id="区間一次式max・min更新">571. 区間一次式max・min更新</h2>
+<h2 id="区間一次式max・min更新">573. 区間一次式max・min更新</h2>
 
 ### 難易度統計
 
@@ -23147,7 +23249,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3116">No.3116 More and more teleporter</a> (CPCTF 2025 : PPC (2025-04-18) - J問題、diff <font color="blue">1745</font>)
 
 　
-<h2 id="2元集合族の選択関数の像の要素数最大化">572. 2元集合族の選択関数の像の要素数最大化</h2>
+<h2 id="2元集合族の選択関数の像の要素数最大化">574. 2元集合族の選択関数の像の要素数最大化</h2>
 
 ### 難易度統計
 
@@ -23168,7 +23270,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3024">No.3024 全単射的</a> (yukicoder contest 456 オムニバス (2025-02-14) - F問題、diff <font color="blue">1932</font>)
 
 　
-<h2 id="凸包計算">573. 凸包計算</h2>
+<h2 id="凸包計算">575. 凸包計算</h2>
 
 ### 難易度統計
 
@@ -23190,7 +23292,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3438">No.3438 [Cherry 8th Tune D] 競プロは向いてない</a> (yukicoder contest 491 Go on Back!! (2026-01-23) - F問題、diff <font color="yellowgreen">2343</font>)
 
 　
-<h2 id="merge-sort tree">574. merge-sort tree</h2>
+<h2 id="merge-sort tree">576. merge-sort tree</h2>
 
 ### 難易度統計
 
@@ -23211,7 +23313,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3078">No.3078 Difference Sum Query</a> (yukicoder contest 462 (2025-03-28) - E問題、diff <font color="blue">1942</font>)
 
 　
-<h2 id="冪単作用を前計算しベクトルのシフトに翻訳">575. 冪単作用を前計算しベクトルのシフトに翻訳</h2>
+<h2 id="冪単作用を前計算しベクトルのシフトに翻訳">577. 冪単作用を前計算しベクトルのシフトに翻訳</h2>
 
 ### 難易度統計
 
@@ -23232,7 +23334,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3507">No.3507 RangeSum RangeUpdate RangeSqrt</a> (CPCTF 2026: PPC (2026-04-17) - K問題、diff <font color="blue">1947</font>)
 
 　
-<h2 id="正弦定理">576. 正弦定理</h2>
+<h2 id="正弦定理">578. 正弦定理</h2>
 
 ### 難易度統計
 
@@ -23253,7 +23355,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2555">No.2555 Intriguing Triangle</a> (Advent Calendar Contest 2023 (2023-12-01) - A問題、diff <font color="blue">1961</font>)
 
 　
-<h2 id="トポロジカルソート">577. トポロジカルソート</h2>
+<h2 id="トポロジカルソート">579. トポロジカルソート</h2>
 
 ### 難易度統計
 
@@ -23291,7 +23393,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2160">No.2160 みたりのDominator</a> (Advent Calendar Contest 2022 (2022-12-01) - K問題、diff <font color="darkgoldenrod ">3382</font>)
 
 　
-<h2 id="グランディ数・NP配置計算">578. グランディ数・NP配置計算</h2>
+<h2 id="グランディ数・NP配置計算">580. グランディ数・NP配置計算</h2>
 
 ### 難易度統計
 
@@ -23326,7 +23428,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2398">No.2398 ヒドラ崩し</a> (yukicoder contest 399 (2023-07-28) - G問題、diff <font color="red">3178</font>)
 
 　
-<h2 id="ポテンシャルの最大値を経路長に持つグラフの構築">579. ポテンシャルの最大値を経路長に持つグラフの構築</h2>
+<h2 id="ポテンシャルの最大値を経路長に持つグラフの構築">581. ポテンシャルの最大値を経路長に持つグラフの構築</h2>
 
 ### 難易度統計
 
@@ -23347,7 +23449,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3506">No.3506 All Distance is Square Number</a> (CPCTF 2026: PPC (2026-04-17) - J問題、diff <font color="blue">1986</font>)
 
 　
-<h2 id="奇数の累積和と平方数の関係">580. 奇数の累積和と平方数の関係</h2>
+<h2 id="奇数の累積和と平方数の関係">582. 奇数の累積和と平方数の関係</h2>
 
 ### 難易度統計
 
@@ -23368,7 +23470,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3506">No.3506 All Distance is Square Number</a> (CPCTF 2026: PPC (2026-04-17) - J問題、diff <font color="blue">1986</font>)
 
 　
-<h2 id="経路復元">581. 経路復元</h2>
+<h2 id="経路復元">583. 経路復元</h2>
 
 ### 難易度統計
 
@@ -23397,7 +23499,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2411">No.2411 Reverse Directions</a> (yukicoder contest 401 (2023-08-11) - E問題、diff <font color="yellowgreen">2068</font>)
 
 　
-<h2 id="矩形和取得">582. 矩形和取得</h2>
+<h2 id="矩形和取得">584. 矩形和取得</h2>
 
 ### 難易度統計
 
@@ -23418,7 +23520,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2456">No.2456 Stamp Art</a> (yukicoder contest 403 (2023-09-01) - G問題、diff <font color="blue">1998</font>)
 
 　
-<h2 id="二次元累積和">583. 二次元累積和</h2>
+<h2 id="二次元累積和">585. 二次元累積和</h2>
 
 ### 難易度統計
 
@@ -23439,7 +23541,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2456">No.2456 Stamp Art</a> (yukicoder contest 403 (2023-09-01) - G問題、diff <font color="blue">1998</font>)
 
 　
-<h2 id="三分探索">584. 三分探索</h2>
+<h2 id="三分探索">586. 三分探索</h2>
 
 ### 難易度統計
 
@@ -23464,7 +23566,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2495">No.2495 Three Sets</a> (yukicoder contest 407 (2023-10-06) - D問題、diff <font color="orange">2421</font>)
 
 　
-<h2 id="平方根のfloorの種類数による計算量評価">585. 平方根のfloorの種類数による計算量評価</h2>
+<h2 id="平方根のfloorの種類数による計算量評価">587. 平方根のfloorの種類数による計算量評価</h2>
 
 ### 難易度統計
 
@@ -23485,7 +23587,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3102">No.3102 floor sqrt xor</a> (yukicoder contest 464 (2025-04-11) - D問題、diff <font color="yellowgreen">2002</font>)
 
 　
-<h2 id="平方根のfloorの値で纏め上げ">586. 平方根のfloorの値で纏め上げ</h2>
+<h2 id="平方根のfloorの値で纏め上げ">588. 平方根のfloorの値で纏め上げ</h2>
 
 ### 難易度統計
 
@@ -23506,7 +23608,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3102">No.3102 floor sqrt xor</a> (yukicoder contest 464 (2025-04-11) - D問題、diff <font color="yellowgreen">2002</font>)
 
 　
-<h2 id="焼きなまし法">587. 焼きなまし法</h2>
+<h2 id="焼きなまし法">589. 焼きなまし法</h2>
 
 ### 難易度統計
 
@@ -23527,7 +23629,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2652">No.2652 [Cherry 6th Tune N] Δρονε χιρχλινγ</a> (yukicoder contest 418 (Re: start!) (2024-02-23) - F問題、diff <font color="yellowgreen">2004</font>)
 
 　
-<h2 id="フィボナッチ数列">588. フィボナッチ数列</h2>
+<h2 id="フィボナッチ数列">590. フィボナッチ数列</h2>
 
 ### 難易度統計
 
@@ -23549,7 +23651,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3228">No.3228 Very Large Fibonacci Sum</a> (yukicoder contest 477 線形代数コンテスト (2025-08-08) - E問題、diff <font color="deepskyblue">1539</font>)
 
 　
-<h2 id="フィボナッチ数列の累積和計算">589. フィボナッチ数列の累積和計算</h2>
+<h2 id="フィボナッチ数列の累積和計算">591. フィボナッチ数列の累積和計算</h2>
 
 ### 難易度統計
 
@@ -23571,7 +23673,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3228">No.3228 Very Large Fibonacci Sum</a> (yukicoder contest 477 線形代数コンテスト (2025-08-08) - E問題、diff <font color="deepskyblue">1539</font>)
 
 　
-<h2 id="三角形分割">590. 三角形分割</h2>
+<h2 id="三角形分割">592. 三角形分割</h2>
 
 ### 難易度統計
 
@@ -23596,7 +23698,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3032">No.3032 ホモトピー入門</a> (yukicoder contest 457 (2025-02-21) - F問題、diff <font color="yellowgreen">2257</font>)
 
 　
-<h2 id="素因数分解によるオイラー関数計算">591. 素因数分解によるオイラー関数計算</h2>
+<h2 id="素因数分解によるオイラー関数計算">593. 素因数分解によるオイラー関数計算</h2>
 
 ### 難易度統計
 
@@ -23617,7 +23719,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2829">No.2829 GCD Divination</a> (yukicoder contest 439 (2024-08-02) - C問題、diff <font color="yellowgreen">2025</font>)
 
 　
-<h2 id="累積和・グリッド上のDPを経路数え上げに翻訳">592. 累積和・グリッド上のDPを経路数え上げに翻訳</h2>
+<h2 id="累積和・グリッド上のDPを経路数え上げに翻訳">594. 累積和・グリッド上のDPを経路数え上げに翻訳</h2>
 
 ### 難易度統計
 
@@ -23640,7 +23742,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2966">No.2966 Simple Plus Minus Problem</a> (yukicoder contest 453 (2024-11-16) - G問題、diff <font color="yellowgreen">2130</font>)
 
 　
-<h2 id="平方数の積への分解を用いた平方数判定">593. 平方数の積への分解を用いた平方数判定</h2>
+<h2 id="平方数の積への分解を用いた平方数判定">595. 平方数の積への分解を用いた平方数判定</h2>
 
 ### 難易度統計
 
@@ -23661,7 +23763,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2074">No.2074 Product is Square ?</a> (yukicoder contest 360 (2022-09-16) - E問題、diff <font color="yellowgreen">2047</font>)
 
 　
-<h2 id="最小費用流計算">594. 最小費用流計算</h2>
+<h2 id="最小費用流計算">596. 最小費用流計算</h2>
 
 ### 難易度統計
 
@@ -23682,7 +23784,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2604">No.2604 Initial Motion</a> (yukicoder contest 414 (2024-01-12) - F問題、diff <font color="yellowgreen">2048</font>)
 
 　
-<h2 id="多次元価値ナップサック最適化">595. 多次元価値ナップサック最適化</h2>
+<h2 id="多次元価値ナップサック最適化">597. 多次元価値ナップサック最適化</h2>
 
 ### 難易度統計
 
@@ -23703,7 +23805,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3550">No.3550 Another Rurumaru Function Problem</a> (yukicoder contest 500 (2026-05-22) - D問題、diff <font color="yellowgreen">2053</font>)
 
 　
-<h2 id="レベル祖先計算">596. レベル祖先計算</h2>
+<h2 id="レベル祖先計算">598. レベル祖先計算</h2>
 
 ### 難易度統計
 
@@ -23724,7 +23826,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2337">No.2337 Equidistant</a> (yukicoder contest 391 (2023-06-02) - D問題、diff <font color="yellowgreen">2056</font>)
 
 　
-<h2 id="弾性衝突を通過に翻訳して位置関係から復元">597. 弾性衝突を通過に翻訳して位置関係から復元</h2>
+<h2 id="弾性衝突を通過に翻訳して位置関係から復元">599. 弾性衝突を通過に翻訳して位置関係から復元</h2>
 
 ### 難易度統計
 
@@ -23745,7 +23847,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2482">No.2482 Sandglasses</a> (yukicoder contest 405 技術室奥プログラミングコンテスト#7 Day1 (2023-09-22) - D問題、diff <font color="yellowgreen">2056</font>)
 
 　
-<h2 id="円の弦による非交差分割計算">598. 円の弦による非交差分割計算</h2>
+<h2 id="円の弦による非交差分割計算">600. 円の弦による非交差分割計算</h2>
 
 ### 難易度統計
 
@@ -23766,7 +23868,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3137">No.3137 Non-Intersect Chord Triangle Game</a> (yukicoder contest 466 オムニバスコンテスト (2025-05-02) - F問題、diff <font color="yellowgreen">2066</font>)
 
 　
-<h2 id="四角形を三角形２つや対角線２本に翻訳">599. 四角形を三角形２つや対角線２本に翻訳</h2>
+<h2 id="四角形を三角形２つや対角線２本に翻訳">601. 四角形を三角形２つや対角線２本に翻訳</h2>
 
 ### 難易度統計
 
@@ -23788,7 +23890,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2769">No.2769 Number of Rhombi</a> (yukicoder contest 431 (2024-05-31) - E問題、diff <font color="yellowgreen">2003</font>)
 
 　
-<h2 id="描画可能性を実際に描画して判定">600. 描画可能性を実際に描画して判定</h2>
+<h2 id="描画可能性を実際に描画して判定">602. 描画可能性を実際に描画して判定</h2>
 
 ### 難易度統計
 
@@ -23810,7 +23912,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2641">No.2641 draw X</a> (traP 作問ハッカソンコンテスト 002(day2) (2024-02-19) - E問題、diff <font color="yellowgreen">2158</font>)
 
 　
-<h2 id="並列二分探索">601. 並列二分探索</h2>
+<h2 id="並列二分探索">603. 並列二分探索</h2>
 
 ### 難易度統計
 
@@ -23839,7 +23941,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3314">No.3314 Library Rearrangement</a> (yukicoder contest 486 オムニバス (2025-10-24) - G問題、diff <font color="orange">2506</font>)
 
 　
-<h2 id="分割数計算">602. 分割数計算</h2>
+<h2 id="分割数計算">604. 分割数計算</h2>
 
 ### 難易度統計
 
@@ -23861,7 +23963,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2944">No.2944 Sigma Partition Problem</a> (yukicoder contest 450 (2024-10-18) - H問題、diff <font color="yellowgreen">2081</font>)
 
 　
-<h2 id="二分木に翻訳">603. 二分木に翻訳</h2>
+<h2 id="二分木に翻訳">605. 二分木に翻訳</h2>
 
 ### 難易度統計
 
@@ -23883,7 +23985,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2977">No.2977 Kth Xor Pair</a> (Advent Calendar Contest 2024 (2024-12-01) - A問題、diff <font color="blue">1928</font>)
 
 　
-<h2 id="調和数列による計算量評価">604. 調和数列による計算量評価</h2>
+<h2 id="調和数列による計算量評価">606. 調和数列による計算量評価</h2>
 
 ### 難易度統計
 
@@ -23938,7 +24040,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2062">No.2062 Sum of Subset mod 999630629</a> (yukicoder contest 358 (2022-08-26) - G問題、diff <font color="orange">2553</font>)
 
 　
-<h2 id="重心計算">605. 重心計算</h2>
+<h2 id="重心計算">607. 重心計算</h2>
 
 ### 難易度統計
 
@@ -23959,7 +24061,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3042">No.3042 拡大コピー</a> (yukicoder contest 458 (2025-02-28) - H問題、diff <font color="yellowgreen">2113</font>)
 
 　
-<h2 id="木の彩色コスト最小化">606. 木の彩色コスト最小化</h2>
+<h2 id="木の彩色コスト最小化">608. 木の彩色コスト最小化</h2>
 
 ### 難易度統計
 
@@ -23980,7 +24082,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3514">No.3514 Majority Driven Tree</a> (yukicoder contest 497 聖光学院プログラミングコンテスト2026 day1 (2026-04-24) - D問題、diff <font color="yellowgreen">2115</font>)
 
 　
-<h2 id="オイラーの定理">607. オイラーの定理</h2>
+<h2 id="オイラーの定理">609. オイラーの定理</h2>
 
 ### 難易度統計
 
@@ -24010,7 +24112,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2193">No.2193 メガの下１桁</a> (yukicoder contest 373 (2023-01-13) - J問題、diff <font color="orange">2749</font>)
 
 　
-<h2 id="合成数を法とする二項係数計算">608. 合成数を法とする二項係数計算</h2>
+<h2 id="合成数を法とする二項係数計算">610. 合成数を法とする二項係数計算</h2>
 
 ### 難易度統計
 
@@ -24039,7 +24141,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2120">No.2120 場合の数の下８桁</a> (yukicoder contest 367 (2022-11-04) - D問題、diff <font color="blue">1940</font>)
 
 　
-<h2 id="オイラーグラフ判定">609. オイラーグラフ判定</h2>
+<h2 id="オイラーグラフ判定">611. オイラーグラフ判定</h2>
 
 ### 難易度統計
 
@@ -24060,39 +24162,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2403">No.2403 "Eight" Bridges of Konigsberg</a> (yukicoder contest 400 (2023-08-04) - E問題、diff <font color="yellowgreen">2123</font>)
 
 　
-<h2 id="操作回数を反復で調整">610. 操作回数を反復で調整</h2>
-
-### 難易度統計
-
-「操作回数を反復で調整」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
-- 全体: ★3／diff <font color="yellowgreen">2124</font>
-- 2026年: ★3／diff <font color="yellowgreen">2334</font>
-- 2025年: ★3／diff <font color="yellowgreen">2309</font>
-- 2024年: ★データなし／diffデータなし
-- 2023年: ★3／diff <font color="blue">1923</font>
-- 2022年: ★データなし／diffデータなし
-
-### レベル別問題一覧
-
-「操作回数を反復で調整」を主たる解法に含む問題のレベルごとの一覧です。
-
-##### ★★☆
-
-- <a href="https://yukicoder.me/problems/no/2382">No.2382 Amidakuji M</a> (yukicoder contest 397(群論コンテスト) (2023-07-14) - D問題、diff <font color="deepskyblue">1550</font>)
-
-##### ★★★
-
-- <a href="https://yukicoder.me/problems/no/2278">No.2278 Time Bomb Game 2</a> (yukicoder contest 385 (2023-04-21) - D問題、diff <font color="yellowgreen">2153</font>)
-- <a href="https://yukicoder.me/problems/no/3291">No.3291 K-step Navigation</a> (yukicoder contest 485 (2025-10-03) - F問題、diff <font color="yellowgreen">2309</font>)
-- <a href="https://yukicoder.me/problems/no/3508">No.3508 OR Mapping</a> (CPCTF 2026: PPC (2026-04-17) - L問題、diff <font color="yellowgreen">2065</font>)
-- <a href="https://yukicoder.me/problems/no/3517">No.3517 Snake Kunekune Graph</a> (yukicoder contest 497 聖光学院プログラミングコンテスト2026 day1 (2026-04-24) - G問題、diff <font color="orange">2604</font>)
-
-##### ★★★☆
-
-- <a href="https://yukicoder.me/problems/no/2411">No.2411 Reverse Directions</a> (yukicoder contest 401 (2023-08-11) - E問題、diff <font color="yellowgreen">2068</font>)
-
-　
-<h2 id="分割方法数え上げ">611. 分割方法数え上げ</h2>
+<h2 id="分割方法数え上げ">612. 分割方法数え上げ</h2>
 
 ### 難易度統計
 
@@ -24114,7 +24184,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2846">No.2846 Birthday Cake</a> (yukicoder contest 441 (2024-08-23) - E問題、diff <font color="yellowgreen">2116</font>)
 
 　
-<h2 id="双対セグメント木">612. 双対セグメント木</h2>
+<h2 id="双対セグメント木">613. 双対セグメント木</h2>
 
 ### 難易度統計
 
@@ -24150,7 +24220,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2162">No.2162 Copy and Paste 2</a> (Advent Calendar Contest 2022 (2022-12-01) - M問題、diff <font color="red">2903</font>)
 
 　
-<h2 id="枝刈り">613. 枝刈り</h2>
+<h2 id="枝刈り">614. 枝刈り</h2>
 
 ### 難易度統計
 
@@ -24180,7 +24250,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2909">No.2909 Imaginary Summer</a> (単発出題、diffデータなし)
 
 　
-<h2 id="高階累積和">614. 高階累積和</h2>
+<h2 id="高階累積和">615. 高階累積和</h2>
 
 ### 難易度統計
 
@@ -24202,7 +24272,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2966">No.2966 Simple Plus Minus Problem</a> (yukicoder contest 453 (2024-11-16) - G問題、diff <font color="yellowgreen">2130</font>)
 
 　
-<h2 id="カタランの三角形計算">615. カタランの三角形計算</h2>
+<h2 id="カタランの三角形計算">616. カタランの三角形計算</h2>
 
 ### 難易度統計
 
@@ -24223,7 +24293,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2754">No.2754 Cumulate and Drop</a> (yukicoder contest 429 (2024-05-10) - F問題、diff <font color="yellowgreen">2141</font>)
 
 　
-<h2 id="長さ・回数の総和計算や数え上げクエリを1の多重総和計算や1の範囲加算に翻訳">616. 長さ・回数の総和計算や数え上げクエリを1の多重総和計算や1の範囲加算に翻訳</h2>
+<h2 id="長さ・回数の総和計算や数え上げクエリを1の多重総和計算や1の範囲加算に翻訳">617. 長さ・回数の総和計算や数え上げクエリを1の多重総和計算や1の範囲加算に翻訳</h2>
 
 ### 難易度統計
 
@@ -24256,7 +24326,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3405">No.3405 Engineering University of Tree</a> (Advent Calendar Contest 2025 (2025-12-01) - L問題、diff <font color="orange">2706</font>)
 
 　
-<h2 id="最近共通祖先計算">617. 最近共通祖先計算</h2>
+<h2 id="最近共通祖先計算">618. 最近共通祖先計算</h2>
 
 ### 難易度統計
 
@@ -24279,7 +24349,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3442">No.3442 Good Vertex Connectivity</a> (yukicoder contest 492 (2026-02-06) - C問題、diffデータなし)
 
 　
-<h2 id="sorted multiset">618. sorted multiset</h2>
+<h2 id="sorted multiset">619. sorted multiset</h2>
 
 ### 難易度統計
 
@@ -24300,7 +24370,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3147">No.3147 Parentheses Modification and Rotation (RM Ver.)	</a> (yukicoder contest 467 (2025-05-16) - H問題、diff <font color="yellowgreen">2154</font>)
 
 　
-<h2 id="ナップサック割り当て数え上げ">619. ナップサック割り当て数え上げ</h2>
+<h2 id="ナップサック割り当て数え上げ">620. ナップサック割り当て数え上げ</h2>
 
 ### 難易度統計
 
@@ -24343,7 +24413,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2062">No.2062 Sum of Subset mod 999630629</a> (yukicoder contest 358 (2022-08-26) - G問題、diff <font color="orange">2553</font>)
 
 　
-<h2 id="max・min・絶対値のソートによる一次式への翻訳">620. max・min・絶対値のソートによる一次式への翻訳</h2>
+<h2 id="max・min・絶対値のソートによる一次式への翻訳">621. max・min・絶対値のソートによる一次式への翻訳</h2>
 
 ### 難易度統計
 
@@ -24364,7 +24434,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2718">No.2718 Best Consonance</a> (yukicoder contest 426 (2024-04-05) - E問題、diff <font color="yellowgreen">2161</font>)
 
 　
-<h2 id="文字の置換反復を文字数の累積和に帰着">621. 文字の置換反復を文字数の累積和に帰着</h2>
+<h2 id="文字の置換反復を文字数の累積和に帰着">622. 文字の置換反復を文字数の累積和に帰着</h2>
 
 ### 難易度統計
 
@@ -24386,7 +24456,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3317">No.3317 ワロングアンサーロングアンサーンスワロンガー</a> (第2回 岩井星人アンソロジープログラミングコンテスト Div.1 (2025-10-31) - B問題、diff <font color="yellowgreen">2133</font>)
 
 　
-<h2 id="三項間漸化式の求解">622. 三項間漸化式の求解</h2>
+<h2 id="三項間漸化式の求解">623. 三項間漸化式の求解</h2>
 
 ### 難易度統計
 
@@ -24411,7 +24481,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2122">No.2122 黄金比で擬似乱数生成</a> (yukicoder contest 367 (2022-11-04) - F問題、diff <font color="orange">2556</font>)
 
 　
-<h2 id="ダブリング">623. ダブリング</h2>
+<h2 id="ダブリング">624. ダブリング</h2>
 
 ### 難易度統計
 
@@ -24436,7 +24506,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3305">No.3305 Shift Sort</a> (yukicoder contest MMA Contest 020 (2025-10-05) - L問題、diff <font color="yellowgreen">2324</font>)
 
 　
-<h2 id="三角形の細分で与えられる平面グラフの構成復元">624. 三角形の細分で与えられる平面グラフの構成復元</h2>
+<h2 id="三角形の細分で与えられる平面グラフの構成復元">625. 三角形の細分で与えられる平面グラフの構成復元</h2>
 
 ### 難易度統計
 
@@ -24457,7 +24527,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3552">No.3552 Triangular Coloring</a> (yukicoder contest 500 (2026-05-22) - F問題、diff <font color="yellowgreen">2178</font>)
 
 　
-<h2 id="モノイド演算に関する区間更新">625. モノイド演算に関する区間更新</h2>
+<h2 id="モノイド演算に関する区間更新">626. モノイド演算に関する区間更新</h2>
 
 ### 難易度統計
 
@@ -24480,7 +24550,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2933">No.2933 Range ROT Query</a> (yukicoder contest 第3回緑以下コンテスト エキストラ (2024-10-12) - C問題、diffデータなし)
 
 　
-<h2 id="区間乗算更新">626. 区間乗算更新</h2>
+<h2 id="区間乗算更新">627. 区間乗算更新</h2>
 
 ### 難易度統計
 
@@ -24503,7 +24573,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2933">No.2933 Range ROT Query</a> (yukicoder contest 第3回緑以下コンテスト エキストラ (2024-10-12) - C問題、diffデータなし)
 
 　
-<h2 id="コーシー・フロベニウスの補題">627. コーシー・フロベニウスの補題</h2>
+<h2 id="コーシー・フロベニウスの補題">628. コーシー・フロベニウスの補題</h2>
 
 ### 難易度統計
 
@@ -24524,7 +24594,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2383">No.2383 Naphthol</a> (yukicoder contest 397(群論コンテスト) (2023-07-14) - E問題、diff <font color="yellowgreen">2183</font>)
 
 　
-<h2 id="二面体群の構造に注目">628. 二面体群の構造に注目</h2>
+<h2 id="二面体群の構造に注目">629. 二面体群の構造に注目</h2>
 
 ### 難易度統計
 
@@ -24545,7 +24615,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2383">No.2383 Naphthol</a> (yukicoder contest 397(群論コンテスト) (2023-07-14) - E問題、diff <font color="yellowgreen">2183</font>)
 
 　
-<h2 id="操作回数を奇閉路で調整">629. 操作回数を奇閉路で調整</h2>
+<h2 id="操作回数を奇閉路で調整">630. 操作回数を奇閉路で調整</h2>
 
 ### 難易度統計
 
@@ -24567,7 +24637,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3508">No.3508 OR Mapping</a> (CPCTF 2026: PPC (2026-04-17) - L問題、diff <font color="yellowgreen">2065</font>)
 
 　
-<h2 id="矩形加算更新">630. 矩形加算更新</h2>
+<h2 id="矩形加算更新">631. 矩形加算更新</h2>
 
 ### 難易度統計
 
@@ -24590,7 +24660,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3334">No.3334 I hate Image Convolution</a> (yukicoder contest 487 (2025-11-07) - A問題、diff <font color="yellowgreen">2280</font>)
 
 　
-<h2 id="二次元imos法">631. 二次元imos法</h2>
+<h2 id="二次元imos法">632. 二次元imos法</h2>
 
 ### 難易度統計
 
@@ -24613,7 +24683,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3334">No.3334 I hate Image Convolution</a> (yukicoder contest 487 (2025-11-07) - A問題、diff <font color="yellowgreen">2280</font>)
 
 　
-<h2 id="非単射関数の値で纏め上げ">632. 非単射関数の値で纏め上げ</h2>
+<h2 id="非単射関数の値で纏め上げ">633. 非単射関数の値で纏め上げ</h2>
 
 ### 難易度統計
 
@@ -24649,7 +24719,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2979">No.2979 直角三角形の個数</a> (Advent Calendar Contest 2024 (2024-12-01) - C問題、diff <font color="red">2885</font>)
 
 　
-<h2 id="最適遷移を自己写像に翻訳">633. 最適遷移を自己写像に翻訳</h2>
+<h2 id="最適遷移を自己写像に翻訳">634. 最適遷移を自己写像に翻訳</h2>
 
 ### 難易度統計
 
@@ -24672,7 +24742,40 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3305">No.3305 Shift Sort</a> (yukicoder contest MMA Contest 020 (2025-10-05) - L問題、diff <font color="yellowgreen">2324</font>)
 
 　
-<h2 id="互いに素に帰着">634. 互いに素に帰着</h2>
+<h2 id="操作回数を反復で調整">635. 操作回数を反復で調整</h2>
+
+### 難易度統計
+
+「操作回数を反復で調整」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
+- 全体: ★3／diff <font color="yellowgreen">2197</font>
+- 2026年: ★3／diff <font color="orange">2434</font>
+- 2025年: ★3／diff <font color="yellowgreen">2309</font>
+- 2024年: ★データなし／diffデータなし
+- 2023年: ★3／diff <font color="blue">1923</font>
+- 2022年: ★データなし／diffデータなし
+
+### レベル別問題一覧
+
+「操作回数を反復で調整」を主たる解法に含む問題のレベルごとの一覧です。
+
+##### ★★☆
+
+- <a href="https://yukicoder.me/problems/no/2382">No.2382 Amidakuji M</a> (yukicoder contest 397(群論コンテスト) (2023-07-14) - D問題、diff <font color="deepskyblue">1550</font>)
+
+##### ★★★
+
+- <a href="https://yukicoder.me/problems/no/2278">No.2278 Time Bomb Game 2</a> (yukicoder contest 385 (2023-04-21) - D問題、diff <font color="yellowgreen">2153</font>)
+- <a href="https://yukicoder.me/problems/no/3291">No.3291 K-step Navigation</a> (yukicoder contest 485 (2025-10-03) - F問題、diff <font color="yellowgreen">2309</font>)
+- <a href="https://yukicoder.me/problems/no/3508">No.3508 OR Mapping</a> (CPCTF 2026: PPC (2026-04-17) - L問題、diff <font color="yellowgreen">2065</font>)
+- <a href="https://yukicoder.me/problems/no/3517">No.3517 Snake Kunekune Graph</a> (yukicoder contest 497 聖光学院プログラミングコンテスト2026 day1 (2026-04-24) - G問題、diff <font color="orange">2604</font>)
+- <a href="https://yukicoder.me/problems/no/3564">No.3564 Awkward Timing</a> (KCPC新歓杯2026 (2026-05-29) - J問題、diff <font color="orange">2635</font>)
+
+##### ★★★☆
+
+- <a href="https://yukicoder.me/problems/no/2411">No.2411 Reverse Directions</a> (yukicoder contest 401 (2023-08-11) - E問題、diff <font color="yellowgreen">2068</font>)
+
+　
+<h2 id="互いに素に帰着">636. 互いに素に帰着</h2>
 
 ### 難易度統計
 
@@ -24702,7 +24805,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2066">No.2066 Simple Math !</a> (yukicoder contest 359 (2022-09-02) - D問題、diff <font color="orange">2648</font>)
 
 　
-<h2 id="ユークリッドの互除法による逆元計算">635. ユークリッドの互除法による逆元計算</h2>
+<h2 id="ユークリッドの互除法による逆元計算">637. ユークリッドの互除法による逆元計算</h2>
 
 ### 難易度統計
 
@@ -24725,7 +24828,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3529">No.3529 2p Teleportations</a> (yukicoder contest 聖光学院プログラミングコンテスト2026 day2 (2026-05-04) - D問題、diff <font color="yellowgreen">2285</font>)
 
 　
-<h2 id="商のfloorの分子を止める総和計算">636. 商のfloorの分子を止める総和計算</h2>
+<h2 id="商のfloorの分子を止める総和計算">638. 商のfloorの分子を止める総和計算</h2>
 
 ### 難易度統計
 
@@ -24755,7 +24858,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2979">No.2979 直角三角形の個数</a> (Advent Calendar Contest 2024 (2024-12-01) - C問題、diff <font color="red">2885</font>)
 
 　
-<h2 id="minimax法">637. minimax法</h2>
+<h2 id="minimax法">639. minimax法</h2>
 
 ### 難易度統計
 
@@ -24780,7 +24883,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2727">No.2727 Tetrahedron Game</a> (yukicoder contest 427 (ゲーム問題コンテスト) (2024-04-12) - G問題、diff <font color="orange">2421</font>)
 
 　
-<h2 id="関数のグラフ形状の変化イベント走査による差分計算">638. 関数のグラフ形状の変化イベント走査による差分計算</h2>
+<h2 id="関数のグラフ形状の変化イベント走査による差分計算">640. 関数のグラフ形状の変化イベント走査による差分計算</h2>
 
 ### 難易度統計
 
@@ -24802,7 +24905,28 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3292">No.3292 World Map Distance</a> (yukicoder contest 485 (2025-10-03) - G問題、diff <font color="yellowgreen">2170</font>)
 
 　
-<h2 id="複数底の位取り記法表示">639. 複数底の位取り記法表示</h2>
+<h2 id="グラフの分割を塗り分けに帰着">641. グラフの分割を塗り分けに帰着</h2>
+
+### 難易度統計
+
+「グラフの分割を塗り分けに帰着」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
+- 全体: ★3／diff <font color="yellowgreen">2211</font>
+- 2026年: ★3／diff <font color="yellowgreen">2211</font>
+- 2025年: ★データなし／diffデータなし
+- 2024年: ★データなし／diffデータなし
+- 2023年: ★データなし／diffデータなし
+- 2022年: ★データなし／diffデータなし
+
+### レベル別問題一覧
+
+「グラフの分割を塗り分けに帰着」を主たる解法に含む問題のレベルごとの一覧です。
+
+##### ★★★
+
+- <a href="https://yukicoder.me/problems/no/3563">No.3563 No T-Junctions in Kyoto</a> (KCPC新歓杯2026 (2026-05-29) - I問題、diff <font color="yellowgreen">2211</font>)
+
+　
+<h2 id="複数底の位取り記法表示">642. 複数底の位取り記法表示</h2>
 
 ### 難易度統計
 
@@ -24840,7 +24964,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2396">No.2396 等差二項展開</a> (yukicoder contest 399 (2023-07-28) - E問題、diff <font color="orange">2719</font>)
 
 　
-<h2 id="商のfloorの値ごとに纏め上げ">640. 商のfloorの値ごとに纏め上げ</h2>
+<h2 id="商のfloorの値ごとに纏め上げ">643. 商のfloorの値ごとに纏め上げ</h2>
 
 ### 難易度統計
 
@@ -24876,7 +25000,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2979">No.2979 直角三角形の個数</a> (Advent Calendar Contest 2024 (2024-12-01) - C問題、diff <font color="red">2885</font>)
 
 　
-<h2 id="フビニの定理">641. フビニの定理</h2>
+<h2 id="フビニの定理">644. フビニの定理</h2>
 
 ### 難易度統計
 
@@ -24901,7 +25025,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2582">No.2582 Random Average^K</a> (Advent Calendar Contest 2023 (2023-12-01) - J問題、diff <font color="orange">2401</font>)
 
 　
-<h2 id="ニム和">642. ニム和</h2>
+<h2 id="ニム和">645. ニム和</h2>
 
 ### 難易度統計
 
@@ -24942,7 +25066,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2398">No.2398 ヒドラ崩し</a> (yukicoder contest 399 (2023-07-28) - G問題、diff <font color="red">3178</font>)
 
 　
-<h2 id="重複選択可ナップサック割り当て数え上げ">643. 重複選択可ナップサック割り当て数え上げ</h2>
+<h2 id="重複選択可ナップサック割り当て数え上げ">646. 重複選択可ナップサック割り当て数え上げ</h2>
 
 ### 難易度統計
 
@@ -24965,7 +25089,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2846">No.2846 Birthday Cake</a> (yukicoder contest 441 (2024-08-23) - E問題、diff <font color="yellowgreen">2116</font>)
 
 　
-<h2 id="自己写像に翻訳">644. 自己写像に翻訳</h2>
+<h2 id="自己写像に翻訳">647. 自己写像に翻訳</h2>
 
 ### 難易度統計
 
@@ -25001,7 +25125,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3524">No.3524 二進範囲更新範囲和取得</a> (yukicoder contest 498 リアクティブコンテスト (2026-05-01) - G問題、diffデータなし)
 
 　
-<h2 id="鳩の巣原理">645. 鳩の巣原理</h2>
+<h2 id="鳩の巣原理">648. 鳩の巣原理</h2>
 
 ### 難易度統計
 
@@ -25042,7 +25166,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2998">No.2998 Rainbow Christmas Tree</a> (Advent Calendar Contest 2024 (2024-12-01) - V問題、diff <font color="darkgoldenrod ">3309</font>)
 
 　
-<h2 id="カタラン数の畳み込み計算">646. カタラン数の畳み込み計算</h2>
+<h2 id="カタラン数の畳み込み計算">649. カタラン数の畳み込み計算</h2>
 
 ### 難易度統計
 
@@ -25063,7 +25187,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3146">No.3146 RE: Parentheses Counting</a> (yukicoder contest 467 (2025-05-16) - G問題、diff <font color="yellowgreen">2236</font>)
 
 　
-<h2 id="二項係数の総和計算">647. 二項係数の総和計算</h2>
+<h2 id="二項係数の総和計算">650. 二項係数の総和計算</h2>
 
 ### 難易度統計
 
@@ -25084,7 +25208,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3146">No.3146 RE: Parentheses Counting</a> (yukicoder contest 467 (2025-05-16) - G問題、diff <font color="yellowgreen">2236</font>)
 
 　
-<h2 id="累積XOR">648. 累積XOR</h2>
+<h2 id="累積XOR">651. 累積XOR</h2>
 
 ### 難易度統計
 
@@ -25105,7 +25229,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3117">No.3117 Reversible Tile</a> (CPCTF 2025 : PPC (2025-04-18) - K問題、diff <font color="yellowgreen">2236</font>)
 
 　
-<h2 id="事象の確率を保つ全射">649. 事象の確率を保つ全射</h2>
+<h2 id="事象の確率を保つ全射">652. 事象の確率を保つ全射</h2>
 
 ### 難易度統計
 
@@ -25127,7 +25251,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2980">No.2980 Planar Tree 2</a> (Advent Calendar Contest 2024 (2024-12-01) - D問題、diff <font color="yellowgreen">2241</font>)
 
 　
-<h2 id="コスト変化をコスト上限変化に翻訳">650. コスト変化をコスト上限変化に翻訳</h2>
+<h2 id="コスト変化をコスト上限変化に翻訳">653. コスト変化をコスト上限変化に翻訳</h2>
 
 ### 難易度統計
 
@@ -25148,7 +25272,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3077">No.3077 Goodstuff Deck Builder(Hard)</a> (yukicoder contest 462 (2025-03-28) - D問題、diff <font color="yellowgreen">2246</font>)
 
 　
-<h2 id="木の最短経路長の総和計算">651. 木の最短経路長の総和計算</h2>
+<h2 id="木の最短経路長の総和計算">654. 木の最短経路長の総和計算</h2>
 
 ### 難易度統計
 
@@ -25177,7 +25301,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2129">No.2129 Perfect Binary Tree...?</a> (yukicoder contest 368 (2022-11-18) - F問題、diff <font color="red">2892</font>)
 
 　
-<h2 id="最終手番の任意性">652. <a href="https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#最終手番の任意性">最終手番の任意性</a></h2>
+<h2 id="最終手番の任意性">655. <a href="https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#最終手番の任意性">最終手番の任意性</a></h2>
 
 ### 難易度統計
 
@@ -25200,7 +25324,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2814">No.2814 Block Game</a> (yukicoder contest 437 ('09 Contest 002 day2)  (2024-07-19) - D問題、diff <font color="orange">2676</font>)
 
 　
-<h2 id="投票可能性判定を各候補者の得票数上限と総和の条件に帰着">653. 投票可能性判定を各候補者の得票数上限と総和の条件に帰着</h2>
+<h2 id="投票可能性判定を各候補者の得票数上限と総和の条件に帰着">656. 投票可能性判定を各候補者の得票数上限と総和の条件に帰着</h2>
 
 ### 難易度統計
 
@@ -25221,7 +25345,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3538">No.3538 Not First Place</a> (yukicoder 499 contest (2026-05-08) - F問題、diff <font color="yellowgreen">2255</font>)
 
 　
-<h2 id="右手・左手系判定">654. 右手・左手系判定</h2>
+<h2 id="右手・左手系判定">657. 右手・左手系判定</h2>
 
 ### 難易度統計
 
@@ -25244,7 +25368,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3438">No.3438 [Cherry 8th Tune D] 競プロは向いてない</a> (yukicoder contest 491 Go on Back!! (2026-01-23) - F問題、diff <font color="yellowgreen">2343</font>)
 
 　
-<h2 id="区間max・min更新">655. 区間max・min更新</h2>
+<h2 id="区間max・min更新">658. 区間max・min更新</h2>
 
 ### 難易度統計
 
@@ -25282,7 +25406,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2162">No.2162 Copy and Paste 2</a> (Advent Calendar Contest 2022 (2022-12-01) - M問題、diff <font color="red">2903</font>)
 
 　
-<h2 id="法B係数１変数一次方程式の求解">656. 法B係数１変数一次方程式の求解</h2>
+<h2 id="法B係数１変数一次方程式の求解">659. 法B係数１変数一次方程式の求解</h2>
 
 ### 難易度統計
 
@@ -25303,7 +25427,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3516">No.3516 Very Large Range Mod</a> (yukicoder contest 497 聖光学院プログラミングコンテスト2026 day1 (2026-04-24) - F問題、diff <font color="yellowgreen">2264</font>)
 
 　
-<h2 id="DPのデータ構造高速化">657. DPのデータ構造高速化</h2>
+<h2 id="DPのデータ構造高速化">660. DPのデータ構造高速化</h2>
 
 ### 難易度統計
 
@@ -25354,7 +25478,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2162">No.2162 Copy and Paste 2</a> (Advent Calendar Contest 2022 (2022-12-01) - M問題、diff <font color="red">2903</font>)
 
 　
-<h2 id="相加相乗平均による計算量評価">658. 相加相乗平均による計算量評価</h2>
+<h2 id="相加相乗平均による計算量評価">661. 相加相乗平均による計算量評価</h2>
 
 ### 難易度統計
 
@@ -25402,7 +25526,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3524">No.3524 二進範囲更新範囲和取得</a> (yukicoder contest 498 リアクティブコンテスト (2026-05-01) - G問題、diffデータなし)
 
 　
-<h2 id="群論を用いた冪根の構築">659. 群論を用いた冪根の構築</h2>
+<h2 id="群論を用いた冪根の構築">662. 群論を用いた冪根の構築</h2>
 
 ### 難易度統計
 
@@ -25423,7 +25547,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3529">No.3529 2p Teleportations</a> (yukicoder contest 聖光学院プログラミングコンテスト2026 day2 (2026-05-04) - D問題、diff <font color="yellowgreen">2285</font>)
 
 　
-<h2 id="写像の冪根の構築">660. 写像の冪根の構築</h2>
+<h2 id="写像の冪根の構築">663. 写像の冪根の構築</h2>
 
 ### 難易度統計
 
@@ -25444,7 +25568,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3529">No.3529 2p Teleportations</a> (yukicoder contest 聖光学院プログラミングコンテスト2026 day2 (2026-05-04) - D問題、diff <font color="yellowgreen">2285</font>)
 
 　
-<h2 id="巡回置換の位数の種類数を用いた計算量評価">661. 巡回置換の位数の種類数を用いた計算量評価</h2>
+<h2 id="巡回置換の位数の種類数を用いた計算量評価">664. 巡回置換の位数の種類数を用いた計算量評価</h2>
 
 ### 難易度統計
 
@@ -25465,7 +25589,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3529">No.3529 2p Teleportations</a> (yukicoder contest 聖光学院プログラミングコンテスト2026 day2 (2026-05-04) - D問題、diff <font color="yellowgreen">2285</font>)
 
 　
-<h2 id="配列の構築">662. 配列の構築</h2>
+<h2 id="配列の構築">665. 配列の構築</h2>
 
 ### 難易度統計
 
@@ -25486,7 +25610,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3529">No.3529 2p Teleportations</a> (yukicoder contest 聖光学院プログラミングコンテスト2026 day2 (2026-05-04) - D問題、diff <font color="yellowgreen">2285</font>)
 
 　
-<h2 id="ローリングハッシュ">663. ローリングハッシュ</h2>
+<h2 id="ローリングハッシュ">666. ローリングハッシュ</h2>
 
 ### 難易度統計
 
@@ -25528,7 +25652,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2162">No.2162 Copy and Paste 2</a> (Advent Calendar Contest 2022 (2022-12-01) - M問題、diff <font color="red">2903</font>)
 
 　
-<h2 id="多次元コストナップサック割り当て数え上げ">664. 多次元コストナップサック割り当て数え上げ</h2>
+<h2 id="多次元コストナップサック割り当て数え上げ">667. 多次元コストナップサック割り当て数え上げ</h2>
 
 ### 難易度統計
 
@@ -25549,7 +25673,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2788">No.2788 4-33 Hard</a> (yukicoder contest 433 (2024-06-14) - H問題、diff <font color="yellowgreen">2297</font>)
 
 　
-<h2 id="複素共役による絶対値計算">665. 複素共役による絶対値計算</h2>
+<h2 id="複素共役による絶対値計算">668. 複素共役による絶対値計算</h2>
 
 ### 難易度統計
 
@@ -25570,7 +25694,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2651">No.2651 [Cherry 6th Tune B] $\mathbb{C}$omplex комбинат</a> (yukicoder contest 418 (Re: start!) (2024-02-23) - E問題、diff <font color="yellowgreen">2301</font>)
 
 　
-<h2 id="タイリング・LightsOut可能性判定を領域の細分による不変量計算に帰着">666. タイリング・LightsOut可能性判定を領域の細分による不変量計算に帰着</h2>
+<h2 id="タイリング・LightsOut可能性判定を領域の細分による不変量計算に帰着">669. タイリング・LightsOut可能性判定を領域の細分による不変量計算に帰着</h2>
 
 ### 難易度統計
 
@@ -25599,7 +25723,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2837">No.2837 Flip Triomino</a> (yukicoder contest 440 (2024-08-09) - C問題、diff <font color="yellowgreen">2099</font>)
 
 　
-<h2 id="二項定理">667. 二項定理</h2>
+<h2 id="二項定理">670. 二項定理</h2>
 
 ### 難易度統計
 
@@ -25645,7 +25769,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2996">No.2996 Floor Sum</a> (Advent Calendar Contest 2024 (2024-12-01) - T問題、diff <font color="darkgoldenrod ">3309</font>)
 
 　
-<h2 id="同値関係">668. 同値関係</h2>
+<h2 id="同値関係">671. 同値関係</h2>
 
 ### 難易度統計
 
@@ -25685,7 +25809,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2160">No.2160 みたりのDominator</a> (Advent Calendar Contest 2022 (2022-12-01) - K問題、diff <font color="darkgoldenrod ">3382</font>)
 
 　
-<h2 id="グリッド上の価値最大化">669. グリッド上の価値最大化</h2>
+<h2 id="グリッド上の価値最大化">672. グリッド上の価値最大化</h2>
 
 ### 難易度統計
 
@@ -25707,7 +25831,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2859">No.2859 Falling Balls</a> (yukicoder contest 442 (2024-08-25) - J問題、diff <font color="orange">2454</font>)
 
 　
-<h2 id="矩形max・min取得">670. 矩形max・min取得</h2>
+<h2 id="矩形max・min取得">673. 矩形max・min取得</h2>
 
 ### 難易度統計
 
@@ -25729,28 +25853,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2859">No.2859 Falling Balls</a> (yukicoder contest 442 (2024-08-25) - J問題、diff <font color="orange">2454</font>)
 
 　
-<h2 id="最短経路計算">671. 最短経路計算</h2>
-
-### 難易度統計
-
-「最短経路計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
-- 全体: ★3／diff <font color="yellowgreen">2318</font>
-- 2026年: ★3／diff <font color="yellowgreen">2318</font>
-- 2025年: ★データなし／diffデータなし
-- 2024年: ★データなし／diffデータなし
-- 2023年: ★データなし／diffデータなし
-- 2022年: ★データなし／diffデータなし
-
-### レベル別問題一覧
-
-「最短経路計算」を主たる解法に含む問題のレベルごとの一覧です。
-
-##### ★★★
-
-- <a href="https://yukicoder.me/problems/no/3523">No.3523 順路指定最近点</a> (yukicoder contest 498 リアクティブコンテスト (2026-05-01) - F問題、diff <font color="yellowgreen">2318</font>)
-
-　
-<h2 id="ポテンシャル付きダイクストラ法">672. ポテンシャル付きダイクストラ法</h2>
+<h2 id="ポテンシャル付きダイクストラ法">674. ポテンシャル付きダイクストラ法</h2>
 
 ### 難易度統計
 
@@ -25771,7 +25874,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2915">No.2915 辺更新価値最大化</a> (yukicoder contest 449 (2024-10-04) - F問題、diff <font color="yellowgreen">2321</font>)
 
 　
-<h2 id="加法定理">673. 加法定理</h2>
+<h2 id="加法定理">675. 加法定理</h2>
 
 ### 難易度統計
 
@@ -25797,7 +25900,30 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3404">No.3404 形式群法則</a> (Advent Calendar Contest 2025 (2025-12-01) - K問題、diff <font color="red">2813</font>)
 
 　
-<h2 id="オイラーの規準">674. オイラーの規準</h2>
+<h2 id="操作回数を閉路で調整">676. 操作回数を閉路で調整</h2>
+
+### 難易度統計
+
+「操作回数を閉路で調整」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
+- 全体: ★3／diff <font color="yellowgreen">2336</font>
+- 2026年: ★3／diff <font color="yellowgreen">2350</font>
+- 2025年: ★3／diff <font color="yellowgreen">2309</font>
+- 2024年: ★データなし／diffデータなし
+- 2023年: ★データなし／diffデータなし
+- 2022年: ★データなし／diffデータなし
+
+### レベル別問題一覧
+
+「操作回数を閉路で調整」を主たる解法に含む問題のレベルごとの一覧です。
+
+##### ★★★
+
+- <a href="https://yukicoder.me/problems/no/3291">No.3291 K-step Navigation</a> (yukicoder contest 485 (2025-10-03) - F問題、diff <font color="yellowgreen">2309</font>)
+- <a href="https://yukicoder.me/problems/no/3508">No.3508 OR Mapping</a> (CPCTF 2026: PPC (2026-04-17) - L問題、diff <font color="yellowgreen">2065</font>)
+- <a href="https://yukicoder.me/problems/no/3564">No.3564 Awkward Timing</a> (KCPC新歓杯2026 (2026-05-29) - J問題、diff <font color="orange">2635</font>)
+
+　
+<h2 id="オイラーの規準">677. オイラーの規準</h2>
 
 ### 難易度統計
 
@@ -25827,7 +25953,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2192">No.2192 平方数の下１４桁</a> (yukicoder contest 373 (2023-01-13) - I問題、diff <font color="red">3117</font>)
 
 　
-<h2 id="連続回数制約を分割の区間長制約に翻訳">675. 連続回数制約を分割の区間長制約に翻訳</h2>
+<h2 id="連続回数制約を分割の区間長制約に翻訳">678. 連続回数制約を分割の区間長制約に翻訳</h2>
 
 ### 難易度統計
 
@@ -25849,7 +25975,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2833">No.2833 Count Taiko Results</a> (yukicoder contest 439 (2024-08-02) - G問題、diff <font color="orange">2729</font>)
 
 　
-<h2 id="シュトルツ・チェザロの定理">676. シュトルツ・チェザロの定理</h2>
+<h2 id="シュトルツ・チェザロの定理">679. シュトルツ・チェザロの定理</h2>
 
 ### 難易度統計
 
@@ -25870,7 +25996,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2586">No.2586 Yet Another Sugoroku Problem</a> (Advent Calendar Contest 2023 (2023-12-01) - N問題、diff <font color="yellowgreen">2348</font>)
 
 　
-<h2 id="移動回数の期待値を距離で割った値の極限計算を平均移動速度に帰着">677. 移動回数の期待値を距離で割った値の極限計算を平均移動速度に帰着</h2>
+<h2 id="移動回数の期待値を距離で割った値の極限計算を平均移動速度に帰着">680. 移動回数の期待値を距離で割った値の極限計算を平均移動速度に帰着</h2>
 
 ### 難易度統計
 
@@ -25891,7 +26017,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2586">No.2586 Yet Another Sugoroku Problem</a> (Advent Calendar Contest 2023 (2023-12-01) - N問題、diff <font color="yellowgreen">2348</font>)
 
 　
-<h2 id="小数型の許容誤差付き二分探索・二分法">678. 小数型の許容誤差付き二分探索・二分法</h2>
+<h2 id="小数型の許容誤差付き二分探索・二分法">681. 小数型の許容誤差付き二分探索・二分法</h2>
 
 ### 難易度統計
 
@@ -25916,7 +26042,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2831">No.2831 Cos Bomb Crasher</a> (yukicoder contest 439 (2024-08-02) - E問題、diff <font color="red">3143</font>)
 
 　
-<h2 id="個数上限１複数ナップサック最適化">679. 個数上限１複数ナップサック最適化</h2>
+<h2 id="個数上限１複数ナップサック最適化">682. 個数上限１複数ナップサック最適化</h2>
 
 ### 難易度統計
 
@@ -25937,7 +26063,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2422">No.2422 regisys?</a> (MMA Contest 016 (2023-08-12) - I問題、diff <font color="yellowgreen">2353</font>)
 
 　
-<h2 id="余因子展開">680. 余因子展開</h2>
+<h2 id="余因子展開">683. 余因子展開</h2>
 
 ### 難易度統計
 
@@ -25959,7 +26085,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2445">No.2445 奇行列式</a> (yukicoder contest 402 (2023-08-25) - E問題、diff <font color="yellowgreen">2365</font>)
 
 　
-<h2 id="全方位木DP">681. 全方位木DP</h2>
+<h2 id="全方位木DP">684. 全方位木DP</h2>
 
 ### 難易度統計
 
@@ -25991,7 +26117,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3206">No.3206 う　し　た　ウ　ニ　木　あ　く　ん　笑</a> (yukicoder contest 474 (2025-07-18) - D問題、diff <font color="blue">1774</font>)
 
 　
-<h2 id="二元一次方程式と配列の合成の解の数え上げ">682. 二元一次方程式と配列の合成の解の数え上げ</h2>
+<h2 id="二元一次方程式と配列の合成の解の数え上げ">685. 二元一次方程式と配列の合成の解の数え上げ</h2>
 
 ### 難易度統計
 
@@ -26012,7 +26138,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3257">No.3257 +|+</a> (yukicoder contest  481（菁々祭プログラミングコンテスト2025） (2025-09-05) - F問題、diff <font color="yellowgreen">2364</font>)
 
 　
-<h2 id="フロベニウス数に注目">683. フロベニウス数に注目</h2>
+<h2 id="フロベニウス数に注目">686. フロベニウス数に注目</h2>
 
 ### 難易度統計
 
@@ -26041,7 +26167,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2066">No.2066 Simple Math !</a> (yukicoder contest 359 (2022-09-02) - D問題、diff <font color="orange">2648</font>)
 
 　
-<h2 id="剰余の法を止める総和計算">684. 剰余の法を止める総和計算</h2>
+<h2 id="剰余の法を止める総和計算">687. 剰余の法を止める総和計算</h2>
 
 ### 難易度統計
 
@@ -26062,7 +26188,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2127">No.2127 Mod, Sum, Sum, Mod</a> (yukicoder contest 368 (2022-11-18) - D問題、diff <font color="yellowgreen">2393</font>)
 
 　
-<h2 id="二項係数・順列の第１引数を渡る総和計算">685. 二項係数・順列の第１引数を渡る総和計算</h2>
+<h2 id="二項係数・順列の第１引数を渡る総和計算">688. 二項係数・順列の第１引数を渡る総和計算</h2>
 
 ### 難易度統計
 
@@ -26083,7 +26209,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2898">No.2898 Update Max</a> (yukicoder contest 447 オムニバス (2024-09-20) - E問題、diff <font color="yellowgreen">2397</font>)
 
 　
-<h2 id="選択回数上限付き重複選択可ナップサック割り当て数え上げ">686. 選択回数上限付き重複選択可ナップサック割り当て数え上げ</h2>
+<h2 id="選択回数上限付き重複選択可ナップサック割り当て数え上げ">689. 選択回数上限付き重複選択可ナップサック割り当て数え上げ</h2>
 
 ### 難易度統計
 
@@ -26104,7 +26230,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2378">No.2378 Cards and Subsequences</a> (yukicoder contest 396 (Asakatsu Presents 2) (2023-07-07) - H問題、diff <font color="orange">2411</font>)
 
 　
-<h2 id="部分列DP">687. 部分列DP</h2>
+<h2 id="部分列DP">690. 部分列DP</h2>
 
 ### 難易度統計
 
@@ -26125,7 +26251,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2378">No.2378 Cards and Subsequences</a> (yukicoder contest 396 (Asakatsu Presents 2) (2023-07-07) - H問題、diff <font color="orange">2411</font>)
 
 　
-<h2 id="複数価値ナップサック割り当て数え上げ">688. 複数価値ナップサック割り当て数え上げ</h2>
+<h2 id="複数価値ナップサック割り当て数え上げ">691. 複数価値ナップサック割り当て数え上げ</h2>
 
 ### 難易度統計
 
@@ -26146,7 +26272,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2378">No.2378 Cards and Subsequences</a> (yukicoder contest 396 (Asakatsu Presents 2) (2023-07-07) - H問題、diff <font color="orange">2411</font>)
 
 　
-<h2 id="全域木計算">689. 全域木計算</h2>
+<h2 id="全域木計算">692. 全域木計算</h2>
 
 ### 難易度統計
 
@@ -26181,7 +26307,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2998">No.2998 Rainbow Christmas Tree</a> (Advent Calendar Contest 2024 (2024-12-01) - V問題、diff <font color="darkgoldenrod ">3309</font>)
 
 　
-<h2 id="外接円計算">690. 外接円計算</h2>
+<h2 id="外接円計算">693. 外接円計算</h2>
 
 ### 難易度統計
 
@@ -26202,7 +26328,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2602">No.2602 Real Collider</a> (yukicoder contest 414 (2024-01-12) - D問題、diff <font color="orange">2419</font>)
 
 　
-<h2 id="有理数の比較におけるオーバーフロー回避">691. 有理数の比較におけるオーバーフロー回避</h2>
+<h2 id="有理数の比較におけるオーバーフロー回避">694. 有理数の比較におけるオーバーフロー回避</h2>
 
 ### 難易度統計
 
@@ -26223,7 +26349,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2602">No.2602 Real Collider</a> (yukicoder contest 414 (2024-01-12) - D問題、diff <font color="orange">2419</font>)
 
 　
-<h2 id="完全二部マッチング">692. 完全二部マッチング</h2>
+<h2 id="完全二部マッチング">695. 完全二部マッチング</h2>
 
 ### 難易度統計
 
@@ -26244,7 +26370,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2263">No.2263 Perms</a> (yukicoder contest 383 (2023-04-07) - E問題、diff <font color="orange">2420</font>)
 
 　
-<h2 id="可変コスト上限ナップサック最適化">693. 可変コスト上限ナップサック最適化</h2>
+<h2 id="可変コスト上限ナップサック最適化">696. 可変コスト上限ナップサック最適化</h2>
 
 ### 難易度統計
 
@@ -26266,7 +26392,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3077">No.3077 Goodstuff Deck Builder(Hard)</a> (yukicoder contest 462 (2025-03-28) - D問題、diff <font color="yellowgreen">2246</font>)
 
 　
-<h2 id="相対運動に翻訳">694. 相対運動に翻訳</h2>
+<h2 id="相対運動に翻訳">697. 相対運動に翻訳</h2>
 
 ### 難易度統計
 
@@ -26287,7 +26413,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2687">No.2687 所により大雨</a> (yukicoder contest 422 (第１回 競技プログラミング講習会作問企画コンテスト) (2024-03-20) - I問題、diff <font color="orange">2438</font>)
 
 　
-<h2 id="平方剰余の相互法則・補充法則">695. 平方剰余の相互法則・補充法則</h2>
+<h2 id="平方剰余の相互法則・補充法則">698. 平方剰余の相互法則・補充法則</h2>
 
 ### 難易度統計
 
@@ -26316,11 +26442,11 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2192">No.2192 平方数の下１４桁</a> (yukicoder contest 373 (2023-01-13) - I問題、diff <font color="red">3117</font>)
 
 　
-<h2 id="１次元データ構造の並列による２次元クエリ処理">696. １次元データ構造の並列による２次元クエリ処理</h2>
+<h2 id="一次元データ構造の並列による二次元クエリ処理">699. 一次元データ構造の並列による二次元クエリ処理</h2>
 
 ### 難易度統計
 
-「１次元データ構造の並列による２次元クエリ処理」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
+「一次元データ構造の並列による二次元クエリ処理」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3／diff <font color="orange">2449</font>
 - 2026年: ★データなし／diffデータなし
 - 2025年: ★3／diff <font color="orange">2449</font>
@@ -26330,14 +26456,14 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 ### レベル別問題一覧
 
-「１次元データ構造の並列による２次元クエリ処理」を主たる解法に含む問題のレベルごとの一覧です。
+「一次元データ構造の並列による二次元クエリ処理」を主たる解法に含む問題のレベルごとの一覧です。
 
 ##### ★★★
 
 - <a href="https://yukicoder.me/problems/no/3369">No.3369 Find MyakuMyaku</a> (yukicoder contest 作問ハッカソンコンテスト 003 Day2 (2025-11-17) - H問題、diff <font color="orange">2449</font>)
 
 　
-<h2 id="矩形max・min更新">697. 矩形max・min更新</h2>
+<h2 id="矩形max・min更新">700. 矩形max・min更新</h2>
 
 ### 難易度統計
 
@@ -26358,7 +26484,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3369">No.3369 Find MyakuMyaku</a> (yukicoder contest 作問ハッカソンコンテスト 003 Day2 (2025-11-17) - H問題、diff <font color="orange">2449</font>)
 
 　
-<h2 id="ラグランジュ補間">698. ラグランジュ補間</h2>
+<h2 id="ラグランジュ補間">701. ラグランジュ補間</h2>
 
 ### 難易度統計
 
@@ -26383,7 +26509,29 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3033">No.3033 エルハートの数え上げ</a> (yukicoder contest 457 (2025-02-21) - G問題、diff <font color="yellowgreen">2373</font>)
 
 　
-<h2 id="フィボナッチ数列法B周期計算">699. フィボナッチ数列法B周期計算</h2>
+<h2 id="最短経路計算">702. 最短経路計算</h2>
+
+### 難易度統計
+
+「最短経路計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
+- 全体: ★3／diff <font color="orange">2476</font>
+- 2026年: ★3／diff <font color="orange">2476</font>
+- 2025年: ★データなし／diffデータなし
+- 2024年: ★データなし／diffデータなし
+- 2023年: ★データなし／diffデータなし
+- 2022年: ★データなし／diffデータなし
+
+### レベル別問題一覧
+
+「最短経路計算」を主たる解法に含む問題のレベルごとの一覧です。
+
+##### ★★★
+
+- <a href="https://yukicoder.me/problems/no/3523">No.3523 順路指定最近点</a> (yukicoder contest 498 リアクティブコンテスト (2026-05-01) - F問題、diff <font color="yellowgreen">2318</font>)
+- <a href="https://yukicoder.me/problems/no/3561">No.3561 Collect KCPC</a> (KCPC新歓杯2026 (2026-05-29) - G問題、diff <font color="orange">2635</font>)
+
+　
+<h2 id="フィボナッチ数列法B周期計算">703. フィボナッチ数列法B周期計算</h2>
 
 ### 難易度統計
 
@@ -26404,7 +26552,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2989">No.2989 Fibonacci Prize</a> (Advent Calendar Contest 2024 (2024-12-01) - M問題、diff <font color="orange">2478</font>)
 
 　
-<h2 id="$1$の原始根計算">700. $1$の原始根計算</h2>
+<h2 id="$1$の原始根計算">704. $1$の原始根計算</h2>
 
 ### 難易度統計
 
@@ -26426,7 +26574,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2933">No.2933 Range ROT Query</a> (yukicoder contest 第3回緑以下コンテスト エキストラ (2024-10-12) - C問題、diffデータなし)
 
 　
-<h2 id="遺伝的記法">701. 遺伝的記法</h2>
+<h2 id="遺伝的記法">705. 遺伝的記法</h2>
 
 ### 難易度統計
 
@@ -26461,7 +26609,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2397">No.2397 ω冪</a> (yukicoder contest 399 (2023-07-28) - F問題、diff <font color="red">3178</font>)
 
 　
-<h2 id="コンプリートガチャの期待値計算">702. コンプリートガチャの期待値計算</h2>
+<h2 id="コンプリートガチャの期待値計算">706. コンプリートガチャの期待値計算</h2>
 
 ### 難易度統計
 
@@ -26482,7 +26630,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3376">No.3376 Rectangle in Circle</a> (yukicoder contest 489 (2025-11-21) - E問題、diff <font color="orange">2603</font>)
 
 　
-<h2 id="操作回数の期待値をサブゴールで分割">703. 操作回数の期待値をサブゴールで分割</h2>
+<h2 id="操作回数の期待値をサブゴールで分割">707. 操作回数の期待値をサブゴールで分割</h2>
 
 ### 難易度統計
 
@@ -26503,7 +26651,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3376">No.3376 Rectangle in Circle</a> (yukicoder contest 489 (2025-11-21) - E問題、diff <font color="orange">2603</font>)
 
 　
-<h2 id="和集合の要素数計算">704. 和集合の要素数計算</h2>
+<h2 id="和集合の要素数計算">708. 和集合の要素数計算</h2>
 
 ### 難易度統計
 
@@ -26524,7 +26672,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3517">No.3517 Snake Kunekune Graph</a> (yukicoder contest 497 聖光学院プログラミングコンテスト2026 day1 (2026-04-24) - G問題、diff <font color="orange">2604</font>)
 
 　
-<h2 id="共分散計算">705. 共分散計算</h2>
+<h2 id="共分散計算">709. 共分散計算</h2>
 
 ### 難易度統計
 
@@ -26545,7 +26693,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3366">No.3366 Reversible Tile:Revival</a> (yukicoder contest 作問ハッカソンコンテスト 003 Day2 (2025-11-17) - E問題、diff <font color="orange">2604</font>)
 
 　
-<h2 id="二乗の期待値計算">706. 二乗の期待値計算</h2>
+<h2 id="二乗の期待値計算">710. 二乗の期待値計算</h2>
 
 ### 難易度統計
 
@@ -26566,7 +26714,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3366">No.3366 Reversible Tile:Revival</a> (yukicoder contest 作問ハッカソンコンテスト 003 Day2 (2025-11-17) - E問題、diff <font color="orange">2604</font>)
 
 　
-<h2 id="分散計算">707. 分散計算</h2>
+<h2 id="分散計算">711. 分散計算</h2>
 
 ### 難易度統計
 
@@ -26587,7 +26735,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3366">No.3366 Reversible Tile:Revival</a> (yukicoder contest 作問ハッカソンコンテスト 003 Day2 (2025-11-17) - E問題、diff <font color="orange">2604</font>)
 
 　
-<h2 id="ワイルドカードの値を変数化">708. ワイルドカードの値を変数化</h2>
+<h2 id="ワイルドカードの値を変数化">712. ワイルドカードの値を変数化</h2>
 
 ### 難易度統計
 
@@ -26610,7 +26758,133 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3408">No.3408 1215 Segments</a> (Advent Calendar Contest 2025 (2025-12-01) - O問題、diff <font color="red">2872</font>)
 
 　
-<h2 id="ゾブリストハッシュ">709. ゾブリストハッシュ</h2>
+<h2 id="ケチ表現">713. ケチ表現</h2>
+
+### 難易度統計
+
+「ケチ表現」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
+- 全体: ★3／diff <font color="orange">2635</font>
+- 2026年: ★3／diff <font color="orange">2635</font>
+- 2025年: ★データなし／diffデータなし
+- 2024年: ★データなし／diffデータなし
+- 2023年: ★データなし／diffデータなし
+- 2022年: ★データなし／diffデータなし
+
+### レベル別問題一覧
+
+「ケチ表現」を主たる解法に含む問題のレベルごとの一覧です。
+
+##### ★★★
+
+- <a href="https://yukicoder.me/problems/no/3562">No.3562 Communicate Sorted Vector</a> (KCPC新歓杯2026 (2026-05-29) - H問題、diff <font color="orange">2635</font>)
+
+　
+<h2 id="コミュニケーション問題">714. コミュニケーション問題</h2>
+
+### 難易度統計
+
+「コミュニケーション問題」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
+- 全体: ★3／diff <font color="orange">2635</font>
+- 2026年: ★3／diff <font color="orange">2635</font>
+- 2025年: ★データなし／diffデータなし
+- 2024年: ★データなし／diffデータなし
+- 2023年: ★データなし／diffデータなし
+- 2022年: ★データなし／diffデータなし
+
+### レベル別問題一覧
+
+「コミュニケーション問題」を主たる解法に含む問題のレベルごとの一覧です。
+
+##### ★★★
+
+- <a href="https://yukicoder.me/problems/no/3562">No.3562 Communicate Sorted Vector</a> (KCPC新歓杯2026 (2026-05-29) - H問題、diff <font color="orange">2635</font>)
+
+　
+<h2 id="位取り記法計算">715. 位取り記法計算</h2>
+
+### 難易度統計
+
+「位取り記法計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
+- 全体: ★3／diff <font color="orange">2635</font>
+- 2026年: ★3／diff <font color="orange">2635</font>
+- 2025年: ★データなし／diffデータなし
+- 2024年: ★データなし／diffデータなし
+- 2023年: ★データなし／diffデータなし
+- 2022年: ★データなし／diffデータなし
+
+### レベル別問題一覧
+
+「位取り記法計算」を主たる解法に含む問題のレベルごとの一覧です。
+
+##### ★★★
+
+- <a href="https://yukicoder.me/problems/no/3562">No.3562 Communicate Sorted Vector</a> (KCPC新歓杯2026 (2026-05-29) - H問題、diff <font color="orange">2635</font>)
+
+　
+<h2 id="選択ごとの最短経路長並列計算">716. 選択ごとの最短経路長並列計算</h2>
+
+### 難易度統計
+
+「選択ごとの最短経路長並列計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
+- 全体: ★3／diff <font color="orange">2635</font>
+- 2026年: ★3／diff <font color="orange">2635</font>
+- 2025年: ★データなし／diffデータなし
+- 2024年: ★データなし／diffデータなし
+- 2023年: ★データなし／diffデータなし
+- 2022年: ★データなし／diffデータなし
+
+### レベル別問題一覧
+
+「選択ごとの最短経路長並列計算」を主たる解法に含む問題のレベルごとの一覧です。
+
+##### ★★★
+
+- <a href="https://yukicoder.me/problems/no/3561">No.3561 Collect KCPC</a> (KCPC新歓杯2026 (2026-05-29) - G問題、diff <font color="orange">2635</font>)
+
+　
+<h2 id="全順序集合を数え上げで非負整数に翻訳">717. 全順序集合を数え上げで非負整数に翻訳</h2>
+
+### 難易度統計
+
+「全順序集合を数え上げで非負整数に翻訳」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
+- 全体: ★3／diff <font color="orange">2635</font>
+- 2026年: ★3／diff <font color="orange">2635</font>
+- 2025年: ★データなし／diffデータなし
+- 2024年: ★データなし／diffデータなし
+- 2023年: ★データなし／diffデータなし
+- 2022年: ★データなし／diffデータなし
+
+### レベル別問題一覧
+
+「全順序集合を数え上げで非負整数に翻訳」を主たる解法に含む問題のレベルごとの一覧です。
+
+##### ★★★
+
+- <a href="https://yukicoder.me/problems/no/3562">No.3562 Communicate Sorted Vector</a> (KCPC新歓杯2026 (2026-05-29) - H問題、diff <font color="orange">2635</font>)
+
+　
+<h2 id="同色のスタンプを区別するスタンプラリー最適化">718. 同色のスタンプを区別するスタンプラリー最適化</h2>
+
+### 難易度統計
+
+「同色のスタンプを区別するスタンプラリー最適化」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
+- 全体: ★3／diff <font color="orange">2635</font>
+- 2026年: ★3／diff <font color="orange">2635</font>
+- 2025年: ★データなし／diffデータなし
+- 2024年: ★データなし／diffデータなし
+- 2023年: ★データなし／diffデータなし
+- 2022年: ★データなし／diffデータなし
+
+### レベル別問題一覧
+
+「同色のスタンプを区別するスタンプラリー最適化」を主たる解法に含む問題のレベルごとの一覧です。
+
+##### ★★★
+
+- <a href="https://yukicoder.me/problems/no/3561">No.3561 Collect KCPC</a> (KCPC新歓杯2026 (2026-05-29) - G問題、diff <font color="orange">2635</font>)
+
+　
+<h2 id="ゾブリストハッシュ">719. ゾブリストハッシュ</h2>
 
 ### 難易度統計
 
@@ -26632,7 +26906,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3410">No.3410 Happiest Art</a> (Advent Calendar Contest 2025 (2025-12-01) - Q問題、diff <font color="orange">2706</font>)
 
 　
-<h2 id="辞書順最小01部分列計算">710. 辞書順最小01部分列計算</h2>
+<h2 id="辞書順最小01部分列計算">720. 辞書順最小01部分列計算</h2>
 
 ### 難易度統計
 
@@ -26653,7 +26927,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3138">No.3138 Minimum Bracket Subsequence</a> (yukicoder contest 466 オムニバスコンテスト (2025-05-02) - G問題、diff <font color="orange">2666</font>)
 
 　
-<h2 id="有理数を分母の上限以下の各正整数倍のfloorから計算">711. 有理数を分母の上限以下の各正整数倍のfloorから計算</h2>
+<h2 id="有理数を分母の上限以下の各正整数倍のfloorから計算">721. 有理数を分母の上限以下の各正整数倍のfloorから計算</h2>
 
 ### 難易度統計
 
@@ -26674,28 +26948,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3186">No.3186 Big Order</a> (yukicoder contest 471 (2025-06-20) - D問題、diff <font color="orange">2753</font>)
 
 　
-<h2 id="１変数連立一次不等式の充足可能性判定">712. １変数連立一次不等式の充足可能性判定</h2>
-
-### 難易度統計
-
-「１変数連立一次不等式の充足可能性判定」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
-- 全体: ★3／diff <font color="orange">2765</font>
-- 2026年: ★データなし／diffデータなし
-- 2025年: ★データなし／diffデータなし
-- 2024年: ★3／diff <font color="orange">2765</font>
-- 2023年: ★データなし／diffデータなし
-- 2022年: ★データなし／diffデータなし
-
-### レベル別問題一覧
-
-「１変数連立一次不等式の充足可能性判定」を主たる解法に含む問題のレベルごとの一覧です。
-
-##### ★★★
-
-- <a href="https://yukicoder.me/problems/no/2643">No.2643 Many Range Sums Problems</a> (traP 作問ハッカソンコンテスト 002(day2) (2024-02-19) - G問題、diff <font color="orange">2765</font>)
-
-　
-<h2 id="連結部分集合列挙">713. 連結部分集合列挙</h2>
+<h2 id="連結部分集合列挙">722. 連結部分集合列挙</h2>
 
 ### 難易度統計
 
@@ -26716,7 +26969,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2983">No.2983 Christmas Color Grid (Advent Calender ver.)</a> (Advent Calendar Contest 2024 (2024-12-01) - G問題、diff <font color="orange">2799</font>)
 
 　
-<h2 id="付値と合同式による平方剰余判定">714. 付値と合同式による平方剰余判定</h2>
+<h2 id="付値と合同式による平方剰余判定">723. 付値と合同式による平方剰余判定</h2>
 
 ### 難易度統計
 
@@ -26745,7 +26998,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2192">No.2192 平方数の下１４桁</a> (yukicoder contest 373 (2023-01-13) - I問題、diff <font color="red">3117</font>)
 
 　
-<h2 id="最小被覆半径計算">715. 最小被覆半径計算</h2>
+<h2 id="最小被覆半径計算">724. 最小被覆半径計算</h2>
 
 ### 難易度統計
 
@@ -26766,7 +27019,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2612">No.2612 Close the Distance</a> (yukicoder contest 415 (2024-01-19) - F問題、diff <font color="red">2833</font>)
 
 　
-<h2 id="kth最遠点計算">716. kth最遠点計算</h2>
+<h2 id="kth最遠点計算">725. kth最遠点計算</h2>
 
 ### 難易度統計
 
@@ -26787,7 +27040,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3346">No.3346 Tree to DAG</a> (yukicoder contest 作問ハッカソンコンテスト 003 Day1 (2025-11-13) - G問題、diff <font color="red">2867</font>)
 
 　
-<h2 id="桁が疎な整数型">717. 桁が疎な整数型</h2>
+<h2 id="桁が疎な整数型">726. 桁が疎な整数型</h2>
 
 ### 難易度統計
 
@@ -26808,7 +27061,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3346">No.3346 Tree to DAG</a> (yukicoder contest 作問ハッカソンコンテスト 003 Day1 (2025-11-13) - G問題、diff <font color="red">2867</font>)
 
 　
-<h2 id="木の中心計算">718. 木の中心計算</h2>
+<h2 id="木の中心計算">727. 木の中心計算</h2>
 
 ### 難易度統計
 
@@ -26829,7 +27082,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3272">No.3272 Separate Contractions</a> (yukicoder contest 482 (2025-09-12) - F問題、diff <font color="red">2868</font>)
 
 　
-<h2 id="ワイルドカードの位置を決め打ってワイルドカードの値を特定">719. ワイルドカードの位置を決め打ってワイルドカードの値を特定</h2>
+<h2 id="ワイルドカードの位置を決め打ってワイルドカードの値を特定">728. ワイルドカードの位置を決め打ってワイルドカードの値を特定</h2>
 
 ### 難易度統計
 
@@ -26850,7 +27103,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3408">No.3408 1215 Segments</a> (Advent Calendar Contest 2025 (2025-12-01) - O問題、diff <font color="red">2872</font>)
 
 　
-<h2 id="フロベニウス準同型">720. フロベニウス準同型</h2>
+<h2 id="フロベニウス準同型">729. フロベニウス準同型</h2>
 
 ### 難易度統計
 
@@ -26871,7 +27124,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2994">No.2994 べき内積</a> (Advent Calendar Contest 2024 (2024-12-01) - R問題、diff <font color="red">2885</font>)
 
 　
-<h2 id="線分の接触判定">721. 線分の接触判定</h2>
+<h2 id="線分の接触判定">730. 線分の接触判定</h2>
 
 ### 難易度統計
 
@@ -26892,7 +27145,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3008">No.3008 ワンオペ警備員</a> (yukicoder contest 455 (2025-01-17) - G問題、diff <font color="red">2892</font>)
 
 　
-<h2 id="閉路の削除を全域木計算に帰着">722. 閉路の削除を全域木計算に帰着</h2>
+<h2 id="閉路の削除を全域木計算に帰着">731. 閉路の削除を全域木計算に帰着</h2>
 
 ### 難易度統計
 
@@ -26913,7 +27166,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3270">No.3270 No Coprime Cycles</a> (yukicoder contest 482 (2025-09-12) - D問題、diff <font color="red">2992</font>)
 
 　
-<h2 id="辺彩色を元の頂点と色の二部グラフに翻訳">723. 辺彩色を元の頂点と色の二部グラフに翻訳</h2>
+<h2 id="辺彩色を元の頂点と色の二部グラフに翻訳">732. 辺彩色を元の頂点と色の二部グラフに翻訳</h2>
 
 ### 難易度統計
 
@@ -26934,7 +27187,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3270">No.3270 No Coprime Cycles</a> (yukicoder contest 482 (2025-09-12) - D問題、diff <font color="red">2992</font>)
 
 　
-<h2 id="オイラーツアー">724. オイラーツアー</h2>
+<h2 id="オイラーツアー">733. オイラーツアー</h2>
 
 ### 難易度統計
 
@@ -26956,7 +27209,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3442">No.3442 Good Vertex Connectivity</a> (yukicoder contest 492 (2026-02-06) - C問題、diffデータなし)
 
 　
-<h2 id="sortred set">725. sortred set</h2>
+<h2 id="sortred set">734. sortred set</h2>
 
 ### 難易度統計
 
@@ -26977,7 +27230,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3348">No.3348 Tree Balance</a> (yukicoder contest 作問ハッカソンコンテスト 003 Day1 (2025-11-13) - I問題、diff <font color="darkgoldenrod ">3219</font>)
 
 　
-<h2 id="オイラーツアーによる最近共通祖先計算">726. オイラーツアーによる最近共通祖先計算</h2>
+<h2 id="オイラーツアーによる最近共通祖先計算">735. オイラーツアーによる最近共通祖先計算</h2>
 
 ### 難易度統計
 
@@ -26998,7 +27251,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3442">No.3442 Good Vertex Connectivity</a> (yukicoder contest 492 (2026-02-06) - C問題、diffデータなし)
 
 　
-<h2 id="ケイリーの公式">727. ケイリーの公式</h2>
+<h2 id="ケイリーの公式">736. ケイリーの公式</h2>
 
 ### 難易度統計
 
@@ -27019,7 +27272,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3443">No.3443 Sum of (Tree Distances)^K 1</a> (yukicoder contest 492 (2026-02-06) - D問題、diffデータなし)
 
 　
-<h2 id="木の数え上げ">728. 木の数え上げ</h2>
+<h2 id="木の数え上げ">737. 木の数え上げ</h2>
 
 ### 難易度統計
 
@@ -27040,7 +27293,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3443">No.3443 Sum of (Tree Distances)^K 1</a> (yukicoder contest 492 (2026-02-06) - D問題、diffデータなし)
 
 　
-<h2 id="木の部分集合の連結包計算">729. 木の部分集合の連結包計算</h2>
+<h2 id="木の部分集合の連結包計算">738. 木の部分集合の連結包計算</h2>
 
 ### 難易度統計
 
@@ -27061,7 +27314,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3442">No.3442 Good Vertex Connectivity</a> (yukicoder contest 492 (2026-02-06) - C問題、diffデータなし)
 
 　
-<h2 id="グラフの辺・頂点のリアクティブによる特定">730. グラフの辺・頂点のリアクティブによる特定</h2>
+<h2 id="グラフの辺・頂点のリアクティブによる特定">739. グラフの辺・頂点のリアクティブによる特定</h2>
 
 ### 難易度統計
 
@@ -27082,7 +27335,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3237">No.3237 Find the Treasure!</a> (yukicoder contest 478 オムニバス (2025-08-15) - F問題、diffデータなし)
 
 　
-<h2 id="指定言語のコーディング">731. 指定言語のコーディング</h2>
+<h2 id="指定言語のコーディング">740. 指定言語のコーディング</h2>
 
 ### 難易度統計
 
@@ -27103,7 +27356,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3278">No.3278 Avoid Division</a> (yukicoder contest  483（オムニバス） (2025-09-19) - E問題、diffデータなし)
 
 　
-<h2 id="周期性判定を長さの素因数に帰着">732. 周期性判定を長さの素因数に帰着</h2>
+<h2 id="周期性判定を長さの素因数に帰着">741. 周期性判定を長さの素因数に帰着</h2>
 
 ### 難易度統計
 
@@ -27124,7 +27377,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3001">No.3001 ヘビ文字列</a> (単発出題、diffデータなし)
 
 　
-<h2 id="集合の変化イベントを時系列順ではなく要素ごとに管理">733. 集合の変化イベントを時系列順ではなく要素ごとに管理</h2>
+<h2 id="集合の変化イベントを時系列順ではなく要素ごとに管理">742. 集合の変化イベントを時系列順ではなく要素ごとに管理</h2>
 
 ### 難易度統計
 
@@ -27145,7 +27398,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3238">No.3238 Shadow</a> (yukicoder contest 478 オムニバス (2025-08-15) - G問題、diffデータなし)
 
 　
-<h2 id="素数逆数和を用いた計算量評価">734. 素数逆数和を用いた計算量評価</h2>
+<h2 id="素数逆数和を用いた計算量評価">743. 素数逆数和を用いた計算量評価</h2>
 
 ### 難易度統計
 
@@ -27166,7 +27419,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3001">No.3001 ヘビ文字列</a> (単発出題、diffデータなし)
 
 　
-<h2 id="木の頂点の深さによる彩色">735. 木の頂点の深さによる彩色</h2>
+<h2 id="木の頂点の深さによる彩色">744. 木の頂点の深さによる彩色</h2>
 
 ### 難易度統計
 
@@ -27187,7 +27440,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3237">No.3237 Find the Treasure!</a> (yukicoder contest 478 オムニバス (2025-08-15) - F問題、diffデータなし)
 
 　
-<h2 id="$1$の原始根を用いた文字種シフトの実装">736. $1$の原始根を用いた文字種シフトの実装</h2>
+<h2 id="$1$の原始根を用いた文字種シフトの実装">745. $1$の原始根を用いた文字種シフトの実装</h2>
 
 ### 難易度統計
 
@@ -27208,7 +27461,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2933">No.2933 Range ROT Query</a> (yukicoder contest 第3回緑以下コンテスト エキストラ (2024-10-12) - C問題、diffデータなし)
 
 　
-<h2 id="部分列の二項関係をデータ構造で管理">737. 部分列の二項関係をデータ構造で管理</h2>
+<h2 id="部分列の二項関係をデータ構造で管理">746. 部分列の二項関係をデータ構造で管理</h2>
 
 ### 難易度統計
 
@@ -27229,7 +27482,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2933">No.2933 Range ROT Query</a> (yukicoder contest 第3回緑以下コンテスト エキストラ (2024-10-12) - C問題、diffデータなし)
 
 　
-<h2 id="タイリングによるミラー戦略">738. タイリングによるミラー戦略</h2>
+<h2 id="タイリングによるミラー戦略">747. タイリングによるミラー戦略</h2>
 
 ### 難易度統計
 
@@ -27250,7 +27503,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2476">No.2476 Knight Game</a> (Japan Alumni Group Summer Camp 2023 Day 2 (2023-09-17) - J問題、diffデータなし)
 
 　
-<h2 id="辺を頂点とするグラフに翻訳">739. 辺を頂点とするグラフに翻訳</h2>
+<h2 id="辺を頂点とするグラフに翻訳">748. 辺を頂点とするグラフに翻訳</h2>
 
 ### 難易度統計
 
@@ -27271,7 +27524,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2477">No.2477 Drifting</a> (Japan Alumni Group Summer Camp 2023 Day 2 (2023-09-17) - K問題、diffデータなし)
 
 　
-<h2 id="行列累乗">740. 行列累乗</h2>
+<h2 id="行列累乗">749. 行列累乗</h2>
 
 ### 難易度統計
 
@@ -27329,7 +27582,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3495">No.3495 ２変数半二項展開</a> (yukicoder contest 496 (2026-04-03) - H問題、diff <font color="orange">2610</font>)
 
 　
-<h2 id="奇閉路検出">741. 奇閉路検出</h2>
+<h2 id="奇閉路検出">750. 奇閉路検出</h2>
 
 ### 難易度統計
 
@@ -27355,7 +27608,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3426">No.3426 Mod K Graph Increments (Hard)</a> (yukicoder contest YNUCPC Contest 2 (2026-01-11) - H問題、diff <font color="yellowgreen">2054</font>)
 
 　
-<h2 id="操作・遷移をモノイド演算に翻訳">742. 操作・遷移をモノイド演算に翻訳</h2>
+<h2 id="操作・遷移をモノイド演算に翻訳">751. 操作・遷移をモノイド演算に翻訳</h2>
 
 ### 難易度統計
 
@@ -27400,7 +27653,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2995">No.2995 The Ruler Sequence Concatenation</a> (Advent Calendar Contest 2024 (2024-12-01) - S問題、diff <font color="darkgoldenrod ">3309</font>)
 
 　
-<h2 id="探索・求解アルゴリズムによる構築">743. 探索・求解アルゴリズムによる構築</h2>
+<h2 id="探索・求解アルゴリズムによる構築">752. 探索・求解アルゴリズムによる構築</h2>
 
 ### 難易度統計
 
@@ -27432,7 +27685,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2985">No.2985 May Count Induced C4 Subgraphs</a> (Advent Calendar Contest 2024 (2024-12-01) - I問題、diff <font color="red">3115</font>)
 
 　
-<h2 id="二次拡大">744. 二次拡大</h2>
+<h2 id="二次拡大">753. 二次拡大</h2>
 
 ### 難易度統計
 
@@ -27461,7 +27714,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3170">No.3170 [Cherry 7th Tune KY] Even if you could say "See you ..."</a> (yukicoder contest 468 Desire for Approval ~Ash blown by the draft leads to the door to a new beginning~ (2025-05-30) - H問題、diff <font color="orange">2620</font>)
 
 　
-<h2 id="既出を検索">745. 既出を検索</h2>
+<h2 id="既出を検索">754. 既出を検索</h2>
 
 ### 難易度統計
 
@@ -27510,7 +27763,34 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2985">No.2985 May Count Induced C4 Subgraphs</a> (Advent Calendar Contest 2024 (2024-12-01) - I問題、diff <font color="red">3115</font>)
 
 　
-<h2 id="合成数を法とする逆元計算">746. 合成数を法とする逆元計算</h2>
+<h2 id="全域木を用いたポテンシャル計算">755. 全域木を用いたポテンシャル計算</h2>
+
+### 難易度統計
+
+「全域木を用いたポテンシャル計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
+- 全体: ★3.1／diff <font color="yellowgreen">2265</font>
+- 2026年: ★3.1／diff <font color="yellowgreen">2251</font>
+- 2025年: ★3／diff <font color="yellowgreen">2309</font>
+- 2024年: ★データなし／diffデータなし
+- 2023年: ★データなし／diffデータなし
+- 2022年: ★データなし／diffデータなし
+
+### レベル別問題一覧
+
+「全域木を用いたポテンシャル計算」を主たる解法に含む問題のレベルごとの一覧です。
+
+##### ★★★
+
+- <a href="https://yukicoder.me/problems/no/3291">No.3291 K-step Navigation</a> (yukicoder contest 485 (2025-10-03) - F問題、diff <font color="yellowgreen">2309</font>)
+- <a href="https://yukicoder.me/problems/no/3508">No.3508 OR Mapping</a> (CPCTF 2026: PPC (2026-04-17) - L問題、diff <font color="yellowgreen">2065</font>)
+- <a href="https://yukicoder.me/problems/no/3564">No.3564 Awkward Timing</a> (KCPC新歓杯2026 (2026-05-29) - J問題、diff <font color="orange">2635</font>)
+
+##### ★★★☆
+
+- <a href="https://yukicoder.me/problems/no/3426">No.3426 Mod K Graph Increments (Hard)</a> (yukicoder contest YNUCPC Contest 2 (2026-01-11) - H問題、diff <font color="yellowgreen">2054</font>)
+
+　
+<h2 id="合成数を法とする逆元計算">756. 合成数を法とする逆元計算</h2>
 
 ### 難易度統計
 
@@ -27547,7 +27827,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2993">No.2993 冪乗乗 mod 冪乗</a> (Advent Calendar Contest 2024 (2024-12-01) - Q問題、diffデータなし)
 
 　
-<h2 id="ゼータ変換">747. ゼータ変換</h2>
+<h2 id="ゼータ変換">757. ゼータ変換</h2>
 
 ### 難易度統計
 
@@ -27585,7 +27865,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2578">No.2578 Jewelry Store</a> (Advent Calendar Contest 2023 (2023-12-01) - F問題、diff <font color="orange">2795</font>)
 
 　
-<h2 id="カタラン数計算">748. カタラン数計算</h2>
+<h2 id="カタラン数計算">758. カタラン数計算</h2>
 
 ### 難易度統計
 
@@ -27611,7 +27891,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2133">No.2133 Take it easy!</a> (yukicoder contest 369 (2022-11-25) - D問題、diff <font color="orange">2649</font>)
 
 　
-<h2 id="平方分割">749. 平方分割</h2>
+<h2 id="平方分割">759. 平方分割</h2>
 
 ### 難易度統計
 
@@ -27661,7 +27941,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3524">No.3524 二進範囲更新範囲和取得</a> (yukicoder contest 498 リアクティブコンテスト (2026-05-01) - G問題、diffデータなし)
 
 　
-<h2 id="バケット分割">750. バケット分割</h2>
+<h2 id="バケット分割">760. バケット分割</h2>
 
 ### 難易度統計
 
@@ -27714,7 +27994,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2166">No.2166 Paint and Fill</a> (Advent Calendar Contest 2022 (2022-12-01) - S問題、diff <font color="darkgoldenrod ">3577</font>)
 
 　
-<h2 id="内積の畳み込み計算">751. 内積の畳み込み計算</h2>
+<h2 id="内積の畳み込み計算">761. 内積の畳み込み計算</h2>
 
 ### 難易度統計
 
@@ -27741,7 +28021,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2129">No.2129 Perfect Binary Tree...?</a> (yukicoder contest 368 (2022-11-18) - F問題、diff <font color="red">2892</font>)
 
 　
-<h2 id="剰余・ハッシュによる確率的判定">752. 剰余・ハッシュによる確率的判定</h2>
+<h2 id="剰余・ハッシュによる確率的判定">762. 剰余・ハッシュによる確率的判定</h2>
 
 ### 難易度統計
 
@@ -27777,7 +28057,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2207">No.2207 pCr検査</a> (yukicoder contest 375 (2023-02-03) - G問題、diff <font color="orange">2567</font>)
 
 　
-<h2 id="選択肢の分割・纏め上げ・追加で良いケースに帰着">753. 選択肢の分割・纏め上げ・追加で良いケースに帰着</h2>
+<h2 id="選択肢の分割・纏め上げ・追加で良いケースに帰着">763. 選択肢の分割・纏め上げ・追加で良いケースに帰着</h2>
 
 ### 難易度統計
 
@@ -27814,7 +28094,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2987">No.2987 Colorful University of Tree</a> (Advent Calendar Contest 2024 (2024-12-01) - K問題、diff <font color="darkgoldenrod ">3309</font>)
 
 　
-<h2 id="convex hull trick">754. convex hull trick</h2>
+<h2 id="convex hull trick">764. convex hull trick</h2>
 
 ### 難易度統計
 
@@ -27841,7 +28121,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2495">No.2495 Three Sets</a> (yukicoder contest 407 (2023-10-06) - D問題、diff <font color="orange">2421</font>)
 
 　
-<h2 id="一次式の族の最大・最小値取得">755. 一次式の族の最大・最小値取得</h2>
+<h2 id="一次式の族の最大・最小値取得">765. 一次式の族の最大・最小値取得</h2>
 
 ### 難易度統計
 
@@ -27868,7 +28148,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2495">No.2495 Three Sets</a> (yukicoder contest 407 (2023-10-06) - D問題、diff <font color="orange">2421</font>)
 
 　
-<h2 id="最長共通接頭辞計算">756. 最長共通接頭辞計算</h2>
+<h2 id="最長共通接頭辞計算">766. 最長共通接頭辞計算</h2>
 
 ### 難易度統計
 
@@ -27897,7 +28177,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2162">No.2162 Copy and Paste 2</a> (Advent Calendar Contest 2022 (2022-12-01) - M問題、diff <font color="red">2903</font>)
 
 　
-<h2 id="slope trick">757. slope trick</h2>
+<h2 id="slope trick">767. slope trick</h2>
 
 ### 難易度統計
 
@@ -27926,7 +28206,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2974">No.2974 関数の芽</a> (yukicoder contest 454 (2024-11-29) - F問題、diff <font color="red">3030</font>)
 
 　
-<h2 id="因数分解による素因数分解・付値計算の分割統治">758. 因数分解による素因数分解・付値計算の分割統治</h2>
+<h2 id="因数分解による素因数分解・付値計算の分割統治">768. 因数分解による素因数分解・付値計算の分割統治</h2>
 
 ### 難易度統計
 
@@ -27951,7 +28231,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2993">No.2993 冪乗乗 mod 冪乗</a> (Advent Calendar Contest 2024 (2024-12-01) - Q問題、diffデータなし)
 
 　
-<h2 id="最小カット計算">759. 最小カット計算</h2>
+<h2 id="最小カット計算">769. 最小カット計算</h2>
 
 ### 難易度統計
 
@@ -27976,7 +28256,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3201">No.3201 Corporate Synergy</a> (yukicoder contest 473 第1回 生成AI作問コンテスト (2025-07-11) - G問題、diff <font color="blue">1855</font>)
 
 　
-<h2 id="最大流最小カット定理">760. 最大流最小カット定理</h2>
+<h2 id="最大流最小カット定理">770. 最大流最小カット定理</h2>
 
 ### 難易度統計
 
@@ -28001,7 +28281,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3201">No.3201 Corporate Synergy</a> (yukicoder contest 473 第1回 生成AI作問コンテスト (2025-07-11) - G問題、diff <font color="blue">1855</font>)
 
 　
-<h2 id="クエリ先読みによる連結リストの成分順前計算">761. クエリ先読みによる連結リストの成分順前計算</h2>
+<h2 id="クエリ先読みによる連結リストの成分順前計算">771. クエリ先読みによる連結リストの成分順前計算</h2>
 
 ### 難易度統計
 
@@ -28026,7 +28306,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3494">No.3494 一点挿入区間和取得</a> (yukicoder contest 496 (2026-04-03) - G問題、diff <font color="yellowgreen">2083</font>)
 
 　
-<h2 id="一点挿入更新">762. 一点挿入更新</h2>
+<h2 id="一点挿入更新">772. 一点挿入更新</h2>
 
 ### 難易度統計
 
@@ -28051,7 +28331,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3494">No.3494 一点挿入区間和取得</a> (yukicoder contest 496 (2026-04-03) - G問題、diff <font color="yellowgreen">2083</font>)
 
 　
-<h2 id="kd木">763. kd木</h2>
+<h2 id="kd木">773. kd木</h2>
 
 ### 難易度統計
 
@@ -28076,7 +28356,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2909">No.2909 Imaginary Summer</a> (単発出題、diffデータなし)
 
 　
-<h2 id="四分木">764. 四分木</h2>
+<h2 id="四分木">774. 四分木</h2>
 
 ### 難易度統計
 
@@ -28101,7 +28381,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2909">No.2909 Imaginary Summer</a> (単発出題、diffデータなし)
 
 　
-<h2 id="Moのアルゴリズム">765. Moのアルゴリズム</h2>
+<h2 id="Moのアルゴリズム">775. Moのアルゴリズム</h2>
 
 ### 難易度統計
 
@@ -28126,7 +28406,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2206">No.2206 Popcount Sum 2</a> (yukicoder contest 375 (2023-02-03) - F問題、diff <font color="yellowgreen">2381</font>)
 
 　
-<h2 id="線形代数">766. 線形代数</h2>
+<h2 id="線形代数">776. 線形代数</h2>
 
 ### 難易度統計
 
@@ -28216,7 +28496,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2589">No.2589 Prepare Integers</a> (Advent Calendar Contest 2023 (2023-12-01) - Q問題、diff <font color="darkgoldenrod ">3503</font>)
 
 　
-<h2 id="倍数メビウス変換">767. 倍数メビウス変換</h2>
+<h2 id="倍数メビウス変換">777. 倍数メビウス変換</h2>
 
 ### 難易度統計
 
@@ -28241,7 +28521,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2979">No.2979 直角三角形の個数</a> (Advent Calendar Contest 2024 (2024-12-01) - C問題、diff <font color="red">2885</font>)
 
 　
-<h2 id="最大・最小要素削除更新">768. 最大・最小要素削除更新</h2>
+<h2 id="最大・最小要素削除更新">778. 最大・最小要素削除更新</h2>
 
 ### 難易度統計
 
@@ -28266,7 +28546,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3148">No.3148 Min-Cost Destruction of Parentheses</a> (yukicoder contest 467 (2025-05-16) - I問題、diff <font color="orange">2565</font>)
 
 　
-<h2 id="法B係数連立一次方程式の解の構築">769. 法B係数連立一次方程式の解の構築</h2>
+<h2 id="法B係数連立一次方程式の解の構築">779. 法B係数連立一次方程式の解の構築</h2>
 
 ### 難易度統計
 
@@ -28296,7 +28576,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2985">No.2985 May Count Induced C4 Subgraphs</a> (Advent Calendar Contest 2024 (2024-12-01) - I問題、diff <font color="red">3115</font>)
 
 　
-<h2 id="微分計算">770. 微分計算</h2>
+<h2 id="微分計算">780. 微分計算</h2>
 
 ### 難易度統計
 
@@ -28350,7 +28630,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2583">No.2583 Differential Equation (Enhanced version)</a> (Advent Calendar Contest 2023 (2023-12-01) - K問題、diff <font color="darkgoldenrod ">3316</font>)
 
 　
-<h2 id="bitset高速化">771. bitset高速化</h2>
+<h2 id="bitset高速化">781. bitset高速化</h2>
 
 ### 難易度統計
 
@@ -28385,7 +28665,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3034">No.3034 コーエン-マコーレー抽象単体複体</a> (yukicoder contest 457 (2025-02-21) - H問題、diff <font color="red">2892</font>)
 
 　
-<h2 id="ラグランジュの定理">772. ラグランジュの定理</h2>
+<h2 id="ラグランジュの定理">782. ラグランジュの定理</h2>
 
 ### 難易度統計
 
@@ -28410,7 +28690,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2122">No.2122 黄金比で擬似乱数生成</a> (yukicoder contest 367 (2022-11-04) - F問題、diff <font color="orange">2556</font>)
 
 　
-<h2 id="桁DP">773. 桁DP</h2>
+<h2 id="桁DP">783. 桁DP</h2>
 
 ### 難易度統計
 
@@ -28456,7 +28736,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2589">No.2589 Prepare Integers</a> (Advent Calendar Contest 2023 (2023-12-01) - Q問題、diff <font color="darkgoldenrod ">3503</font>)
 
 　
-<h2 id="２配列の積・比の比較を対角成分の比・積のソートに帰着">774. ２配列の積・比の比較を対角成分の比・積のソートに帰着</h2>
+<h2 id="２配列の積・比の比較を対角成分の比・積のソートに帰着">784. ２配列の積・比の比較を対角成分の比・積のソートに帰着</h2>
 
 ### 難易度統計
 
@@ -28481,7 +28761,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3148">No.3148 Min-Cost Destruction of Parentheses</a> (yukicoder contest 467 (2025-05-16) - I問題、diff <font color="orange">2565</font>)
 
 　
-<h2 id="bit演算による$64$並列">775. bit演算による$64$並列</h2>
+<h2 id="bit演算による$64$並列">785. bit演算による$64$並列</h2>
 
 ### 難易度統計
 
@@ -28518,7 +28798,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3034">No.3034 コーエン-マコーレー抽象単体複体</a> (yukicoder contest 457 (2025-02-21) - H問題、diff <font color="red">2892</font>)
 
 　
-<h2 id="集合族による帰属関係で類別">776. 集合族による帰属関係で類別</h2>
+<h2 id="集合族による帰属関係で類別">786. 集合族による帰属関係で類別</h2>
 
 ### 難易度統計
 
@@ -28543,7 +28823,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2133">No.2133 Take it easy!</a> (yukicoder contest 369 (2022-11-25) - D問題、diff <font color="orange">2649</font>)
 
 　
-<h2 id="再帰的構造に沿った再帰">777. 再帰的構造に沿った再帰</h2>
+<h2 id="再帰的構造に沿った再帰">787. 再帰的構造に沿った再帰</h2>
 
 ### 難易度統計
 
@@ -28600,7 +28880,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2398">No.2398 ヒドラ崩し</a> (yukicoder contest 399 (2023-07-28) - G問題、diff <font color="red">3178</font>)
 
 　
-<h2 id="比の集合の対称性">778. 比の集合の対称性</h2>
+<h2 id="比の集合の対称性">788. 比の集合の対称性</h2>
 
 ### 難易度統計
 
@@ -28625,7 +28905,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2262">No.2262 Fractions</a> (yukicoder contest 383 (2023-04-07) - D問題、diff <font color="red">3018</font>)
 
 　
-<h2 id="Garnerのアルゴリズム">779. Garnerのアルゴリズム</h2>
+<h2 id="Garnerのアルゴリズム">789. Garnerのアルゴリズム</h2>
 
 ### 難易度統計
 
@@ -28658,7 +28938,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2396">No.2396 等差二項展開</a> (yukicoder contest 399 (2023-07-28) - E問題、diff <font color="orange">2719</font>)
 
 　
-<h2 id="剰余を商のfloorに翻訳">780. 剰余を商のfloorに翻訳</h2>
+<h2 id="剰余を商のfloorに翻訳">790. 剰余を商のfloorに翻訳</h2>
 
 ### 難易度統計
 
@@ -28686,7 +28966,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3398">No.3398 Accuracy of Integer Division Approximate Function 2</a> (Advent Calendar Contest 2025 (2025-12-01) - E問題、diff <font color="darkgoldenrod ">3477</font>)
 
 　
-<h2 id="区間を中間で分割してマージ">781. 区間を中間で分割してマージ</h2>
+<h2 id="区間を中間で分割してマージ">791. 区間を中間で分割してマージ</h2>
 
 ### 難易度統計
 
@@ -28722,7 +29002,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2215">No.2215 Slide Subset Sum</a> (yukicoder contest 376 (2023-02-10) - H問題、diff <font color="orange">2658</font>)
 
 　
-<h2 id="解と係数の関係">782. 解と係数の関係</h2>
+<h2 id="解と係数の関係">792. 解と係数の関係</h2>
 
 ### 難易度統計
 
@@ -28749,7 +29029,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3170">No.3170 [Cherry 7th Tune KY] Even if you could say "See you ..."</a> (yukicoder contest 468 Desire for Approval ~Ash blown by the draft leads to the door to a new beginning~ (2025-05-30) - H問題、diff <font color="orange">2620</font>)
 
 　
-<h2 id="剰余を取る前に符号や大小を計算">783. 剰余を取る前に符号や大小を計算</h2>
+<h2 id="剰余を取る前に符号や大小を計算">793. 剰余を取る前に符号や大小を計算</h2>
 
 ### 難易度統計
 
@@ -28783,7 +29063,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2448">No.2448 一次変換と面積</a> (yukicoder contest 402 (2023-08-25) - H問題、diff <font color="red">3185</font>)
 
 　
-<h2 id="第二種スターリング数計算">784. 第二種スターリング数計算</h2>
+<h2 id="第二種スターリング数計算">794. 第二種スターリング数計算</h2>
 
 ### 難易度統計
 
@@ -28808,7 +29088,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2083">No.2083 OR Subset</a> (yukicoder contest 361 (2022-09-25) - F問題、diff <font color="orange">2643</font>)
 
 　
-<h2 id="逆三角関数計算">785. 逆三角関数計算</h2>
+<h2 id="逆三角関数計算">795. 逆三角関数計算</h2>
 
 ### 難易度統計
 
@@ -28833,7 +29113,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3404">No.3404 形式群法則</a> (Advent Calendar Contest 2025 (2025-12-01) - K問題、diff <font color="red">2813</font>)
 
 　
-<h2 id="剰余の定理">786. 剰余の定理</h2>
+<h2 id="剰余の定理">796. 剰余の定理</h2>
 
 ### 難易度統計
 
@@ -28866,7 +29146,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2579">No.2579 Dice Sum Infinity (制約変更版)</a> (Advent Calendar Contest 2023 (2023-12-01) - G問題、diff <font color="red">3196</font>)
 
 　
-<h2 id="高速ゼータ変換">787. 高速ゼータ変換</h2>
+<h2 id="高速ゼータ変換">797. 高速ゼータ変換</h2>
 
 ### 難易度統計
 
@@ -28895,7 +29175,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2578">No.2578 Jewelry Store</a> (Advent Calendar Contest 2023 (2023-12-01) - F問題、diff <font color="orange">2795</font>)
 
 　
-<h2 id="約数ゼータ変換">788. 約数ゼータ変換</h2>
+<h2 id="約数ゼータ変換">798. 約数ゼータ変換</h2>
 
 ### 難易度統計
 
@@ -28925,7 +29205,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2578">No.2578 Jewelry Store</a> (Advent Calendar Contest 2023 (2023-12-01) - F問題、diff <font color="orange">2795</font>)
 
 　
-<h2 id="分枝限定法">789. 分枝限定法</h2>
+<h2 id="分枝限定法">799. 分枝限定法</h2>
 
 ### 難易度統計
 
@@ -28951,7 +29231,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2909">No.2909 Imaginary Summer</a> (単発出題、diffデータなし)
 
 　
-<h2 id="構文解析">790. 構文解析</h2>
+<h2 id="構文解析">800. 構文解析</h2>
 
 ### 難易度統計
 
@@ -28991,7 +29271,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2398">No.2398 ヒドラ崩し</a> (yukicoder contest 399 (2023-07-28) - G問題、diff <font color="red">3178</font>)
 
 　
-<h2 id="区間作用更新">791. 区間作用更新</h2>
+<h2 id="区間作用更新">801. 区間作用更新</h2>
 
 ### 難易度統計
 
@@ -29021,7 +29301,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3524">No.3524 二進範囲更新範囲和取得</a> (yukicoder contest 498 リアクティブコンテスト (2026-05-01) - G問題、diffデータなし)
 
 　
-<h2 id="任意mod畳み込み">792. 任意mod畳み込み</h2>
+<h2 id="任意mod畳み込み">802. 任意mod畳み込み</h2>
 
 ### 難易度統計
 
@@ -29047,7 +29327,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2396">No.2396 等差二項展開</a> (yukicoder contest 399 (2023-07-28) - E問題、diff <font color="orange">2719</font>)
 
 　
-<h2 id="約数包除原理">793. 約数包除原理</h2>
+<h2 id="約数包除原理">803. 約数包除原理</h2>
 
 ### 難易度統計
 
@@ -29073,7 +29353,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2979">No.2979 直角三角形の個数</a> (Advent Calendar Contest 2024 (2024-12-01) - C問題、diff <font color="red">2885</font>)
 
 　
-<h2 id="等差数列の商のfloorの総和計算">794. 等差数列の商のfloorの総和計算</h2>
+<h2 id="等差数列の商のfloorの総和計算">804. 等差数列の商のfloorの総和計算</h2>
 
 ### 難易度統計
 
@@ -29106,7 +29386,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2996">No.2996 Floor Sum</a> (Advent Calendar Contest 2024 (2024-12-01) - T問題、diff <font color="darkgoldenrod ">3309</font>)
 
 　
-<h2 id="商のfloorの分母を止める総和計算">795. 商のfloorの分母を止める総和計算</h2>
+<h2 id="商のfloorの分母を止める総和計算">805. 商のfloorの分母を止める総和計算</h2>
 
 ### 難易度統計
 
@@ -29140,7 +29420,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2996">No.2996 Floor Sum</a> (Advent Calendar Contest 2024 (2024-12-01) - T問題、diff <font color="darkgoldenrod ">3309</font>)
 
 　
-<h2 id="マージ">796. マージ</h2>
+<h2 id="マージ">806. マージ</h2>
 
 ### 難易度統計
 
@@ -29205,7 +29485,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2166">No.2166 Paint and Fill</a> (Advent Calendar Contest 2022 (2022-12-01) - S問題、diff <font color="darkgoldenrod ">3577</font>)
 
 　
-<h2 id="区間の部分列をわたる総和計算をモノイド演算に翻訳">797. 区間の部分列をわたる総和計算をモノイド演算に翻訳</h2>
+<h2 id="区間の部分列をわたる総和計算をモノイド演算に翻訳">807. 区間の部分列をわたる総和計算をモノイド演算に翻訳</h2>
 
 ### 難易度統計
 
@@ -29233,7 +29513,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3202">No.3202 Periodic Alternating Subsequence</a> (yukicoder contest 473 第1回 生成AI作問コンテスト (2025-07-11) - H問題、diff <font color="yellowgreen">2399</font>)
 
 　
-<h2 id="遅延セグメント木">798. 遅延セグメント木</h2>
+<h2 id="遅延セグメント木">808. 遅延セグメント木</h2>
 
 ### 難易度統計
 
@@ -29270,7 +29550,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2163">No.2163 LCA Sum Query</a> (Advent Calendar Contest 2022 (2022-12-01) - N問題、diff <font color="darkgoldenrod ">3382</font>)
 
 　
-<h2 id="キュー">799. キュー</h2>
+<h2 id="キュー">809. キュー</h2>
 
 ### 難易度統計
 
@@ -29296,7 +29576,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2215">No.2215 Slide Subset Sum</a> (yukicoder contest 376 (2023-02-10) - H問題、diff <font color="orange">2658</font>)
 
 　
-<h2 id="分割統治法（狭義：devide-and-conquer）">800. 分割統治法（狭義：devide-and-conquer）</h2>
+<h2 id="分割統治法（狭義：devide-and-conquer）">810. 分割統治法（狭義：devide-and-conquer）</h2>
 
 ### 難易度統計
 
@@ -29356,7 +29636,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2166">No.2166 Paint and Fill</a> (Advent Calendar Contest 2022 (2022-12-01) - S問題、diff <font color="darkgoldenrod ">3577</font>)
 
 　
-<h2 id="OR畳み込み">801. OR畳み込み</h2>
+<h2 id="OR畳み込み">811. OR畳み込み</h2>
 
 ### 難易度統計
 
@@ -29386,7 +29666,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2578">No.2578 Jewelry Store</a> (Advent Calendar Contest 2023 (2023-12-01) - F問題、diff <font color="orange">2795</font>)
 
 　
-<h2 id="合成数を法とする数値を零と素因数の冪乗と可逆元に分解">802. 合成数を法とする数値を零と素因数の冪乗と可逆元に分解</h2>
+<h2 id="合成数を法とする数値を零と素因数の冪乗と可逆元に分解">812. 合成数を法とする数値を零と素因数の冪乗と可逆元に分解</h2>
 
 ### 難易度統計
 
@@ -29426,7 +29706,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2993">No.2993 冪乗乗 mod 冪乗</a> (Advent Calendar Contest 2024 (2024-12-01) - Q問題、diffデータなし)
 
 　
-<h2 id="整礎性">803. 整礎性</h2>
+<h2 id="整礎性">813. 整礎性</h2>
 
 ### 難易度統計
 
@@ -29469,7 +29749,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2398">No.2398 ヒドラ崩し</a> (yukicoder contest 399 (2023-07-28) - G問題、diff <font color="red">3178</font>)
 
 　
-<h2 id="行列式と面積・体積の関係">804. 行列式と面積・体積の関係</h2>
+<h2 id="行列式と面積・体積の関係">814. 行列式と面積・体積の関係</h2>
 
 ### 難易度統計
 
@@ -29499,7 +29779,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2448">No.2448 一次変換と面積</a> (yukicoder contest 402 (2023-08-25) - H問題、diff <font color="red">3185</font>)
 
 　
-<h2 id="テイラー展開">805. テイラー展開</h2>
+<h2 id="テイラー展開">815. テイラー展開</h2>
 
 ### 難易度統計
 
@@ -29545,7 +29825,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2993">No.2993 冪乗乗 mod 冪乗</a> (Advent Calendar Contest 2024 (2024-12-01) - Q問題、diffデータなし)
 
 　
-<h2 id="メビウスの反転公式">806. メビウスの反転公式</h2>
+<h2 id="メビウスの反転公式">816. メビウスの反転公式</h2>
 
 ### 難易度統計
 
@@ -29577,7 +29857,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3414">No.3414 Aperiodic Sequence</a> (Advent Calendar Contest 2025 (2025-12-01) - U問題、diff <font color="orange">2658</font>)
 
 　
-<h2 id="行列式計算">807. 行列式計算</h2>
+<h2 id="行列式計算">817. 行列式計算</h2>
 
 ### 難易度統計
 
@@ -29619,898 +29899,16 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2556">No.2556 Increasing Matrix</a> (Advent Calendar Contest 2023 (2023-12-01) - B問題、diff <font color="orange">2795</font>)
 
 　
-<h2 id="外積・サラスの公式による行列式計算">808. 外積・サラスの公式による行列式計算</h2>
-
-### 難易度統計
-
-「外積・サラスの公式による行列式計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
-- 全体: ★3.4／diff <font color="orange">2629</font>
-- 2026年: ★データなし／diffデータなし
-- 2025年: ★4／diff <font color="orange">2582</font>
-- 2024年: ★3.2／diff <font color="orange">2559</font>
-- 2023年: ★3.3／diff <font color="orange">2692</font>
-- 2022年: ★データなし／diffデータなし
-
-### レベル別問題一覧
-
-「外積・サラスの公式による行列式計算」を主たる解法に含む問題のレベルごとの一覧です。
-
-##### ★★★
-
-- <a href="https://yukicoder.me/problems/no/2444">No.2444 一次変換と体積</a> (yukicoder contest 402 (2023-08-25) - D問題、diff <font color="orange">2609</font>)
-- <a href="https://yukicoder.me/problems/no/2520">No.2520 L1 Explosion</a> (yukicoder contest 410 (2023-10-27) - F問題、diff <font color="yellowgreen">2284</font>)
-- <a href="https://yukicoder.me/problems/no/2755">No.2755 行列の共役類</a> (yukicoder contest 429 (2024-05-10) - G問題、diff <font color="orange">2698</font>)
-
-##### ★★★☆
-
-- <a href="https://yukicoder.me/problems/no/2727">No.2727 Tetrahedron Game</a> (yukicoder contest 427 (ゲーム問題コンテスト) (2024-04-12) - G問題、diff <font color="orange">2421</font>)
-
-##### ★★★★
-
-- <a href="https://yukicoder.me/problems/no/2448">No.2448 一次変換と面積</a> (yukicoder contest 402 (2023-08-25) - H問題、diff <font color="red">3185</font>)
-- <a href="https://yukicoder.me/problems/no/3231">No.3231 2×2行列相似判定 ～hard～</a> (yukicoder contest 477 線形代数コンテスト (2025-08-08) - H問題、diff <font color="orange">2582</font>)
-
-　
-<h2 id="木の根の変更における頂点の高さと深さの関係">809. 木の根の変更における頂点の高さと深さの関係</h2>
-
-### 難易度統計
-
-「木の根の変更における頂点の高さと深さの関係」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
-- 全体: ★3.5／diff <font color="blue">1774</font>
-- 2026年: ★データなし／diffデータなし
-- 2025年: ★3.5／diff <font color="blue">1774</font>
-- 2024年: ★データなし／diffデータなし
-- 2023年: ★データなし／diffデータなし
-- 2022年: ★データなし／diffデータなし
-
-### レベル別問題一覧
-
-「木の根の変更における頂点の高さと深さの関係」を主たる解法に含む問題のレベルごとの一覧です。
-
-##### ★★★☆
-
-- <a href="https://yukicoder.me/problems/no/3206">No.3206 う　し　た　ウ　ニ　木　あ　く　ん　笑</a> (yukicoder contest 474 (2025-07-18) - D問題、diff <font color="blue">1774</font>)
-
-　
-<h2 id="高速メビウス変換">810. 高速メビウス変換</h2>
-
-### 難易度統計
-
-「高速メビウス変換」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
-- 全体: ★3.5／diff <font color="yellowgreen">2026</font>
-- 2026年: ★3.5／diff <font color="yellowgreen">2026</font>
-- 2025年: ★データなし／diffデータなし
-- 2024年: ★データなし／diffデータなし
-- 2023年: ★データなし／diffデータなし
-- 2022年: ★データなし／diffデータなし
-
-### レベル別問題一覧
-
-「高速メビウス変換」を主たる解法に含む問題のレベルごとの一覧です。
-
-##### ★★★☆
-
-- <a href="https://yukicoder.me/problems/no/3486">No.3486 Draw a Rainbow</a> (yukicoder contest 495 (2026-03-27) - F問題、diff <font color="yellowgreen">2026</font>)
-
-　
-<h2 id="トロピカル半環">811. トロピカル半環</h2>
-
-### 難易度統計
-
-「トロピカル半環」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
-- 全体: ★3.5／diff <font color="yellowgreen">2153</font>
-- 2026年: ★データなし／diffデータなし
-- 2025年: ★3.5／diff <font color="yellowgreen">2153</font>
-- 2024年: ★データなし／diffデータなし
-- 2023年: ★データなし／diffデータなし
-- 2022年: ★データなし／diffデータなし
-
-### レベル別問題一覧
-
-「トロピカル半環」を主たる解法に含む問題のレベルごとの一覧です。
-
-##### ★★★☆
-
-- <a href="https://yukicoder.me/problems/no/3230">No.3230 Mutual Corresponding System</a> (yukicoder contest 477 線形代数コンテスト (2025-08-08) - G問題、diff <font color="yellowgreen">2153</font>)
-
-　
-<h2 id="木の頂点の高さ計算">812. 木の頂点の高さ計算</h2>
-
-### 難易度統計
-
-「木の頂点の高さ計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
-- 全体: ★3.5／diff <font color="yellowgreen">2240</font>
-- 2026年: ★データなし／diffデータなし
-- 2025年: ★3.5／diff <font color="yellowgreen">2240</font>
-- 2024年: ★データなし／diffデータなし
-- 2023年: ★データなし／diffデータなし
-- 2022年: ★データなし／diffデータなし
-
-### レベル別問題一覧
-
-「木の頂点の高さ計算」を主たる解法に含む問題のレベルごとの一覧です。
-
-##### ★★★☆
-
-- <a href="https://yukicoder.me/problems/no/3206">No.3206 う　し　た　ウ　ニ　木　あ　く　ん　笑</a> (yukicoder contest 474 (2025-07-18) - D問題、diff <font color="blue">1774</font>)
-- <a href="https://yukicoder.me/problems/no/3405">No.3405 Engineering University of Tree</a> (Advent Calendar Contest 2025 (2025-12-01) - L問題、diff <font color="orange">2706</font>)
-
-　
-<h2 id="回転数計算">813. 回転数計算</h2>
-
-### 難易度統計
-
-「回転数計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
-- 全体: ★3.5／diff <font color="yellowgreen">2257</font>
-- 2026年: ★データなし／diffデータなし
-- 2025年: ★3.5／diff <font color="yellowgreen">2257</font>
-- 2024年: ★データなし／diffデータなし
-- 2023年: ★データなし／diffデータなし
-- 2022年: ★データなし／diffデータなし
-
-### レベル別問題一覧
-
-「回転数計算」を主たる解法に含む問題のレベルごとの一覧です。
-
-##### ★★★☆
-
-- <a href="https://yukicoder.me/problems/no/3032">No.3032 ホモトピー入門</a> (yukicoder contest 457 (2025-02-21) - F問題、diff <font color="yellowgreen">2257</font>)
-
-　
-<h2 id="勝利を押し付ける戦略">814. 勝利を押し付ける戦略</h2>
-
-### 難易度統計
-
-「勝利を押し付ける戦略」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
-- 全体: ★3.5／diff <font color="yellowgreen">2288</font>
-- 2026年: ★データなし／diffデータなし
-- 2025年: ★3.5／diff <font color="yellowgreen">2288</font>
-- 2024年: ★データなし／diffデータなし
-- 2023年: ★データなし／diffデータなし
-- 2022年: ★データなし／diffデータなし
-
-### レベル別問題一覧
-
-「勝利を押し付ける戦略」を主たる解法に含む問題のレベルごとの一覧です。
-
-##### ★★★☆
-
-- <a href="https://yukicoder.me/problems/no/3090">No.3090 NimNim</a> (yukicoder contest 463 (2025-04-04) - H問題、diff <font color="yellowgreen">2288</font>)
-
-　
-<h2 id="線グラフ">815. 線グラフ</h2>
-
-### 難易度統計
-
-「線グラフ」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
-- 全体: ★3.5／diff <font color="yellowgreen">2308</font>
-- 2026年: ★データなし／diffデータなし
-- 2025年: ★3.5／diff <font color="yellowgreen">2308</font>
-- 2024年: ★データなし／diffデータなし
-- 2023年: ★データなし／diffデータなし
-- 2022年: ★データなし／diffデータなし
-
-### レベル別問題一覧
-
-「線グラフ」を主たる解法に含む問題のレベルごとの一覧です。
-
-##### ★★★☆
-
-- <a href="https://yukicoder.me/problems/no/3315">No.3315 FPS Game</a> (yukicoder contest 486 オムニバス (2025-10-24) - H問題、diff <font color="yellowgreen">2308</font>)
-
-　
-<h2 id="ベルトラン・チェビシェフの定理">816. ベルトラン・チェビシェフの定理</h2>
-
-### 難易度統計
-
-「ベルトラン・チェビシェフの定理」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
-- 全体: ★3.5／diff <font color="yellowgreen">2309</font>
-- 2026年: ★データなし／diffデータなし
-- 2025年: ★データなし／diffデータなし
-- 2024年: ★データなし／diffデータなし
-- 2023年: ★3.5／diff <font color="yellowgreen">2309</font>
-- 2022年: ★データなし／diffデータなし
-
-### レベル別問題一覧
-
-「ベルトラン・チェビシェフの定理」を主たる解法に含む問題のレベルごとの一覧です。
-
-##### ★★★☆
-
-- <a href="https://yukicoder.me/problems/no/2496">No.2496 LCM between Permutations</a> (yukicoder contest 407 (2023-10-06) - E問題、diff <font color="yellowgreen">2309</font>)
-
-　
-<h2 id="素数に注目する質問">817. 素数に注目する質問</h2>
-
-### 難易度統計
-
-「素数に注目する質問」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
-- 全体: ★3.5／diff <font color="yellowgreen">2309</font>
-- 2026年: ★データなし／diffデータなし
-- 2025年: ★データなし／diffデータなし
-- 2024年: ★データなし／diffデータなし
-- 2023年: ★3.5／diff <font color="yellowgreen">2309</font>
-- 2022年: ★データなし／diffデータなし
-
-### レベル別問題一覧
-
-「素数に注目する質問」を主たる解法に含む問題のレベルごとの一覧です。
-
-##### ★★★☆
-
-- <a href="https://yukicoder.me/problems/no/2496">No.2496 LCM between Permutations</a> (yukicoder contest 407 (2023-10-06) - E問題、diff <font color="yellowgreen">2309</font>)
-
-　
-<h2 id="対角線に言及する質問">818. 対角線に言及する質問</h2>
-
-### 難易度統計
-
-「対角線に言及する質問」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
-- 全体: ★3.5／diff <font color="yellowgreen">2309</font>
-- 2026年: ★データなし／diffデータなし
-- 2025年: ★データなし／diffデータなし
-- 2024年: ★データなし／diffデータなし
-- 2023年: ★3.5／diff <font color="yellowgreen">2309</font>
-- 2022年: ★データなし／diffデータなし
-
-### レベル別問題一覧
-
-「対角線に言及する質問」を主たる解法に含む問題のレベルごとの一覧です。
-
-##### ★★★☆
-
-- <a href="https://yukicoder.me/problems/no/2496">No.2496 LCM between Permutations</a> (yukicoder contest 407 (2023-10-06) - E問題、diff <font color="yellowgreen">2309</font>)
-
-　
-<h2 id="集合変数の充足可能性判定">819. 集合変数の充足可能性判定</h2>
-
-### 難易度統計
-
-「集合変数の充足可能性判定」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
-- 全体: ★3.5／diff <font color="yellowgreen">2326</font>
-- 2026年: ★データなし／diffデータなし
-- 2025年: ★データなし／diffデータなし
-- 2024年: ★データなし／diffデータなし
-- 2023年: ★データなし／diffデータなし
-- 2022年: ★3.5／diff <font color="yellowgreen">2326</font>
-
-### レベル別問題一覧
-
-「集合変数の充足可能性判定」を主たる解法に含む問題のレベルごとの一覧です。
-
-##### ★★★☆
-
-- <a href="https://yukicoder.me/problems/no/2121">No.2121 帰属関係と充足可能性</a> (yukicoder contest 367 (2022-11-04) - E問題、diff <font color="yellowgreen">2326</font>)
-
-　
-<h2 id="強連結成分分解">820. 強連結成分分解</h2>
-
-### 難易度統計
-
-「強連結成分分解」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
-- 全体: ★3.5／diff <font color="yellowgreen">2329</font>
-- 2026年: ★3／diff <font color="yellowgreen">2065</font>
-- 2025年: ★データなし／diffデータなし
-- 2024年: ★2.5／diff <font color="deepskyblue">1542</font>
-- 2023年: ★データなし／diffデータなし
-- 2022年: ★5／diff <font color="darkgoldenrod ">3382</font>
-
-### レベル別問題一覧
-
-「強連結成分分解」を主たる解法に含む問題のレベルごとの一覧です。
-
-##### ★★☆
-
-- <a href="https://yukicoder.me/problems/no/2780">No.2780 The Bottle Imp</a> (yukicoder contest 432 (2024-06-07) - H問題、diff <font color="deepskyblue">1542</font>)
-
-##### ★★★
-
-- <a href="https://yukicoder.me/problems/no/3508">No.3508 OR Mapping</a> (CPCTF 2026: PPC (2026-04-17) - L問題、diff <font color="yellowgreen">2065</font>)
-
-##### ★★★★★
-
-- <a href="https://yukicoder.me/problems/no/2160">No.2160 みたりのDominator</a> (Advent Calendar Contest 2022 (2022-12-01) - K問題、diff <font color="darkgoldenrod ">3382</font>)
-
-　
-<h2 id="線形空間の要素の数え上げを次元計算に帰着">821. 線形空間の要素の数え上げを次元計算に帰着</h2>
-
-### 難易度統計
-
-「線形空間の要素の数え上げを次元計算に帰着」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
-- 全体: ★3.5／diff <font color="yellowgreen">2343</font>
-- 2026年: ★データなし／diffデータなし
-- 2025年: ★3.5／diff <font color="blue">1904</font>
-- 2024年: ★データなし／diffデータなし
-- 2023年: ★4／diff <font color="red">2880</font>
-- 2022年: ★3／diff <font color="yellowgreen">2245</font>
-
-### レベル別問題一覧
-
-「線形空間の要素の数え上げを次元計算に帰着」を主たる解法に含む問題のレベルごとの一覧です。
-
-##### ★★★
-
-- <a href="https://yukicoder.me/problems/no/2134">No.2134 $\sigma$-algebra over Finite Set</a> (yukicoder contest 369 (2022-11-25) - E問題、diff <font color="yellowgreen">2245</font>)
-
-##### ★★★☆
-
-- <a href="https://yukicoder.me/problems/no/3229">No.3229 Liar Game Comibination</a> (yukicoder contest 477 線形代数コンテスト (2025-08-08) - F問題、diff <font color="blue">1904</font>)
-
-##### ★★★★
-
-- <a href="https://yukicoder.me/problems/no/2274">No.2274 三角彩色</a> (yukicoder contest 384 (2023-04-14) - H問題、diff <font color="red">2880</font>)
-
-　
-<h2 id="エルハートの相互律">822. エルハートの相互律</h2>
-
-### 難易度統計
-
-「エルハートの相互律」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
-- 全体: ★3.5／diff <font color="yellowgreen">2373</font>
-- 2026年: ★データなし／diffデータなし
-- 2025年: ★3.5／diff <font color="yellowgreen">2373</font>
-- 2024年: ★データなし／diffデータなし
-- 2023年: ★データなし／diffデータなし
-- 2022年: ★データなし／diffデータなし
-
-### レベル別問題一覧
-
-「エルハートの相互律」を主たる解法に含む問題のレベルごとの一覧です。
-
-##### ★★★☆
-
-- <a href="https://yukicoder.me/problems/no/3033">No.3033 エルハートの数え上げ</a> (yukicoder contest 457 (2025-02-21) - G問題、diff <font color="yellowgreen">2373</font>)
-
-　
-<h2 id="エルハートの定理">823. エルハートの定理</h2>
-
-### 難易度統計
-
-「エルハートの定理」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
-- 全体: ★3.5／diff <font color="yellowgreen">2373</font>
-- 2026年: ★データなし／diffデータなし
-- 2025年: ★3.5／diff <font color="yellowgreen">2373</font>
-- 2024年: ★データなし／diffデータなし
-- 2023年: ★データなし／diffデータなし
-- 2022年: ★データなし／diffデータなし
-
-### レベル別問題一覧
-
-「エルハートの定理」を主たる解法に含む問題のレベルごとの一覧です。
-
-##### ★★★☆
-
-- <a href="https://yukicoder.me/problems/no/3033">No.3033 エルハートの数え上げ</a> (yukicoder contest 457 (2025-02-21) - G問題、diff <font color="yellowgreen">2373</font>)
-
-　
-<h2 id="連立一次不等式の解の数え上げ">824. 連立一次不等式の解の数え上げ</h2>
-
-### 難易度統計
-
-「連立一次不等式の解の数え上げ」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
-- 全体: ★3.5／diff <font color="yellowgreen">2373</font>
-- 2026年: ★データなし／diffデータなし
-- 2025年: ★3.5／diff <font color="yellowgreen">2373</font>
-- 2024年: ★データなし／diffデータなし
-- 2023年: ★データなし／diffデータなし
-- 2022年: ★データなし／diffデータなし
-
-### レベル別問題一覧
-
-「連立一次不等式の解の数え上げ」を主たる解法に含む問題のレベルごとの一覧です。
-
-##### ★★★☆
-
-- <a href="https://yukicoder.me/problems/no/3033">No.3033 エルハートの数え上げ</a> (yukicoder contest 457 (2025-02-21) - G問題、diff <font color="yellowgreen">2373</font>)
-
-　
-<h2 id="基底に帰着">825. 基底に帰着</h2>
-
-### 難易度統計
-
-「基底に帰着」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
-- 全体: ★3.5／diff <font color="yellowgreen">2374</font>
-- 2026年: ★データなし／diffデータなし
-- 2025年: ★3.7／diff <font color="yellowgreen">2398</font>
-- 2024年: ★データなし／diffデータなし
-- 2023年: ★3.5／diff <font color="orange">2401</font>
-- 2022年: ★3／diff <font color="yellowgreen">2245</font>
-
-### レベル別問題一覧
-
-「基底に帰着」を主たる解法に含む問題のレベルごとの一覧です。
-
-##### ★★☆
-
-- <a href="https://yukicoder.me/problems/no/2442">No.2442 線形写像</a> (yukicoder contest 402 (2023-08-25) - B問題、diff <font color="blue">1714</font>)
-
-##### ★★★
-
-- <a href="https://yukicoder.me/problems/no/2134">No.2134 $\sigma$-algebra over Finite Set</a> (yukicoder contest 369 (2022-11-25) - E問題、diff <font color="yellowgreen">2245</font>)
-
-##### ★★★☆
-
-- <a href="https://yukicoder.me/problems/no/3229">No.3229 Liar Game Comibination</a> (yukicoder contest 477 線形代数コンテスト (2025-08-08) - F問題、diff <font color="blue">1904</font>)
-
-##### ★★★★
-
-- <a href="https://yukicoder.me/problems/no/2274">No.2274 三角彩色</a> (yukicoder contest 384 (2023-04-14) - H問題、diff <font color="red">2880</font>)
-- <a href="https://yukicoder.me/problems/no/2446">No.2446 完全列</a> (yukicoder contest 402 (2023-08-25) - F問題、diff <font color="orange">2609</font>)
-- <a href="https://yukicoder.me/problems/no/3034">No.3034 コーエン-マコーレー抽象単体複体</a> (yukicoder contest 457 (2025-02-21) - H問題、diff <font color="red">2892</font>)
-
-　
-<h2 id="二項係数の第２引数を渡る総和計算">826. 二項係数の第２引数を渡る総和計算</h2>
-
-### 難易度統計
-
-「二項係数の第２引数を渡る総和計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
-- 全体: ★3.5／diff <font color="yellowgreen">2381</font>
-- 2026年: ★データなし／diffデータなし
-- 2025年: ★データなし／diffデータなし
-- 2024年: ★データなし／diffデータなし
-- 2023年: ★3.5／diff <font color="yellowgreen">2381</font>
-- 2022年: ★データなし／diffデータなし
-
-### レベル別問題一覧
-
-「二項係数の第２引数を渡る総和計算」を主たる解法に含む問題のレベルごとの一覧です。
-
-##### ★★★☆
-
-- <a href="https://yukicoder.me/problems/no/2206">No.2206 Popcount Sum 2</a> (yukicoder contest 375 (2023-02-03) - F問題、diff <font color="yellowgreen">2381</font>)
-
-　
-<h2 id="平均の指定された区間数え上げ">827. 平均の指定された区間数え上げ</h2>
-
-### 難易度統計
-
-「平均の指定された区間数え上げ」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
-- 全体: ★3.5／diff <font color="yellowgreen">2386</font>
-- 2026年: ★データなし／diffデータなし
-- 2025年: ★データなし／diffデータなし
-- 2024年: ★3.5／diff <font color="yellowgreen">2386</font>
-- 2023年: ★データなし／diffデータなし
-- 2022年: ★データなし／diffデータなし
-
-### レベル別問題一覧
-
-「平均の指定された区間数え上げ」を主たる解法に含む問題のレベルごとの一覧です。
-
-##### ★★★☆
-
-- <a href="https://yukicoder.me/problems/no/2956">No.2956 Substitute with Average</a> (yukicoder contest 452 (2024-11-08) - D問題、diff <font color="yellowgreen">2386</font>)
-
-　
-<h2 id="代数拡大">828. 代数拡大</h2>
-
-### 難易度統計
-
-「代数拡大」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
-- 全体: ★3.5／diff <font color="yellowgreen">2390</font>
-- 2026年: ★4／diff <font color="orange">2610</font>
-- 2025年: ★3.2／diff <font color="yellowgreen">2224</font>
-- 2024年: ★3／diff <font color="yellowgreen">2174</font>
-- 2023年: ★4／diff <font color="orange">2719</font>
-- 2022年: ★データなし／diffデータなし
-
-### レベル別問題一覧
-
-「代数拡大」を主たる解法に含む問題のレベルごとの一覧です。
-
-##### ★★☆
-
-- <a href="https://yukicoder.me/problems/no/3006">No.3006 ベイカーの問題</a> (yukicoder contest 455 (2025-01-17) - E問題、diff <font color="blue">1828</font>)
-
-##### ★★★
-
-- <a href="https://yukicoder.me/problems/no/2883">No.2883 K-powered Sum of Fibonacci</a> (yukicoder contest 445（菁々祭プログラミングコンテスト2024） (2024-09-08) - F問題、diff <font color="yellowgreen">2174</font>)
-
-##### ★★★★
-
-- <a href="https://yukicoder.me/problems/no/2396">No.2396 等差二項展開</a> (yukicoder contest 399 (2023-07-28) - E問題、diff <font color="orange">2719</font>)
-- <a href="https://yukicoder.me/problems/no/3170">No.3170 [Cherry 7th Tune KY] Even if you could say "See you ..."</a> (yukicoder contest 468 Desire for Approval ~Ash blown by the draft leads to the door to a new beginning~ (2025-05-30) - H問題、diff <font color="orange">2620</font>)
-- <a href="https://yukicoder.me/problems/no/3495">No.3495 ２変数半二項展開</a> (yukicoder contest 496 (2026-04-03) - H問題、diff <font color="orange">2610</font>)
-
-　
-<h2 id="メビウス変換">829. メビウス変換</h2>
-
-### 難易度統計
-
-「メビウス変換」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
-- 全体: ★3.5／diff <font color="yellowgreen">2399</font>
-- 2026年: ★3.5／diff <font color="yellowgreen">2026</font>
-- 2025年: ★4／diff <font color="orange">2658</font>
-- 2024年: ★3.5／diff <font color="yellowgreen">2392</font>
-- 2023年: ★3.5／diff <font color="orange">2473</font>
-- 2022年: ★3／diff <font color="yellowgreen">2306</font>
-
-### レベル別問題一覧
-
-「メビウス変換」を主たる解法に含む問題のレベルごとの一覧です。
-
-##### ★★☆
-
-- <a href="https://yukicoder.me/problems/no/2211">No.2211 Frequency Table of GCD</a> (yukicoder contest 376 (2023-02-10) - D問題、diff <font color="blue">1607</font>)
-
-##### ★★★
-
-- <a href="https://yukicoder.me/problems/no/2075">No.2075 GCD Subsequence</a> (yukicoder contest 360 (2022-09-16) - F問題、diff <font color="yellowgreen">2306</font>)
-- <a href="https://yukicoder.me/problems/no/2903">No.2903 A Round-the-World Trip with the Tent</a> (yukicoder contest 448 (2024-09-27) - B問題、diff <font color="blue">1900</font>)
-
-##### ★★★☆
-
-- <a href="https://yukicoder.me/problems/no/3486">No.3486 Draw a Rainbow</a> (yukicoder contest 495 (2026-03-27) - F問題、diff <font color="yellowgreen">2026</font>)
-
-##### ★★★★
-
-- <a href="https://yukicoder.me/problems/no/2262">No.2262 Fractions</a> (yukicoder contest 383 (2023-04-07) - D問題、diff <font color="red">3018</font>)
-- <a href="https://yukicoder.me/problems/no/2578">No.2578 Jewelry Store</a> (Advent Calendar Contest 2023 (2023-12-01) - F問題、diff <font color="orange">2795</font>)
-- <a href="https://yukicoder.me/problems/no/2979">No.2979 直角三角形の個数</a> (Advent Calendar Contest 2024 (2024-12-01) - C問題、diff <font color="red">2885</font>)
-- <a href="https://yukicoder.me/problems/no/3414">No.3414 Aperiodic Sequence</a> (Advent Calendar Contest 2025 (2025-12-01) - U問題、diff <font color="orange">2658</font>)
-
-　
-<h2 id="積分漸化式">830. 積分漸化式</h2>
-
-### 難易度統計
-
-「積分漸化式」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
-- 全体: ★3.5／diff <font color="orange">2401</font>
-- 2026年: ★データなし／diffデータなし
-- 2025年: ★データなし／diffデータなし
-- 2024年: ★データなし／diffデータなし
-- 2023年: ★3.5／diff <font color="orange">2401</font>
-- 2022年: ★データなし／diffデータなし
-
-### レベル別問題一覧
-
-「積分漸化式」を主たる解法に含む問題のレベルごとの一覧です。
-
-##### ★★★☆
-
-- <a href="https://yukicoder.me/problems/no/2582">No.2582 Random Average^K</a> (Advent Calendar Contest 2023 (2023-12-01) - J問題、diff <font color="orange">2401</font>)
-
-　
-<h2 id="小さい法に帰着">831. 小さい法に帰着</h2>
-
-### 難易度統計
-
-「小さい法に帰着」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
-- 全体: ★3.5／diff <font color="orange">2409</font>
-- 2026年: ★データなし／diffデータなし
-- 2025年: ★3／diff <font color="yellowgreen">2051</font>
-- 2024年: ★データなし／diffデータなし
-- 2023年: ★4／diff <font color="orange">2768</font>
-- 2022年: ★データなし／diffデータなし
-
-### レベル別問題一覧
-
-「小さい法に帰着」を主たる解法に含む問題のレベルごとの一覧です。
-
-##### ★★★
-
-- <a href="https://yukicoder.me/problems/no/3022">No.3022 一元一次式 mod 1000000000</a> (yukicoder contest 456 オムニバス (2025-02-14) - D問題、diff <font color="yellowgreen">2051</font>)
-
-##### ★★★★
-
-- <a href="https://yukicoder.me/problems/no/2344">No.2344 (l+r)^2</a> (yukicoder contest 392 (2023-06-09) - B問題、diff <font color="orange">2768</font>)
-
-　
-<h2 id="低次項の追加による線形化">832. 低次項の追加による線形化</h2>
-
-### 難易度統計
-
-「低次項の追加による線形化」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
-- 全体: ★3.5／diff <font color="orange">2418</font>
-- 2026年: ★データなし／diffデータなし
-- 2025年: ★3.2／diff <font color="yellowgreen">2023</font>
-- 2024年: ★3.5／diff <font color="orange">2741</font>
-- 2023年: ★3.5／diff <font color="orange">2406</font>
-- 2022年: ★4.5／diff <font color="darkgoldenrod ">3382</font>
-
-### レベル別問題一覧
-
-「低次項の追加による線形化」を主たる解法に含む問題のレベルごとの一覧です。
-
-##### ★★★
-
-- <a href="https://yukicoder.me/problems/no/2395">No.2395 区間二次変換一点取得</a> (yukicoder contest 399 (2023-07-28) - D問題、diff <font color="blue">1627</font>)
-- <a href="https://yukicoder.me/problems/no/2883">No.2883 K-powered Sum of Fibonacci</a> (yukicoder contest 445（菁々祭プログラミングコンテスト2024） (2024-09-08) - F問題、diff <font color="yellowgreen">2174</font>)
-- <a href="https://yukicoder.me/problems/no/3228">No.3228 Very Large Fibonacci Sum</a> (yukicoder contest 477 線形代数コンテスト (2025-08-08) - E問題、diff <font color="deepskyblue">1539</font>)
-- <a href="https://yukicoder.me/problems/no/3312">No.3312 Fire Engine</a> (yukicoder contest 486 オムニバス (2025-10-24) - E問題、diff <font color="yellowgreen">2002</font>)
-
-##### ★★★☆
-
-- <a href="https://yukicoder.me/problems/no/3182">No.3182 recurrence relation’s intersection sum</a> (yukicoder contest 470 (2025-06-13) - F問題、diff <font color="yellowgreen">2152</font>)
-- <a href="https://yukicoder.me/problems/no/3202">No.3202 Periodic Alternating Subsequence</a> (yukicoder contest 473 第1回 生成AI作問コンテスト (2025-07-11) - H問題、diff <font color="yellowgreen">2399</font>)
-
-##### ★★★★
-
-- <a href="https://yukicoder.me/problems/no/2448">No.2448 一次変換と面積</a> (yukicoder contest 402 (2023-08-25) - H問題、diff <font color="red">3185</font>)
-- <a href="https://yukicoder.me/problems/no/2995">No.2995 The Ruler Sequence Concatenation</a> (Advent Calendar Contest 2024 (2024-12-01) - S問題、diff <font color="darkgoldenrod ">3309</font>)
-
-##### ★★★★☆
-
-- <a href="https://yukicoder.me/problems/no/2163">No.2163 LCA Sum Query</a> (Advent Calendar Contest 2022 (2022-12-01) - N問題、diff <font color="darkgoldenrod ">3382</font>)
-
-　
-<h2 id="掃き出し法による行列式計算">833. 掃き出し法による行列式計算</h2>
-
-### 難易度統計
-
-「掃き出し法による行列式計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
-- 全体: ★3.5／diff <font color="orange">2421</font>
-- 2026年: ★データなし／diffデータなし
-- 2025年: ★データなし／diffデータなし
-- 2024年: ★3.5／diff <font color="orange">2421</font>
-- 2023年: ★データなし／diffデータなし
-- 2022年: ★データなし／diffデータなし
-
-### レベル別問題一覧
-
-「掃き出し法による行列式計算」を主たる解法に含む問題のレベルごとの一覧です。
-
-##### ★★★☆
-
-- <a href="https://yukicoder.me/problems/no/2727">No.2727 Tetrahedron Game</a> (yukicoder contest 427 (ゲーム問題コンテスト) (2024-04-12) - G問題、diff <font color="orange">2421</font>)
-
-　
-<h2 id="隣接頂点和取得">834. 隣接頂点和取得</h2>
-
-### 難易度統計
-
-「隣接頂点和取得」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
-- 全体: ★3.5／diff <font color="orange">2433</font>
-- 2026年: ★データなし／diffデータなし
-- 2025年: ★3.5／diff <font color="orange">2433</font>
-- 2024年: ★データなし／diffデータなし
-- 2023年: ★データなし／diffデータなし
-- 2022年: ★データなし／diffデータなし
-
-### レベル別問題一覧
-
-「隣接頂点和取得」を主たる解法に含む問題のレベルごとの一覧です。
-
-##### ★★★☆
-
-- <a href="https://yukicoder.me/problems/no/3025">No.3025 Chocol∀te</a> (yukicoder contest 456 オムニバス (2025-02-14) - G問題、diff <font color="orange">2433</font>)
-
-　
-<h2 id="単調関数の像計算を階差の非零点の数え上げに帰着">835. 単調関数の像計算を階差の非零点の数え上げに帰着</h2>
-
-### 難易度統計
-
-「単調関数の像計算を階差の非零点の数え上げに帰着」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
-- 全体: ★3.5／diff <font color="orange">2471</font>
-- 2026年: ★データなし／diffデータなし
-- 2025年: ★データなし／diffデータなし
-- 2024年: ★データなし／diffデータなし
-- 2023年: ★3.5／diff <font color="orange">2471</font>
-- 2022年: ★データなし／diffデータなし
-
-### レベル別問題一覧
-
-「単調関数の像計算を階差の非零点の数え上げに帰着」を主たる解法に含む問題のレベルごとの一覧です。
-
-##### ★★★☆
-
-- <a href="https://yukicoder.me/problems/no/2221">No.2221 Set X</a> (yukicoder contest 377 (2023-02-17) - F問題、diff <font color="orange">2471</font>)
-
-　
-<h2 id="更新クエリの区間による作用">836. 更新クエリの区間による作用</h2>
-
-### 難易度統計
-
-「更新クエリの区間による作用」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
-- 全体: ★3.5／diff <font color="orange">2506</font>
-- 2026年: ★データなし／diffデータなし
-- 2025年: ★3.5／diff <font color="orange">2506</font>
-- 2024年: ★データなし／diffデータなし
-- 2023年: ★データなし／diffデータなし
-- 2022年: ★データなし／diffデータなし
-
-### レベル別問題一覧
-
-「更新クエリの区間による作用」を主たる解法に含む問題のレベルごとの一覧です。
-
-##### ★★★☆
-
-- <a href="https://yukicoder.me/problems/no/3314">No.3314 Library Rearrangement</a> (yukicoder contest 486 オムニバス (2025-10-24) - G問題、diff <font color="orange">2506</font>)
-
-　
-<h2 id="遅延セグメント木Beats">837. 遅延セグメント木Beats</h2>
-
-### 難易度統計
-
-「遅延セグメント木Beats」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
-- 全体: ★3.5／diff <font color="orange">2506</font>
-- 2026年: ★データなし／diffデータなし
-- 2025年: ★3.5／diff <font color="orange">2506</font>
-- 2024年: ★データなし／diffデータなし
-- 2023年: ★データなし／diffデータなし
-- 2022年: ★データなし／diffデータなし
-
-### レベル別問題一覧
-
-「遅延セグメント木Beats」を主たる解法に含む問題のレベルごとの一覧です。
-
-##### ★★★☆
-
-- <a href="https://yukicoder.me/problems/no/3314">No.3314 Library Rearrangement</a> (yukicoder contest 486 オムニバス (2025-10-24) - G問題、diff <font color="orange">2506</font>)
-
-　
-<h2 id="疎な行列演算の計算結果書き出しによる高速化">838. 疎な行列演算の計算結果書き出しによる高速化</h2>
-
-### 難易度統計
-
-「疎な行列演算の計算結果書き出しによる高速化」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
-- 全体: ★3.5／diff <font color="orange">2521</font>
-- 2026年: ★データなし／diffデータなし
-- 2025年: ★データなし／diffデータなし
-- 2024年: ★データなし／diffデータなし
-- 2023年: ★3.5／diff <font color="orange">2521</font>
-- 2022年: ★データなし／diffデータなし
-
-### レベル別問題一覧
-
-「疎な行列演算の計算結果書き出しによる高速化」を主たる解法に含む問題のレベルごとの一覧です。
-
-##### ★★★
-
-- <a href="https://yukicoder.me/problems/no/2395">No.2395 区間二次変換一点取得</a> (yukicoder contest 399 (2023-07-28) - D問題、diff <font color="blue">1627</font>)
-
-##### ★★★☆
-
-- <a href="https://yukicoder.me/problems/no/2540">No.2540 同値性判定</a> (yukicoder contest 412 (2023-11-10) - H問題、diff <font color="darkgoldenrod ">3217</font>)
-
-##### ★★★★
-
-- <a href="https://yukicoder.me/problems/no/2396">No.2396 等差二項展開</a> (yukicoder contest 399 (2023-07-28) - E問題、diff <font color="orange">2719</font>)
-
-　
-<h2 id="括弧列のワイルドカードを左右から貪欲に開き・閉じ括弧に翻訳">839. 括弧列のワイルドカードを左右から貪欲に開き・閉じ括弧に翻訳</h2>
-
-### 難易度統計
-
-「括弧列のワイルドカードを左右から貪欲に開き・閉じ括弧に翻訳」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
-- 全体: ★3.5／diff <font color="orange">2532</font>
-- 2026年: ★データなし／diffデータなし
-- 2025年: ★データなし／diffデータなし
-- 2024年: ★データなし／diffデータなし
-- 2023年: ★データなし／diffデータなし
-- 2022年: ★3.5／diff <font color="orange">2532</font>
-
-### レベル別問題一覧
-
-「括弧列のワイルドカードを左右から貪欲に開き・閉じ括弧に翻訳」を主たる解法に含む問題のレベルごとの一覧です。
-
-##### ★★★☆
-
-- <a href="https://yukicoder.me/problems/no/2106">No.2106 Wild Cacco</a> (yukicoder contest 365 (2022-10-21) - D問題、diff <font color="orange">2532</font>)
-
-　
-<h2 id="ナップサック割り当て可能性判定">840. ナップサック割り当て可能性判定</h2>
-
-### 難易度統計
-
-「ナップサック割り当て可能性判定」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
-- 全体: ★3.5／diff <font color="orange">2562</font>
-- 2026年: ★データなし／diffデータなし
-- 2025年: ★2／diff <font color="blue">1815</font>
-- 2024年: ★5／diff <font color="darkgoldenrod ">3309</font>
-- 2023年: ★データなし／diffデータなし
-- 2022年: ★データなし／diffデータなし
-
-### レベル別問題一覧
-
-「ナップサック割り当て可能性判定」を主たる解法に含む問題のレベルごとの一覧です。
-
-##### ★★
-
-- <a href="https://yukicoder.me/problems/no/3282">No.3282 Photos and Friends</a> (yukicoder contest 484 (2025-09-26) - D問題、diff <font color="blue">1815</font>)
-
-##### ★★★★★
-
-- <a href="https://yukicoder.me/problems/no/2987">No.2987 Colorful University of Tree</a> (Advent Calendar Contest 2024 (2024-12-01) - K問題、diff <font color="darkgoldenrod ">3309</font>)
-
-　
-<h2 id="複数ナップサック割り当て可能性判定">841. 複数ナップサック割り当て可能性判定</h2>
-
-### 難易度統計
-
-「複数ナップサック割り当て可能性判定」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
-- 全体: ★3.5／diff <font color="orange">2562</font>
-- 2026年: ★データなし／diffデータなし
-- 2025年: ★2／diff <font color="blue">1815</font>
-- 2024年: ★5／diff <font color="darkgoldenrod ">3309</font>
-- 2023年: ★データなし／diffデータなし
-- 2022年: ★データなし／diffデータなし
-
-### レベル別問題一覧
-
-「複数ナップサック割り当て可能性判定」を主たる解法に含む問題のレベルごとの一覧です。
-
-##### ★★
-
-- <a href="https://yukicoder.me/problems/no/3282">No.3282 Photos and Friends</a> (yukicoder contest 484 (2025-09-26) - D問題、diff <font color="blue">1815</font>)
-
-##### ★★★★★
-
-- <a href="https://yukicoder.me/problems/no/2987">No.2987 Colorful University of Tree</a> (Advent Calendar Contest 2024 (2024-12-01) - K問題、diff <font color="darkgoldenrod ">3309</font>)
-
-　
-<h2 id="木の縮約における葉の連続削除をノードの縮約に翻訳">842. 木の縮約における葉の連続削除をノードの縮約に翻訳</h2>
-
-### 難易度統計
-
-「木の縮約における葉の連続削除をノードの縮約に翻訳」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
-- 全体: ★3.5／diff <font color="orange">2565</font>
-- 2026年: ★データなし／diffデータなし
-- 2025年: ★3.5／diff <font color="orange">2565</font>
-- 2024年: ★データなし／diffデータなし
-- 2023年: ★データなし／diffデータなし
-- 2022年: ★データなし／diffデータなし
-
-### レベル別問題一覧
-
-「木の縮約における葉の連続削除をノードの縮約に翻訳」を主たる解法に含む問題のレベルごとの一覧です。
-
-##### ★★★☆
-
-- <a href="https://yukicoder.me/problems/no/3148">No.3148 Min-Cost Destruction of Parentheses</a> (yukicoder contest 467 (2025-05-16) - I問題、diff <font color="orange">2565</font>)
-
-　
-<h2 id="木の葉の削除更新">843. 木の葉の削除更新</h2>
-
-### 難易度統計
-
-「木の葉の削除更新」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
-- 全体: ★3.5／diff <font color="orange">2565</font>
-- 2026年: ★データなし／diffデータなし
-- 2025年: ★3.5／diff <font color="orange">2565</font>
-- 2024年: ★データなし／diffデータなし
-- 2023年: ★データなし／diffデータなし
-- 2022年: ★データなし／diffデータなし
-
-### レベル別問題一覧
-
-「木の葉の削除更新」を主たる解法に含む問題のレベルごとの一覧です。
-
-##### ★★★☆
-
-- <a href="https://yukicoder.me/problems/no/3148">No.3148 Min-Cost Destruction of Parentheses</a> (yukicoder contest 467 (2025-05-16) - I問題、diff <font color="orange">2565</font>)
-
-　
-<h2 id="コーシー・グルサの積分公式">844. コーシー・グルサの積分公式</h2>
-
-### 難易度統計
-
-「コーシー・グルサの積分公式」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
-- 全体: ★3.5／diff <font color="orange">2567</font>
-- 2026年: ★データなし／diffデータなし
-- 2025年: ★データなし／diffデータなし
-- 2024年: ★3.5／diff <font color="orange">2567</font>
-- 2023年: ★データなし／diffデータなし
-- 2022年: ★データなし／diffデータなし
-
-### レベル別問題一覧
-
-「コーシー・グルサの積分公式」を主たる解法に含む問題のレベルごとの一覧です。
-
-##### ★★★☆
-
-- <a href="https://yukicoder.me/problems/no/2973">No.2973 シュニレルマン積分入門</a> (yukicoder contest 454 (2024-11-29) - E問題、diff <font color="orange">2567</font>)
-
-　
-<h2 id="準同型">845. 準同型</h2>
+<h2 id="準同型">818. 準同型</h2>
 
 ### 難易度統計
 
 「準同型」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
-- 全体: ★3.5／diff <font color="orange">2594</font>
-- 2026年: ★3.3／diff <font color="yellowgreen">2140</font>
-- 2025年: ★3.4／diff <font color="orange">2569</font>
+- 全体: ★3.4／diff <font color="orange">2557</font>
+- 2026年: ★3.1／diff <font color="yellowgreen">2305</font>
+- 2025年: ★3.1／diff <font color="orange">2485</font>
 - 2024年: ★3.2／diff <font color="yellowgreen">2366</font>
-- 2023年: ★3.6／diff <font color="orange">2680</font>
+- 2023年: ★3.5／diff <font color="orange">2621</font>
 - 2022年: ★3.6／diff <font color="red">2839</font>
 
 ### レベル別問題一覧
@@ -30520,11 +29918,13 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 ##### ★☆
 
 - <a href="https://yukicoder.me/problems/no/2123">No.2123 Chalk Breaker</a> (単発出題、diffデータなし)
+- <a href="https://yukicoder.me/problems/no/3299">No.3299 K-th MMA String</a> (yukicoder contest MMA Contest 020 (2025-10-05) - F問題、diff <font color="deepskyblue">1513</font>)
 
 ##### ★★
 
 - <a href="https://yukicoder.me/problems/no/2188">No.2188 整数列コイントスゲーム</a> (yukicoder contest 373 (2023-01-13) - E問題、diff <font color="yellowgreen">2148</font>)
 - <a href="https://yukicoder.me/problems/no/2535">No.2535 多重同値</a> (yukicoder contest 412 (2023-11-10) - C問題、diff <font color="deepskyblue">1506</font>)
+- <a href="https://yukicoder.me/problems/no/2568">No.2568 列辞書順列列</a> (第2回緑以下コンテスト (2023-12-02) - L問題、diff <font color="blue">1632</font>)
 
 ##### ★★☆
 
@@ -30534,6 +29934,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2686">No.2686 商品券の使い道</a> (yukicoder contest 422 (第１回 競技プログラミング講習会作問企画コンテスト) (2024-03-20) - H問題、diff <font color="yellowgreen">2031</font>)
 - <a href="https://yukicoder.me/problems/no/2963">No.2963 Mecha DESU</a> (yukicoder contest 453 (2024-11-16) - D問題、diff <font color="deepskyblue">1509</font>)
 - <a href="https://yukicoder.me/problems/no/3256">No.3256 Permutation Equation</a> (yukicoder contest  481（菁々祭プログラミングコンテスト2025） (2025-09-05) - E問題、diff <font color="red">2841</font>)
+- <a href="https://yukicoder.me/problems/no/3448">No.3448 ABBBBBBBBC</a> (yukicoder contest 493 (2026-02-20) - B問題、diffデータなし)
 
 ##### ★★★
 
@@ -30543,6 +29944,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2330">No.2330 Eat Slime</a> (MMA Contest 015  (2023-05-28) - I問題、diff <font color="yellowgreen">2258</font>)
 - <a href="https://yukicoder.me/problems/no/2336">No.2336 Do you like typical problems?</a> (yukicoder contest 391 (2023-06-02) - C問題、diff <font color="yellowgreen">2237</font>)
 - <a href="https://yukicoder.me/problems/no/2444">No.2444 一次変換と体積</a> (yukicoder contest 402 (2023-08-25) - D問題、diff <font color="orange">2609</font>)
+- <a href="https://yukicoder.me/problems/no/2577">No.2577 Simple Permutation Guess</a> (Advent Calendar Contest 2023 (2023-12-01) - E問題、diff <font color="yellowgreen">2323</font>)
 - <a href="https://yukicoder.me/problems/no/2770">No.2770 Coupon Optimization</a> (yukicoder contest 431 (2024-05-31) - F問題、diff <font color="blue">1849</font>)
 - <a href="https://yukicoder.me/problems/no/2787">No.2787 グッドスタイン数列？</a> (yukicoder contest 433 (2024-06-14) - G問題、diff <font color="red">2831</font>)
 - <a href="https://yukicoder.me/problems/no/2903">No.2903 A Round-the-World Trip with the Tent</a> (yukicoder contest 448 (2024-09-27) - B問題、diff <font color="blue">1900</font>)
@@ -30550,9 +29952,11 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2980">No.2980 Planar Tree 2</a> (Advent Calendar Contest 2024 (2024-12-01) - D問題、diff <font color="yellowgreen">2241</font>)
 - <a href="https://yukicoder.me/problems/no/2994">No.2994 べき内積</a> (Advent Calendar Contest 2024 (2024-12-01) - R問題、diff <font color="red">2885</font>)
 - <a href="https://yukicoder.me/problems/no/3213">No.3213 depth max K</a> (yukicoder contest 475 (ゆるCafe) (2025-07-25) - E問題、diff <font color="blue">1676</font>)
+- <a href="https://yukicoder.me/problems/no/3346">No.3346 Tree to DAG</a> (yukicoder contest 作問ハッカソンコンテスト 003 Day1 (2025-11-13) - G問題、diff <font color="red">2867</font>)
 - <a href="https://yukicoder.me/problems/no/3349">No.3349 AtCoder Janken Train</a> (yukicoder contest 作問ハッカソンコンテスト 003 Day1 (2025-11-13) - J問題、diff <font color="red">3014</font>)
 - <a href="https://yukicoder.me/problems/no/3443">No.3443 Sum of (Tree Distances)^K 1</a> (yukicoder contest 492 (2026-02-06) - D問題、diffデータなし)
 - <a href="https://yukicoder.me/problems/no/3538">No.3538 Not First Place</a> (yukicoder 499 contest (2026-05-08) - F問題、diff <font color="yellowgreen">2255</font>)
+- <a href="https://yukicoder.me/problems/no/3562">No.3562 Communicate Sorted Vector</a> (KCPC新歓杯2026 (2026-05-29) - H問題、diff <font color="orange">2635</font>)
 
 ##### ★★★☆
 
@@ -30597,7 +30001,889 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2166">No.2166 Paint and Fill</a> (Advent Calendar Contest 2022 (2022-12-01) - S問題、diff <font color="darkgoldenrod ">3577</font>)
 
 　
-<h2 id="木の縮約">846. 木の縮約</h2>
+<h2 id="外積・サラスの公式による行列式計算">819. 外積・サラスの公式による行列式計算</h2>
+
+### 難易度統計
+
+「外積・サラスの公式による行列式計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
+- 全体: ★3.4／diff <font color="orange">2629</font>
+- 2026年: ★データなし／diffデータなし
+- 2025年: ★4／diff <font color="orange">2582</font>
+- 2024年: ★3.2／diff <font color="orange">2559</font>
+- 2023年: ★3.3／diff <font color="orange">2692</font>
+- 2022年: ★データなし／diffデータなし
+
+### レベル別問題一覧
+
+「外積・サラスの公式による行列式計算」を主たる解法に含む問題のレベルごとの一覧です。
+
+##### ★★★
+
+- <a href="https://yukicoder.me/problems/no/2444">No.2444 一次変換と体積</a> (yukicoder contest 402 (2023-08-25) - D問題、diff <font color="orange">2609</font>)
+- <a href="https://yukicoder.me/problems/no/2520">No.2520 L1 Explosion</a> (yukicoder contest 410 (2023-10-27) - F問題、diff <font color="yellowgreen">2284</font>)
+- <a href="https://yukicoder.me/problems/no/2755">No.2755 行列の共役類</a> (yukicoder contest 429 (2024-05-10) - G問題、diff <font color="orange">2698</font>)
+
+##### ★★★☆
+
+- <a href="https://yukicoder.me/problems/no/2727">No.2727 Tetrahedron Game</a> (yukicoder contest 427 (ゲーム問題コンテスト) (2024-04-12) - G問題、diff <font color="orange">2421</font>)
+
+##### ★★★★
+
+- <a href="https://yukicoder.me/problems/no/2448">No.2448 一次変換と面積</a> (yukicoder contest 402 (2023-08-25) - H問題、diff <font color="red">3185</font>)
+- <a href="https://yukicoder.me/problems/no/3231">No.3231 2×2行列相似判定 ～hard～</a> (yukicoder contest 477 線形代数コンテスト (2025-08-08) - H問題、diff <font color="orange">2582</font>)
+
+　
+<h2 id="木の根の変更における頂点の高さと深さの関係">820. 木の根の変更における頂点の高さと深さの関係</h2>
+
+### 難易度統計
+
+「木の根の変更における頂点の高さと深さの関係」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
+- 全体: ★3.5／diff <font color="blue">1774</font>
+- 2026年: ★データなし／diffデータなし
+- 2025年: ★3.5／diff <font color="blue">1774</font>
+- 2024年: ★データなし／diffデータなし
+- 2023年: ★データなし／diffデータなし
+- 2022年: ★データなし／diffデータなし
+
+### レベル別問題一覧
+
+「木の根の変更における頂点の高さと深さの関係」を主たる解法に含む問題のレベルごとの一覧です。
+
+##### ★★★☆
+
+- <a href="https://yukicoder.me/problems/no/3206">No.3206 う　し　た　ウ　ニ　木　あ　く　ん　笑</a> (yukicoder contest 474 (2025-07-18) - D問題、diff <font color="blue">1774</font>)
+
+　
+<h2 id="高速メビウス変換">821. 高速メビウス変換</h2>
+
+### 難易度統計
+
+「高速メビウス変換」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
+- 全体: ★3.5／diff <font color="yellowgreen">2026</font>
+- 2026年: ★3.5／diff <font color="yellowgreen">2026</font>
+- 2025年: ★データなし／diffデータなし
+- 2024年: ★データなし／diffデータなし
+- 2023年: ★データなし／diffデータなし
+- 2022年: ★データなし／diffデータなし
+
+### レベル別問題一覧
+
+「高速メビウス変換」を主たる解法に含む問題のレベルごとの一覧です。
+
+##### ★★★☆
+
+- <a href="https://yukicoder.me/problems/no/3486">No.3486 Draw a Rainbow</a> (yukicoder contest 495 (2026-03-27) - F問題、diff <font color="yellowgreen">2026</font>)
+
+　
+<h2 id="トロピカル半環">822. トロピカル半環</h2>
+
+### 難易度統計
+
+「トロピカル半環」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
+- 全体: ★3.5／diff <font color="yellowgreen">2153</font>
+- 2026年: ★データなし／diffデータなし
+- 2025年: ★3.5／diff <font color="yellowgreen">2153</font>
+- 2024年: ★データなし／diffデータなし
+- 2023年: ★データなし／diffデータなし
+- 2022年: ★データなし／diffデータなし
+
+### レベル別問題一覧
+
+「トロピカル半環」を主たる解法に含む問題のレベルごとの一覧です。
+
+##### ★★★☆
+
+- <a href="https://yukicoder.me/problems/no/3230">No.3230 Mutual Corresponding System</a> (yukicoder contest 477 線形代数コンテスト (2025-08-08) - G問題、diff <font color="yellowgreen">2153</font>)
+
+　
+<h2 id="木の頂点の高さ計算">823. 木の頂点の高さ計算</h2>
+
+### 難易度統計
+
+「木の頂点の高さ計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
+- 全体: ★3.5／diff <font color="yellowgreen">2240</font>
+- 2026年: ★データなし／diffデータなし
+- 2025年: ★3.5／diff <font color="yellowgreen">2240</font>
+- 2024年: ★データなし／diffデータなし
+- 2023年: ★データなし／diffデータなし
+- 2022年: ★データなし／diffデータなし
+
+### レベル別問題一覧
+
+「木の頂点の高さ計算」を主たる解法に含む問題のレベルごとの一覧です。
+
+##### ★★★☆
+
+- <a href="https://yukicoder.me/problems/no/3206">No.3206 う　し　た　ウ　ニ　木　あ　く　ん　笑</a> (yukicoder contest 474 (2025-07-18) - D問題、diff <font color="blue">1774</font>)
+- <a href="https://yukicoder.me/problems/no/3405">No.3405 Engineering University of Tree</a> (Advent Calendar Contest 2025 (2025-12-01) - L問題、diff <font color="orange">2706</font>)
+
+　
+<h2 id="回転数計算">824. 回転数計算</h2>
+
+### 難易度統計
+
+「回転数計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
+- 全体: ★3.5／diff <font color="yellowgreen">2257</font>
+- 2026年: ★データなし／diffデータなし
+- 2025年: ★3.5／diff <font color="yellowgreen">2257</font>
+- 2024年: ★データなし／diffデータなし
+- 2023年: ★データなし／diffデータなし
+- 2022年: ★データなし／diffデータなし
+
+### レベル別問題一覧
+
+「回転数計算」を主たる解法に含む問題のレベルごとの一覧です。
+
+##### ★★★☆
+
+- <a href="https://yukicoder.me/problems/no/3032">No.3032 ホモトピー入門</a> (yukicoder contest 457 (2025-02-21) - F問題、diff <font color="yellowgreen">2257</font>)
+
+　
+<h2 id="勝利を押し付ける戦略">825. 勝利を押し付ける戦略</h2>
+
+### 難易度統計
+
+「勝利を押し付ける戦略」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
+- 全体: ★3.5／diff <font color="yellowgreen">2288</font>
+- 2026年: ★データなし／diffデータなし
+- 2025年: ★3.5／diff <font color="yellowgreen">2288</font>
+- 2024年: ★データなし／diffデータなし
+- 2023年: ★データなし／diffデータなし
+- 2022年: ★データなし／diffデータなし
+
+### レベル別問題一覧
+
+「勝利を押し付ける戦略」を主たる解法に含む問題のレベルごとの一覧です。
+
+##### ★★★☆
+
+- <a href="https://yukicoder.me/problems/no/3090">No.3090 NimNim</a> (yukicoder contest 463 (2025-04-04) - H問題、diff <font color="yellowgreen">2288</font>)
+
+　
+<h2 id="線グラフ">826. 線グラフ</h2>
+
+### 難易度統計
+
+「線グラフ」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
+- 全体: ★3.5／diff <font color="yellowgreen">2308</font>
+- 2026年: ★データなし／diffデータなし
+- 2025年: ★3.5／diff <font color="yellowgreen">2308</font>
+- 2024年: ★データなし／diffデータなし
+- 2023年: ★データなし／diffデータなし
+- 2022年: ★データなし／diffデータなし
+
+### レベル別問題一覧
+
+「線グラフ」を主たる解法に含む問題のレベルごとの一覧です。
+
+##### ★★★☆
+
+- <a href="https://yukicoder.me/problems/no/3315">No.3315 FPS Game</a> (yukicoder contest 486 オムニバス (2025-10-24) - H問題、diff <font color="yellowgreen">2308</font>)
+
+　
+<h2 id="ベルトラン・チェビシェフの定理">827. ベルトラン・チェビシェフの定理</h2>
+
+### 難易度統計
+
+「ベルトラン・チェビシェフの定理」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
+- 全体: ★3.5／diff <font color="yellowgreen">2309</font>
+- 2026年: ★データなし／diffデータなし
+- 2025年: ★データなし／diffデータなし
+- 2024年: ★データなし／diffデータなし
+- 2023年: ★3.5／diff <font color="yellowgreen">2309</font>
+- 2022年: ★データなし／diffデータなし
+
+### レベル別問題一覧
+
+「ベルトラン・チェビシェフの定理」を主たる解法に含む問題のレベルごとの一覧です。
+
+##### ★★★☆
+
+- <a href="https://yukicoder.me/problems/no/2496">No.2496 LCM between Permutations</a> (yukicoder contest 407 (2023-10-06) - E問題、diff <font color="yellowgreen">2309</font>)
+
+　
+<h2 id="素数に注目する質問">828. 素数に注目する質問</h2>
+
+### 難易度統計
+
+「素数に注目する質問」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
+- 全体: ★3.5／diff <font color="yellowgreen">2309</font>
+- 2026年: ★データなし／diffデータなし
+- 2025年: ★データなし／diffデータなし
+- 2024年: ★データなし／diffデータなし
+- 2023年: ★3.5／diff <font color="yellowgreen">2309</font>
+- 2022年: ★データなし／diffデータなし
+
+### レベル別問題一覧
+
+「素数に注目する質問」を主たる解法に含む問題のレベルごとの一覧です。
+
+##### ★★★☆
+
+- <a href="https://yukicoder.me/problems/no/2496">No.2496 LCM between Permutations</a> (yukicoder contest 407 (2023-10-06) - E問題、diff <font color="yellowgreen">2309</font>)
+
+　
+<h2 id="対角線に言及する質問">829. 対角線に言及する質問</h2>
+
+### 難易度統計
+
+「対角線に言及する質問」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
+- 全体: ★3.5／diff <font color="yellowgreen">2309</font>
+- 2026年: ★データなし／diffデータなし
+- 2025年: ★データなし／diffデータなし
+- 2024年: ★データなし／diffデータなし
+- 2023年: ★3.5／diff <font color="yellowgreen">2309</font>
+- 2022年: ★データなし／diffデータなし
+
+### レベル別問題一覧
+
+「対角線に言及する質問」を主たる解法に含む問題のレベルごとの一覧です。
+
+##### ★★★☆
+
+- <a href="https://yukicoder.me/problems/no/2496">No.2496 LCM between Permutations</a> (yukicoder contest 407 (2023-10-06) - E問題、diff <font color="yellowgreen">2309</font>)
+
+　
+<h2 id="集合変数の充足可能性判定">830. 集合変数の充足可能性判定</h2>
+
+### 難易度統計
+
+「集合変数の充足可能性判定」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
+- 全体: ★3.5／diff <font color="yellowgreen">2326</font>
+- 2026年: ★データなし／diffデータなし
+- 2025年: ★データなし／diffデータなし
+- 2024年: ★データなし／diffデータなし
+- 2023年: ★データなし／diffデータなし
+- 2022年: ★3.5／diff <font color="yellowgreen">2326</font>
+
+### レベル別問題一覧
+
+「集合変数の充足可能性判定」を主たる解法に含む問題のレベルごとの一覧です。
+
+##### ★★★☆
+
+- <a href="https://yukicoder.me/problems/no/2121">No.2121 帰属関係と充足可能性</a> (yukicoder contest 367 (2022-11-04) - E問題、diff <font color="yellowgreen">2326</font>)
+
+　
+<h2 id="強連結成分分解">831. 強連結成分分解</h2>
+
+### 難易度統計
+
+「強連結成分分解」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
+- 全体: ★3.5／diff <font color="yellowgreen">2329</font>
+- 2026年: ★3／diff <font color="yellowgreen">2065</font>
+- 2025年: ★データなし／diffデータなし
+- 2024年: ★2.5／diff <font color="deepskyblue">1542</font>
+- 2023年: ★データなし／diffデータなし
+- 2022年: ★5／diff <font color="darkgoldenrod ">3382</font>
+
+### レベル別問題一覧
+
+「強連結成分分解」を主たる解法に含む問題のレベルごとの一覧です。
+
+##### ★★☆
+
+- <a href="https://yukicoder.me/problems/no/2780">No.2780 The Bottle Imp</a> (yukicoder contest 432 (2024-06-07) - H問題、diff <font color="deepskyblue">1542</font>)
+
+##### ★★★
+
+- <a href="https://yukicoder.me/problems/no/3508">No.3508 OR Mapping</a> (CPCTF 2026: PPC (2026-04-17) - L問題、diff <font color="yellowgreen">2065</font>)
+
+##### ★★★★★
+
+- <a href="https://yukicoder.me/problems/no/2160">No.2160 みたりのDominator</a> (Advent Calendar Contest 2022 (2022-12-01) - K問題、diff <font color="darkgoldenrod ">3382</font>)
+
+　
+<h2 id="線形空間の要素の数え上げを次元計算に帰着">832. 線形空間の要素の数え上げを次元計算に帰着</h2>
+
+### 難易度統計
+
+「線形空間の要素の数え上げを次元計算に帰着」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
+- 全体: ★3.5／diff <font color="yellowgreen">2343</font>
+- 2026年: ★データなし／diffデータなし
+- 2025年: ★3.5／diff <font color="blue">1904</font>
+- 2024年: ★データなし／diffデータなし
+- 2023年: ★4／diff <font color="red">2880</font>
+- 2022年: ★3／diff <font color="yellowgreen">2245</font>
+
+### レベル別問題一覧
+
+「線形空間の要素の数え上げを次元計算に帰着」を主たる解法に含む問題のレベルごとの一覧です。
+
+##### ★★★
+
+- <a href="https://yukicoder.me/problems/no/2134">No.2134 $\sigma$-algebra over Finite Set</a> (yukicoder contest 369 (2022-11-25) - E問題、diff <font color="yellowgreen">2245</font>)
+
+##### ★★★☆
+
+- <a href="https://yukicoder.me/problems/no/3229">No.3229 Liar Game Comibination</a> (yukicoder contest 477 線形代数コンテスト (2025-08-08) - F問題、diff <font color="blue">1904</font>)
+
+##### ★★★★
+
+- <a href="https://yukicoder.me/problems/no/2274">No.2274 三角彩色</a> (yukicoder contest 384 (2023-04-14) - H問題、diff <font color="red">2880</font>)
+
+　
+<h2 id="エルハートの相互律">833. エルハートの相互律</h2>
+
+### 難易度統計
+
+「エルハートの相互律」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
+- 全体: ★3.5／diff <font color="yellowgreen">2373</font>
+- 2026年: ★データなし／diffデータなし
+- 2025年: ★3.5／diff <font color="yellowgreen">2373</font>
+- 2024年: ★データなし／diffデータなし
+- 2023年: ★データなし／diffデータなし
+- 2022年: ★データなし／diffデータなし
+
+### レベル別問題一覧
+
+「エルハートの相互律」を主たる解法に含む問題のレベルごとの一覧です。
+
+##### ★★★☆
+
+- <a href="https://yukicoder.me/problems/no/3033">No.3033 エルハートの数え上げ</a> (yukicoder contest 457 (2025-02-21) - G問題、diff <font color="yellowgreen">2373</font>)
+
+　
+<h2 id="エルハートの定理">834. エルハートの定理</h2>
+
+### 難易度統計
+
+「エルハートの定理」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
+- 全体: ★3.5／diff <font color="yellowgreen">2373</font>
+- 2026年: ★データなし／diffデータなし
+- 2025年: ★3.5／diff <font color="yellowgreen">2373</font>
+- 2024年: ★データなし／diffデータなし
+- 2023年: ★データなし／diffデータなし
+- 2022年: ★データなし／diffデータなし
+
+### レベル別問題一覧
+
+「エルハートの定理」を主たる解法に含む問題のレベルごとの一覧です。
+
+##### ★★★☆
+
+- <a href="https://yukicoder.me/problems/no/3033">No.3033 エルハートの数え上げ</a> (yukicoder contest 457 (2025-02-21) - G問題、diff <font color="yellowgreen">2373</font>)
+
+　
+<h2 id="連立一次不等式の解の数え上げ">835. 連立一次不等式の解の数え上げ</h2>
+
+### 難易度統計
+
+「連立一次不等式の解の数え上げ」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
+- 全体: ★3.5／diff <font color="yellowgreen">2373</font>
+- 2026年: ★データなし／diffデータなし
+- 2025年: ★3.5／diff <font color="yellowgreen">2373</font>
+- 2024年: ★データなし／diffデータなし
+- 2023年: ★データなし／diffデータなし
+- 2022年: ★データなし／diffデータなし
+
+### レベル別問題一覧
+
+「連立一次不等式の解の数え上げ」を主たる解法に含む問題のレベルごとの一覧です。
+
+##### ★★★☆
+
+- <a href="https://yukicoder.me/problems/no/3033">No.3033 エルハートの数え上げ</a> (yukicoder contest 457 (2025-02-21) - G問題、diff <font color="yellowgreen">2373</font>)
+
+　
+<h2 id="基底に帰着">836. 基底に帰着</h2>
+
+### 難易度統計
+
+「基底に帰着」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
+- 全体: ★3.5／diff <font color="yellowgreen">2374</font>
+- 2026年: ★データなし／diffデータなし
+- 2025年: ★3.7／diff <font color="yellowgreen">2398</font>
+- 2024年: ★データなし／diffデータなし
+- 2023年: ★3.5／diff <font color="orange">2401</font>
+- 2022年: ★3／diff <font color="yellowgreen">2245</font>
+
+### レベル別問題一覧
+
+「基底に帰着」を主たる解法に含む問題のレベルごとの一覧です。
+
+##### ★★☆
+
+- <a href="https://yukicoder.me/problems/no/2442">No.2442 線形写像</a> (yukicoder contest 402 (2023-08-25) - B問題、diff <font color="blue">1714</font>)
+
+##### ★★★
+
+- <a href="https://yukicoder.me/problems/no/2134">No.2134 $\sigma$-algebra over Finite Set</a> (yukicoder contest 369 (2022-11-25) - E問題、diff <font color="yellowgreen">2245</font>)
+
+##### ★★★☆
+
+- <a href="https://yukicoder.me/problems/no/3229">No.3229 Liar Game Comibination</a> (yukicoder contest 477 線形代数コンテスト (2025-08-08) - F問題、diff <font color="blue">1904</font>)
+
+##### ★★★★
+
+- <a href="https://yukicoder.me/problems/no/2274">No.2274 三角彩色</a> (yukicoder contest 384 (2023-04-14) - H問題、diff <font color="red">2880</font>)
+- <a href="https://yukicoder.me/problems/no/2446">No.2446 完全列</a> (yukicoder contest 402 (2023-08-25) - F問題、diff <font color="orange">2609</font>)
+- <a href="https://yukicoder.me/problems/no/3034">No.3034 コーエン-マコーレー抽象単体複体</a> (yukicoder contest 457 (2025-02-21) - H問題、diff <font color="red">2892</font>)
+
+　
+<h2 id="二項係数の第２引数を渡る総和計算">837. 二項係数の第２引数を渡る総和計算</h2>
+
+### 難易度統計
+
+「二項係数の第２引数を渡る総和計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
+- 全体: ★3.5／diff <font color="yellowgreen">2381</font>
+- 2026年: ★データなし／diffデータなし
+- 2025年: ★データなし／diffデータなし
+- 2024年: ★データなし／diffデータなし
+- 2023年: ★3.5／diff <font color="yellowgreen">2381</font>
+- 2022年: ★データなし／diffデータなし
+
+### レベル別問題一覧
+
+「二項係数の第２引数を渡る総和計算」を主たる解法に含む問題のレベルごとの一覧です。
+
+##### ★★★☆
+
+- <a href="https://yukicoder.me/problems/no/2206">No.2206 Popcount Sum 2</a> (yukicoder contest 375 (2023-02-03) - F問題、diff <font color="yellowgreen">2381</font>)
+
+　
+<h2 id="平均の指定された区間数え上げ">838. 平均の指定された区間数え上げ</h2>
+
+### 難易度統計
+
+「平均の指定された区間数え上げ」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
+- 全体: ★3.5／diff <font color="yellowgreen">2386</font>
+- 2026年: ★データなし／diffデータなし
+- 2025年: ★データなし／diffデータなし
+- 2024年: ★3.5／diff <font color="yellowgreen">2386</font>
+- 2023年: ★データなし／diffデータなし
+- 2022年: ★データなし／diffデータなし
+
+### レベル別問題一覧
+
+「平均の指定された区間数え上げ」を主たる解法に含む問題のレベルごとの一覧です。
+
+##### ★★★☆
+
+- <a href="https://yukicoder.me/problems/no/2956">No.2956 Substitute with Average</a> (yukicoder contest 452 (2024-11-08) - D問題、diff <font color="yellowgreen">2386</font>)
+
+　
+<h2 id="代数拡大">839. 代数拡大</h2>
+
+### 難易度統計
+
+「代数拡大」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
+- 全体: ★3.5／diff <font color="yellowgreen">2390</font>
+- 2026年: ★4／diff <font color="orange">2610</font>
+- 2025年: ★3.2／diff <font color="yellowgreen">2224</font>
+- 2024年: ★3／diff <font color="yellowgreen">2174</font>
+- 2023年: ★4／diff <font color="orange">2719</font>
+- 2022年: ★データなし／diffデータなし
+
+### レベル別問題一覧
+
+「代数拡大」を主たる解法に含む問題のレベルごとの一覧です。
+
+##### ★★☆
+
+- <a href="https://yukicoder.me/problems/no/3006">No.3006 ベイカーの問題</a> (yukicoder contest 455 (2025-01-17) - E問題、diff <font color="blue">1828</font>)
+
+##### ★★★
+
+- <a href="https://yukicoder.me/problems/no/2883">No.2883 K-powered Sum of Fibonacci</a> (yukicoder contest 445（菁々祭プログラミングコンテスト2024） (2024-09-08) - F問題、diff <font color="yellowgreen">2174</font>)
+
+##### ★★★★
+
+- <a href="https://yukicoder.me/problems/no/2396">No.2396 等差二項展開</a> (yukicoder contest 399 (2023-07-28) - E問題、diff <font color="orange">2719</font>)
+- <a href="https://yukicoder.me/problems/no/3170">No.3170 [Cherry 7th Tune KY] Even if you could say "See you ..."</a> (yukicoder contest 468 Desire for Approval ~Ash blown by the draft leads to the door to a new beginning~ (2025-05-30) - H問題、diff <font color="orange">2620</font>)
+- <a href="https://yukicoder.me/problems/no/3495">No.3495 ２変数半二項展開</a> (yukicoder contest 496 (2026-04-03) - H問題、diff <font color="orange">2610</font>)
+
+　
+<h2 id="メビウス変換">840. メビウス変換</h2>
+
+### 難易度統計
+
+「メビウス変換」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
+- 全体: ★3.5／diff <font color="yellowgreen">2399</font>
+- 2026年: ★3.5／diff <font color="yellowgreen">2026</font>
+- 2025年: ★4／diff <font color="orange">2658</font>
+- 2024年: ★3.5／diff <font color="yellowgreen">2392</font>
+- 2023年: ★3.5／diff <font color="orange">2473</font>
+- 2022年: ★3／diff <font color="yellowgreen">2306</font>
+
+### レベル別問題一覧
+
+「メビウス変換」を主たる解法に含む問題のレベルごとの一覧です。
+
+##### ★★☆
+
+- <a href="https://yukicoder.me/problems/no/2211">No.2211 Frequency Table of GCD</a> (yukicoder contest 376 (2023-02-10) - D問題、diff <font color="blue">1607</font>)
+
+##### ★★★
+
+- <a href="https://yukicoder.me/problems/no/2075">No.2075 GCD Subsequence</a> (yukicoder contest 360 (2022-09-16) - F問題、diff <font color="yellowgreen">2306</font>)
+- <a href="https://yukicoder.me/problems/no/2903">No.2903 A Round-the-World Trip with the Tent</a> (yukicoder contest 448 (2024-09-27) - B問題、diff <font color="blue">1900</font>)
+
+##### ★★★☆
+
+- <a href="https://yukicoder.me/problems/no/3486">No.3486 Draw a Rainbow</a> (yukicoder contest 495 (2026-03-27) - F問題、diff <font color="yellowgreen">2026</font>)
+
+##### ★★★★
+
+- <a href="https://yukicoder.me/problems/no/2262">No.2262 Fractions</a> (yukicoder contest 383 (2023-04-07) - D問題、diff <font color="red">3018</font>)
+- <a href="https://yukicoder.me/problems/no/2578">No.2578 Jewelry Store</a> (Advent Calendar Contest 2023 (2023-12-01) - F問題、diff <font color="orange">2795</font>)
+- <a href="https://yukicoder.me/problems/no/2979">No.2979 直角三角形の個数</a> (Advent Calendar Contest 2024 (2024-12-01) - C問題、diff <font color="red">2885</font>)
+- <a href="https://yukicoder.me/problems/no/3414">No.3414 Aperiodic Sequence</a> (Advent Calendar Contest 2025 (2025-12-01) - U問題、diff <font color="orange">2658</font>)
+
+　
+<h2 id="積分漸化式">841. 積分漸化式</h2>
+
+### 難易度統計
+
+「積分漸化式」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
+- 全体: ★3.5／diff <font color="orange">2401</font>
+- 2026年: ★データなし／diffデータなし
+- 2025年: ★データなし／diffデータなし
+- 2024年: ★データなし／diffデータなし
+- 2023年: ★3.5／diff <font color="orange">2401</font>
+- 2022年: ★データなし／diffデータなし
+
+### レベル別問題一覧
+
+「積分漸化式」を主たる解法に含む問題のレベルごとの一覧です。
+
+##### ★★★☆
+
+- <a href="https://yukicoder.me/problems/no/2582">No.2582 Random Average^K</a> (Advent Calendar Contest 2023 (2023-12-01) - J問題、diff <font color="orange">2401</font>)
+
+　
+<h2 id="小さい法に帰着">842. 小さい法に帰着</h2>
+
+### 難易度統計
+
+「小さい法に帰着」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
+- 全体: ★3.5／diff <font color="orange">2409</font>
+- 2026年: ★データなし／diffデータなし
+- 2025年: ★3／diff <font color="yellowgreen">2051</font>
+- 2024年: ★データなし／diffデータなし
+- 2023年: ★4／diff <font color="orange">2768</font>
+- 2022年: ★データなし／diffデータなし
+
+### レベル別問題一覧
+
+「小さい法に帰着」を主たる解法に含む問題のレベルごとの一覧です。
+
+##### ★★★
+
+- <a href="https://yukicoder.me/problems/no/3022">No.3022 一元一次式 mod 1000000000</a> (yukicoder contest 456 オムニバス (2025-02-14) - D問題、diff <font color="yellowgreen">2051</font>)
+
+##### ★★★★
+
+- <a href="https://yukicoder.me/problems/no/2344">No.2344 (l+r)^2</a> (yukicoder contest 392 (2023-06-09) - B問題、diff <font color="orange">2768</font>)
+
+　
+<h2 id="低次項の追加による線形化">843. 低次項の追加による線形化</h2>
+
+### 難易度統計
+
+「低次項の追加による線形化」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
+- 全体: ★3.5／diff <font color="orange">2418</font>
+- 2026年: ★データなし／diffデータなし
+- 2025年: ★3.2／diff <font color="yellowgreen">2023</font>
+- 2024年: ★3.5／diff <font color="orange">2741</font>
+- 2023年: ★3.5／diff <font color="orange">2406</font>
+- 2022年: ★4.5／diff <font color="darkgoldenrod ">3382</font>
+
+### レベル別問題一覧
+
+「低次項の追加による線形化」を主たる解法に含む問題のレベルごとの一覧です。
+
+##### ★★★
+
+- <a href="https://yukicoder.me/problems/no/2395">No.2395 区間二次変換一点取得</a> (yukicoder contest 399 (2023-07-28) - D問題、diff <font color="blue">1627</font>)
+- <a href="https://yukicoder.me/problems/no/2883">No.2883 K-powered Sum of Fibonacci</a> (yukicoder contest 445（菁々祭プログラミングコンテスト2024） (2024-09-08) - F問題、diff <font color="yellowgreen">2174</font>)
+- <a href="https://yukicoder.me/problems/no/3228">No.3228 Very Large Fibonacci Sum</a> (yukicoder contest 477 線形代数コンテスト (2025-08-08) - E問題、diff <font color="deepskyblue">1539</font>)
+- <a href="https://yukicoder.me/problems/no/3312">No.3312 Fire Engine</a> (yukicoder contest 486 オムニバス (2025-10-24) - E問題、diff <font color="yellowgreen">2002</font>)
+
+##### ★★★☆
+
+- <a href="https://yukicoder.me/problems/no/3182">No.3182 recurrence relation’s intersection sum</a> (yukicoder contest 470 (2025-06-13) - F問題、diff <font color="yellowgreen">2152</font>)
+- <a href="https://yukicoder.me/problems/no/3202">No.3202 Periodic Alternating Subsequence</a> (yukicoder contest 473 第1回 生成AI作問コンテスト (2025-07-11) - H問題、diff <font color="yellowgreen">2399</font>)
+
+##### ★★★★
+
+- <a href="https://yukicoder.me/problems/no/2448">No.2448 一次変換と面積</a> (yukicoder contest 402 (2023-08-25) - H問題、diff <font color="red">3185</font>)
+- <a href="https://yukicoder.me/problems/no/2995">No.2995 The Ruler Sequence Concatenation</a> (Advent Calendar Contest 2024 (2024-12-01) - S問題、diff <font color="darkgoldenrod ">3309</font>)
+
+##### ★★★★☆
+
+- <a href="https://yukicoder.me/problems/no/2163">No.2163 LCA Sum Query</a> (Advent Calendar Contest 2022 (2022-12-01) - N問題、diff <font color="darkgoldenrod ">3382</font>)
+
+　
+<h2 id="掃き出し法による行列式計算">844. 掃き出し法による行列式計算</h2>
+
+### 難易度統計
+
+「掃き出し法による行列式計算」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
+- 全体: ★3.5／diff <font color="orange">2421</font>
+- 2026年: ★データなし／diffデータなし
+- 2025年: ★データなし／diffデータなし
+- 2024年: ★3.5／diff <font color="orange">2421</font>
+- 2023年: ★データなし／diffデータなし
+- 2022年: ★データなし／diffデータなし
+
+### レベル別問題一覧
+
+「掃き出し法による行列式計算」を主たる解法に含む問題のレベルごとの一覧です。
+
+##### ★★★☆
+
+- <a href="https://yukicoder.me/problems/no/2727">No.2727 Tetrahedron Game</a> (yukicoder contest 427 (ゲーム問題コンテスト) (2024-04-12) - G問題、diff <font color="orange">2421</font>)
+
+　
+<h2 id="隣接頂点和取得">845. 隣接頂点和取得</h2>
+
+### 難易度統計
+
+「隣接頂点和取得」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
+- 全体: ★3.5／diff <font color="orange">2433</font>
+- 2026年: ★データなし／diffデータなし
+- 2025年: ★3.5／diff <font color="orange">2433</font>
+- 2024年: ★データなし／diffデータなし
+- 2023年: ★データなし／diffデータなし
+- 2022年: ★データなし／diffデータなし
+
+### レベル別問題一覧
+
+「隣接頂点和取得」を主たる解法に含む問題のレベルごとの一覧です。
+
+##### ★★★☆
+
+- <a href="https://yukicoder.me/problems/no/3025">No.3025 Chocol∀te</a> (yukicoder contest 456 オムニバス (2025-02-14) - G問題、diff <font color="orange">2433</font>)
+
+　
+<h2 id="単調関数の像計算を階差の非零点の数え上げに帰着">846. 単調関数の像計算を階差の非零点の数え上げに帰着</h2>
+
+### 難易度統計
+
+「単調関数の像計算を階差の非零点の数え上げに帰着」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
+- 全体: ★3.5／diff <font color="orange">2471</font>
+- 2026年: ★データなし／diffデータなし
+- 2025年: ★データなし／diffデータなし
+- 2024年: ★データなし／diffデータなし
+- 2023年: ★3.5／diff <font color="orange">2471</font>
+- 2022年: ★データなし／diffデータなし
+
+### レベル別問題一覧
+
+「単調関数の像計算を階差の非零点の数え上げに帰着」を主たる解法に含む問題のレベルごとの一覧です。
+
+##### ★★★☆
+
+- <a href="https://yukicoder.me/problems/no/2221">No.2221 Set X</a> (yukicoder contest 377 (2023-02-17) - F問題、diff <font color="orange">2471</font>)
+
+　
+<h2 id="更新クエリの区間による作用">847. 更新クエリの区間による作用</h2>
+
+### 難易度統計
+
+「更新クエリの区間による作用」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
+- 全体: ★3.5／diff <font color="orange">2506</font>
+- 2026年: ★データなし／diffデータなし
+- 2025年: ★3.5／diff <font color="orange">2506</font>
+- 2024年: ★データなし／diffデータなし
+- 2023年: ★データなし／diffデータなし
+- 2022年: ★データなし／diffデータなし
+
+### レベル別問題一覧
+
+「更新クエリの区間による作用」を主たる解法に含む問題のレベルごとの一覧です。
+
+##### ★★★☆
+
+- <a href="https://yukicoder.me/problems/no/3314">No.3314 Library Rearrangement</a> (yukicoder contest 486 オムニバス (2025-10-24) - G問題、diff <font color="orange">2506</font>)
+
+　
+<h2 id="遅延セグメント木Beats">848. 遅延セグメント木Beats</h2>
+
+### 難易度統計
+
+「遅延セグメント木Beats」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
+- 全体: ★3.5／diff <font color="orange">2506</font>
+- 2026年: ★データなし／diffデータなし
+- 2025年: ★3.5／diff <font color="orange">2506</font>
+- 2024年: ★データなし／diffデータなし
+- 2023年: ★データなし／diffデータなし
+- 2022年: ★データなし／diffデータなし
+
+### レベル別問題一覧
+
+「遅延セグメント木Beats」を主たる解法に含む問題のレベルごとの一覧です。
+
+##### ★★★☆
+
+- <a href="https://yukicoder.me/problems/no/3314">No.3314 Library Rearrangement</a> (yukicoder contest 486 オムニバス (2025-10-24) - G問題、diff <font color="orange">2506</font>)
+
+　
+<h2 id="疎な行列演算の計算結果書き出しによる高速化">849. 疎な行列演算の計算結果書き出しによる高速化</h2>
+
+### 難易度統計
+
+「疎な行列演算の計算結果書き出しによる高速化」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
+- 全体: ★3.5／diff <font color="orange">2521</font>
+- 2026年: ★データなし／diffデータなし
+- 2025年: ★データなし／diffデータなし
+- 2024年: ★データなし／diffデータなし
+- 2023年: ★3.5／diff <font color="orange">2521</font>
+- 2022年: ★データなし／diffデータなし
+
+### レベル別問題一覧
+
+「疎な行列演算の計算結果書き出しによる高速化」を主たる解法に含む問題のレベルごとの一覧です。
+
+##### ★★★
+
+- <a href="https://yukicoder.me/problems/no/2395">No.2395 区間二次変換一点取得</a> (yukicoder contest 399 (2023-07-28) - D問題、diff <font color="blue">1627</font>)
+
+##### ★★★☆
+
+- <a href="https://yukicoder.me/problems/no/2540">No.2540 同値性判定</a> (yukicoder contest 412 (2023-11-10) - H問題、diff <font color="darkgoldenrod ">3217</font>)
+
+##### ★★★★
+
+- <a href="https://yukicoder.me/problems/no/2396">No.2396 等差二項展開</a> (yukicoder contest 399 (2023-07-28) - E問題、diff <font color="orange">2719</font>)
+
+　
+<h2 id="括弧列のワイルドカードを左右から貪欲に開き・閉じ括弧に翻訳">850. 括弧列のワイルドカードを左右から貪欲に開き・閉じ括弧に翻訳</h2>
+
+### 難易度統計
+
+「括弧列のワイルドカードを左右から貪欲に開き・閉じ括弧に翻訳」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
+- 全体: ★3.5／diff <font color="orange">2532</font>
+- 2026年: ★データなし／diffデータなし
+- 2025年: ★データなし／diffデータなし
+- 2024年: ★データなし／diffデータなし
+- 2023年: ★データなし／diffデータなし
+- 2022年: ★3.5／diff <font color="orange">2532</font>
+
+### レベル別問題一覧
+
+「括弧列のワイルドカードを左右から貪欲に開き・閉じ括弧に翻訳」を主たる解法に含む問題のレベルごとの一覧です。
+
+##### ★★★☆
+
+- <a href="https://yukicoder.me/problems/no/2106">No.2106 Wild Cacco</a> (yukicoder contest 365 (2022-10-21) - D問題、diff <font color="orange">2532</font>)
+
+　
+<h2 id="ナップサック割り当て可能性判定">851. ナップサック割り当て可能性判定</h2>
+
+### 難易度統計
+
+「ナップサック割り当て可能性判定」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
+- 全体: ★3.5／diff <font color="orange">2562</font>
+- 2026年: ★データなし／diffデータなし
+- 2025年: ★2／diff <font color="blue">1815</font>
+- 2024年: ★5／diff <font color="darkgoldenrod ">3309</font>
+- 2023年: ★データなし／diffデータなし
+- 2022年: ★データなし／diffデータなし
+
+### レベル別問題一覧
+
+「ナップサック割り当て可能性判定」を主たる解法に含む問題のレベルごとの一覧です。
+
+##### ★★
+
+- <a href="https://yukicoder.me/problems/no/3282">No.3282 Photos and Friends</a> (yukicoder contest 484 (2025-09-26) - D問題、diff <font color="blue">1815</font>)
+
+##### ★★★★★
+
+- <a href="https://yukicoder.me/problems/no/2987">No.2987 Colorful University of Tree</a> (Advent Calendar Contest 2024 (2024-12-01) - K問題、diff <font color="darkgoldenrod ">3309</font>)
+
+　
+<h2 id="複数ナップサック割り当て可能性判定">852. 複数ナップサック割り当て可能性判定</h2>
+
+### 難易度統計
+
+「複数ナップサック割り当て可能性判定」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
+- 全体: ★3.5／diff <font color="orange">2562</font>
+- 2026年: ★データなし／diffデータなし
+- 2025年: ★2／diff <font color="blue">1815</font>
+- 2024年: ★5／diff <font color="darkgoldenrod ">3309</font>
+- 2023年: ★データなし／diffデータなし
+- 2022年: ★データなし／diffデータなし
+
+### レベル別問題一覧
+
+「複数ナップサック割り当て可能性判定」を主たる解法に含む問題のレベルごとの一覧です。
+
+##### ★★
+
+- <a href="https://yukicoder.me/problems/no/3282">No.3282 Photos and Friends</a> (yukicoder contest 484 (2025-09-26) - D問題、diff <font color="blue">1815</font>)
+
+##### ★★★★★
+
+- <a href="https://yukicoder.me/problems/no/2987">No.2987 Colorful University of Tree</a> (Advent Calendar Contest 2024 (2024-12-01) - K問題、diff <font color="darkgoldenrod ">3309</font>)
+
+　
+<h2 id="木の縮約における葉の連続削除をノードの縮約に翻訳">853. 木の縮約における葉の連続削除をノードの縮約に翻訳</h2>
+
+### 難易度統計
+
+「木の縮約における葉の連続削除をノードの縮約に翻訳」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
+- 全体: ★3.5／diff <font color="orange">2565</font>
+- 2026年: ★データなし／diffデータなし
+- 2025年: ★3.5／diff <font color="orange">2565</font>
+- 2024年: ★データなし／diffデータなし
+- 2023年: ★データなし／diffデータなし
+- 2022年: ★データなし／diffデータなし
+
+### レベル別問題一覧
+
+「木の縮約における葉の連続削除をノードの縮約に翻訳」を主たる解法に含む問題のレベルごとの一覧です。
+
+##### ★★★☆
+
+- <a href="https://yukicoder.me/problems/no/3148">No.3148 Min-Cost Destruction of Parentheses</a> (yukicoder contest 467 (2025-05-16) - I問題、diff <font color="orange">2565</font>)
+
+　
+<h2 id="木の葉の削除更新">854. 木の葉の削除更新</h2>
+
+### 難易度統計
+
+「木の葉の削除更新」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
+- 全体: ★3.5／diff <font color="orange">2565</font>
+- 2026年: ★データなし／diffデータなし
+- 2025年: ★3.5／diff <font color="orange">2565</font>
+- 2024年: ★データなし／diffデータなし
+- 2023年: ★データなし／diffデータなし
+- 2022年: ★データなし／diffデータなし
+
+### レベル別問題一覧
+
+「木の葉の削除更新」を主たる解法に含む問題のレベルごとの一覧です。
+
+##### ★★★☆
+
+- <a href="https://yukicoder.me/problems/no/3148">No.3148 Min-Cost Destruction of Parentheses</a> (yukicoder contest 467 (2025-05-16) - I問題、diff <font color="orange">2565</font>)
+
+　
+<h2 id="コーシー・グルサの積分公式">855. コーシー・グルサの積分公式</h2>
+
+### 難易度統計
+
+「コーシー・グルサの積分公式」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
+- 全体: ★3.5／diff <font color="orange">2567</font>
+- 2026年: ★データなし／diffデータなし
+- 2025年: ★データなし／diffデータなし
+- 2024年: ★3.5／diff <font color="orange">2567</font>
+- 2023年: ★データなし／diffデータなし
+- 2022年: ★データなし／diffデータなし
+
+### レベル別問題一覧
+
+「コーシー・グルサの積分公式」を主たる解法に含む問題のレベルごとの一覧です。
+
+##### ★★★☆
+
+- <a href="https://yukicoder.me/problems/no/2973">No.2973 シュニレルマン積分入門</a> (yukicoder contest 454 (2024-11-29) - E問題、diff <font color="orange">2567</font>)
+
+　
+<h2 id="木の縮約">856. 木の縮約</h2>
 
 ### 難易度統計
 
@@ -30627,7 +30913,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2595">No.2595 Parsing Challenge</a> (Advent Calendar Contest 2023 (2023-12-01) - W問題、diff <font color="darkgoldenrod ">3316</font>)
 
 　
-<h2 id="定義域の再帰的二等分による単調関数の計算">847. 定義域の再帰的二等分による単調関数の計算</h2>
+<h2 id="定義域の再帰的二等分による単調関数の計算">857. 定義域の再帰的二等分による単調関数の計算</h2>
 
 ### 難易度統計
 
@@ -30653,7 +30939,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2988">No.2988 Min-Plus Convolution Query</a> (Advent Calendar Contest 2024 (2024-12-01) - L問題、diff <font color="red">3115</font>)
 
 　
-<h2 id="グロタンディーク化">848. グロタンディーク化</h2>
+<h2 id="グロタンディーク化">858. グロタンディーク化</h2>
 
 ### 難易度統計
 
@@ -30698,7 +30984,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2990">No.2990 Interval XOR</a> (Advent Calendar Contest 2024 (2024-12-01) - N問題、diff <font color="red">3115</font>)
 
 　
-<h2 id="写像の構築">849. 写像の構築</h2>
+<h2 id="写像の構築">859. 写像の構築</h2>
 
 ### 難易度統計
 
@@ -30727,7 +31013,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3023">No.3023 Utility is Max?</a> (yukicoder contest 456 オムニバス (2025-02-14) - E問題、diff <font color="red">2833</font>)
 
 　
-<h2 id="一対一対応">850. 一対一対応</h2>
+<h2 id="一対一対応">860. 一対一対応</h2>
 
 ### 難易度統計
 
@@ -30764,7 +31050,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2398">No.2398 ヒドラ崩し</a> (yukicoder contest 399 (2023-07-28) - G問題、diff <font color="red">3178</font>)
 
 　
-<h2 id="自由加群">851. 自由加群</h2>
+<h2 id="自由加群">861. 自由加群</h2>
 
 ### 難易度統計
 
@@ -30785,7 +31071,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2273">No.2273 一点乗除区間積</a> (yukicoder contest 384 (2023-04-14) - G問題、diff <font color="orange">2708</font>)
 
 　
-<h2 id="リュカの定理">852. リュカの定理</h2>
+<h2 id="リュカの定理">862. リュカの定理</h2>
 
 ### 難易度統計
 
@@ -30810,7 +31096,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2344">No.2344 (l+r)^2</a> (yukicoder contest 392 (2023-06-09) - B問題、diff <font color="orange">2768</font>)
 
 　
-<h2 id="01列と根付き木の対応">853. 01列と根付き木の対応</h2>
+<h2 id="01列と根付き木の対応">863. 01列と根付き木の対応</h2>
 
 ### 難易度統計
 
@@ -30832,7 +31118,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3148">No.3148 Min-Cost Destruction of Parentheses</a> (yukicoder contest 467 (2025-05-16) - I問題、diff <font color="orange">2565</font>)
 
 　
-<h2 id="階数因数分解">854. 階数因数分解</h2>
+<h2 id="階数因数分解">864. 階数因数分解</h2>
 
 ### 難易度統計
 
@@ -30853,7 +31139,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2405">No.2405 Minimal Matrix Decomposition</a> (yukicoder contest 400 (2023-08-04) - G問題、diff <font color="orange">2741</font>)
 
 　
-<h2 id="suffix array">855. suffix array</h2>
+<h2 id="suffix array">865. suffix array</h2>
 
 ### 難易度統計
 
@@ -30874,7 +31160,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3188">No.3188 K-th Lexmin</a> (yukicoder contest 471 (2025-06-20) - F問題、diff <font color="orange">2753</font>)
 
 　
-<h2 id="三角関数計算">856. 三角関数計算</h2>
+<h2 id="三角関数計算">866. 三角関数計算</h2>
 
 ### 難易度統計
 
@@ -30900,7 +31186,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3404">No.3404 形式群法則</a> (Advent Calendar Contest 2025 (2025-12-01) - K問題、diff <font color="red">2813</font>)
 
 　
-<h2 id="積とのGCDを剰余の積とのGCDに帰着">857. 積とのGCDを剰余の積とのGCDに帰着</h2>
+<h2 id="積とのGCDを剰余の積とのGCDに帰着">867. 積とのGCDを剰余の積とのGCDに帰着</h2>
 
 ### 難易度統計
 
@@ -30921,7 +31207,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3396">No.3396 ChRisTmas memory</a> (Advent Calendar Contest 2025 (2025-12-01) - C問題、diff <font color="red">2872</font>)
 
 　
-<h2 id="メモ化再帰の計算量を再帰深度で評価する考察">858. メモ化再帰の計算量を再帰深度で評価する考察</h2>
+<h2 id="メモ化再帰の計算量を再帰深度で評価する考察">868. メモ化再帰の計算量を再帰深度で評価する考察</h2>
 
 ### 難易度統計
 
@@ -30943,7 +31229,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2539">No.2539 スライムゲーム</a> (yukicoder contest 412 (2023-11-10) - G問題、diff <font color="red">3014</font>)
 
 　
-<h2 id="グラフ畳み込み">859. グラフ畳み込み</h2>
+<h2 id="グラフ畳み込み">869. グラフ畳み込み</h2>
 
 ### 難易度統計
 
@@ -30964,7 +31250,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2981">No.2981 Pack Tree into Grid</a> (Advent Calendar Contest 2024 (2024-12-01) - E問題、diff <font color="red">2885</font>)
 
 　
-<h2 id="全単射の構築">860. 全単射の構築</h2>
+<h2 id="全単射の構築">870. 全単射の構築</h2>
 
 ### 難易度統計
 
@@ -30985,7 +31271,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2981">No.2981 Pack Tree into Grid</a> (Advent Calendar Contest 2024 (2024-12-01) - E問題、diff <font color="red">2885</font>)
 
 　
-<h2 id="なもり先生グラフの最短経路長の総和計算">861. なもり先生グラフの最短経路長の総和計算</h2>
+<h2 id="なもり先生グラフの最短経路長の総和計算">871. なもり先生グラフの最短経路長の総和計算</h2>
 
 ### 難易度統計
 
@@ -31006,7 +31292,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2129">No.2129 Perfect Binary Tree...?</a> (yukicoder contest 368 (2022-11-18) - F問題、diff <font color="red">2892</font>)
 
 　
-<h2 id="木の最短経路長の総和の群">862. 木の最短経路長の総和の群</h2>
+<h2 id="木の最短経路長の総和の群">872. 木の最短経路長の総和の群</h2>
 
 ### 難易度統計
 
@@ -31027,7 +31313,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2129">No.2129 Perfect Binary Tree...?</a> (yukicoder contest 368 (2022-11-18) - F問題、diff <font color="red">2892</font>)
 
 　
-<h2 id="cyclic orderつき全方位木DP">863. cyclic orderつき全方位木DP</h2>
+<h2 id="cyclic orderつき全方位木DP">873. cyclic orderつき全方位木DP</h2>
 
 ### 難易度統計
 
@@ -31048,7 +31334,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2584">No.2584 The University of Tree</a> (Advent Calendar Contest 2023 (2023-12-01) - L問題、diff <font color="red">2960</font>)
 
 　
-<h2 id="functional completeness">864. functional completeness</h2>
+<h2 id="functional completeness">874. functional completeness</h2>
 
 ### 難易度統計
 
@@ -31069,7 +31355,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2540">No.2540 同値性判定</a> (yukicoder contest 412 (2023-11-10) - H問題、diff <font color="darkgoldenrod ">3217</font>)
 
 　
-<h2 id="真理値表">865. 真理値表</h2>
+<h2 id="真理値表">875. 真理値表</h2>
 
 ### 難易度統計
 
@@ -31090,7 +31376,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2540">No.2540 同値性判定</a> (yukicoder contest 412 (2023-11-10) - H問題、diff <font color="darkgoldenrod ">3217</font>)
 
 　
-<h2 id="リアクティブによる特定3401">866. リアクティブによる特定3401</h2>
+<h2 id="リアクティブによる特定3401">876. リアクティブによる特定3401</h2>
 
 ### 難易度統計
 
@@ -31111,7 +31397,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3400">No.3400 Nana's Plus Permutation Game (7 + 7) ÷ 7</a> (Advent Calendar Contest 2025 (2025-12-01) - G問題、diff <font color="darkgoldenrod ">3296</font>)
 
 　
-<h2 id="最短完全二部マッチング計算">867. 最短完全二部マッチング計算</h2>
+<h2 id="最短完全二部マッチング計算">877. 最短完全二部マッチング計算</h2>
 
 ### 難易度統計
 
@@ -31132,7 +31418,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2114">No.2114 01 Matching</a> (yukicoder contest 366 (2022-10-28) - F問題、diff <font color="darkgoldenrod ">3384</font>)
 
 　
-<h2 id="配列の成分のシフトを添え字のシフトに翻訳">868. 配列の成分のシフトを添え字のシフトに翻訳</h2>
+<h2 id="配列の成分のシフトを添え字のシフトに翻訳">878. 配列の成分のシフトを添え字のシフトに翻訳</h2>
 
 ### 難易度統計
 
@@ -31153,7 +31439,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2114">No.2114 01 Matching</a> (yukicoder contest 366 (2022-10-28) - F問題、diff <font color="darkgoldenrod ">3384</font>)
 
 　
-<h2 id="自由加群と平方分割によるメモリ削減">869. 自由加群と平方分割によるメモリ削減</h2>
+<h2 id="自由加群と平方分割によるメモリ削減">879. 自由加群と平方分割によるメモリ削減</h2>
 
 ### 難易度統計
 
@@ -31174,7 +31460,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3239">No.3239 Omnibus</a> (yukicoder contest 478 (2025-08-15) - H問題、diffデータなし)
 
 　
-<h2 id="動的セグメント木">870. 動的セグメント木</h2>
+<h2 id="動的セグメント木">880. 動的セグメント木</h2>
 
 ### 難易度統計
 
@@ -31195,7 +31481,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3239">No.3239 Omnibus</a> (yukicoder contest 478 (2025-08-15) - H問題、diffデータなし)
 
 　
-<h2 id="動的フェニック木">871. 動的フェニック木</h2>
+<h2 id="動的フェニック木">881. 動的フェニック木</h2>
 
 ### 難易度統計
 
@@ -31216,7 +31502,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3239">No.3239 Omnibus</a> (yukicoder contest 478 (2025-08-15) - H問題、diffデータなし)
 
 　
-<h2 id="平衡二分探索木">872. 平衡二分探索木</h2>
+<h2 id="平衡二分探索木">882. 平衡二分探索木</h2>
 
 ### 難易度統計
 
@@ -31237,7 +31523,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3239">No.3239 Omnibus</a> (yukicoder contest 478 (2025-08-15) - H問題、diffデータなし)
 
 　
-<h2 id="連想配列の区間和取得">873. 連想配列の区間和取得</h2>
+<h2 id="連想配列の区間和取得">883. 連想配列の区間和取得</h2>
 
 ### 難易度統計
 
@@ -31258,7 +31544,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3239">No.3239 Omnibus</a> (yukicoder contest 478 (2025-08-15) - H問題、diffデータなし)
 
 　
-<h2 id="総和の指定された部分列数え上げ">874. 総和の指定された部分列数え上げ</h2>
+<h2 id="総和の指定された部分列数え上げ">884. 総和の指定された部分列数え上げ</h2>
 
 ### 難易度統計
 
@@ -31287,7 +31573,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2062">No.2062 Sum of Subset mod 999630629</a> (yukicoder contest 358 (2022-08-26) - G問題、diff <font color="orange">2553</font>)
 
 　
-<h2 id="Polynomial Taylor shift">875. Polynomial Taylor shift</h2>
+<h2 id="Polynomial Taylor shift">885. Polynomial Taylor shift</h2>
 
 ### 難易度統計
 
@@ -31316,7 +31602,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2583">No.2583 Differential Equation (Enhanced version)</a> (Advent Calendar Contest 2023 (2023-12-01) - K問題、diff <font color="darkgoldenrod ">3316</font>)
 
 　
-<h2 id="約数メビウス変換">876. 約数メビウス変換</h2>
+<h2 id="約数メビウス変換">886. 約数メビウス変換</h2>
 
 ### 難易度統計
 
@@ -31344,7 +31630,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3414">No.3414 Aperiodic Sequence</a> (Advent Calendar Contest 2025 (2025-12-01) - U問題、diff <font color="orange">2658</font>)
 
 　
-<h2 id="階数計算">877. 階数計算</h2>
+<h2 id="階数計算">887. 階数計算</h2>
 
 ### 難易度統計
 
@@ -31384,7 +31670,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2985">No.2985 May Count Induced C4 Subgraphs</a> (Advent Calendar Contest 2024 (2024-12-01) - I問題、diff <font color="red">3115</font>)
 
 　
-<h2 id="行列の簡約階段化">878. 行列の簡約階段化</h2>
+<h2 id="行列の簡約階段化">888. 行列の簡約階段化</h2>
 
 ### 難易度統計
 
@@ -31424,7 +31710,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2985">No.2985 May Count Induced C4 Subgraphs</a> (Advent Calendar Contest 2024 (2024-12-01) - I問題、diff <font color="red">3115</font>)
 
 　
-<h2 id="ゲルファント変換">879. ゲルファント変換</h2>
+<h2 id="ゲルファント変換">889. ゲルファント変換</h2>
 
 ### 難易度統計
 
@@ -31499,7 +31785,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2166">No.2166 Paint and Fill</a> (Advent Calendar Contest 2022 (2022-12-01) - S問題、diff <font color="darkgoldenrod ">3577</font>)
 
 　
-<h2 id="掃き出し法">880. 掃き出し法</h2>
+<h2 id="掃き出し法">890. 掃き出し法</h2>
 
 ### 難易度統計
 
@@ -31547,7 +31833,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2589">No.2589 Prepare Integers</a> (Advent Calendar Contest 2023 (2023-12-01) - Q問題、diff <font color="darkgoldenrod ">3503</font>)
 
 　
-<h2 id="畳み込み">881. 畳み込み</h2>
+<h2 id="畳み込み">891. 畳み込み</h2>
 
 ### 難易度統計
 
@@ -31622,7 +31908,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2166">No.2166 Paint and Fill</a> (Advent Calendar Contest 2022 (2022-12-01) - S問題、diff <font color="darkgoldenrod ">3577</font>)
 
 　
-<h2 id="行列の階段化">882. 行列の階段化</h2>
+<h2 id="行列の階段化">892. 行列の階段化</h2>
 
 ### 難易度統計
 
@@ -31662,7 +31948,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2589">No.2589 Prepare Integers</a> (Advent Calendar Contest 2023 (2023-12-01) - Q問題、diff <font color="darkgoldenrod ">3503</font>)
 
 　
-<h2 id="彩色の構築">883. 彩色の構築</h2>
+<h2 id="彩色の構築">893. 彩色の構築</h2>
 
 ### 難易度統計
 
@@ -31698,7 +31984,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2987">No.2987 Colorful University of Tree</a> (Advent Calendar Contest 2024 (2024-12-01) - K問題、diff <font color="darkgoldenrod ">3309</font>)
 
 　
-<h2 id="有向辺反転">884. 有向辺反転</h2>
+<h2 id="有向辺反転">894. 有向辺反転</h2>
 
 ### 難易度統計
 
@@ -31723,7 +32009,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2160">No.2160 みたりのDominator</a> (Advent Calendar Contest 2022 (2022-12-01) - K問題、diff <font color="darkgoldenrod ">3382</font>)
 
 　
-<h2 id="指数と対数による冪乗・総乗計算">885. 指数と対数による冪乗・総乗計算</h2>
+<h2 id="指数と対数による冪乗・総乗計算">895. 指数と対数による冪乗・総乗計算</h2>
 
 ### 難易度統計
 
@@ -31754,7 +32040,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2062">No.2062 Sum of Subset mod 999630629</a> (yukicoder contest 358 (2022-08-26) - G問題、diff <font color="orange">2553</font>)
 
 　
-<h2 id="基底計算">886. 基底計算</h2>
+<h2 id="基底計算">896. 基底計算</h2>
 
 ### 難易度統計
 
@@ -31785,7 +32071,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3034">No.3034 コーエン-マコーレー抽象単体複体</a> (yukicoder contest 457 (2025-02-21) - H問題、diff <font color="red">2892</font>)
 
 　
-<h2 id="次元計算">887. 次元計算</h2>
+<h2 id="次元計算">897. 次元計算</h2>
 
 ### 難易度統計
 
@@ -31816,7 +32102,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3034">No.3034 コーエン-マコーレー抽象単体複体</a> (yukicoder contest 457 (2025-02-21) - H問題、diff <font color="red">2892</font>)
 
 　
-<h2 id="凸集合の格子点数え上げ">888. 凸集合の格子点数え上げ</h2>
+<h2 id="凸集合の格子点数え上げ">898. 凸集合の格子点数え上げ</h2>
 
 ### 難易度統計
 
@@ -31841,7 +32127,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2979">No.2979 直角三角形の個数</a> (Advent Calendar Contest 2024 (2024-12-01) - C問題、diff <font color="red">2885</font>)
 
 　
-<h2 id="バケット分割による分割統治">889. バケット分割による分割統治</h2>
+<h2 id="バケット分割による分割統治">899. バケット分割による分割統治</h2>
 
 ### 難易度統計
 
@@ -31877,7 +32163,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2166">No.2166 Paint and Fill</a> (Advent Calendar Contest 2022 (2022-12-01) - S問題、diff <font color="darkgoldenrod ">3577</font>)
 
 　
-<h2 id="monotone minima">890. monotone minima</h2>
+<h2 id="monotone minima">900. monotone minima</h2>
 
 ### 難易度統計
 
@@ -31902,7 +32188,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2988">No.2988 Min-Plus Convolution Query</a> (Advent Calendar Contest 2024 (2024-12-01) - L問題、diff <font color="red">3115</font>)
 
 　
-<h2 id="２変数関数の１変数を固定した最大・最小値計算">891. ２変数関数の１変数を固定した最大・最小値計算</h2>
+<h2 id="２変数関数の１変数を固定した最大・最小値計算">901. ２変数関数の１変数を固定した最大・最小値計算</h2>
 
 ### 難易度統計
 
@@ -31927,7 +32213,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2988">No.2988 Min-Plus Convolution Query</a> (Advent Calendar Contest 2024 (2024-12-01) - L問題、diff <font color="red">3115</font>)
 
 　
-<h2 id="floor_sum再帰">892. floor_sum再帰</h2>
+<h2 id="floor_sum再帰">902. floor_sum再帰</h2>
 
 ### 難易度統計
 
@@ -31961,7 +32247,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2996">No.2996 Floor Sum</a> (Advent Calendar Contest 2024 (2024-12-01) - T問題、diff <font color="darkgoldenrod ">3309</font>)
 
 　
-<h2 id="等差数列の商のfloorを用いたモノイド演算計算">893. 等差数列の商のfloorを用いたモノイド演算計算</h2>
+<h2 id="等差数列の商のfloorを用いたモノイド演算計算">903. 等差数列の商のfloorを用いたモノイド演算計算</h2>
 
 ### 難易度統計
 
@@ -31986,7 +32272,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3398">No.3398 Accuracy of Integer Division Approximate Function 2</a> (Advent Calendar Contest 2025 (2025-12-01) - E問題、diff <font color="darkgoldenrod ">3477</font>)
 
 　
-<h2 id="等差数列の商のfloorを用いた最大値・最小値計算">894. 等差数列の商のfloorを用いた最大値・最小値計算</h2>
+<h2 id="等差数列の商のfloorを用いた最大値・最小値計算">904. 等差数列の商のfloorを用いた最大値・最小値計算</h2>
 
 ### 難易度統計
 
@@ -32011,7 +32297,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3398">No.3398 Accuracy of Integer Division Approximate Function 2</a> (Advent Calendar Contest 2025 (2025-12-01) - E問題、diff <font color="darkgoldenrod ">3477</font>)
 
 　
-<h2 id="非結合的マグマ演算に関する区間更新">895. 非結合的マグマ演算に関する区間更新</h2>
+<h2 id="非結合的マグマ演算に関する区間更新">905. 非結合的マグマ演算に関する区間更新</h2>
 
 ### 難易度統計
 
@@ -32036,7 +32322,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3524">No.3524 二進範囲更新範囲和取得</a> (yukicoder contest 498 リアクティブコンテスト (2026-05-01) - G問題、diffデータなし)
 
 　
-<h2 id="非結合的マグマ演算を自己写像に翻訳">896. 非結合的マグマ演算を自己写像に翻訳</h2>
+<h2 id="非結合的マグマ演算を自己写像に翻訳">906. 非結合的マグマ演算を自己写像に翻訳</h2>
 
 ### 難易度統計
 
@@ -32061,7 +32347,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3524">No.3524 二進範囲更新範囲和取得</a> (yukicoder contest 498 リアクティブコンテスト (2026-05-01) - G問題、diffデータなし)
 
 　
-<h2 id="次元定理">897. 次元定理</h2>
+<h2 id="次元定理">907. 次元定理</h2>
 
 ### 難易度統計
 
@@ -32088,7 +32374,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3034">No.3034 コーエン-マコーレー抽象単体複体</a> (yukicoder contest 457 (2025-02-21) - H問題、diff <font color="red">2892</font>)
 
 　
-<h2 id="高速フーリエ変換">898. 高速フーリエ変換</h2>
+<h2 id="高速フーリエ変換">908. 高速フーリエ変換</h2>
 
 ### 難易度統計
 
@@ -32145,7 +32431,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2166">No.2166 Paint and Fill</a> (Advent Calendar Contest 2022 (2022-12-01) - S問題、diff <font color="darkgoldenrod ">3577</font>)
 
 　
-<h2 id="疎な多項式の畳み込み">899. 疎な多項式の畳み込み</h2>
+<h2 id="疎な多項式の畳み込み">909. 疎な多項式の畳み込み</h2>
 
 ### 難易度統計
 
@@ -32174,7 +32460,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2062">No.2062 Sum of Subset mod 999630629</a> (yukicoder contest 358 (2022-08-26) - G問題、diff <font color="orange">2553</font>)
 
 　
-<h2 id="データ構造をマージする一般的なテク">900. データ構造をマージする一般的なテク</h2>
+<h2 id="データ構造をマージする一般的なテク">910. データ構造をマージする一般的なテク</h2>
 
 ### 難易度統計
 
@@ -32219,7 +32505,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2166">No.2166 Paint and Fill</a> (Advent Calendar Contest 2022 (2022-12-01) - S問題、diff <font color="darkgoldenrod ">3577</font>)
 
 　
-<h2 id="XOR畳み込み">901. XOR畳み込み</h2>
+<h2 id="XOR畳み込み">911. XOR畳み込み</h2>
 
 ### 難易度統計
 
@@ -32244,7 +32530,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2990">No.2990 Interval XOR</a> (Advent Calendar Contest 2024 (2024-12-01) - N問題、diff <font color="red">3115</font>)
 
 　
-<h2 id="最小多項式計算">902. 最小多項式計算</h2>
+<h2 id="最小多項式計算">912. 最小多項式計算</h2>
 
 ### 難易度統計
 
@@ -32265,7 +32551,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3231">No.3231 2×2行列相似判定 ～hard～</a> (yukicoder contest 477 線形代数コンテスト (2025-08-08) - H問題、diff <font color="orange">2582</font>)
 
 　
-<h2 id="単因子論">903. 単因子論</h2>
+<h2 id="単因子論">913. 単因子論</h2>
 
 ### 難易度統計
 
@@ -32286,7 +32572,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3231">No.3231 2×2行列相似判定 ～hard～</a> (yukicoder contest 477 線形代数コンテスト (2025-08-08) - H問題、diff <font color="orange">2582</font>)
 
 　
-<h2 id="01列とヤング図形の対応">904. 01列とヤング図形の対応</h2>
+<h2 id="01列とヤング図形の対応">914. 01列とヤング図形の対応</h2>
 
 ### 難易度統計
 
@@ -32311,7 +32597,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2149">No.2149 Vanitas Vanitatum</a> (Advent Calendar Contest 2022 (2022-12-01) - F問題、diff <font color="red">3086</font>)
 
 　
-<h2 id="01列と単調増加列・分割の対応">905. 01列と単調増加列・分割の対応</h2>
+<h2 id="01列と単調増加列・分割の対応">915. 01列と単調増加列・分割の対応</h2>
 
 ### 難易度統計
 
@@ -32336,7 +32622,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2149">No.2149 Vanitas Vanitatum</a> (Advent Calendar Contest 2022 (2022-12-01) - F問題、diff <font color="red">3086</font>)
 
 　
-<h2 id="冪乗との最大公約数の収束">906. 冪乗との最大公約数の収束</h2>
+<h2 id="冪乗との最大公約数の収束">916. 冪乗との最大公約数の収束</h2>
 
 ### 難易度統計
 
@@ -32361,7 +32647,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2993">No.2993 冪乗乗 mod 冪乗</a> (Advent Calendar Contest 2024 (2024-12-01) - Q問題、diffデータなし)
 
 　
-<h2 id="離散対数問題">907. 離散対数問題</h2>
+<h2 id="離散対数問題">917. 離散対数問題</h2>
 
 ### 難易度統計
 
@@ -32382,7 +32668,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3170">No.3170 [Cherry 7th Tune KY] Even if you could say "See you ..."</a> (yukicoder contest 468 Desire for Approval ~Ash blown by the draft leads to the door to a new beginning~ (2025-05-30) - H問題、diff <font color="orange">2620</font>)
 
 　
-<h2 id="数列の冪乗和計算">908. 数列の冪乗和計算</h2>
+<h2 id="数列の冪乗和計算">918. 数列の冪乗和計算</h2>
 
 ### 難易度統計
 
@@ -32403,7 +32689,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3414">No.3414 Aperiodic Sequence</a> (Advent Calendar Contest 2025 (2025-12-01) - U問題、diff <font color="orange">2658</font>)
 
 　
-<h2 id="グランスキーの定理">909. グランスキーの定理</h2>
+<h2 id="グランスキーの定理">919. グランスキーの定理</h2>
 
 ### 難易度統計
 
@@ -32424,7 +32710,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2917">No.2917 二重木</a> (yukicoder contest 449 (2024-10-04) - H問題、diff <font color="orange">2660</font>)
 
 　
-<h2 id="ケーリーの公式">910. ケーリーの公式</h2>
+<h2 id="ケーリーの公式">920. ケーリーの公式</h2>
 
 ### 難易度統計
 
@@ -32445,7 +32731,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2917">No.2917 二重木</a> (yukicoder contest 449 (2024-10-04) - H問題、diff <font color="orange">2660</font>)
 
 　
-<h2 id="ラグランジュ・ビューアマンの公式">911. ラグランジュ・ビューアマンの公式</h2>
+<h2 id="ラグランジュ・ビューアマンの公式">921. ラグランジュ・ビューアマンの公式</h2>
 
 ### 難易度統計
 
@@ -32466,7 +32752,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2917">No.2917 二重木</a> (yukicoder contest 449 (2024-10-04) - H問題、diff <font color="orange">2660</font>)
 
 　
-<h2 id="ラグランジュの反転公式">912. ラグランジュの反転公式</h2>
+<h2 id="ラグランジュの反転公式">922. ラグランジュの反転公式</h2>
 
 ### 難易度統計
 
@@ -32487,7 +32773,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2917">No.2917 二重木</a> (yukicoder contest 449 (2024-10-04) - H問題、diff <font color="orange">2660</font>)
 
 　
-<h2 id="ランベルトの$W$関数">913. ランベルトの$W$関数</h2>
+<h2 id="ランベルトの$W$関数">923. ランベルトの$W$関数</h2>
 
 ### 難易度統計
 
@@ -32508,7 +32794,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2917">No.2917 二重木</a> (yukicoder contest 449 (2024-10-04) - H問題、diff <font color="orange">2660</font>)
 
 　
-<h2 id="形式冪級数の逆関数計算">914. 形式冪級数の逆関数計算</h2>
+<h2 id="形式冪級数の逆関数計算">924. 形式冪級数の逆関数計算</h2>
 
 ### 難易度統計
 
@@ -32529,7 +32815,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2917">No.2917 二重木</a> (yukicoder contest 449 (2024-10-04) - H問題、diff <font color="orange">2660</font>)
 
 　
-<h2 id="組合せ論的種">915. 組合せ論的種</h2>
+<h2 id="組合せ論的種">925. 組合せ論的種</h2>
 
 ### 難易度統計
 
@@ -32550,7 +32836,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2917">No.2917 二重木</a> (yukicoder contest 449 (2024-10-04) - H問題、diff <font color="orange">2660</font>)
 
 　
-<h2 id="Toeplitz行列">916. Toeplitz行列</h2>
+<h2 id="Toeplitz行列">926. Toeplitz行列</h2>
 
 ### 難易度統計
 
@@ -32571,7 +32857,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2396">No.2396 等差二項展開</a> (yukicoder contest 399 (2023-07-28) - E問題、diff <font color="orange">2719</font>)
 
 　
-<h2 id="ブレント・キュングの合成アルゴリズム">917. ブレント・キュングの合成アルゴリズム</h2>
+<h2 id="ブレント・キュングの合成アルゴリズム">927. ブレント・キュングの合成アルゴリズム</h2>
 
 ### 難易度統計
 
@@ -32593,7 +32879,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3404">No.3404 形式群法則</a> (Advent Calendar Contest 2025 (2025-12-01) - K問題、diff <font color="red">2813</font>)
 
 　
-<h2 id="カーマイケル関数">918. カーマイケル関数</h2>
+<h2 id="カーマイケル関数">928. カーマイケル関数</h2>
 
 ### 難易度統計
 
@@ -32614,7 +32900,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2193">No.2193 メガの下１桁</a> (yukicoder contest 373 (2023-01-13) - J問題、diff <font color="orange">2749</font>)
 
 　
-<h2 id="冪乗タワー計算">919. 冪乗タワー計算</h2>
+<h2 id="冪乗タワー計算">929. 冪乗タワー計算</h2>
 
 ### 難易度統計
 
@@ -32635,7 +32921,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2193">No.2193 メガの下１桁</a> (yukicoder contest 373 (2023-01-13) - J問題、diff <font color="orange">2749</font>)
 
 　
-<h2 id="操作ごとに倍化する量を用いた計算量評価">920. 操作ごとに倍化する量を用いた計算量評価</h2>
+<h2 id="操作ごとに倍化する量を用いた計算量評価">930. 操作ごとに倍化する量を用いた計算量評価</h2>
 
 ### 難易度統計
 
@@ -32679,7 +32965,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2166">No.2166 Paint and Fill</a> (Advent Calendar Contest 2022 (2022-12-01) - S問題、diff <font color="darkgoldenrod ">3577</font>)
 
 　
-<h2 id="ホモロジー計算">921. ホモロジー計算</h2>
+<h2 id="ホモロジー計算">931. ホモロジー計算</h2>
 
 ### 難易度統計
 
@@ -32702,7 +32988,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3034">No.3034 コーエン-マコーレー抽象単体複体</a> (yukicoder contest 457 (2025-02-21) - H問題、diff <font color="red">2892</font>)
 
 　
-<h2 id="ジョルダン標準形">922. ジョルダン標準形</h2>
+<h2 id="ジョルダン標準形">932. ジョルダン標準形</h2>
 
 ### 難易度統計
 
@@ -32725,7 +33011,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3231">No.3231 2×2行列相似判定 ～hard～</a> (yukicoder contest 477 線形代数コンテスト (2025-08-08) - H問題、diff <font color="orange">2582</font>)
 
 　
-<h2 id="トレースに注目">923. トレースに注目</h2>
+<h2 id="トレースに注目">933. トレースに注目</h2>
 
 ### 難易度統計
 
@@ -32748,7 +33034,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3231">No.3231 2×2行列相似判定 ～hard～</a> (yukicoder contest 477 線形代数コンテスト (2025-08-08) - H問題、diff <font color="orange">2582</font>)
 
 　
-<h2 id="ピタゴラス数数え上げ">924. ピタゴラス数数え上げ</h2>
+<h2 id="ピタゴラス数数え上げ">934. ピタゴラス数数え上げ</h2>
 
 ### 難易度統計
 
@@ -32769,7 +33055,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2979">No.2979 直角三角形の個数</a> (Advent Calendar Contest 2024 (2024-12-01) - C問題、diff <font color="red">2885</font>)
 
 　
-<h2 id="奇数条件を緩和して$2$冪で包除">925. 奇数条件を緩和して$2$冪で包除</h2>
+<h2 id="奇数条件を緩和して$2$冪で包除">935. 奇数条件を緩和して$2$冪で包除</h2>
 
 ### 難易度統計
 
@@ -32790,7 +33076,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2979">No.2979 直角三角形の個数</a> (Advent Calendar Contest 2024 (2024-12-01) - C問題、diff <font color="red">2885</font>)
 
 　
-<h2 id="原始ピタゴラス数木">926. 原始ピタゴラス数木</h2>
+<h2 id="原始ピタゴラス数木">936. 原始ピタゴラス数木</h2>
 
 ### 難易度統計
 
@@ -32811,7 +33097,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2979">No.2979 直角三角形の個数</a> (Advent Calendar Contest 2024 (2024-12-01) - C問題、diff <font color="red">2885</font>)
 
 　
-<h2 id="汎関数計算">927. 汎関数計算</h2>
+<h2 id="汎関数計算">937. 汎関数計算</h2>
 
 ### 難易度統計
 
@@ -32834,7 +33120,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3170">No.3170 [Cherry 7th Tune KY] Even if you could say "See you ..."</a> (yukicoder contest 468 Desire for Approval ~Ash blown by the draft leads to the door to a new beginning~ (2025-05-30) - H問題、diff <font color="orange">2620</font>)
 
 　
-<h2 id="合成関数の微分法">928. 合成関数の微分法</h2>
+<h2 id="合成関数の微分法">938. 合成関数の微分法</h2>
 
 ### 難易度統計
 
@@ -32855,7 +33141,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2976">No.2976 高階多点評価</a> (yukicoder contest 454 (2024-11-29) - H問題、diff <font color="red">3030</font>)
 
 　
-<h2 id="第二種チェビシェフ多項式">929. 第二種チェビシェフ多項式</h2>
+<h2 id="第二種チェビシェフ多項式">939. 第二種チェビシェフ多項式</h2>
 
 ### 難易度統計
 
@@ -32876,7 +33162,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2976">No.2976 高階多点評価</a> (yukicoder contest 454 (2024-11-29) - H問題、diff <font color="red">3030</font>)
 
 　
-<h2 id="部分分数分解">930. 部分分数分解</h2>
+<h2 id="部分分数分解">940. 部分分数分解</h2>
 
 ### 難易度統計
 
@@ -32897,7 +33183,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2976">No.2976 高階多点評価</a> (yukicoder contest 454 (2024-11-29) - H問題、diff <font color="red">3030</font>)
 
 　
-<h2 id="順序数に翻訳">931. 順序数に翻訳</h2>
+<h2 id="順序数に翻訳">941. 順序数に翻訳</h2>
 
 ### 難易度統計
 
@@ -32928,7 +33214,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2398">No.2398 ヒドラ崩し</a> (yukicoder contest 399 (2023-07-28) - G問題、diff <font color="red">3178</font>)
 
 　
-<h2 id="シュミットの直交化法">932. シュミットの直交化法</h2>
+<h2 id="シュミットの直交化法">942. シュミットの直交化法</h2>
 
 ### 難易度統計
 
@@ -32949,7 +33235,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2447">No.2447 行列累乗根</a> (yukicoder contest 402 (2023-08-25) - G問題、diff <font color="red">3053</font>)
 
 　
-<h2 id="対角化">933. 対角化</h2>
+<h2 id="対角化">943. 対角化</h2>
 
 ### 難易度統計
 
@@ -32970,7 +33256,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2447">No.2447 行列累乗根</a> (yukicoder contest 402 (2023-08-25) - G問題、diff <font color="red">3053</font>)
 
 　
-<h2 id="立方根計算">934. 立方根計算</h2>
+<h2 id="立方根計算">944. 立方根計算</h2>
 
 ### 難易度統計
 
@@ -32991,7 +33277,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2447">No.2447 行列累乗根</a> (yukicoder contest 402 (2023-08-25) - G問題、diff <font color="red">3053</font>)
 
 　
-<h2 id="全域有向木計算">935. 全域有向木計算</h2>
+<h2 id="全域有向木計算">945. 全域有向木計算</h2>
 
 ### 難易度統計
 
@@ -33012,7 +33298,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2998">No.2998 Rainbow Christmas Tree</a> (Advent Calendar Contest 2024 (2024-12-01) - V問題、diff <font color="darkgoldenrod ">3309</font>)
 
 　
-<h2 id="虹色全域木計算">936. 虹色全域木計算</h2>
+<h2 id="虹色全域木計算">946. 虹色全域木計算</h2>
 
 ### 難易度統計
 
@@ -33033,7 +33319,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2998">No.2998 Rainbow Christmas Tree</a> (Advent Calendar Contest 2024 (2024-12-01) - V問題、diff <font color="darkgoldenrod ">3309</font>)
 
 　
-<h2 id="ポリアの壺">937. ポリアの壺</h2>
+<h2 id="ポリアの壺">947. ポリアの壺</h2>
 
 ### 難易度統計
 
@@ -33054,7 +33340,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3439">No.3439 [Cherry 8th Tune] どの頂点にいた頃に戻りたいのか?</a> (yukicoder contest 491 Go on Back!! (2026-01-23) - G問題、diffデータなし)
 
 　
-<h2 id="区間アフィン変換更新">938. 区間アフィン変換更新</h2>
+<h2 id="区間アフィン変換更新">948. 区間アフィン変換更新</h2>
 
 ### 難易度統計
 
@@ -33075,7 +33361,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3439">No.3439 [Cherry 8th Tune] どの頂点にいた頃に戻りたいのか?</a> (yukicoder contest 491 Go on Back!! (2026-01-23) - G問題、diffデータなし)
 
 　
-<h2 id="区間文字反転更新">939. 区間文字反転更新</h2>
+<h2 id="区間文字反転更新">949. 区間文字反転更新</h2>
 
 ### 難易度統計
 
@@ -33096,7 +33382,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3439">No.3439 [Cherry 8th Tune] どの頂点にいた頃に戻りたいのか?</a> (yukicoder contest 491 Go on Back!! (2026-01-23) - G問題、diffデータなし)
 
 　
-<h2 id="動的遅延セグメント木">940. 動的遅延セグメント木</h2>
+<h2 id="動的遅延セグメント木">950. 動的遅延セグメント木</h2>
 
 ### 難易度統計
 
@@ -33117,7 +33403,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3524">No.3524 二進範囲更新範囲和取得</a> (yukicoder contest 498 リアクティブコンテスト (2026-05-01) - G問題、diffデータなし)
 
 　
-<h2 id="演算の反復の分割統治">941. 演算の反復の分割統治</h2>
+<h2 id="演算の反復の分割統治">951. 演算の反復の分割統治</h2>
 
 ### 難易度統計
 
@@ -33156,7 +33442,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2166">No.2166 Paint and Fill</a> (Advent Calendar Contest 2022 (2022-12-01) - S問題、diff <font color="darkgoldenrod ">3577</font>)
 
 　
-<h2 id="Bostan-Mori法">942. Bostan-Mori法</h2>
+<h2 id="Bostan-Mori法">952. Bostan-Mori法</h2>
 
 ### 難易度統計
 
@@ -33182,7 +33468,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2579">No.2579 Dice Sum Infinity (制約変更版)</a> (Advent Calendar Contest 2023 (2023-12-01) - G問題、diff <font color="red">3196</font>)
 
 　
-<h2 id="重軽分解">943. 重軽分解</h2>
+<h2 id="重軽分解">953. 重軽分解</h2>
 
 ### 難易度統計
 
@@ -33208,7 +33494,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2595">No.2595 Parsing Challenge</a> (Advent Calendar Contest 2023 (2023-12-01) - W問題、diff <font color="darkgoldenrod ">3316</font>)
 
 　
-<h2 id="巡回畳み込み">944. 巡回畳み込み</h2>
+<h2 id="巡回畳み込み">954. 巡回畳み込み</h2>
 
 ### 難易度統計
 
@@ -33233,7 +33519,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2579">No.2579 Dice Sum Infinity (制約変更版)</a> (Advent Calendar Contest 2023 (2023-12-01) - G問題、diff <font color="red">3196</font>)
 
 　
-<h2 id="COMPLETE法">945. COMPLETE法</h2>
+<h2 id="COMPLETE法">955. COMPLETE法</h2>
 
 ### 難易度統計
 
@@ -33254,7 +33540,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2985">No.2985 May Count Induced C4 Subgraphs</a> (Advent Calendar Contest 2024 (2024-12-01) - I問題、diff <font color="red">3115</font>)
 
 　
-<h2 id="SMAWKアルゴリズム">946. SMAWKアルゴリズム</h2>
+<h2 id="SMAWKアルゴリズム">956. SMAWKアルゴリズム</h2>
 
 ### 難易度統計
 
@@ -33275,7 +33561,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2988">No.2988 Min-Plus Convolution Query</a> (Advent Calendar Contest 2024 (2024-12-01) - L問題、diff <font color="red">3115</font>)
 
 　
-<h2 id="monge性">947. monge性</h2>
+<h2 id="monge性">957. monge性</h2>
 
 ### 難易度統計
 
@@ -33296,7 +33582,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2988">No.2988 Min-Plus Convolution Query</a> (Advent Calendar Contest 2024 (2024-12-01) - L問題、diff <font color="red">3115</font>)
 
 　
-<h2 id="totally monotonic性">948. totally monotonic性</h2>
+<h2 id="totally monotonic性">958. totally monotonic性</h2>
 
 ### 難易度統計
 
@@ -33317,7 +33603,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2988">No.2988 Min-Plus Convolution Query</a> (Advent Calendar Contest 2024 (2024-12-01) - L問題、diff <font color="red">3115</font>)
 
 　
-<h2 id="部分グラフ数え上げ">949. 部分グラフ数え上げ</h2>
+<h2 id="部分グラフ数え上げ">959. 部分グラフ数え上げ</h2>
 
 ### 難易度統計
 
@@ -33338,7 +33624,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2985">No.2985 May Count Induced C4 Subgraphs</a> (Advent Calendar Contest 2024 (2024-12-01) - I問題、diff <font color="red">3115</font>)
 
 　
-<h2 id="誘導部分グラフ数え上げ">950. 誘導部分グラフ数え上げ</h2>
+<h2 id="誘導部分グラフ数え上げ">960. 誘導部分グラフ数え上げ</h2>
 
 ### 難易度統計
 
@@ -33359,7 +33645,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2985">No.2985 May Count Induced C4 Subgraphs</a> (Advent Calendar Contest 2024 (2024-12-01) - I問題、diff <font color="red">3115</font>)
 
 　
-<h2 id="誘導部分グラフ数え上げを部分グラフ数え上げに帰着">951. 誘導部分グラフ数え上げを部分グラフ数え上げに帰着</h2>
+<h2 id="誘導部分グラフ数え上げを部分グラフ数え上げに帰着">961. 誘導部分グラフ数え上げを部分グラフ数え上げに帰着</h2>
 
 ### 難易度統計
 
@@ -33380,7 +33666,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2985">No.2985 May Count Induced C4 Subgraphs</a> (Advent Calendar Contest 2024 (2024-12-01) - I問題、diff <font color="red">3115</font>)
 
 　
-<h2 id="高階微分計算">952. 高階微分計算</h2>
+<h2 id="高階微分計算">962. 高階微分計算</h2>
 
 ### 難易度統計
 
@@ -33405,7 +33691,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2583">No.2583 Differential Equation (Enhanced version)</a> (Advent Calendar Contest 2023 (2023-12-01) - K問題、diff <font color="darkgoldenrod ">3316</font>)
 
 　
-<h2 id="カントール標準形">953. カントール標準形</h2>
+<h2 id="カントール標準形">963. カントール標準形</h2>
 
 ### 難易度統計
 
@@ -33430,7 +33716,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2398">No.2398 ヒドラ崩し</a> (yukicoder contest 399 (2023-07-28) - G問題、diff <font color="red">3178</font>)
 
 　
-<h2 id="ファウルハーバーの公式">954. ファウルハーバーの公式</h2>
+<h2 id="ファウルハーバーの公式">964. ファウルハーバーの公式</h2>
 
 ### 難易度統計
 
@@ -33452,7 +33738,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2996">No.2996 Floor Sum</a> (Advent Calendar Contest 2024 (2024-12-01) - T問題、diff <font color="darkgoldenrod ">3309</font>)
 
 　
-<h2 id="parallel tree contraction">955. parallel tree contraction</h2>
+<h2 id="parallel tree contraction">965. parallel tree contraction</h2>
 
 ### 難易度統計
 
@@ -33473,7 +33759,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2595">No.2595 Parsing Challenge</a> (Advent Calendar Contest 2023 (2023-12-01) - W問題、diff <font color="darkgoldenrod ">3316</font>)
 
 　
-<h2 id="演算の適用を一次式の合成に翻訳">956. 演算の適用を一次式の合成に翻訳</h2>
+<h2 id="演算の適用を一次式の合成に翻訳">966. 演算の適用を一次式の合成に翻訳</h2>
 
 ### 難易度統計
 
@@ -33494,7 +33780,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2595">No.2595 Parsing Challenge</a> (Advent Calendar Contest 2023 (2023-12-01) - W問題、diff <font color="darkgoldenrod ">3316</font>)
 
 　
-<h2 id="区間多項式和取得">957. 区間多項式和取得</h2>
+<h2 id="区間多項式和取得">967. 区間多項式和取得</h2>
 
 ### 難易度統計
 
@@ -33515,7 +33801,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2163">No.2163 LCA Sum Query</a> (Advent Calendar Contest 2022 (2022-12-01) - N問題、diff <font color="darkgoldenrod ">3382</font>)
 
 　
-<h2 id="フェルマーの素因数分解法">958. フェルマーの素因数分解法</h2>
+<h2 id="フェルマーの素因数分解法">968. フェルマーの素因数分解法</h2>
 
 ### 難易度統計
 
@@ -33536,7 +33822,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3525">No.3525 擬奇平方数</a> (yukicoder contest 498 リアクティブコンテスト (2026-05-01) - H問題、diffデータなし)
 
 　
-<h2 id="$\epsilon N$論法">959. $\epsilon N$論法</h2>
+<h2 id="$\epsilon N$論法">969. $\epsilon N$論法</h2>
 
 ### 難易度統計
 
@@ -33557,7 +33843,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2993">No.2993 冪乗乗 mod 冪乗</a> (Advent Calendar Contest 2024 (2024-12-01) - Q問題、diffデータなし)
 
 　
-<h2 id="順序数表記">960. 順序数表記</h2>
+<h2 id="順序数表記">970. 順序数表記</h2>
 
 ### 難易度統計
 
@@ -33583,7 +33869,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2398">No.2398 ヒドラ崩し</a> (yukicoder contest 399 (2023-07-28) - G問題、diff <font color="red">3178</font>)
 
 　
-<h2 id="配列をセグ木状に分割して管理">961. 配列をセグ木状に分割して管理</h2>
+<h2 id="配列をセグ木状に分割して管理">971. 配列をセグ木状に分割して管理</h2>
 
 ### 難易度統計
 
@@ -33608,7 +33894,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2990">No.2990 Interval XOR</a> (Advent Calendar Contest 2024 (2024-12-01) - N問題、diff <font color="red">3115</font>)
 
 　
-<h2 id="Lindstrom-Gessel-Viennotの補題">962. Lindstrom-Gessel-Viennotの補題</h2>
+<h2 id="Lindstrom-Gessel-Viennotの補題">972. Lindstrom-Gessel-Viennotの補題</h2>
 
 ### 難易度統計
 
@@ -33629,7 +33915,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2556">No.2556 Increasing Matrix</a> (Advent Calendar Contest 2023 (2023-12-01) - B問題、diff <font color="orange">2795</font>)
 
 　
-<h2 id="ファンデルモンドの行列式計算">963. ファンデルモンドの行列式計算</h2>
+<h2 id="ファンデルモンドの行列式計算">973. ファンデルモンドの行列式計算</h2>
 
 ### 難易度統計
 
@@ -33650,7 +33936,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2556">No.2556 Increasing Matrix</a> (Advent Calendar Contest 2023 (2023-12-01) - B問題、diff <font color="orange">2795</font>)
 
 　
-<h2 id="差積計算">964. 差積計算</h2>
+<h2 id="差積計算">974. 差積計算</h2>
 
 ### 難易度統計
 
@@ -33671,7 +33957,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2556">No.2556 Increasing Matrix</a> (Advent Calendar Contest 2023 (2023-12-01) - B問題、diff <font color="orange">2795</font>)
 
 　
-<h2 id="半標準ヤングタブローとGelfand-Tsetlinパターンの対応">965. 半標準ヤングタブローとGelfand-Tsetlinパターンの対応</h2>
+<h2 id="半標準ヤングタブローとGelfand-Tsetlinパターンの対応">975. 半標準ヤングタブローとGelfand-Tsetlinパターンの対応</h2>
 
 ### 難易度統計
 
@@ -33692,7 +33978,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2556">No.2556 Increasing Matrix</a> (Advent Calendar Contest 2023 (2023-12-01) - B問題、diff <font color="orange">2795</font>)
 
 　
-<h2 id="半標準ヤングタブローと非交差経路の対応">966. 半標準ヤングタブローと非交差経路の対応</h2>
+<h2 id="半標準ヤングタブローと非交差経路の対応">976. 半標準ヤングタブローと非交差経路の対応</h2>
 
 ### 難易度統計
 
@@ -33713,7 +33999,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2556">No.2556 Increasing Matrix</a> (Advent Calendar Contest 2023 (2023-12-01) - B問題、diff <font color="orange">2795</font>)
 
 　
-<h2 id="半標準ヤングタブローに翻訳">967. 半標準ヤングタブローに翻訳</h2>
+<h2 id="半標準ヤングタブローに翻訳">977. 半標準ヤングタブローに翻訳</h2>
 
 ### 難易度統計
 
@@ -33734,7 +34020,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2556">No.2556 Increasing Matrix</a> (Advent Calendar Contest 2023 (2023-12-01) - B問題、diff <font color="orange">2795</font>)
 
 　
-<h2 id="フック長公式">968. フック長公式</h2>
+<h2 id="フック長公式">978. フック長公式</h2>
 
 ### 難易度統計
 
@@ -33755,7 +34041,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2149">No.2149 Vanitas Vanitatum</a> (Advent Calendar Contest 2022 (2022-12-01) - F問題、diff <font color="red">3086</font>)
 
 　
-<h2 id="標準ヤングタブローに翻訳">969. 標準ヤングタブローに翻訳</h2>
+<h2 id="標準ヤングタブローに翻訳">979. 標準ヤングタブローに翻訳</h2>
 
 ### 難易度統計
 
@@ -33776,7 +34062,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2149">No.2149 Vanitas Vanitatum</a> (Advent Calendar Contest 2022 (2022-12-01) - F問題、diff <font color="red">3086</font>)
 
 　
-<h2 id="高速アダマール逆変換">970. 高速アダマール逆変換</h2>
+<h2 id="高速アダマール逆変換">980. 高速アダマール逆変換</h2>
 
 ### 難易度統計
 
@@ -33797,7 +34083,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2990">No.2990 Interval XOR</a> (Advent Calendar Contest 2024 (2024-12-01) - N問題、diff <font color="red">3115</font>)
 
 　
-<h2 id="高速アダマール変換">971. 高速アダマール変換</h2>
+<h2 id="高速アダマール変換">981. 高速アダマール変換</h2>
 
 ### 難易度統計
 
@@ -33818,7 +34104,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2990">No.2990 Interval XOR</a> (Advent Calendar Contest 2024 (2024-12-01) - N問題、diff <font color="red">3115</font>)
 
 　
-<h2 id="多項式のユークリッドの互除法">972. 多項式のユークリッドの互除法</h2>
+<h2 id="多項式のユークリッドの互除法">982. 多項式のユークリッドの互除法</h2>
 
 ### 難易度統計
 
@@ -33839,7 +34125,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2579">No.2579 Dice Sum Infinity (制約変更版)</a> (Advent Calendar Contest 2023 (2023-12-01) - G問題、diff <font color="red">3196</font>)
 
 　
-<h2 id="多項式を法とする逆元計算">973. 多項式を法とする逆元計算</h2>
+<h2 id="多項式を法とする逆元計算">983. 多項式を法とする逆元計算</h2>
 
 ### 難易度統計
 
@@ -33860,7 +34146,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2579">No.2579 Dice Sum Infinity (制約変更版)</a> (Advent Calendar Contest 2023 (2023-12-01) - G問題、diff <font color="red">3196</font>)
 
 　
-<h2 id="最小辺彩色数計算">974. 最小辺彩色数計算</h2>
+<h2 id="最小辺彩色数計算">984. 最小辺彩色数計算</h2>
 
 ### 難易度統計
 
@@ -33881,7 +34167,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2987">No.2987 Colorful University of Tree</a> (Advent Calendar Contest 2024 (2024-12-01) - K問題、diff <font color="darkgoldenrod ">3309</font>)
 
 　
-<h2 id="山登り法">975. 山登り法</h2>
+<h2 id="山登り法">985. 山登り法</h2>
 
 ### 難易度統計
 
@@ -33902,7 +34188,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2987">No.2987 Colorful University of Tree</a> (Advent Calendar Contest 2024 (2024-12-01) - K問題、diff <font color="darkgoldenrod ">3309</font>)
 
 　
-<h2 id="一次分数変換">976. 一次分数変換</h2>
+<h2 id="一次分数変換">986. 一次分数変換</h2>
 
 ### 難易度統計
 
@@ -33923,7 +34209,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2583">No.2583 Differential Equation (Enhanced version)</a> (Advent Calendar Contest 2023 (2023-12-01) - K問題、diff <font color="darkgoldenrod ">3316</font>)
 
 　
-<h2 id="一次分数変換と対数関数による変数変換の合成">977. 一次分数変換と対数関数による変数変換の合成</h2>
+<h2 id="一次分数変換と対数関数による変数変換の合成">987. 一次分数変換と対数関数による変数変換の合成</h2>
 
 ### 難易度統計
 
@@ -33944,7 +34230,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2583">No.2583 Differential Equation (Enhanced version)</a> (Advent Calendar Contest 2023 (2023-12-01) - K問題、diff <font color="darkgoldenrod ">3316</font>)
 
 　
-<h2 id="指数関数による変数変換と一次分数変換の合成">978. 指数関数による変数変換と一次分数変換の合成</h2>
+<h2 id="指数関数による変数変換と一次分数変換の合成">988. 指数関数による変数変換と一次分数変換の合成</h2>
 
 ### 難易度統計
 
@@ -33965,7 +34251,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2583">No.2583 Differential Equation (Enhanced version)</a> (Advent Calendar Contest 2023 (2023-12-01) - K問題、diff <font color="darkgoldenrod ">3316</font>)
 
 　
-<h2 id="微分作用素を変数変換で簡易化">979. 微分作用素を変数変換で簡易化</h2>
+<h2 id="微分作用素を変数変換で簡易化">989. 微分作用素を変数変換で簡易化</h2>
 
 ### 難易度統計
 
@@ -33986,7 +34272,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2583">No.2583 Differential Equation (Enhanced version)</a> (Advent Calendar Contest 2023 (2023-12-01) - K問題、diff <font color="darkgoldenrod ">3316</font>)
 
 　
-<h2 id="部分積分">980. 部分積分</h2>
+<h2 id="部分積分">990. 部分積分</h2>
 
 ### 難易度統計
 
@@ -34007,7 +34293,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2583">No.2583 Differential Equation (Enhanced version)</a> (Advent Calendar Contest 2023 (2023-12-01) - K問題、diff <font color="darkgoldenrod ">3316</font>)
 
 　
-<h2 id="基本列">981. 基本列</h2>
+<h2 id="基本列">991. 基本列</h2>
 
 ### 難易度統計
 
@@ -34029,7 +34315,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2398">No.2398 ヒドラ崩し</a> (yukicoder contest 399 (2023-07-28) - G問題、diff <font color="red">3178</font>)
 
 　
-<h2 id="残余ネットワーク">982. 残余ネットワーク</h2>
+<h2 id="残余ネットワーク">992. 残余ネットワーク</h2>
 
 ### 難易度統計
 
@@ -34050,7 +34336,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2160">No.2160 みたりのDominator</a> (Advent Calendar Contest 2022 (2022-12-01) - K問題、diff <font color="darkgoldenrod ">3382</font>)
 
 　
-<h2 id="ヴェブレン関数">983. ヴェブレン関数</h2>
+<h2 id="ヴェブレン関数">993. ヴェブレン関数</h2>
 
 ### 難易度統計
 
@@ -34071,7 +34357,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2168">No.2168 双頭ヒドラゲーム</a> (Advent Calendar Contest 2022 (2022-12-01) - U問題、diff <font color="darkgoldenrod ">3577</font>)
 
 　
-<h2 id="多点評価">984. 多点評価</h2>
+<h2 id="多点評価">994. 多点評価</h2>
 
 ### 難易度統計
 
@@ -34096,7 +34382,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2166">No.2166 Paint and Fill</a> (Advent Calendar Contest 2022 (2022-12-01) - S問題、diff <font color="darkgoldenrod ">3577</font>)
 
 　
-<h2 id="P-再帰">985. P-再帰</h2>
+<h2 id="P-再帰">995. P-再帰</h2>
 
 ### 難易度統計
 
@@ -34117,7 +34403,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2166">No.2166 Paint and Fill</a> (Advent Calendar Contest 2022 (2022-12-01) - S問題、diff <font color="darkgoldenrod ">3577</font>)
 
 　
-<h2 id="評価点シフト">986. 評価点シフト</h2>
+<h2 id="評価点シフト">996. 評価点シフト</h2>
 
 ### 難易度統計
 
