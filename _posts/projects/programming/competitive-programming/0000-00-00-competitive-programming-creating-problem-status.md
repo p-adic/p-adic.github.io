@@ -3,7 +3,7 @@ url: https://p-adic.github.io/competitive-programming-creating-problem-status
 layout: project
 title: 競技プログラミング作問状況
 excerpt: "競技プログラミングの作問状況の情報をまとめたページです。"
-date: 2026-05-01
+date: 2026-07-02
 project: true
 parent: competitive-programming-project
 prev-child: competitive-programming-problems
@@ -25,7 +25,8 @@ tags: [競技プログラミング,プログラミング,数学]
 準備中…。
 
 履歴＆予定
-* 2025/08/17: tester作業に時間がかかりそうな1問のtester依頼を送付。
+* 2025/07/17: tester作業に時間がかかりそうな1問をtesterさんにご依頼しました。
+* 2026/05/17: testerさんがお忙しいようなので、ご依頼から1年経ってもtester作業をする時間が取れなさそうな場合は追加testerさんにお任せするとの旨をtesterさんにご連絡しました。
 * ???: 上記1問のtester作業が終わり次第、他の問題のtesterさん探しに注力いたします。
 
 ## testerさん募集中の問題一覧
