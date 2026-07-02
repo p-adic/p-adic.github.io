@@ -3,7 +3,7 @@ url: https://p-adic.github.io/competitive-programming-tester-log/
 layout: project
 title: 競技プログラミングtester問題一覧
 excerpt: "競技プログラミングでtesterを担当した問題の一覧です。"
-date: 2026-04-24
+date: 2026-07-02
 project: true
 parent: competitive-programming-project
 prev-child: yukicoder-difficulty-statistics-solution-name
@@ -12,11 +12,11 @@ class-name: 競技プログラミング
 tags: [競技プログラミング,プログラミング,数学]
 ---
 
-競技プログラミングでtesterを担当した問題リンクをまとめてみました。{{ page.date | date: '%Y/%m/%d' }}現在でtesterを引き受けた問題数は208問で、うち出題済みの問題は186問です。
+競技プログラミングでtesterを担当した問題リンクをまとめてみました。{{ page.date | date: '%Y/%m/%d' }}現在でtesterを引き受けた問題数は216問で、うち出題済みの問題は189問です。
 
 writerを担当した問題リンクは[こちら]({{ site.url }}/competitive-programming-problems/)です。
 
-## yukicoder通常問題（公開済み170問＋未公開21問）
+## yukicoder通常問題（公開済み170問＋未公開26問）
 - No.3487	[Restricted Shiritori](https://yukicoder.me/problems/no/3487)
 - No.3484	[Just a Maze Game](https://yukicoder.me/problems/no/3484)
 - No.3483	[A Forbidden Fruit](https://yukicoder.me/problems/no/3483)
