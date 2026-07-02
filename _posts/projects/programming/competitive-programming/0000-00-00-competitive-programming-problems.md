@@ -42,7 +42,7 @@ testerを担当した問題リンクは[こちら]({{ site.url }}/competitive-pr
 
 コンテスト一覧（[開催記はこちら]({{ site.url }}/competitive-programming-contest/)）
 {% for post in site.posts %}
-{% if post.parent != null %}{% if post.parent == "competitive-programming-contest/" %}
+{% if post.parent != null %}{% if post.parent == "competitive-programming-contest" %}
 - [{{ post.subtitle }}](https://yukicoder.me/contests/{{ post.num }})（{{ post.own }}）
 {% endif %}{% endif %}
 {% endfor %}
