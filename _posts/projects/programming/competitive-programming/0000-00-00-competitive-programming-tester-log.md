@@ -3,7 +3,7 @@ url: https://p-adic.github.io/competitive-programming-tester-log/
 layout: project
 title: 競技プログラミングtester問題一覧
 excerpt: "競技プログラミングでtesterを担当した問題の一覧です。"
-date: 2026-08-21
+date: 2026-09-10
 project: true
 parent: competitive-programming-project
 prev-child: yukicoder-difficulty-statistics-solution-name
@@ -12,11 +12,17 @@ class-name: 競技プログラミング
 tags: [競技プログラミング,プログラミング,数学]
 ---
 
-競技プログラミングでtesterを担当した問題リンクをまとめてみました。{{ page.date | date: '%Y/%m/%d' }}現在でtesterを引き受けた問題数は224問で、うち出題済みの問題は198問です。
+競技プログラミングでtesterを担当した問題リンクをまとめてみました。{{ page.date | date: '%Y/%m/%d' }}現在でtesterを引き受けた問題数は243問で、うち出題済みの問題は204問です。
 
 writerを担当した問題リンクは[こちら]({{ site.url }}/competitive-programming-problems/)です。
 
-## yukicoder通常問題（公開済み179問＋未公開25問）
+## yukicoder通常問題（公開済み185問＋未公開38問）
+- No.3652 [Range Bracket Sequence](https://yukicoder.me/problems/no/3652)
+- No.3651 [K-th Sum of Divisors](https://yukicoder.me/problems/no/3651)
+- No.3650 [Teleportation Cycles](https://yukicoder.me/problems/no/3650)
+- No.3649 [Top View of Jenga](https://yukicoder.me/problems/no/3649)
+- No.3648 [Overbooked Meeting Rooms](https://yukicoder.me/problems/no/3648)
+- No.3647 [Initial Maker](https://yukicoder.me/problems/no/3647)
 - No.3635	[Probability trip](https://yukicoder.me/problems/no/3635)
 - No.3634	[Made to order](https://yukicoder.me/problems/no/3634)
 - No.3632	[IQR](https://yukicoder.me/problems/no/3632)
