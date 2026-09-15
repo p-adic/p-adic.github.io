@@ -5,7 +5,7 @@ date: 2026-05-25
 excerpt: "p進数体とガロア体の違いについて解説します。"
 parent: competitive-programming-blog
 prev-child: terminology-around-FPS
-next-child: 
+next-child: FFT-on-Qp
 blog: true
 tags: [競技プログラミング]
 ---
