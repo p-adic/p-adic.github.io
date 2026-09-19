@@ -3,7 +3,7 @@ url: https://p-adic.github.io/competitive-programming-tester-log/
 layout: project
 title: 競技プログラミングtester問題一覧
 excerpt: "競技プログラミングでtesterを担当した問題の一覧です。"
-date: 2026-09-10
+date: 2026-09-19
 project: true
 parent: competitive-programming-project
 prev-child: yukicoder-difficulty-statistics-solution-name
@@ -12,11 +12,25 @@ class-name: 競技プログラミング
 tags: [競技プログラミング,プログラミング,数学]
 ---
 
-競技プログラミングでtesterを担当した問題リンクをまとめてみました。{{ page.date | date: '%Y/%m/%d' }}現在でtesterを引き受けた問題数は243問で、うち出題済みの問題は204問です。
+競技プログラミングでtesterを担当した問題リンクをまとめてみました。{{ page.date | date: '%Y/%m/%d' }}現在でtesterを引き受けた問題数は243問で、うち出題済みの問題は218問です。
 
 writerを担当した問題リンクは[こちら]({{ site.url }}/competitive-programming-problems/)です。
 
-## yukicoder通常問題（公開済み185問＋未公開38問）
+## yukicoder通常問題（公開済み199問＋未公開24問）
+- No.3734 [No Flat Notes](https://yukicoder.me/problems/no/3734)
+- No.3733 [My First Grid](https://yukicoder.me/problems/no/3733)
+- No.3732 [Labyrinth Maker](https://yukicoder.me/problems/no/3732)
+- No.3731 [Kaleidoscope](https://yukicoder.me/problems/no/3731)
+- No.3730 [Jagged Minesweeper](https://yukicoder.me/problems/no/3730)
+- No.3729 [I Hate Hexagonal Tiling](https://yukicoder.me/problems/no/3729)
+- No.3728 [Half and Half, and Double](https://yukicoder.me/problems/no/3728)
+- No.3727 [Garden Master](https://yukicoder.me/problems/no/3727)
+- No.3726 [Flawless Flow](https://yukicoder.me/problems/no/3726)
+- No.3725 [Exploit Wall](https://yukicoder.me/problems/no/3725)
+- No.3724 [Domination](https://yukicoder.me/problems/no/3724)
+- No.3723 [Climb or Detour](https://yukicoder.me/problems/no/3723)
+- No.3722 [Blended Taste](https://yukicoder.me/problems/no/3722)
+- No.3721 [Absurd Basic Constructive](https://yukicoder.me/problems/no/3721)
 - No.3652 [Range Bracket Sequence](https://yukicoder.me/problems/no/3652)
 - No.3651 [K-th Sum of Divisors](https://yukicoder.me/problems/no/3651)
 - No.3650 [Teleportation Cycles](https://yukicoder.me/problems/no/3650)
