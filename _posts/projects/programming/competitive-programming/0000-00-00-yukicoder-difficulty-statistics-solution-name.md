@@ -2,7 +2,7 @@
 url: https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/
 layout: project
 title: yukicoder過去問解法別難易度統計の解法名解説
-date: 2025-09-15
+date: 2026-10-10
 excerpt: "yukicoderの過去問の解法別難易度統計ページに記載した解法名の解説です。"
 project: true
 parent: competitive-programming-project
@@ -18,7 +18,6 @@ tags: [競技プログラミング,数学]
 
 ## 目次
 
-- <a href="#不明な想定解" class="tag">不明な想定解</a>
 - <a href="#解法場合分け" class="tag">解法場合分け</a>
 - <a href="#良いケースに帰着" class="tag">良いケースに帰着</a>
 - <a href="#総和計算の期待値への帰着" class="tag">総和計算の期待値への帰着</a>
@@ -42,12 +41,9 @@ tags: [競技プログラミング,数学]
 - <a href="#不変量を保つ戦略" class="tag">不変量を保つ戦略</a>
 - <a href="#高さ奇数ニム和" class="tag">高さ奇数ニム和</a>
 - <a href="#最終手番の任意性" class="tag">最終手番の任意性</a>
-
-　
-{% assign solution = "不明な想定解" %}
-<h2 id="{{ solution }}"><a href="{{ site.url }}/yukicoder-difficulty-statistics#{{ solution }}">{{ solution }}</a></h2>
-
-解説が存在しないために明らかにされていない想定解を構成する、何かしらの手法。少なくとも実装だけはwriter提出を見れば分かるが、どのような考察（特に正当性の証明）がなされたかが非公開となる。
+- <a href="#不明な想定解" class="tag">不明な想定解</a>
+- <a href="#ヘルプ非準拠問題" class="tag">ヘルプ非準拠問題</a>
+- <a href="#難易度インフレ問題" class="tag">難易度インフレ問題</a>
 
 　
 {% assign solution = "解法場合分け" %}
@@ -384,4 +380,35 @@ $2$乗オーダーで処理できることが多く、括弧列を構文木に�
 - いずれかのプレイヤーが最終手番の自由度をなるべく減らすことで途中までで最終手番を確定させて必勝となる。
 
 などといった状況が起こる。
+
+　
+{% assign solution = "不明な想定解" %}
+<h2 id="{{ solution }}"><a href="{{ site.url }}/yukicoder-difficulty-statistics#{{ solution }}">{{ solution }}</a></h2>
+
+解説が存在しないために問題を表すためのタグ。少なくとも実装だけはwriter提出を見れば分かるが、どのような考察（特に正当性の証明）がなされたかが非公開となる。
+
+　
+{% assign solution = "ヘルプ非準拠問題" %}
+<h2 id="{{ solution }}"><a href="{{ site.url }}/yukicoder-difficulty-statistics#{{ solution }}">{{ solution }}</a></h2>
+
+ヘルプに記載されている難易度基準を明確に反する問題を表すタグ。例えばヘルプで★2の要素に挙げられている解法を★1.5で要求する問題など。公開後に何度投票結果に合わせて★の数が減った場合や、作問者が意図的に上の難易度帯の典型を下の難易度で出題しようとした時などに起こる。
+
+　
+{% assign solution = "難易度インフレ問題" %}
+<h2 id="{{ solution }}"><a href="{{ site.url }}/yukicoder-difficulty-statistics#{{ solution }}">{{ solution }}</a></h2>
+
+- その問題以下の難易度で1年以上要求されなかった典型解法を用いる問題
+- ほぼ同じまたはほぼ下位互換である問題が過去に出題されており、かつその過去問より★の数が少ない問題
+
+などを表すタグ。公開後に何度投票結果に合わせて★の数が減った場合や、同様の解法が頻繁に出題されて難易度評価に混乱が生じた時や、作問陣が意図的に過去問の難易度基準と別の基準で難易度を設定している時などに起こる。
+
+内容の内訳は以下の通り：
+- ★1.5 [No.2565 はじめてのおつかい](https://yukicoder.me/problems/no/2565)：過去1年間★1.5以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#幅優先探索">幅優先探索</a>が想定解
+- ★1.5 [No.2693 Sword](https://yukicoder.me/problems/no/2693)：過去1年間★1.5以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#動的計画法">動的計画法</a>が想定解
+- ★2 [No.2739 Time is money](https://yukicoder.me/problems/no/2739)：過去1年間★2以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#ダイクストラ法">ダイクストラ法</a>が想定解
+- ★2.5 [No.3343 Distance Sum of Large Tree](https://yukicoder.me/problems/no/3343)：★3 [https://yukicoder.me/problems/no/3328](https://yukicoder.me/problems/no/3328)のほぼ上位互換
+- ★2.5 [No.3760 Streaming Schedule](https://yukicoder.me/problems/no/3760)：★3 [No.2139 K Consecutive Sushi](https://yukicoder.me/problems/no/2139)の完全上位互換
+- ★3 [No.2604 Initial Motion](https://yukicoder.me/problems/no/2604)：過去1年間★3以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#最小費用流計算">最小費用流計算</a>が想定解
+- ★3 [No.2697 Range LIS Query](https://yukicoder.me/problems/no/2697)：過去1年間★3以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#遅延セグメント木">遅延セグメント木</a>が想定解
+- ★3 [No.2713 Just Solitaire](https://yukicoder.me/problems/no/2713)：過去1年間★3以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#最大流計算">最大流計算</a>が想定解
 
