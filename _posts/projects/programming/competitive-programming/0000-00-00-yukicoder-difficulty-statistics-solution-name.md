@@ -410,7 +410,7 @@ $2$乗オーダーで処理できることが多く、括弧列を構文木に�
 - ★1.5 [No.2565 はじめてのおつかい](https://yukicoder.me/problems/no/2565)：過去1年間★1.5以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#幅優先探索">幅優先探索</a>が想定解
 - ★1.5 [No.2693 Sword](https://yukicoder.me/problems/no/2693)：過去1年間★1.5以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#動的計画法">動的計画法</a>が想定解
 - ★2 [No.2739 Time is money](https://yukicoder.me/problems/no/2739)：過去1年間★2以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#ダイクストラ法">ダイクストラ法</a>が想定解
-- ★2.5 [No.3343 Distance Sum of Large Tree](https://yukicoder.me/problems/no/3343)：★3 [https://yukicoder.me/problems/no/3328](https://yukicoder.me/problems/no/3328)のほぼ上位互換
+- ★2.5 [No.3343 Distance Sum of Large Tree](https://yukicoder.me/problems/no/3343)：★3 [No.3328 岩井ツリーグラフ](https://yukicoder.me/problems/no/3328)のほぼ上位互換
 - ★2.5 [No.3760 Streaming Schedule](https://yukicoder.me/problems/no/3760)：★3 [No.2139 K Consecutive Sushi](https://yukicoder.me/problems/no/2139)の完全上位互換
 - ★3 [No.2604 Initial Motion](https://yukicoder.me/problems/no/2604)：過去1年間★3以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#最小費用流計算">最小費用流計算</a>が想定解
 - ★3 [No.2697 Range LIS Query](https://yukicoder.me/problems/no/2697)：過去1年間★3以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#遅延セグメント木">遅延セグメント木</a>が想定解
