@@ -2,7 +2,7 @@
 url: https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/
 layout: project
 title: yukicoder過去問解法別難易度統計の解法名解説
-date: 2026-10-10
+date: 2026-10-24
 excerpt: "yukicoderの過去問の解法別難易度統計ページに記載した解法名の解説です。"
 project: true
 parent: competitive-programming-project
@@ -388,6 +388,18 @@ $2$乗オーダーで処理できることが多く、括弧列を構文木に�
 解説が存在しない問題を表すためのタグ。少なくとも実装だけはwriter提出を見れば分かるが、どのような考察（特に正当性の証明）がなされたかが非公開となる。
 
 　
+{% assign solution = "作問用チェックリスト非準拠問題" %}
+<h2 id="{{ solution }}"><a href="{{ site.url }}/yukicoder-difficulty-statistics#{{ solution }}">{{ solution }}</a></h2>
+
+作問用チェックリストに即していない問題を表すタグ。例えば
+
+- ★1の想定解の実行時間が100[ms]以上である問題
+- 実行時間制限が6[s]以下でありかつテストケースが20個未満である問題
+- 最大ケースが登録されていない問題
+
+など。作問者が作問用チェックリストを見ずに作問した時などに起こる。
+
+　
 {% assign solution = "ヘルプ非準拠問題" %}
 <h2 id="{{ solution }}"><a href="{{ site.url }}/yukicoder-difficulty-statistics#{{ solution }}">{{ solution }}</a></h2>
 
@@ -407,8 +419,11 @@ $2$乗オーダーで処理できることが多く、括弧列を構文木に�
 が該当する。公開後に難易度投票結果に合わせて★の数が減った場合や、同様の解法が頻繁に出題されて作問陣の難易度評価に混乱が生じた時や、作問陣が意図的に過去問の難易度基準と別の基準で難易度を設定している時などに起こる。
 
 内容の内訳は以下の通り：
+
 - ★1.5 [No.2565 はじめてのおつかい](https://yukicoder.me/problems/no/2565)：過去1年間★1.5以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#幅優先探索">幅優先探索</a>が想定解
+- ★1.5 [No.2679 MODice](https://yukicoder.me/problems/no/2679)：過去1年間★1.5以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#素数を法とする逆元計算">素数を法とする逆元計算</a>が想定解
 - ★1.5 [No.2693 Sword](https://yukicoder.me/problems/no/2693)：過去1年間★1.5以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#動的計画法">動的計画法</a>が想定解
+- ★1.5 [No.3178 free sort](https://yukicoder.me/problems/no/3178)：過去1年間★1.5以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#階乗による多項係数計算">階乗による多項係数計算</a>、<a href="{{ site.url }}/yukicoder-difficulty-statistics#階乗による二項係数計算">階乗による二項係数計算</a>、<a href="{{ site.url }}/yukicoder-difficulty-statistics#階乗逆元計算">階乗逆元計算</a>が想定解
 - ★2 [No.2739 Time is money](https://yukicoder.me/problems/no/2739)：過去1年間★2以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#ダイクストラ法">ダイクストラ法</a>が想定解
 - ★2.5 [No.3343 Distance Sum of Large Tree](https://yukicoder.me/problems/no/3343)：★3 [No.3328 岩井ツリーグラフ](https://yukicoder.me/problems/no/3328)のほぼ上位互換
 - ★2.5 [No.3760 Streaming Schedule](https://yukicoder.me/problems/no/3760)：★3 [No.2139 K Consecutive Sushi](https://yukicoder.me/problems/no/2139)の完全上位互換
