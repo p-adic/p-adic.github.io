@@ -2,7 +2,7 @@
 url: https://p-adic.github.io/yukicoder-writer-statistics
 layout: project
 title: yukicoder過去問writer別統計
-date: 2026-10-24
+date: 2026-10-31
 excerpt: "yukicoderの過去問のwriter別の難易度に関する統計データです。"
 parent: competitive-programming-project
 prev-child: yukicoder-difficulty-statistics-solution-name
@@ -7412,13 +7412,46 @@ writer名は基本的に登録名をそのまま表記していますが、例�
 
 ### 過去問のレベル（星の数）とdifficulty（実際の解け具合）の組み合わせ
 
+- [★2.5／diffデータなし](https://yukicoder.me/problems/no/3779)
+- [★3／diffデータなし](https://yukicoder.me/problems/no/3780)
+- [★3／diffデータなし](https://yukicoder.me/problems/no/3781)
+- [★3／diffデータなし](https://yukicoder.me/problems/no/3782)
 - [★3／diff <font color="orange">2563</font>](https://yukicoder.me/problems/no/3605)
+- [★3.5／diffデータなし](https://yukicoder.me/problems/no/3783)
+- [★3.5／diffデータなし](https://yukicoder.me/problems/no/3784)
+- [★4／diffデータなし](https://yukicoder.me/problems/no/3785)
 
 ### 過去問の解法頻度
 
+- [DPのデータ構造高速化](https://p-adic.github.io/yukicoder-difficulty-statistics/#DPのデータ構造高速化) × 1問
+- [２成分の片方のみを変更する操作の一意性に注目](https://p-adic.github.io/yukicoder-difficulty-statistics/#２成分の片方のみを変更する操作の一意性に注目) × 1問
 - [２配列の区間長が等しい区間和の最大化](https://p-adic.github.io/yukicoder-difficulty-statistics/#２配列の区間長が等しい区間和の最大化) × 1問
+- [オーバーフロー回避](https://p-adic.github.io/yukicoder-difficulty-statistics/#オーバーフロー回避) × 1問
+- [セグメント木](https://p-adic.github.io/yukicoder-difficulty-statistics/#セグメント木) × 1問
+- [モノイド演算に関する区間取得](https://p-adic.github.io/yukicoder-difficulty-statistics/#モノイド演算に関する区間取得) × 1問
+- [一次元データ構造の並列による二次元クエリ処理](https://p-adic.github.io/yukicoder-difficulty-statistics/#一次元データ構造の並列による二次元クエリ処理) × 1問
+- [基底に帰着](https://p-adic.github.io/yukicoder-difficulty-statistics/#基底に帰着) × 1問
+- [基底計算](https://p-adic.github.io/yukicoder-difficulty-statistics/#基底計算) × 1問
+- [既出を検索](https://p-adic.github.io/yukicoder-difficulty-statistics/#既出を検索) × 1問
+- [区間max・min取得](https://p-adic.github.io/yukicoder-difficulty-statistics/#区間max・min取得) × 1問
+- [経路・手順・遷移の構築](https://p-adic.github.io/yukicoder-difficulty-statistics/#経路・手順・遷移の構築) × 1問
+- [構築](https://p-adic.github.io/yukicoder-difficulty-statistics/#構築) × 1問
+- [最小全域木計算](https://p-adic.github.io/yukicoder-difficulty-statistics/#最小全域木計算) × 1問
+- [最大有向部分森計算](https://p-adic.github.io/yukicoder-difficulty-statistics/#最大有向部分森計算) × 1問
+- [上限付き演算によるオーバーフロー回避](https://p-adic.github.io/yukicoder-difficulty-statistics/#上限付き演算によるオーバーフロー回避) × 1問
+- [線形代数](https://p-adic.github.io/yukicoder-difficulty-statistics/#線形代数) × 1問
+- [全域木計算](https://p-adic.github.io/yukicoder-difficulty-statistics/#全域木計算) × 1問
 - [全探索](https://p-adic.github.io/yukicoder-difficulty-statistics/#全探索) × 1問
+- [操作逆順](https://p-adic.github.io/yukicoder-difficulty-statistics/#操作逆順) × 1問
+- [大半の成分を変更する操作の差で少数の成分を変更](https://p-adic.github.io/yukicoder-difficulty-statistics/#大半の成分を変更する操作の差で少数の成分を変更) × 1問
+- [端から確定](https://p-adic.github.io/yukicoder-difficulty-statistics/#端から確定) × 1問
+- [超頂点追加](https://p-adic.github.io/yukicoder-difficulty-statistics/#超頂点追加) × 1問
+- [動的計画法](https://p-adic.github.io/yukicoder-difficulty-statistics/#動的計画法) × 1問
+- [難易度インフレ問題](https://p-adic.github.io/yukicoder-difficulty-statistics/#難易度インフレ問題) × 1問
+- [二分探索](https://p-adic.github.io/yukicoder-difficulty-statistics/#二分探索) × 1問
+- [不変量に注目](https://p-adic.github.io/yukicoder-difficulty-statistics/#不変量に注目) × 1問
 - [分割統治法（広義：decrease-and-conquer）](https://p-adic.github.io/yukicoder-difficulty-statistics/#分割統治法（広義：decrease-and-conquer）) × 1問
+- [平面走査](https://p-adic.github.io/yukicoder-difficulty-statistics/#平面走査) × 1問
 - [変数決め打ち](https://p-adic.github.io/yukicoder-difficulty-statistics/#変数決め打ち) × 1問
 
 

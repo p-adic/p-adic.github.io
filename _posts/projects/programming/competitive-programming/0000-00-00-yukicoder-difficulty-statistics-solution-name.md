@@ -2,7 +2,7 @@
 url: https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/
 layout: project
 title: yukicoder過去問解法別難易度統計の解法名解説
-date: 2026-10-24
+date: 2026-10-31
 excerpt: "yukicoderの過去問の解法別難易度統計ページに記載した解法名の解説です。"
 project: true
 parent: competitive-programming-project
@@ -430,4 +430,5 @@ $2$乗オーダーで処理できることが多く、括弧列を構文木に�
 - ★3 [No.2604 Initial Motion](https://yukicoder.me/problems/no/2604)：過去1年間★3以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#最小費用流計算">最小費用流計算</a>が想定解
 - ★3 [No.2697 Range LIS Query](https://yukicoder.me/problems/no/2697)：過去1年間★3以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#遅延セグメント木">遅延セグメント木</a>が想定解
 - ★3 [No.2713 Just Solitaire](https://yukicoder.me/problems/no/2713)：過去1年間★3以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#最大流計算">最大流計算</a>が想定解
+- ★3 [No.3781 Erase One, Gain from the Other](https://yukicoder.me/problems/no/3781)：過去1年間★3以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#最大有向部分森計算">最大有向部分森計算</a>が想定解
 
