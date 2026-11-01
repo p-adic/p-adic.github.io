@@ -2,7 +2,7 @@
 url: https://p-adic.github.io/yukicoder-writer-statistics
 layout: project
 title: yukicoder過去問writer別統計
-date: 2026-10-31
+date: 2026-11-01
 excerpt: "yukicoderの過去問のwriter別の難易度に関する統計データです。"
 parent: competitive-programming-project
 prev-child: yukicoder-difficulty-statistics-solution-name
@@ -3819,6 +3819,7 @@ writer名は基本的に登録名をそのまま表記していますが、例�
 - [準同型](https://p-adic.github.io/yukicoder-difficulty-statistics/#準同型) × 2問
 - [深さ優先探索](https://p-adic.github.io/yukicoder-difficulty-statistics/#深さ優先探索) × 2問
 - [素数を法とする逆元計算](https://p-adic.github.io/yukicoder-difficulty-statistics/#素数を法とする逆元計算) × 2問
+- [難易度インフレ問題](https://p-adic.github.io/yukicoder-difficulty-statistics/#難易度インフレ問題) × 2問
 - [二項係数計算](https://p-adic.github.io/yukicoder-difficulty-statistics/#二項係数計算) × 2問
 - [累積積による冪乗・階乗計算](https://p-adic.github.io/yukicoder-difficulty-statistics/#累積積による冪乗・階乗計算) × 2問
 - [01列と括弧列の対応](https://p-adic.github.io/yukicoder-difficulty-statistics/#01列と括弧列の対応) × 1問
@@ -9787,6 +9788,7 @@ writer名は基本的に登録名をそのまま表記していますが、例�
 - [動的計画法](https://p-adic.github.io/yukicoder-difficulty-statistics/#動的計画法) × 1問
 - [同じ値の纏め上げ](https://p-adic.github.io/yukicoder-difficulty-statistics/#同じ値の纏め上げ) × 1問
 - [独立事象の積への分解による確率計算・数え上げ](https://p-adic.github.io/yukicoder-difficulty-statistics/#独立事象の積への分解による確率計算・数え上げ) × 1問
+- [難易度インフレ問題](https://p-adic.github.io/yukicoder-difficulty-statistics/#難易度インフレ問題) × 1問
 - [二乗の期待値計算](https://p-adic.github.io/yukicoder-difficulty-statistics/#二乗の期待値計算) × 1問
 - [半標準ヤングタブローに翻訳](https://p-adic.github.io/yukicoder-difficulty-statistics/#半標準ヤングタブローに翻訳) × 1問
 - [不変量を保つ戦略](https://p-adic.github.io/yukicoder-difficulty-statistics/#不変量を保つ戦略) × 1問

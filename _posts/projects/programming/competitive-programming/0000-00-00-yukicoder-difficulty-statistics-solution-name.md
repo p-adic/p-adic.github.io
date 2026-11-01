@@ -430,5 +430,8 @@ $2$乗オーダーで処理できることが多く、括弧列を構文木に�
 - ★3 [No.2604 Initial Motion](https://yukicoder.me/problems/no/2604)：過去1年間★3以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#最小費用流計算">最小費用流計算</a>が想定解
 - ★3 [No.2697 Range LIS Query](https://yukicoder.me/problems/no/2697)：過去1年間★3以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#遅延セグメント木">遅延セグメント木</a>が想定解
 - ★3 [No.2713 Just Solitaire](https://yukicoder.me/problems/no/2713)：過去1年間★3以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#最大流計算">最大流計算</a>が想定解
+- ★3 [No.3442 Good Vertex Connectivity](https://yukicoder.me/problems/no/3442)：過去1年間★3以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#オイラーツアーによる最近共通祖先計算">オイラーツアーによる最近共通祖先計算</a>、<a href="{{ site.url }}/yukicoder-difficulty-statistics#木の部分集合の連結包計算">木の部分集合の連結包計算</a>が想定解（ただしコンテスト終了後に★3.5に上方修正済み）
+- ★3 [No.3443 Sum of (Tree Distances)^K 1](https://yukicoder.me/problems/no/3443)：過去1年間★3以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#ケイリーの公式">ケイリーの公式</a>が想定解（ただしコンテスト終了後に★3.5に上方修正済み）
+- ★3 [No.3746 Swap and LIS](https://yukicoder.me/problems/no/3746)：過去1年間★3以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#Greeneの定理">Greeneの定理</a>、<a href="{{ site.url }}/yukicoder-difficulty-statistics#ロビンソン・シェンステッド・クヌース対応">ロビンソン・シェンステッド・クヌース対応</a>、<a href="{{ site.url }}/yukicoder-difficulty-statistics#ロビンソン・シェンステッド対応">ロビンソン・シェンステッド対応</a>、<a href="{{ site.url }}/yukicoder-difficulty-statistics#最長排他的単調増加部分列長計算">最長排他的単調増加部分列長計算</a>が想定解（ただしコンテスト終了後に★3.5に上方修正済み）
 - ★3 [No.3781 Erase One, Gain from the Other](https://yukicoder.me/problems/no/3781)：過去1年間★3以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#最大有向部分森計算">最大有向部分森計算</a>が想定解
 
