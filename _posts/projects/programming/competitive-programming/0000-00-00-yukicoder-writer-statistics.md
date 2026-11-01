@@ -3838,6 +3838,7 @@ writer名は基本的に登録名をそのまま表記していますが、例�
 - [フィボナッチ数列](https://p-adic.github.io/yukicoder-difficulty-statistics/#フィボナッチ数列) × 1問
 - [フィボナッチ数列の累積和計算](https://p-adic.github.io/yukicoder-difficulty-statistics/#フィボナッチ数列の累積和計算) × 1問
 - [フィボナッチ数列法B周期計算](https://p-adic.github.io/yukicoder-difficulty-statistics/#フィボナッチ数列法B周期計算) × 1問
+- [プリューファーコード](https://p-adic.github.io/yukicoder-difficulty-statistics/#プリューファーコード) × 1問
 - [マージ](https://p-adic.github.io/yukicoder-difficulty-statistics/#マージ) × 1問
 - [モノイド演算に関する区間取得](https://p-adic.github.io/yukicoder-difficulty-statistics/#モノイド演算に関する区間取得) × 1問
 - [ユークリッドの互除法](https://p-adic.github.io/yukicoder-difficulty-statistics/#ユークリッドの互除法) × 1問
