@@ -420,18 +420,29 @@ $2$乗オーダーで処理できることが多く、括弧列を構文木に�
 
 内容の内訳は以下の通り：
 
-- ★1.5 [No.2565 はじめてのおつかい](https://yukicoder.me/problems/no/2565)：過去1年間★1.5以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#幅優先探索">幅優先探索</a>が想定解
-- ★1.5 [No.2679 MODice](https://yukicoder.me/problems/no/2679)：過去1年間★1.5以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#素数を法とする逆元計算">素数を法とする逆元計算</a>が想定解
-- ★1.5 [No.2693 Sword](https://yukicoder.me/problems/no/2693)：過去1年間★1.5以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#動的計画法">動的計画法</a>が想定解
-- ★1.5 [No.3178 free sort](https://yukicoder.me/problems/no/3178)：過去1年間★1.5以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#階乗による多項係数計算">階乗による多項係数計算</a>、<a href="{{ site.url }}/yukicoder-difficulty-statistics#階乗による二項係数計算">階乗による二項係数計算</a>、<a href="{{ site.url }}/yukicoder-difficulty-statistics#階乗逆元計算">階乗逆元計算</a>が想定解
-- ★2 [No.2739 Time is money](https://yukicoder.me/problems/no/2739)：過去1年間★2以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#ダイクストラ法">ダイクストラ法</a>が想定解
-- ★2.5 [No.3343 Distance Sum of Large Tree](https://yukicoder.me/problems/no/3343)：★3 [No.3328 岩井ツリーグラフ](https://yukicoder.me/problems/no/3328)のほぼ上位互換
-- ★2.5 [No.3760 Streaming Schedule](https://yukicoder.me/problems/no/3760)：★3 [No.2139 K Consecutive Sushi](https://yukicoder.me/problems/no/2139)の完全上位互換
-- ★3 [No.2604 Initial Motion](https://yukicoder.me/problems/no/2604)：過去1年間★3以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#最小費用流計算">最小費用流計算</a>が想定解
-- ★3 [No.2697 Range LIS Query](https://yukicoder.me/problems/no/2697)：過去1年間★3以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#遅延セグメント木">遅延セグメント木</a>が想定解
-- ★3 [No.2713 Just Solitaire](https://yukicoder.me/problems/no/2713)：過去1年間★3以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#最大流計算">最大流計算</a>が想定解
-- ★3 [No.3442 Good Vertex Connectivity](https://yukicoder.me/problems/no/3442)：過去1年間★3以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#オイラーツアーによる最近共通祖先計算">オイラーツアーによる最近共通祖先計算</a>、<a href="{{ site.url }}/yukicoder-difficulty-statistics#木の部分集合の連結包計算">木の部分集合の連結包計算</a>が想定解（ただしコンテスト終了後に★3.5に上方修正済み）
-- ★3 [No.3443 Sum of (Tree Distances)^K 1](https://yukicoder.me/problems/no/3443)：過去1年間★3以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#ケイリーの公式">ケイリーの公式</a>が想定解（ただしコンテスト終了後に★3.5に上方修正済み）
-- ★3 [No.3746 Swap and LIS](https://yukicoder.me/problems/no/3746)：過去1年間★3以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#Greeneの定理">Greeneの定理</a>、<a href="{{ site.url }}/yukicoder-difficulty-statistics#ロビンソン・シェンステッド・クヌース対応">ロビンソン・シェンステッド・クヌース対応</a>、<a href="{{ site.url }}/yukicoder-difficulty-statistics#ロビンソン・シェンステッド対応">ロビンソン・シェンステッド対応</a>、<a href="{{ site.url }}/yukicoder-difficulty-statistics#最長排他的単調増加部分列長計算">最長排他的単調増加部分列長計算</a>が想定解（ただしコンテスト終了後に★3.5に上方修正済み）
-- ★3 [No.3781 Erase One, Gain from the Other](https://yukicoder.me/problems/no/3781)：過去1年間★3以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#最大有向部分森計算">最大有向部分森計算</a>が想定解
+##### ★☆
+
+- [No.2565 はじめてのおつかい](https://yukicoder.me/problems/no/2565)：過去1年間同難易度帯以下でで要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#幅優先探索">幅優先探索</a>が想定解
+- [No.2679 MODice](https://yukicoder.me/problems/no/2679)：過去1年間同難易度帯以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#素数を法とする逆元計算">素数を法とする逆元計算</a>が想定解
+- [No.2693 Sword](https://yukicoder.me/problems/no/2693)：過去1年間同難易度帯以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#動的計画法">動的計画法</a>が想定解
+- [No.3178 free sort](https://yukicoder.me/problems/no/3178)：過去1年間同難易度帯以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#階乗による多項係数計算">階乗による多項係数計算</a>、<a href="{{ site.url }}/yukicoder-difficulty-statistics#階乗による二項係数計算">階乗による二項係数計算</a>、<a href="{{ site.url }}/yukicoder-difficulty-statistics#階乗逆元計算">階乗逆元計算</a>が想定解
+
+##### ★★
+
+- [No.2739 Time is money](https://yukicoder.me/problems/no/2739)：過去1年間同難易度帯以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#ダイクストラ法">ダイクストラ法</a>が想定解
+
+##### ★★☆
+
+- [No.3343 Distance Sum of Large Tree](https://yukicoder.me/problems/no/3343)：★3 [No.3328 岩井ツリーグラフ](https://yukicoder.me/problems/no/3328)のほぼ上位互換
+- [No.3760 Streaming Schedule](https://yukicoder.me/problems/no/3760)：★3 [No.2139 K Consecutive Sushi](https://yukicoder.me/problems/no/2139)の完全上位互換
+
+##### ★★★
+
+- [No.2604 Initial Motion](https://yukicoder.me/problems/no/2604)：過去1年間同難易度帯以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#最小費用流計算">最小費用流計算</a>が想定解
+- [No.2697 Range LIS Query](https://yukicoder.me/problems/no/2697)：過去1年間同難易度帯以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#遅延セグメント木">遅延セグメント木</a>が想定解
+- [No.2713 Just Solitaire](https://yukicoder.me/problems/no/2713)：過去1年間同難易度帯以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#最大流計算">最大流計算</a>が想定解
+- [No.3442 Good Vertex Connectivity](https://yukicoder.me/problems/no/3442)：過去1年間同難易度帯以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#オイラーツアーによる最近共通祖先計算">オイラーツアーによる最近共通祖先計算</a>、<a href="{{ site.url }}/yukicoder-difficulty-statistics#木の部分集合の連結包計算">木の部分集合の連結包計算</a>が想定解（ただしコンテスト終了後に★3.5に上方修正済み）
+- [No.3443 Sum of (Tree Distances)^K 1](https://yukicoder.me/problems/no/3443)：過去1年間同難易度帯以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#ケイリーの公式">ケイリーの公式</a>が想定解（ただしコンテスト終了後に★3.5に上方修正済み）
+- [No.3746 Swap and LIS](https://yukicoder.me/problems/no/3746)：過去1年間同難易度帯以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#Greeneの定理">Greeneの定理</a>、<a href="{{ site.url }}/yukicoder-difficulty-statistics#ロビンソン・シェンステッド・クヌース対応">ロビンソン・シェンステッド・クヌース対応</a>、<a href="{{ site.url }}/yukicoder-difficulty-statistics#ロビンソン・シェンステッド対応">ロビンソン・シェンステッド対応</a>、<a href="{{ site.url }}/yukicoder-difficulty-statistics#最長排他的単調増加部分列長計算">最長排他的単調増加部分列長計算</a>が想定解（ただしコンテスト終了後に★3.5に上方修正済み）
+- [No.3781 Erase One, Gain from the Other](https://yukicoder.me/problems/no/3781)：過去1年間同難易度帯以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#最大有向部分森計算">最大有向部分森計算</a>が想定解
 
