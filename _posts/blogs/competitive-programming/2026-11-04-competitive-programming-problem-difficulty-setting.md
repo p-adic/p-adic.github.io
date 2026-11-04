@@ -1,7 +1,7 @@
 ---
 url: https://p-adic.github.io/competitive-programming-problem-difficulty-setting
 layout: blog
-title:競技プログラミング作問の難易度評価方法
+title: 競技プログラミング作問の難易度評価方法
 date: 2026-11-04
 excerpt: "どのように競技プログラミング作問で難易度評価をしているかを書いていきます。"
 parent: competitive-programming-blog
