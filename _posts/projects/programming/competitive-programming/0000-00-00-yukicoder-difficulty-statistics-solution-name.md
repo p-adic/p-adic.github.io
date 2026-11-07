@@ -452,6 +452,7 @@ $2$乗オーダーで処理できることが多く、括弧列を構文木に�
 ##### ★★☆
 
 - [No.2712 Play more!](https://yukicoder.me/problems/no/2712)：過去1年間同難易度帯以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#ベルマン・フォード法">ベルマン・フォード法</a>が想定解
+- [No.2780 The Bottle Imp](https://yukicoder.me/problems/no/2780)：過去1年間同難易度帯以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#トポロジカルソート">トポロジカルソート</a>、<a href="{{ site.url }}/yukicoder-difficulty-statistics#強連結成分分解">強連結成分分解</a>が想定解
 - [No.3343 Distance Sum of Large Tree](https://yukicoder.me/problems/no/3343)：★3 [No.3328 岩井ツリーグラフ](https://yukicoder.me/problems/no/3328)のほぼ上位互換
 - [No.3364 Push_back Operation](https://yukicoder.me/problems/no/3364)：過去1年間同難易度帯以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#バケット分割">バケット分割</a>、<a href="{{ site.url }}/yukicoder-difficulty-statistics#バケット分割による２解法の結合">バケット分割による２解法の結合</a>、<a href="{{ site.url }}/yukicoder-difficulty-statistics#平方分割">平方分割</a>が想定解
 - [No.3760 Streaming Schedule](https://yukicoder.me/problems/no/3760)：★3 [No.2139 K Consecutive Sushi](https://yukicoder.me/problems/no/2139)の完全上位互換
