@@ -392,31 +392,33 @@ $2$乗オーダーで処理できることが多く、括弧列を構文木に�
 {% assign solution = "作問用チェックリスト非準拠問題" %}
 <h2 id="{{ solution }}"><a href="{{ site.url }}/yukicoder-difficulty-statistics#{{ solution }}">{{ solution }}</a></h2>
 
-作問用チェックリストに即していない問題を表すタグ。例えば
+作問用チェックリストに即していない問題を表すタグ。部分タグに
 
-- ★1の想定解の実行時間が100[ms]以上である問題
-- 実行時間制限が6[s]以下でありかつテストケースが20個未満である問題
-- 最大ケースが登録されていない問題
+- <a href="{{ site.url }}/yukicoder-difficulty-statistics#★1の実行時間100ms超の想定解">★1の実行時間100ms超の想定解</a>
+- <a href="{{ site.url }}/yukicoder-difficulty-statistics#実行時間制限6[s]以下でテストケース20個未満の問題">実行時間制限6[s]以下でテストケース20個未満の問題</a>
+- <a href="{{ site.url }}/yukicoder-difficulty-statistics#最大ケースが登録されていない問題">最大ケースが登録されていない問題</a>
 
-など。作問者が作問用チェックリストとは別の思惑を持つ場合や、作問用チェックリストを見ずに作問した時などに起こる。
-
-内容の内訳は以下の通り：
-
-##### ★
-
-- [No.3455 N-beatsu](https://yukicoder.me/problems/no/3455)：想定解の実行時間が100[ms]以上
-
-##### ★☆
-
-- [No.3778 pow2!!pow2!!pow2!!u](https://yukicoder.me/problems/no/3778)：実行時間制限6[s]以下でテストケース20個未満かつ最大ケースが登録されていない（チャレンジにて最大ケース追加済）
+がある。作問者が作問用チェックリストとは別の思惑を持つ場合や、作問用チェックリストを見ずに作問した時などに起こる。
 
 　
 {% assign solution = "ヘルプ非準拠問題" %}
 <h2 id="{{ solution }}"><a href="{{ site.url }}/yukicoder-difficulty-statistics#{{ solution }}">{{ solution }}</a></h2>
 
-ヘルプに記載されている難易度基準と異なる問題を表すタグ。例えばヘルプで★2の要素に挙げられている解法を★1.5で要求する問題など。
+ヘルプに記載されている難易度基準と異なる問題を表すタグ。例えばヘルプで★2の要素に挙げられている解法を★1.5で要求する問題など。部分タグに
 
-公開後に難易度投票結果に合わせて★の数が減った場合（2026/10/31以前に気付いた難易度修正のみ対応）や、作問者が意図的に上の難易度帯の典型を下の難易度でも出題しようとした時などに起こる。
+- <a href="{{ site.url }}/yukicoder-difficulty-statistics#★1の64bit整数要求">★1の64bit整数要求</a>
+- <a href="{{ site.url }}/yukicoder-difficulty-statistics#★1の高校以上の数学知識要求">★1の高校以上の数学知識要求</a>
+- <a href="{{ site.url }}/yukicoder-difficulty-statistics#★1.5以下の高校２年生以上の数学知識要求">★1.5以下の高校２年生以上の数学知識要求</a>
+- <a href="{{ site.url }}/yukicoder-difficulty-statistics#★1.5以下の素数を法とする逆元計算">★1.5以下の素数を法とする逆元計算</a>
+- <a href="{{ site.url }}/yukicoder-difficulty-statistics#★1.5以下のアルゴリズム要求">★1.5以下のアルゴリズム要求</a>
+- <a href="{{ site.url }}/yukicoder-difficulty-statistics#★2.5以下のワーシャル・フロイド法要求">★2.5以下のワーシャル・フロイド法要求</a>
+- <a href="{{ site.url }}/yukicoder-difficulty-statistics#★2.5以下のトポロジカルソート要求">★2.5以下のトポロジカルソート要求</a>
+- <a href="{{ site.url }}/yukicoder-difficulty-statistics#★2.5以下の優先度付きキュー要求">★2.5以下の優先度付きキュー要求</a>（運営さん自身も出題しているので考慮しなくても良いかも？　ダイクストラ法の実装に含まれる優先度付きキューは含まず）
+- <a href="{{ site.url }}/yukicoder-difficulty-statistics#★2.5以下のsorted set要求">★2.5以下のsorted set要求</a>（優先度付きキューより高度なデータ構造であるため）
+
+がある。公開後に難易度投票結果に合わせて★の数が減った場合（2026/10/31以前に気付いた難易度修正のみ対応）や、作問者が意図的に上の難易度帯の典型を下の難易度でも出題しようとした時などに起こる。
+
+桁DPと行列冪乗とFFT想定の問題の多くがヘルプ非準拠であるためそれらは考慮しない。
 
 　
 {% assign solution = "難易度インフレ問題" %}
@@ -429,6 +431,8 @@ $2$乗オーダーで処理できることが多く、括弧列を構文木に�
 
 が該当する。公開後に難易度投票結果に合わせて★の数が減った場合（2026/10/31以前に気付いた難易度修正のみ対応）や、同様の解法が頻繁に出題されて作問陣の難易度評価に混乱が生じた時や、作問陣が意図的に過去問の難易度基準と別の基準で難易度を設定している時などに起こる。
 
+あくまで難易度インフレの傾向を記録するためのものであり、良し悪しを含意するタグではない。
+
 内容の内訳は以下の通り：
 
 ##### ★☆
@@ -438,14 +442,18 @@ $2$乗オーダーで処理できることが多く、括弧列を構文木に�
 - [No.2693 Sword](https://yukicoder.me/problems/no/2693)：過去1年間同難易度帯以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#動的計画法">動的計画法</a>が想定解
 - [No.2946 Puyo](https://yukicoder.me/problems/no/2946)：過去1年間同難易度帯以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#多点BFS">多点BFS</a>、<a href="{{ site.url }}/yukicoder-difficulty-statistics#素集合データ構造">素集合データ構造</a>、<a href="{{ site.url }}/yukicoder-difficulty-statistics#連結成分取得">連結成分取得</a>が想定解
 - [No.3178 free sort](https://yukicoder.me/problems/no/3178)：過去1年間同難易度帯以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#階乗による多項係数計算">階乗による多項係数計算</a>、<a href="{{ site.url }}/yukicoder-difficulty-statistics#階乗による二項係数計算">階乗による二項係数計算</a>、<a href="{{ site.url }}/yukicoder-difficulty-statistics#階乗逆元計算">階乗逆元計算</a>が想定解
+- [No.3656 Game Scores and Costs](https://yukicoder.me/problems/no/3656)：過去1年間同難易度帯以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#優先度付きキュー">優先度付きキュー</a>が想定解
 
 ##### ★★
 
 - [No.2739 Time is money](https://yukicoder.me/problems/no/2739)：過去1年間同難易度帯以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#ダイクストラ法">ダイクストラ法</a>が想定解
+- [No.3134 二分探索木](https://yukicoder.me/problems/no/3134)：過去1年間同難易度帯以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#sorted set">sorted set</a>、<a href="{{ site.url }}/yukicoder-difficulty-statistics#Cartesian tree">Cartesian tree</a>が想定解
 
 ##### ★★☆
 
+- [No.2712 Play more!](https://yukicoder.me/problems/no/2712)：過去1年間同難易度帯以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#ベルマン・フォード法">ベルマン・フォード法</a>が想定解
 - [No.3343 Distance Sum of Large Tree](https://yukicoder.me/problems/no/3343)：★3 [No.3328 岩井ツリーグラフ](https://yukicoder.me/problems/no/3328)のほぼ上位互換
+- [No.3364 Push_back Operation](https://yukicoder.me/problems/no/3364)：過去1年間同難易度帯以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#バケット分割">バケット分割</a>、<a href="{{ site.url }}/yukicoder-difficulty-statistics#バケット分割による２解法の結合">バケット分割による２解法の結合</a>、<a href="{{ site.url }}/yukicoder-difficulty-statistics#平方分割">平方分割</a>が想定解
 - [No.3760 Streaming Schedule](https://yukicoder.me/problems/no/3760)：★3 [No.2139 K Consecutive Sushi](https://yukicoder.me/problems/no/2139)の完全上位互換
 
 ##### ★★★
