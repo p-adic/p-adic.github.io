@@ -732,7 +732,6 @@ writer名は基本的に登録名をそのまま表記していますが、例�
 - [バケット分割](https://p-adic.github.io/yukicoder-difficulty-statistics/#バケット分割) × 3問
 - [バケット分割による分割統治](https://p-adic.github.io/yukicoder-difficulty-statistics/#バケット分割による分割統治) × 3問
 - [フェルマーの小定理](https://p-adic.github.io/yukicoder-difficulty-statistics/#フェルマーの小定理) × 3問
-- [ポテンシャル付き素集合データ構造](https://p-adic.github.io/yukicoder-difficulty-statistics/#ポテンシャル付き素集合データ構造) × 3問
 - [モノイド演算に関する区間取得](https://p-adic.github.io/yukicoder-difficulty-statistics/#モノイド演算に関する区間取得) × 3問
 - [一対一対応](https://p-adic.github.io/yukicoder-difficulty-statistics/#一対一対応) × 3問
 - [外積・サラスの公式による行列式計算](https://p-adic.github.io/yukicoder-difficulty-statistics/#外積・サラスの公式による行列式計算) × 3問
@@ -779,6 +778,7 @@ writer名は基本的に登録名をそのまま表記していますが、例�
 - [フェルマーの小定理による逆元計算](https://p-adic.github.io/yukicoder-difficulty-statistics/#フェルマーの小定理による逆元計算) × 2問
 - [ブレント・キュングの合成アルゴリズム](https://p-adic.github.io/yukicoder-difficulty-statistics/#ブレント・キュングの合成アルゴリズム) × 2問
 - [ホモロジー計算](https://p-adic.github.io/yukicoder-difficulty-statistics/#ホモロジー計算) × 2問
+- [ポテンシャル付き素集合データ構造](https://p-adic.github.io/yukicoder-difficulty-statistics/#ポテンシャル付き素集合データ構造) × 2問
 - [ラグランジュの定理](https://p-adic.github.io/yukicoder-difficulty-statistics/#ラグランジュの定理) × 2問
 - [ラプラスの展開公式による逆行列計算](https://p-adic.github.io/yukicoder-difficulty-statistics/#ラプラスの展開公式による逆行列計算) × 2問
 - [因数分解による素因数分解・付値計算の分割統治](https://p-adic.github.io/yukicoder-difficulty-statistics/#因数分解による素因数分解・付値計算の分割統治) × 2問
@@ -2283,8 +2283,10 @@ writer名は基本的に登録名をそのまま表記していますが、例�
 ### 過去問の解法頻度
 
 - [ミラー戦略](https://p-adic.github.io/yukicoder-difficulty-statistics/#ミラー戦略) × 2問
+- [★2.5以下のニム必勝戦略要求](https://p-adic.github.io/yukicoder-difficulty-statistics/#★2.5以下のニム必勝戦略要求) × 1問
 - [タイリングによるミラー戦略](https://p-adic.github.io/yukicoder-difficulty-statistics/#タイリングによるミラー戦略) × 1問
 - [ニム和](https://p-adic.github.io/yukicoder-difficulty-statistics/#ニム和) × 1問
+- [ヘルプ非準拠問題](https://p-adic.github.io/yukicoder-difficulty-statistics/#ヘルプ非準拠問題) × 1問
 - [解説なし問題](https://p-adic.github.io/yukicoder-difficulty-statistics/#解説なし問題) × 1問
 - [既出を検索](https://p-adic.github.io/yukicoder-difficulty-statistics/#既出を検索) × 1問
 - [検索](https://p-adic.github.io/yukicoder-difficulty-statistics/#検索) × 1問
@@ -3328,7 +3330,6 @@ writer名は基本的に登録名をそのまま表記していますが、例�
 - [modint型](https://p-adic.github.io/yukicoder-difficulty-statistics/#modint型) × 1問
 - [ディオファントス方程式の解の数え上げ](https://p-adic.github.io/yukicoder-difficulty-statistics/#ディオファントス方程式の解の数え上げ) × 1問
 - [ディオファントス方程式の解の存在判定](https://p-adic.github.io/yukicoder-difficulty-statistics/#ディオファントス方程式の解の存在判定) × 1問
-- [ポテンシャル付き素集合データ構造](https://p-adic.github.io/yukicoder-difficulty-statistics/#ポテンシャル付き素集合データ構造) × 1問
 - [区間の分割を始切片の分割と終切片の組に翻訳して境目を管理する次元圧縮](https://p-adic.github.io/yukicoder-difficulty-statistics/#区間の分割を始切片の分割と終切片の組に翻訳して境目を管理する次元圧縮) × 1問
 - [区間和取得](https://p-adic.github.io/yukicoder-difficulty-statistics/#区間和取得) × 1問
 - [桁ごとに計算](https://p-adic.github.io/yukicoder-difficulty-statistics/#桁ごとに計算) × 1問
@@ -3451,7 +3452,6 @@ writer名は基本的に登録名をそのまま表記していますが、例�
 - [データを素因数別に分割](https://p-adic.github.io/yukicoder-difficulty-statistics/#データを素因数別に分割) × 1問
 - [データを不変量別に分割](https://p-adic.github.io/yukicoder-difficulty-statistics/#データを不変量別に分割) × 1問
 - [ディオファントス方程式の解の存在判定](https://p-adic.github.io/yukicoder-difficulty-statistics/#ディオファントス方程式の解の存在判定) × 1問
-- [ポテンシャル付き素集合データ構造](https://p-adic.github.io/yukicoder-difficulty-statistics/#ポテンシャル付き素集合データ構造) × 1問
 - [括弧列DP](https://p-adic.github.io/yukicoder-difficulty-statistics/#括弧列DP) × 1問
 - [既存のアルゴリズムの変形](https://p-adic.github.io/yukicoder-difficulty-statistics/#既存のアルゴリズムの変形) × 1問
 - [繰り返し二乗法](https://p-adic.github.io/yukicoder-difficulty-statistics/#繰り返し二乗法) × 1問
@@ -3674,7 +3674,6 @@ writer名は基本的に登録名をそのまま表記していますが、例�
 - [ゼータ変換](https://p-adic.github.io/yukicoder-difficulty-statistics/#ゼータ変換) × 1問
 - [ディオファントス方程式の解の存在判定](https://p-adic.github.io/yukicoder-difficulty-statistics/#ディオファントス方程式の解の存在判定) × 1問
 - [フェニック木](https://p-adic.github.io/yukicoder-difficulty-statistics/#フェニック木) × 1問
-- [ポテンシャル付き素集合データ構造](https://p-adic.github.io/yukicoder-difficulty-statistics/#ポテンシャル付き素集合データ構造) × 1問
 - [ポラードの$\rho$](https://p-adic.github.io/yukicoder-difficulty-statistics/#ポラードの$\rho$) × 1問
 - [メビウスの反転公式](https://p-adic.github.io/yukicoder-difficulty-statistics/#メビウスの反転公式) × 1問
 - [メビウス関数計算](https://p-adic.github.io/yukicoder-difficulty-statistics/#メビウス関数計算) × 1問
@@ -5923,6 +5922,7 @@ writer名は基本的に登録名をそのまま表記していますが、例�
 - [特殊な入出力](https://p-adic.github.io/yukicoder-difficulty-statistics/#特殊な入出力) × 1問
 - [内積の畳み込み計算](https://p-adic.github.io/yukicoder-difficulty-statistics/#内積の畳み込み計算) × 1問
 - [内積計算](https://p-adic.github.io/yukicoder-difficulty-statistics/#内積計算) × 1問
+- [難易度インフレ問題](https://p-adic.github.io/yukicoder-difficulty-statistics/#難易度インフレ問題) × 1問
 - [二項係数計算](https://p-adic.github.io/yukicoder-difficulty-statistics/#二項係数計算) × 1問
 - [二次元imos法](https://p-adic.github.io/yukicoder-difficulty-statistics/#二次元imos法) × 1問
 - [二次元累積和](https://p-adic.github.io/yukicoder-difficulty-statistics/#二次元累積和) × 1問
@@ -10681,6 +10681,7 @@ writer名は基本的に登録名をそのまま表記していますが、例�
 - [集合管理](https://p-adic.github.io/yukicoder-difficulty-statistics/#集合管理) × 1問
 - [素数判定](https://p-adic.github.io/yukicoder-difficulty-statistics/#素数判定) × 1問
 - [動的計画法](https://p-adic.github.io/yukicoder-difficulty-statistics/#動的計画法) × 1問
+- [難易度インフレ問題](https://p-adic.github.io/yukicoder-difficulty-statistics/#難易度インフレ問題) × 1問
 - [二次元imos法](https://p-adic.github.io/yukicoder-difficulty-statistics/#二次元imos法) × 1問
 - [表示可能性DP](https://p-adic.github.io/yukicoder-difficulty-statistics/#表示可能性DP) × 1問
 - [優先度付きキュー](https://p-adic.github.io/yukicoder-difficulty-statistics/#優先度付きキュー) × 1問
