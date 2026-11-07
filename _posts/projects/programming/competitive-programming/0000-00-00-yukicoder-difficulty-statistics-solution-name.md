@@ -436,6 +436,7 @@ $2$乗オーダーで処理できることが多く、括弧列を構文木に�
 - [No.2565 はじめてのおつかい](https://yukicoder.me/problems/no/2565)：過去1年間同難易度帯以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#幅優先探索">幅優先探索</a>が想定解
 - [No.2679 MODice](https://yukicoder.me/problems/no/2679)：過去1年間同難易度帯以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#素数を法とする逆元計算">素数を法とする逆元計算</a>が想定解
 - [No.2693 Sword](https://yukicoder.me/problems/no/2693)：過去1年間同難易度帯以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#動的計画法">動的計画法</a>が想定解
+- [No.2946 Puyo](https://yukicoder.me/problems/no/2946)：過去1年間同難易度帯以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#多点BFS">多点BFS</a>、<a href="{{ site.url }}/yukicoder-difficulty-statistics#素集合データ構造">素集合データ構造</a>、<a href="{{ site.url }}/yukicoder-difficulty-statistics#連結成分取得">連結成分取得</a>が想定解
 - [No.3178 free sort](https://yukicoder.me/problems/no/3178)：過去1年間同難易度帯以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#階乗による多項係数計算">階乗による多項係数計算</a>、<a href="{{ site.url }}/yukicoder-difficulty-statistics#階乗による二項係数計算">階乗による二項係数計算</a>、<a href="{{ site.url }}/yukicoder-difficulty-statistics#階乗逆元計算">階乗逆元計算</a>が想定解
 
 ##### ★★
