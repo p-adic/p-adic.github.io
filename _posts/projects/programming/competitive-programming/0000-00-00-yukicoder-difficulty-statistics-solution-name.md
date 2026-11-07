@@ -2,7 +2,7 @@
 url: https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/
 layout: project
 title: yukicoder過去問解法別難易度統計の解法名解説
-date: 2026-10-31
+date: 2026-11-07
 excerpt: "yukicoderの過去問の解法別難易度統計ページに記載した解法名の解説です。"
 project: true
 parent: competitive-programming-project
@@ -418,7 +418,7 @@ $2$乗オーダーで処理できることが多く、括弧列を構文木に�
 
 がある。公開後に難易度投票結果に合わせて★の数が減った場合（2026/10/31以前に気付いた難易度修正のみ対応）や、作問者が意図的に上の難易度帯の典型を下の難易度でも出題しようとした時などに起こる。
 
-桁DPと行列冪乗とFFT想定の問題の多くがヘルプ非準拠であるためそれらは考慮しない。
+ただしヘルプで★3に挙げられている（応用的な）動的計画法と★3.5に挙げられている桁DPと★4に挙げられている行列冪乗と★4.5に挙げられている高速フーリエ変換はそれら想定の問題の多くがヘルプ非準拠であるためそれらは考慮しない。
 
 　
 {% assign solution = "難易度インフレ問題" %}
@@ -448,6 +448,7 @@ $2$乗オーダーで処理できることが多く、括弧列を構文木に�
 
 - [No.2739 Time is money](https://yukicoder.me/problems/no/2739)：過去1年間同難易度帯以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#ダイクストラ法">ダイクストラ法</a>が想定解
 - [No.3134 二分探索木](https://yukicoder.me/problems/no/3134)：過去1年間同難易度帯以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#sorted set">sorted set</a>、<a href="{{ site.url }}/yukicoder-difficulty-statistics#Cartesian tree">Cartesian tree</a>が想定解
+- [No.3709 Unknown Treasure](https://yukicoder.me/problems/no/3709)：過去1年間同難易度帯以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#二次元imos法">二次元imos法</a>が想定解
 
 ##### ★★☆
 
@@ -459,6 +460,7 @@ $2$乗オーダーで処理できることが多く、括弧列を構文木に�
 
 ##### ★★★
 
+- [No.2456 Stamp Art](https://yukicoder.me/problems/no/2456)：過去1年間同難易度帯以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#二次元imos法">二次元imos法</a>（後に★2の[No.2739 Time is money](https://yukicoder.me/problems/no/2739)でも出題）、<a href="{{ site.url }}/yukicoder-difficulty-statistics#二次元累積和">二次元累積和</a>が想定解
 - [No.2604 Initial Motion](https://yukicoder.me/problems/no/2604)：過去1年間同難易度帯以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#最小費用流計算">最小費用流計算</a>が想定解
 - [No.2697 Range LIS Query](https://yukicoder.me/problems/no/2697)：過去1年間同難易度帯以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#遅延セグメント木">遅延セグメント木</a>が想定解
 - [No.2713 Just Solitaire](https://yukicoder.me/problems/no/2713)：過去1年間同難易度帯以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#最大流計算">最大流計算</a>が想定解
