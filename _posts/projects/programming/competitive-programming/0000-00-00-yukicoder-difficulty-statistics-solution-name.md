@@ -415,6 +415,7 @@ $2$乗オーダーで処理できることが多く、括弧列を構文木に�
 - <a href="{{ site.url }}/yukicoder-difficulty-statistics#★2.5以下のトポロジカルソート要求">★2.5以下のトポロジカルソート要求</a>
 - <a href="{{ site.url }}/yukicoder-difficulty-statistics#★2.5以下の優先度付きキュー要求">★2.5以下の優先度付きキュー要求</a>（運営さん自身も出題しているので考慮しなくても良いかも？　ダイクストラ法の実装に含まれる優先度付きキューは含まず）
 - <a href="{{ site.url }}/yukicoder-difficulty-statistics#★2.5以下のsorted set要求">★2.5以下のsorted set要求</a>（優先度付きキューより高度なデータ構造であるため）
+- <a href="{{ site.url }}/yukicoder-difficulty-statistics#★2.5以下のニム必勝戦略要求">★2.5以下のニム必勝戦略要求</a>（優先度付きキューより高度なデータ構造であるため）
 
 がある。公開後に難易度投票結果に合わせて★の数が減った場合（2026/10/31以前に気付いた難易度修正のみ対応）や、作問者が意図的に上の難易度帯の典型を下の難易度でも出題しようとした時などに起こる。
 
@@ -453,9 +454,11 @@ $2$乗オーダーで処理できることが多く、括弧列を構文木に�
 ##### ★★☆
 
 - [No.2712 Play more!](https://yukicoder.me/problems/no/2712)：過去1年間同難易度帯以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#ベルマン・フォード法">ベルマン・フォード法</a>が想定解
-- [No.2780 The Bottle Imp](https://yukicoder.me/problems/no/2780)：過去1年間同難易度帯以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#トポロジカルソート">トポロジカルソート</a>、<a href="{{ site.url }}/yukicoder-difficulty-statistics#強連結成分分解">強連結成分分解</a>が想定解
+- [No.2780 The Bottle Imp](https://yukicoder.me/problems/no/2780)：過去1年間同難易度帯以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#非自明なトポロジカルソート">非自明なトポロジカルソート</a>、<a href="{{ site.url }}/yukicoder-difficulty-statistics#強連結成分分解">強連結成分分解</a>が想定解
+- [No.2857 Div Array](https://yukicoder.me/problems/no/2857)：過去1年間同難易度帯以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#非自明な行列累乗">非自明な行列累乗</a>が想定解（ただし1年より前まで遡ると★2.5の[No.2156 ぞい文字列](https://yukicoder.me/problems/no/2156)、[No.2365 Present of good number](https://yukicoder.me/problems/no/2365)で出題済み）
 - [No.3343 Distance Sum of Large Tree](https://yukicoder.me/problems/no/3343)：★3 [No.3328 岩井ツリーグラフ](https://yukicoder.me/problems/no/3328)のほぼ上位互換
 - [No.3364 Push_back Operation](https://yukicoder.me/problems/no/3364)：過去1年間同難易度帯以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#バケット分割">バケット分割</a>、<a href="{{ site.url }}/yukicoder-difficulty-statistics#バケット分割による２解法の結合">バケット分割による２解法の結合</a>、<a href="{{ site.url }}/yukicoder-difficulty-statistics#平方分割">平方分割</a>が想定解
+- [No.3695 同室と別室](https://yukicoder.me/problems/no/3695)：過去1年間同難易度帯以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#ポテンシャル付き素集合データ構造">ポテンシャル付き素集合データ構造</a>が想定解（ただし1年より前まで遡ると★2.5の[No.2293 無向辺 2-SAT](https://yukicoder.me/problems/no/2293)で出題済み）
 - [No.3760 Streaming Schedule](https://yukicoder.me/problems/no/3760)：★3 [No.2139 K Consecutive Sushi](https://yukicoder.me/problems/no/2139)の完全上位互換
 
 ##### ★★★
