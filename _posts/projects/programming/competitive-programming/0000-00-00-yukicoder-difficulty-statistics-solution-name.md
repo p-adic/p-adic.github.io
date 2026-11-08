@@ -2,7 +2,7 @@
 url: https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/
 layout: project
 title: yukicoder過去問解法別難易度統計の解法名ラベル解説
-date: 2026-11-07
+date: 2026-11-08
 excerpt: "yukicoderの過去問の解法別難易度統計ページに記載した解法名ラベルの解説です。"
 project: true
 parent: competitive-programming-project
@@ -326,7 +326,7 @@ $(a_i)\_{i=1}^{N}$と$(b_i)\_{i=1}^{N}$を見つけるには、縦ベクトル$(
 
 前者の問題を$f(i) \leq Y$や$f(i) \geq Y$に緩和し、その条件を満たす$i \in I$の最大・最小値を二分探索や式変形で求める。その$i$に対し$f(i) = Y$が成り立つか否かを判定することで、$f(i) = Y$を満たす$i \in I$の存在判定と存在する時の最大・最小値計算をする手法。
 
-その応用として後者の問題も、$I$の部分集合$J$であって$I \setminus J$と$f_J$の像$f(J)$がともに小さいものが取れれば各$i \in I \setminu J$に対しては$f(i)$を愚直に求め、各$y \in f(J)$に対して$f(i) \leq y$を満たす最大の$i \in J$を求め$g(y)$と置くことで、$g$に対する二分探索に帰着できる。
+その応用として後者の問題も、$I$の部分集合$J$であって$I \setminus J$と$f_J$の像$f(J)$がともに小さいものが取れれば各$i \in I \setminus J$に対しては$f(i)$を愚直に求め、各$y \in f(J)$に対して$f(i) \leq y$を満たす最大の$i \in J$を求め$g(y)$と置くことで、$g$に対する二分探索に帰着できる。
 
 ただし追加で
 
