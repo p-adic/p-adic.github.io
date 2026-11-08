@@ -1,9 +1,9 @@
 ---
 url: https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/
 layout: project
-title: yukicoder過去問解法別難易度統計の解法名解説
+title: yukicoder過去問解法別難易度統計の解法名ラベル解説
 date: 2026-11-07
-excerpt: "yukicoderの過去問の解法別難易度統計ページに記載した解法名の解説です。"
+excerpt: "yukicoderの過去問の解法別難易度統計ページに記載した解法名ラベルの解説です。"
 project: true
 parent: competitive-programming-project
 prev-child: yukicoder-difficulty-statistics
@@ -13,7 +13,7 @@ tags: [競技プログラミング,数学]
 ---
 
 
-[yukicoderの過去問の解法別難易度統計のページ]({{ site.url }}/yukicoder-difficulty-statistics)で用いた、一般的でない解法名の解説ページです。
+[yukicoderの過去問の解法別難易度統計のページ]({{ site.url }}/yukicoder-difficulty-statistics)で用いた、特殊な解法名ラベルの解説ページです。
 
 
 ## 目次
