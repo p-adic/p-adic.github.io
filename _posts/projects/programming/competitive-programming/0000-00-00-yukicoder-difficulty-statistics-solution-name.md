@@ -417,7 +417,7 @@ $2$乗オーダーで処理できることが多く、括弧列を構文木に�
 - <a href="{{ site.url }}/yukicoder-difficulty-statistics#★2.5以下のトポロジカルソート要求">★2.5以下のトポロジカルソート要求</a>
 - <a href="{{ site.url }}/yukicoder-difficulty-statistics#★2.5以下の優先度付きキュー要求">★2.5以下の優先度付きキュー要求</a>（運営さん自身も出題しているので考慮しなくても良いかも？　ダイクストラ法の実装に含まれる優先度付きキューは含まず）
 - <a href="{{ site.url }}/yukicoder-difficulty-statistics#★2.5以下のsorted set要求">★2.5以下のsorted set要求</a>（優先度付きキューより高度なデータ構造であるため）
-- <a href="{{ site.url }}/yukicoder-difficulty-statistics#★2.5以下のニム必勝戦略要求">★2.5以下のニム必勝戦略要求</a>（優先度付きキューより高度なデータ構造であるため）
+- <a href="{{ site.url }}/yukicoder-difficulty-statistics#★2.5以下のニム必勝戦略要求">★2.5以下のニム必勝戦略要求</a>
 
 がある。公開後に難易度投票結果に合わせて★の数が減った場合（2026/10/31以前に気付いた難易度修正のみ対応）や、作問者が意図的に上の難易度帯の典型を下の難易度でも出題しようとした時などに起こる。
 
