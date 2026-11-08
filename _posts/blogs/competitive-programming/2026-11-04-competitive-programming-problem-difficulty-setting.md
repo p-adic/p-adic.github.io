@@ -96,7 +96,7 @@ tags: [競技プログラミング]
 - 明らかな愚直解が存在しかつそれがTLEするような問題は出題しない。
 - ヘルプに「高校数学１年程度の知識（和の公式など）」と記載されているので、高校2年レベル以上の数学を前提知識にする問題は出題しない。（必要な知識を問題ページに明記するなど、前提知識にしないようにする）
 - ヘルプに「1e9+7を使う問題（割り算以外）」と記載されているので、<a href="{{ site.url }}/yukicoder-difficulty-statistics#素数を法とする逆元計算>素数を法とする逆元計算</a>は要求しない。
-- ヘルプで★2に指定されている<a href="{{ site.url }}/yukicoder-difficulty-statistics#全探索">全探索</a>（非自明な、問題文にそのまま有界な数データや文字列などの具体的な有限集合として与えられているわけではないデータを多次元の有界な数ベクトルデータなどに翻訳する考察の必要な全探索）は要求しない。
+- ヘルプで★2に指定されている<a href="{{ site.url }}/yukicoder-difficulty-statistics#非自明な全探索">全探索</a>（非自明な、問題文にそのまま有界な数データや文字列などの具体的な有限集合として与えられているわけではないデータを多次元の有界な数ベクトルデータなどに翻訳する考察の必要な全探索）はなるべく要求しない。ただし非自明性の基準は人によるので、ある程度非自明でも★1.5相当の考察の範疇であれば出題しうる。
 - ヘルプで★2に指定されている<a href="{{ site.url }}/yukicoder-difficulty-statistics#ユークリッドの互除法">ユークリッドの互除法</a>は要求しない。
 - ヘルプで★2に指定されている<a href="{{ site.url }}/yukicoder-difficulty-statistics#幅優先探索">幅優先探索</a>／<a href="{{ site.url }}/yukicoder-difficulty-statistics#深さ優先探索>深さ優先探索</a>は要求しない。
 - ヘルプで★2に指定されている<a href="{{ site.url }}/yukicoder-difficulty-statistics#エラトステネスの篩">エラトステネスの篩</a>は要求しない。
@@ -130,7 +130,7 @@ tags: [競技プログラミング]
 - <a href="{{ site.url }}/yukicoder-difficulty-statistics#双対セグメント木">双対セグメント木</a>は要求しない。
 - <a href="{{ site.url }}/yukicoder-difficulty-statistics#二次元imos法">二次元imos法</a>は要求しない。
 - <a href="{{ site.url }}/yukicoder-difficulty-statistics#Disjoint Sparse Table">Disjoint Sparse Table</a>は要求しない。
-- <a href="{{ site.url }}/yukicoder-difficulty-statistics#行列累乗">行列累乗</a>（非自明な、問題文では行列の積で表されていないものを行列の積で表す考察を含むもの）は要求しない。
+- <a href="{{ site.url }}/yukicoder-difficulty-statistics#非自明な行列累乗">行列累乗</a>（非自明な、問題文では行列の積で表されていないものを行列の積で表す考察を含むもの）は要求しない。
 - <a href="{{ site.url }}/yukicoder-difficulty-statistics#高速フーリエ変換">高速フーリエ変換</a>は要求しない。
 - <a href="{{ site.url }}/yukicoder-difficulty-statistics#Convex Hull Trick">Convex Hull Trick</a>は要求しない。
 - 整数論の前提知識は<a href="{{ site.url }}/yukicoder-difficulty-statistics#フェルマーの小定理">フェルマーの小定理</a>より高度なものを仮定しない。（特に<a href="{{ site.url }}/yukicoder-difficulty-statistics#オイラーの定理">オイラーの定理</a>や<a href="{{ site.url }}/yukicoder-difficulty-statistics#中国剰余定理">中国剰余定理</a>を要求する問題は★3以上で出すか必要な知識を問題ページに明記する）
