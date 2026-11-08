@@ -411,6 +411,8 @@ $2$乗オーダーで処理できることが多く、括弧列を構文木に�
 - <a href="{{ site.url }}/yukicoder-difficulty-statistics#★1.5以下の高校２年生以上の数学知識要求">★1.5以下の高校２年生以上の数学知識要求</a>
 - <a href="{{ site.url }}/yukicoder-difficulty-statistics#★1.5以下の素数を法とする逆元計算">★1.5以下の素数を法とする逆元計算</a>
 - <a href="{{ site.url }}/yukicoder-difficulty-statistics#★1.5以下のアルゴリズム要求">★1.5以下のアルゴリズム要求</a>
+- <a href="{{ site.url }}/yukicoder-difficulty-statistics#★2以下のnext_permutation要求">★2以下のnext_permutation要求</a>
+- <a href="{{ site.url }}/yukicoder-difficulty-statistics#★2以下の素数を法とする二項係数計算要求">★2以下の素数を法とする二項係数計算要求</a>
 - <a href="{{ site.url }}/yukicoder-difficulty-statistics#★2.5以下のワーシャル・フロイド法要求">★2.5以下のワーシャル・フロイド法要求</a>
 - <a href="{{ site.url }}/yukicoder-difficulty-statistics#★2.5以下のトポロジカルソート要求">★2.5以下のトポロジカルソート要求</a>
 - <a href="{{ site.url }}/yukicoder-difficulty-statistics#★2.5以下の優先度付きキュー要求">★2.5以下の優先度付きキュー要求</a>（運営さん自身も出題しているので考慮しなくても良いかも？　ダイクストラ法の実装に含まれる優先度付きキューは含まず）
@@ -442,20 +444,25 @@ $2$乗オーダーで処理できることが多く、括弧列を構文木に�
 - [No.2679 MODice](https://yukicoder.me/problems/no/2679)：過去1年間同難易度帯以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#素数を法とする逆元計算">素数を法とする逆元計算</a>が想定解
 - [No.2693 Sword](https://yukicoder.me/problems/no/2693)：過去1年間同難易度帯以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#動的計画法">動的計画法</a>が想定解
 - [No.2946 Puyo](https://yukicoder.me/problems/no/2946)：過去1年間同難易度帯以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#多点BFS">多点BFS</a>、<a href="{{ site.url }}/yukicoder-difficulty-statistics#素集合データ構造">素集合データ構造</a>、<a href="{{ site.url }}/yukicoder-difficulty-statistics#連結成分取得">連結成分取得</a>が想定解
-- [No.3178 free sort](https://yukicoder.me/problems/no/3178)：過去1年間同難易度帯以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#階乗による多項係数計算">階乗による多項係数計算</a>、<a href="{{ site.url }}/yukicoder-difficulty-statistics#階乗による二項係数計算">階乗による二項係数計算</a>、<a href="{{ site.url }}/yukicoder-difficulty-statistics#階乗逆元計算">階乗逆元計算</a>が想定解
+- [No.3178 free sort](https://yukicoder.me/problems/no/3178)：過去1年間同難易度帯以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#素数を法とする二項係数計算">素数を法とする二項係数計算</a>、<a href="{{ site.url }}/yukicoder-difficulty-statistics#階乗による多項係数計算">階乗による多項係数計算</a>、<a href="{{ site.url }}/yukicoder-difficulty-statistics#階乗による二項係数計算">階乗による二項係数計算</a>、<a href="{{ site.url }}/yukicoder-difficulty-statistics#階乗逆元計算">階乗逆元計算</a>が想定解
+- [No.3584 Camouflage Mole](https://yukicoder.me/problems/no/3178)：過去1年間同難易度帯以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#素数を法とする二項係数計算">素数を法とする二項係数計算</a>、<a href="{{ site.url }}/yukicoder-difficulty-statistics#階乗による二項係数計算">階乗による二項係数計算</a>、<a href="{{ site.url }}/yukicoder-difficulty-statistics#階乗逆元計算">階乗逆元計算</a>が想定解（ただし1年より前まで遡ると★1.5の[No.3178 free sort](https://yukicoder.me/problems/no/3178)で出題済み）
 - [No.3656 Game Scores and Costs](https://yukicoder.me/problems/no/3656)：過去1年間同難易度帯以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#優先度付きキュー">優先度付きキュー</a>が想定解
 
 ##### ★★
 
 - [No.2739 Time is money](https://yukicoder.me/problems/no/2739)：過去1年間同難易度帯以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#ダイクストラ法">ダイクストラ法</a>が想定解
 - [No.3134 二分探索木](https://yukicoder.me/problems/no/3134)：過去1年間同難易度帯以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#sorted set">sorted set</a>、<a href="{{ site.url }}/yukicoder-difficulty-statistics#Cartesian tree">Cartesian tree</a>が想定解
+- [No.3158 Collect Stamps](https://yukicoder.me/problems/no/3158)：過去1年間同難易度帯以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#next_permutation">next_permutation</a>が想定解
 - [No.3709 Unknown Treasure](https://yukicoder.me/problems/no/3709)：過去1年間同難易度帯以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#二次元imos法">二次元imos法</a>が想定解
 
 ##### ★★☆
 
+- [No.2686 商品券の使い道](https://yukicoder.me/problems/no/2686)：過去1年間同難易度帯以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#高速ゼータ変換">高速ゼータ変換</a>が想定解
 - [No.2712 Play more!](https://yukicoder.me/problems/no/2712)：過去1年間同難易度帯以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#ベルマン・フォード法">ベルマン・フォード法</a>が想定解
 - [No.2780 The Bottle Imp](https://yukicoder.me/problems/no/2780)：過去1年間同難易度帯以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#非自明なトポロジカルソート">非自明なトポロジカルソート</a>、<a href="{{ site.url }}/yukicoder-difficulty-statistics#強連結成分分解">強連結成分分解</a>が想定解
 - [No.2857 Div Array](https://yukicoder.me/problems/no/2857)：過去1年間同難易度帯以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#非自明な行列累乗">非自明な行列累乗</a>が想定解（ただし1年より前まで遡ると★2.5の[No.2156 ぞい文字列](https://yukicoder.me/problems/no/2156)、[No.2365 Present of good number](https://yukicoder.me/problems/no/2365)で出題済み）
+- [No.2879 Range Flip Queries](https://yukicoder.me/problems/no/2879)：過去1年間同難易度帯以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#imos法">imos法</a>が想定解（ただし1年より前まで遡ると★1.5の[No.2154 あさかつの参加人数](https://yukicoder.me/problems/no/2154)で出題済み）
+- [No.3087 University Coloring](https://yukicoder.me/problems/no/3087)：過去1年間同難易度帯以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#最大全域木計算">最大全域木計算</a>、<a href="{{ site.url }}/yukicoder-difficulty-statistics#最小全域木計算">最小全域木計算</a>が想定解（ただし1年より前まで遡ると★2.5の[No.2200 Weird Shortest Path](https://yukicoder.me/problems/no/2200)で出題済み）
 - [No.3343 Distance Sum of Large Tree](https://yukicoder.me/problems/no/3343)：★3 [No.3328 岩井ツリーグラフ](https://yukicoder.me/problems/no/3328)のほぼ上位互換
 - [No.3364 Push_back Operation](https://yukicoder.me/problems/no/3364)：過去1年間同難易度帯以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#バケット分割">バケット分割</a>、<a href="{{ site.url }}/yukicoder-difficulty-statistics#バケット分割による２解法の結合">バケット分割による２解法の結合</a>、<a href="{{ site.url }}/yukicoder-difficulty-statistics#平方分割">平方分割</a>が想定解
 - [No.3695 同室と別室](https://yukicoder.me/problems/no/3695)：過去1年間同難易度帯以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#ポテンシャル付き素集合データ構造">ポテンシャル付き素集合データ構造</a>が想定解（ただし1年より前まで遡ると★2.5の[No.2293 無向辺 2-SAT](https://yukicoder.me/problems/no/2293)で出題済み）
@@ -467,6 +474,7 @@ $2$乗オーダーで処理できることが多く、括弧列を構文木に�
 - [No.2604 Initial Motion](https://yukicoder.me/problems/no/2604)：過去1年間同難易度帯以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#最小費用流計算">最小費用流計算</a>が想定解
 - [No.2697 Range LIS Query](https://yukicoder.me/problems/no/2697)：過去1年間同難易度帯以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#遅延セグメント木">遅延セグメント木</a>が想定解
 - [No.2713 Just Solitaire](https://yukicoder.me/problems/no/2713)：過去1年間同難易度帯以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#最大流計算">最大流計算</a>が想定解
+- [No.2903 A Round-the-World Trip with the Tent](https://yukicoder.me/problems/no/2903)：過去1年間同難易度帯以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#約数ゼータ変換">約数ゼータ変換</a>、<a href="{{ site.url }}/yukicoder-difficulty-statistics#約数メビウス変換">約数メビウス変換</a>、<a href="{{ site.url }}/yukicoder-difficulty-statistics#メビウスの反転公式">メビウスの反転公式</a>が想定解（ただし1年より前まで遡ると★2.5の[No.2211 Frequency Table of GCD](https://yukicoder.me/problems/no/2211)、★3の[No.2075 GCD Subsequence](https://yukicoder.me/problems/no/2075)で出題済み）
 - [No.3442 Good Vertex Connectivity](https://yukicoder.me/problems/no/3442)：過去1年間同難易度帯以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#オイラーツアーによる最近共通祖先計算">オイラーツアーによる最近共通祖先計算</a>、<a href="{{ site.url }}/yukicoder-difficulty-statistics#木の部分集合の連結包計算">木の部分集合の連結包計算</a>が想定解（ただしコンテスト終了後に★3.5に上方修正済み）
 - [No.3443 Sum of (Tree Distances)^K 1](https://yukicoder.me/problems/no/3443)：過去1年間同難易度帯以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#木の数え上げ">木の数え上げ</a>、<a href="{{ site.url }}/yukicoder-difficulty-statistics#プリューファーコード">プリューファーコード</a>、<a href="{{ site.url }}/yukicoder-difficulty-statistics#ケイリーの公式">ケイリーの公式</a>が想定解（ただしコンテスト終了後に★3.5に上方修正済み）
 - [No.3746 Swap and LIS](https://yukicoder.me/problems/no/3746)：過去1年間同難易度帯以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#Greeneの定理">Greeneの定理</a>、<a href="{{ site.url }}/yukicoder-difficulty-statistics#ロビンソン・シェンステッド・クヌース対応">ロビンソン・シェンステッド・クヌース対応</a>、<a href="{{ site.url }}/yukicoder-difficulty-statistics#ロビンソン・シェンステッド対応">ロビンソン・シェンステッド対応</a>、<a href="{{ site.url }}/yukicoder-difficulty-statistics#最長排他的単調増加部分列長計算">最長排他的単調増加部分列長計算</a>が想定解（ただしコンテスト終了後に★3.5に上方修正済み）
