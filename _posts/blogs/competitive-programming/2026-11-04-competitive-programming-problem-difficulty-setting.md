@@ -85,7 +85,7 @@ tags: [競技プログラミング]
 ### ★
 
 - 問題文の通りに素直に実装すれば解ける問題以外は出題しない。例えば非自明な考察や網羅漏れしやすいほど複雑な場合分けは要求しない。
-- 多重ループなどの複雑な実装は要求しない。
+- ３重ループなどの複雑な実装は要求しない。
 - ヘルプで★1.5に指定されている<a href="{{ site.url }}/yukicoder-difficulty-statistics#64bit整数">64bit整数</a>は要求しない。
 - ヘルプで★1.5に指定されている<a href="{{ site.url }}/yukicoder-difficulty-statistics#小数型">小数誤差</a>は要求しない。
 - ヘルプで★1.5に指定されている<a href="{{ site.url }}/yukicoder-difficulty-statistics#リアクティブ問題">リアクティブ形式</a>にしない。
