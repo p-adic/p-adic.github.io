@@ -23,12 +23,18 @@ tags: [競技プログラミング,数学]
 - <a href="#総和計算の期待値への帰着" class="tag">総和計算の期待値への帰着</a>
 - <a href="#損をしない変形" class="tag">損をしない変形</a>
 - <a href="#操作・選択を数値に翻訳" class="tag">操作・選択を数値に翻訳</a>
+- <a href="#自明な全探索" class="tag">自明な全探索</a>
+- <a href="#非自明な全探索" class="tag">非自明な全探索</a>
 - <a href="#操作回数上限以内の達成可能性判定を操作回数最小値計算に帰着" class="tag">操作回数上限以内の達成可能性判定を操作回数最小値計算に帰着</a>
 - <a href="#breakに関する考察" class="tag">breakに関する考察</a>
 - <a href="#距離空間の重み付きグラフ化" class="tag">距離空間の重み付きグラフ化</a>
 - <a href="#連結成分の値の更新" class="tag">連結成分の値の更新</a>
+- <a href="#自明なトポロジカルソート" class="tag">自明なトポロジカルソート</a>
+- <a href="#非自明なトポロジカルソート" class="tag">非自明なトポロジカルソート</a>
 - <a href="#集合管理" class="tag">集合管理</a>
 - <a href="#重複選択個数の線形関係式" class="tag">重複選択個数の線形関係式</a>
+- <a href="#自明な行列累乗" class="tag">自明な行列累乗</a>
+- <a href="#非自明な行列累乗" class="tag">非自明な行列累乗</a>
 - <a href="#合成による次元削減" class="tag">合成による次元削減</a>
 - <a href="#緩和" class="tag">緩和</a>
 - <a href="#単調関数の緩和計算" class="tag">単調関数の緩和計算</a>
@@ -118,6 +124,27 @@ $f$の値の総和を直接求める代わりに、$S$の要素$s$の一様ラ�
 選択方法を全探索する際の<a href="{{ site.url }}/yukicoder-difficulty-statistics#bit全探索">bit全探索</a>や<a href="{{ site.url }}/yukicoder-difficulty-statistics#next_permutation">next_permutation</a>が典型例。
 
 　
+{% assign solution = "自明な全探索" %}
+<h2 id="{{ solution }}"><a href="{{ site.url }}/yukicoder-difficulty-statistics#{{ solution }}">{{ solution }}</a></h2>
+
+問題文または入力で与えられた有限集合$S$であってその列挙方法が自明なものと計算方法の明確な$S$上の関数$f$に対し、問題文で$S$の各要素$s$をわたる$f(s)$の総和・総乗・最大値・最小値計算などが直接問われていたり$f$に関する方程式の解の存在や構成が直接問われている場合に、愚直に行う$S$の要素の全探索のこと。
+
+　
+{% assign solution = "非自明な全探索" %}
+<h2 id="{{ solution }}"><a href="{{ site.url }}/yukicoder-difficulty-statistics#{{ solution }}">{{ solution }}</a></h2>
+
+<a href="{{ site.url }}/yukicoder-difficulty-statistics#自明な全探索">自明な全探索</a>以外の全探索のこと。
+
+- 配列の長さ不定の連続部分列の全探索
+- next_permutation
+- bit全探索
+- 部分集合の要素全探索を全体集合の要素全探索に帰着させたもの
+- <a href="{{ site.url }}/yukicoder-difficulty-statistics#操作・選択を数値に翻訳">操作・選択を数値に翻訳</a>した上での全探索
+- ★2以上の考察を伴う全探索
+
+など全探索が有効であることに気付くこと自体に非自明なアルゴリズム知識や考察が要求されるもの。
+
+　
 {% assign solution = "操作回数上限以内の達成可能性判定を操作回数最小値計算に帰着" %}
 <h2 id="{{ solution }}"><a href="{{ site.url }}/yukicoder-difficulty-statistics#{{ solution }}">{{ solution }}</a></h2>
 
@@ -192,6 +219,24 @@ $G$に辺を追加することで連結成分$C_1$と$C_2$が結合され連結�
 4のように$\otimes$が集合や可変長配列や連想配列の何かしらのマージ処理を伴う場合など、$\otimes$の計算量が引数に依存する設定では[データ構造をマージする一般的なテク]({{ site.url }}/yukicoder-difficulty-statistics#データ構造をマージする一般的なテク)もしばしば併用される。
 
 　
+{% assign solution = "自明なトポロジカルソート" %}
+<h2 id="{{ solution }}"><a href="{{ site.url }}/yukicoder-difficulty-statistics#{{ solution }}">{{ solution }}</a></h2>
+
+グラフの頂点に重みが与えられており、その重みに関してソートするだけで自動的にそのグラフまたは欲しい誘導部分グラフのトポロジカルソートが与えられる場合のソート。
+
+重みが単調に変化するようにしか頂点を移動できない場合の経路を処理する際などに用いられる。
+
+　
+{% assign solution = "非自明なトポロジカルソート" %}
+<h2 id="{{ solution }}"><a href="{{ site.url }}/yukicoder-difficulty-statistics#{{ solution }}">{{ solution }}</a></h2>
+
+<a href="{{ site.url }}/yukicoder-difficulty-statistics#自明なトポロジカルソート">自明なトポロジカルソート</a>以外のトポロジカルソート。
+
+　
+{% assign solution = "非自明なトポロジカルソート" %}
+<h2 id="{{ solution }}"><a href="{{ site.url }}/yukicoder-difficulty-statistics#{{ solution }}">{{ solution }}</a></h2>
+
+　
 {% assign solution = "集合管理" %}
 <h2 id="{{ solution }}"><a href="{{ site.url }}/yukicoder-difficulty-statistics#{{ solution }}">{{ solution }}</a></h2>
 
@@ -220,6 +265,18 @@ $G$に辺を追加することで連結成分$C_1$と$C_2$が結合され連結�
 $(a_i)\_{i=1}^{N}$と$(b_i)\_{i=1}^{N}$を見つけるには、縦ベクトル$(W_i)\_{i=1}^{N}$に右から掛けて零ベクトルとなる$N$次整数係数縦ベクトルを探してその正成分と負成分に分けて差で表せば良い。
 
 なおコストが$1$次元であるならば、コスト上限を$C$と置くと通常の動的計画法で$O(NC)$で解くことができるので、コストが多次元である場合（例えば個数に制限のある複数個の項目を抱き合わせで選択する必要があるナップサック問題）に特に有効である。次元を$D$と置くと$(W_i)\_{i=1}^{N}$は$D \times N$行列とみなせるため、$(a_i)\_{i=1}^{N}$と$(b_i)\_{i=1}^{N}$の組を$\max \\{0,N-D\\}$次元分探すことが可能である。
+
+　
+{% assign solution = "自明な行列累乗" %}
+<h2 id="{{ solution }}"><a href="{{ site.url }}/yukicoder-difficulty-statistics#{{ solution }}">{{ solution }}</a></h2>
+
+問題文または入力で与えられた行列を累乗すること。
+
+　
+{% assign solution = "非自明な行列累乗" %}
+<h2 id="{{ solution }}"><a href="{{ site.url }}/yukicoder-difficulty-statistics#{{ solution }}">{{ solution }}</a></h2>
+
+<h2 id="{{ solution }}"><a href="{{ site.url }}/yukicoder-difficulty-statistics#自明な行列累乗">自明な行列累乗</a></h2>以外の行列累乗。非自明な考察によって動的計画法や確率漸化式などを行列累乗に帰着させた場合など。
 
 　
 {% assign solution = "合成による次元削減" %}
@@ -422,6 +479,8 @@ $2$乗オーダーで処理できることが多く、括弧列を構文木に�
 がある。公開後に難易度投票結果に合わせて★の数が減った場合（2026/10/31以前に気付いた難易度修正のみ対応）や、作問者が意図的に上の難易度帯の典型を下の難易度でも出題しようとした時などに起こる。
 
 ただしヘルプで★3に挙げられている（応用的な）動的計画法と★3.5に挙げられている桁DPと★4に挙げられている行列冪乗と★4.5に挙げられている高速フーリエ変換はそれら想定の問題の多くがヘルプ非準拠であるためそれらは考慮しない。
+
+またヘルプで★2に挙げられている全探索は恐らく<a href="#非自明な全探索" class="tag">非自明なもの</a>を指していると思うが、どこまでを非自明な全探索とみなすかは人によるので考慮しない。
 
 　
 {% assign solution = "難易度インフレ問題" %}
