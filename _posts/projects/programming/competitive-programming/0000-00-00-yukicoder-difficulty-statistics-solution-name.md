@@ -233,10 +233,6 @@ $G$に辺を追加することで連結成分$C_1$と$C_2$が結合され連結�
 <a href="{{ site.url }}/yukicoder-difficulty-statistics#自明なトポロジカルソート">自明なトポロジカルソート</a>以外のトポロジカルソート。
 
 　
-{% assign solution = "非自明なトポロジカルソート" %}
-<h2 id="{{ solution }}"><a href="{{ site.url }}/yukicoder-difficulty-statistics#{{ solution }}">{{ solution }}</a></h2>
-
-　
 {% assign solution = "集合管理" %}
 <h2 id="{{ solution }}"><a href="{{ site.url }}/yukicoder-difficulty-statistics#{{ solution }}">{{ solution }}</a></h2>
 
@@ -276,7 +272,7 @@ $(a_i)\_{i=1}^{N}$と$(b_i)\_{i=1}^{N}$を見つけるには、縦ベクトル$(
 {% assign solution = "非自明な行列累乗" %}
 <h2 id="{{ solution }}"><a href="{{ site.url }}/yukicoder-difficulty-statistics#{{ solution }}">{{ solution }}</a></h2>
 
-<h2 id="{{ solution }}"><a href="{{ site.url }}/yukicoder-difficulty-statistics#自明な行列累乗">自明な行列累乗</a></h2>以外の行列累乗。非自明な考察によって動的計画法や確率漸化式などを行列累乗に帰着させた場合など。
+<a href="{{ site.url }}/yukicoder-difficulty-statistics#自明な行列累乗">自明な行列累乗</a></h2>以外の行列累乗。非自明な考察によって動的計画法や確率漸化式などを行列累乗に帰着させた場合など。
 
 　
 {% assign solution = "合成による次元削減" %}

@@ -239,9 +239,9 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 1. （★1／diff <font color="deepskyblue">1252</font>／1問）<a href="#グリッドの経路を対角線で反転" class="tag">グリッドの経路を対角線で反転</a>
 1. （★1／diff <font color="deepskyblue">1299</font>／1問）<a href="#部分点による考察" class="tag">部分点による考察</a>
 1. （★1.1／diff <font color="brown">613</font>／4問）<a href="#切り上げ計算" class="tag">切り上げ計算</a>
-1. （★1.1／diff <font color="brown">715</font>／31問）<a href="#自明な全探索" class="tag">自明な全探索</a>
+1. （★1.1／diff <font color="brown">715</font>／31問、[解説ページ](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#自明な全探索)）<a href="#自明な全探索" class="tag">自明な全探索</a>
 1. （★1.1／diff <font color="green">1032</font>／5問）<a href="#時間比較を基準時間からの経過時間の差に帰着" class="tag">時間比較を基準時間からの経過時間の差に帰着</a>
-1. （★1.2／diff <font color="brown">751</font>／2問）<a href="#作問用チェックリスト非準拠問題" class="tag">作問用チェックリスト非準拠問題</a>
+1. （★1.2／diff <font color="brown">751</font>／2問、[解説ページ](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#作問用チェックリスト非準拠問題)）<a href="#作問用チェックリスト非準拠問題" class="tag">作問用チェックリスト非準拠問題</a>
 1. （★1.2／diff <font color="deepskyblue">1523</font>／2問）<a href="#getline" class="tag">getline</a>
 1. （★1.3／diff <font color="brown">496</font>／4問）<a href="#whileループ" class="tag">whileループ</a>
 1. （★1.3／diff <font color="brown">768</font>／3問）<a href="#★1.5以下の高校２年生以上の数学知識要求" class="tag">★1.5以下の高校２年生以上の数学知識要求</a>
@@ -280,7 +280,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 1. （★1.5／diff <font color="yellowgreen">2042</font>／1問）<a href="#符号なし整数による剰余回避" class="tag">符号なし整数による剰余回避</a>
 1. （★1.5／diff <font color="yellowgreen">2329</font>／1問）<a href="#閏年を跨ぐカレンダー計算" class="tag">閏年を跨ぐカレンダー計算</a>
 1. （★1.6／diff <font color="green">1074</font>／62問、[解説ページ](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#ヘルプ非準拠問題)）<a href="#ヘルプ非準拠問題" class="tag">ヘルプ非準拠問題</a>
-1. （★1.7／diff <font color="brown">665</font>／2問）<a href="#自明な行列累乗" class="tag">自明な行列累乗</a>
+1. （★1.7／diff <font color="brown">665</font>／2問、[解説ページ](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#自明な行列累乗)）<a href="#自明な行列累乗" class="tag">自明な行列累乗</a>
 1. （★1.7／diff <font color="green">1113</font>／2問）<a href="#集合の要素数による各要素の不一致性判定" class="tag">集合の要素数による各要素の不一致性判定</a>
 1. （★1.7／diff <font color="deepskyblue">1306</font>／2問）<a href="#相似" class="tag">相似</a>
 1. （★1.7／diff <font color="deepskyblue">1582</font>／14問）<a href="#部分集合の要素全探索を全体集合の要素全探索に帰着" class="tag">部分集合の要素全探索を全体集合の要素全探索に帰着</a>
@@ -357,7 +357,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 1. （★2／diffデータなし／1問）<a href="#フェルマー素数判定" class="tag">フェルマー素数判定</a>
 1. （★2／diffデータなし／1問）<a href="#フェルマー素数埋め込み" class="tag">フェルマー素数埋め込み</a>
 1. （★2／diffデータなし／1問）<a href="#ラマヌジャンの無限根号" class="tag">ラマヌジャンの無限根号</a>
-1. （★2.1／diff <font color="green">1120</font>／3問）<a href="#自明なトポロジカルソート" class="tag">自明なトポロジカルソート</a>
+1. （★2.1／diff <font color="green">1120</font>／3問、[解説ページ](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#自明なトポロジカルソート)）<a href="#自明なトポロジカルソート" class="tag">自明なトポロジカルソート</a>
 1. （★2.1／diff <font color="deepskyblue">1318</font>／6問）<a href="#多次元コストナップサック最適化" class="tag">多次元コストナップサック最適化</a>
 1. （★2.1／diff <font color="deepskyblue">1321</font>／8問）<a href="#★2.5以下の優先度付きキュー要求" class="tag">★2.5以下の優先度付きキュー要求</a>
 1. （★2.1／diff <font color="deepskyblue">1383</font>／3問）<a href="#繰り上がり・繰り下がり計算" class="tag">繰り上がり・繰り下がり計算</a>
@@ -426,7 +426,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 1. （★2.3／diff <font color="blue">1616</font>／3問）<a href="#配列の構築" class="tag">配列の構築</a>
 1. （★2.3／diff <font color="blue">1626</font>／84問）<a href="#貪欲法" class="tag">貪欲法</a>
 1. （★2.3／diff <font color="blue">1633</font>／70問）<a href="#累積積による冪乗・階乗計算" class="tag">累積積による冪乗・階乗計算</a>
-1. （★2.3／diff <font color="blue">1640</font>／167問）<a href="#非自明な全探索" class="tag">非自明な全探索</a>
+1. （★2.3／diff <font color="blue">1640</font>／167問、[解説ページ](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#非自明な全探索)）<a href="#非自明な全探索" class="tag">非自明な全探索</a>
 1. （★2.3／diff <font color="blue">1662</font>／14問）<a href="#グラフの構築" class="tag">グラフの構築</a>
 1. （★2.3／diff <font color="blue">1672</font>／3問）<a href="#始切片選択ナップサック最適化" class="tag">始切片選択ナップサック最適化</a>
 1. （★2.3／diff <font color="blue">1673</font>／8問）<a href="#サンプルから推測" class="tag">サンプルから推測</a>
@@ -1175,7 +1175,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 1. （★3.2／diff <font color="yellowgreen">2149</font>／2問）<a href="#kd木" class="tag">kd木</a>
 1. （★3.2／diff <font color="yellowgreen">2149</font>／2問）<a href="#四分木" class="tag">四分木</a>
 1. （★3.2／diff <font color="yellowgreen">2192</font>／2問）<a href="#Moのアルゴリズム" class="tag">Moのアルゴリズム</a>
-1. （★3.2／diff <font color="yellowgreen">2193</font>／24問）<a href="#非自明な行列累乗" class="tag">非自明な行列累乗</a>
+1. （★3.2／diff <font color="yellowgreen">2193</font>／24問、[解説ページ](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#非自明な行列累乗)）<a href="#非自明な行列累乗" class="tag">非自明な行列累乗</a>
 1. （★3.2／diff <font color="yellowgreen">2246</font>／2問）<a href="#倍数メビウス変換" class="tag">倍数メビウス変換</a>
 1. （★3.2／diff <font color="yellowgreen">2253</font>／2問）<a href="#最大・最小要素削除更新" class="tag">最大・最小要素削除更新</a>
 1. （★3.2／diff <font color="yellowgreen">2277</font>／4問）<a href="#法B係数連立一次方程式の解の構築" class="tag">法B係数連立一次方程式の解の構築</a>
@@ -1243,7 +1243,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 1. （★3.5／diff <font color="yellowgreen">2373</font>／1問）<a href="#連立一次不等式の解の数え上げ" class="tag">連立一次不等式の解の数え上げ</a>
 1. （★3.5／diff <font color="yellowgreen">2381</font>／1問）<a href="#二項係数の第２引数を渡る総和計算" class="tag">二項係数の第２引数を渡る総和計算</a>
 1. （★3.5／diff <font color="yellowgreen">2386</font>／1問）<a href="#平均の指定された区間数え上げ" class="tag">平均の指定された区間数え上げ</a>
-1. （★3.5／diff <font color="yellowgreen">2388</font>／4問）<a href="#非自明なトポロジカルソート" class="tag">非自明なトポロジカルソート</a>
+1. （★3.5／diff <font color="yellowgreen">2388</font>／4問、[解説ページ](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#非自明なトポロジカルソート)）<a href="#非自明なトポロジカルソート" class="tag">非自明なトポロジカルソート</a>
 1. （★3.5／diff <font color="yellowgreen">2390</font>／5問）<a href="#代数拡大" class="tag">代数拡大</a>
 1. （★3.5／diff <font color="yellowgreen">2399</font>／8問）<a href="#メビウス変換" class="tag">メビウス変換</a>
 1. （★3.5／diff <font color="orange">2401</font>／1問）<a href="#積分漸化式" class="tag">積分漸化式</a>
@@ -1742,11 +1742,11 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2681">No.2681 ゲームセンターの両替</a> (yukicoder contest 422 (第１回 競技プログラミング講習会作問企画コンテスト) (2024-03-20) - C問題、diff <font color="green">1133</font>)
 
 　
-<h2 id="自明な全探索">16. 自明な全探索</h2>
+<h2 id="自明な全探索">16. <a href="https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#自明な全探索">自明な全探索</a></h2>
 
 ### 難易度統計
 
-「自明な全探索」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
+「[自明な全探索](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#自明な全探索)」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★1.1／diff <font color="brown">715</font>
 - 2026年: ★1／diff <font color="brown">790</font>
 - 2025年: ★1.1／diff <font color="brown">771</font>
@@ -1756,7 +1756,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 ### レベル別問題一覧
 
-「自明な全探索」を主たる解法に含む問題のレベルごとの一覧です。
+「[自明な全探索](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#自明な全探索)」を主たる解法に含む問題のレベルごとの一覧です。
 
 ##### ★
 
@@ -1824,11 +1824,11 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3389">No.3389 k-Days Later</a> (yukicoder contest 490 (2025-11-28) - C問題、diff <font color="deepskyblue">1333</font>)
 
 　
-<h2 id="作問用チェックリスト非準拠問題">18. 作問用チェックリスト非準拠問題</h2>
+<h2 id="作問用チェックリスト非準拠問題">18. <a href="https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#作問用チェックリスト非準拠問題">作問用チェックリスト非準拠問題</a></h2>
 
 ### 難易度統計
 
-「作問用チェックリスト非準拠問題」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
+「[作問用チェックリスト非準拠問題](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#作問用チェックリスト非準拠問題)」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★1.2／diff <font color="brown">751</font>
 - 2026年: ★1.2／diff <font color="brown">751</font>
 - 2025年: ★データなし／diffデータなし
@@ -1838,7 +1838,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 ### レベル別問題一覧
 
-「作問用チェックリスト非準拠問題」を主たる解法に含む問題のレベルごとの一覧です。
+「[作問用チェックリスト非準拠問題](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#作問用チェックリスト非準拠問題)」を主たる解法に含む問題のレベルごとの一覧です。
 
 ##### ★
 
@@ -3074,11 +3074,11 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3471">No.3471 ジャッジサーバーの負荷分散</a> (yukicoder 2026新ジャッジ contest (2026-03-06) - D問題、diff <font color="green">1038</font>)
 
 　
-<h2 id="自明な行列累乗">57. 自明な行列累乗</h2>
+<h2 id="自明な行列累乗">57. <a href="https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#自明な行列累乗">自明な行列累乗</a></h2>
 
 ### 難易度統計
 
-「自明な行列累乗」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
+「[自明な行列累乗](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#自明な行列累乗)」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★1.7／diff <font color="brown">665</font>
 - 2026年: ★データなし／diffデータなし
 - 2025年: ★2／diff <font color="green">1179</font>
@@ -3088,7 +3088,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 ### レベル別問題一覧
 
-「自明な行列累乗」を主たる解法に含む問題のレベルごとの一覧です。
+「[自明な行列累乗](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#自明な行列累乗)」を主たる解法に含む問題のレベルごとの一覧です。
 
 ##### ★☆
 
@@ -5211,11 +5211,11 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2466">No.2466 Root! Root! Root!</a> (単発出題、diffデータなし)
 
 　
-<h2 id="自明なトポロジカルソート">134. 自明なトポロジカルソート</h2>
+<h2 id="自明なトポロジカルソート">134. <a href="https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#自明なトポロジカルソート">自明なトポロジカルソート</a></h2>
 
 ### 難易度統計
 
-「自明なトポロジカルソート」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
+「[自明なトポロジカルソート](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#自明なトポロジカルソート)」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.1／diff <font color="green">1120</font>
 - 2026年: ★2／diff <font color="green">885</font>
 - 2025年: ★データなし／diffデータなし
@@ -5225,7 +5225,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 ### レベル別問題一覧
 
-「自明なトポロジカルソート」を主たる解法に含む問題のレベルごとの一覧です。
+「[自明なトポロジカルソート](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#自明なトポロジカルソート)」を主たる解法に含む問題のレベルごとの一覧です。
 
 ##### ★☆
 
@@ -7985,11 +7985,11 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/3538">No.3538 Not First Place</a> (yukicoder 499 contest (2026-05-08) - F問題、diff <font color="yellowgreen">2255</font>)
 
 　
-<h2 id="非自明な全探索">203. 非自明な全探索</h2>
+<h2 id="非自明な全探索">203. <a href="https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#非自明な全探索">非自明な全探索</a></h2>
 
 ### 難易度統計
 
-「非自明な全探索」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
+「[非自明な全探索](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#非自明な全探索)」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★2.3／diff <font color="blue">1640</font>
 - 2026年: ★2.2／diff <font color="deepskyblue">1572</font>
 - 2025年: ★2.2／diff <font color="blue">1601</font>
@@ -7999,7 +7999,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 ### レベル別問題一覧
 
-「非自明な全探索」を主たる解法に含む問題のレベルごとの一覧です。
+「[非自明な全探索](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#非自明な全探索)」を主たる解法に含む問題のレベルごとの一覧です。
 
 ##### ★
 
@@ -33573,11 +33573,11 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2206">No.2206 Popcount Sum 2</a> (yukicoder contest 375 (2023-02-03) - F問題、diff <font color="yellowgreen">2381</font>)
 
 　
-<h2 id="非自明な行列累乗">952. 非自明な行列累乗</h2>
+<h2 id="非自明な行列累乗">952. <a href="https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#非自明な行列累乗">非自明な行列累乗</a></h2>
 
 ### 難易度統計
 
-「非自明な行列累乗」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
+「[非自明な行列累乗](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#非自明な行列累乗)」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.2／diff <font color="yellowgreen">2193</font>
 - 2026年: ★3.1／diff <font color="yellowgreen">2046</font>
 - 2025年: ★3.1／diff <font color="blue">1967</font>
@@ -33587,7 +33587,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 ### レベル別問題一覧
 
-「非自明な行列累乗」を主たる解法に含む問題のレベルごとの一覧です。
+「[非自明な行列累乗](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#非自明な行列累乗)」を主たる解法に含む問題のレベルごとの一覧です。
 
 ##### ★★☆
 
@@ -35810,11 +35810,11 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 - <a href="https://yukicoder.me/problems/no/2956">No.2956 Substitute with Average</a> (yukicoder contest 452 (2024-11-08) - D問題、diff <font color="yellowgreen">2386</font>)
 
 　
-<h2 id="非自明なトポロジカルソート">1020. 非自明なトポロジカルソート</h2>
+<h2 id="非自明なトポロジカルソート">1020. <a href="https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#非自明なトポロジカルソート">非自明なトポロジカルソート</a></h2>
 
 ### 難易度統計
 
-「非自明なトポロジカルソート」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
+「[非自明なトポロジカルソート](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#非自明なトポロジカルソート)」を主たる解法に含む問題の難易度統計（コンテスト平均レベル／コンテスト平均difficulty）です。
 - 全体: ★3.5／diff <font color="yellowgreen">2388</font>
 - 2026年: ★3／diff <font color="yellowgreen">2065</font>
 - 2025年: ★3.5／diff <font color="orange">2565</font>
@@ -35824,7 +35824,7 @@ writer別の統計データは[こちら]({{ site.url }}/yukicoder-writer-statis
 
 ### レベル別問題一覧
 
-「非自明なトポロジカルソート」を主たる解法に含む問題のレベルごとの一覧です。
+「[非自明なトポロジカルソート](https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/#非自明なトポロジカルソート)」を主たる解法に含む問題のレベルごとの一覧です。
 
 ##### ★★☆
 
