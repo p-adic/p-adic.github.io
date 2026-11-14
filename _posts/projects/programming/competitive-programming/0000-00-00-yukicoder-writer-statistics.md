@@ -11155,13 +11155,31 @@ writer名は基本的に登録名をそのまま表記していますが、例�
 
 ### 過去問のレベル（星の数）とdifficulty（実際の解け具合）の組み合わせ
 
+- [★1.5／diffデータなし](https://yukicoder.me/problems/no/3802)
 - [★2／diffデータなし](https://yukicoder.me/problems/no/3745)
+- [★2／diffデータなし](https://yukicoder.me/problems/no/3803)
+- [★2／diffデータなし](https://yukicoder.me/problems/no/3804)
+- [★2／diffデータなし](https://yukicoder.me/problems/no/3805)
+- [★2.5／diffデータなし](https://yukicoder.me/problems/no/3806)
+- [★3／diffデータなし](https://yukicoder.me/problems/no/3807)
 
 ### 過去問の解法頻度
 
+- [自明な全探索](https://p-adic.github.io/yukicoder-difficulty-statistics/#自明な全探索) × 3問
+- [実装](https://p-adic.github.io/yukicoder-difficulty-statistics/#実装) × 3問
+- [全探索](https://p-adic.github.io/yukicoder-difficulty-statistics/#全探索) × 3問
+- [一次元データ構造の並列による二次元クエリ処理](https://p-adic.github.io/yukicoder-difficulty-statistics/#一次元データ構造の並列による二次元クエリ処理) × 2問
+- [矩形和取得](https://p-adic.github.io/yukicoder-difficulty-statistics/#矩形和取得) × 2問
+- [分割統治法（広義：decrease-and-conquer）](https://p-adic.github.io/yukicoder-difficulty-statistics/#分割統治法（広義：decrease-and-conquer）) × 2問
+- [隣接関係に関する値の範囲取得を低次元骨格に分割](https://p-adic.github.io/yukicoder-difficulty-statistics/#隣接関係に関する値の範囲取得を低次元骨格に分割) × 2問
+- [累積和](https://p-adic.github.io/yukicoder-difficulty-statistics/#累積和) × 2問
+- [ギャグ](https://p-adic.github.io/yukicoder-difficulty-statistics/#ギャグ) × 1問
+- [構築](https://p-adic.github.io/yukicoder-difficulty-statistics/#構築) × 1問
+- [行列の構築](https://p-adic.github.io/yukicoder-difficulty-statistics/#行列の構築) × 1問
 - [左右から走査](https://p-adic.github.io/yukicoder-difficulty-statistics/#左右から走査) × 1問
 - [最遠点計算](https://p-adic.github.io/yukicoder-difficulty-statistics/#最遠点計算) × 1問
 - [動的計画法](https://p-adic.github.io/yukicoder-difficulty-statistics/#動的計画法) × 1問
+- [難易度インフレ問題](https://p-adic.github.io/yukicoder-difficulty-statistics/#難易度インフレ問題) × 1問
 
 
 ## [へきぼこ　競プロのすがたさん](https://yukicoder.me/users/24836)

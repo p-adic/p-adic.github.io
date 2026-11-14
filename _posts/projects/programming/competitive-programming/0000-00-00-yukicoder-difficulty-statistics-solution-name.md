@@ -2,7 +2,7 @@
 url: https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/
 layout: project
 title: yukicoder過去問解法別難易度統計の解法名ラベル解説
-date: 2026-11-08
+date: 2026-11-14
 excerpt: "yukicoderの過去問の解法別難易度統計ページに記載した解法名ラベルの解説です。"
 project: true
 parent: competitive-programming-project
@@ -523,6 +523,7 @@ $2$乗オーダーで処理できることが多く、括弧列を構文木に�
 - [No.3364 Push_back Operation](https://yukicoder.me/problems/no/3364)：過去1年間同難易度帯以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#バケット分割">バケット分割</a>、<a href="{{ site.url }}/yukicoder-difficulty-statistics#バケット分割による２解法の結合">バケット分割による２解法の結合</a>、<a href="{{ site.url }}/yukicoder-difficulty-statistics#平方分割">平方分割</a>が想定解
 - [No.3695 同室と別室](https://yukicoder.me/problems/no/3695)：過去1年間同難易度帯以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#ポテンシャル付き素集合データ構造">ポテンシャル付き素集合データ構造</a>が想定解（ただし1年より前まで遡ると★2.5の[No.2293 無向辺 2-SAT](https://yukicoder.me/problems/no/2293)で出題済み）
 - [No.3760 Streaming Schedule](https://yukicoder.me/problems/no/3760)：★3 [No.2139 K Consecutive Sushi](https://yukicoder.me/problems/no/2139)の完全上位互換
+- [No.3805 Crossword Key with Cropping (Easy)](https://yukicoder.me/problems/no/3805)：過去1年間同難易度帯以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#一次元データ構造の並列による二次元クエリ処理">一次元データ構造の並列による二次元クエリ処理</a>が想定解
 
 ##### ★★★
 
