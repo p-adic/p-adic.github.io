@@ -2,7 +2,7 @@
 url: https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/
 layout: project
 title: yukicoder過去問解法別難易度統計の解法名ラベル解説
-date: 2026-11-14
+date: 2026-11-24
 excerpt: "yukicoderの過去問の解法別難易度統計ページに記載した解法名ラベルの解説です。"
 project: true
 parent: competitive-programming-project
@@ -490,7 +490,7 @@ $2$乗オーダーで処理できることが多く、括弧列を構文木に�
 
 が該当する。公開後に難易度投票結果に合わせて★の数が減った場合（2026/10/31以前に気付いた難易度修正のみ対応）や、同様の解法が頻繁に出題されて作問陣の難易度評価に混乱が生じた時や、作問陣が意図的に過去問の難易度基準と別の基準で難易度を設定している時などに起こる。
 
-あくまで難易度インフレの傾向を記録するためのものであり、良し悪しを含意するタグではない。
+あくまで上記2条件に機械的に従って難易度インフレの傾向を記録するためのものであり、実際に難易度インフレが起きた証拠として問題を紐づけるタグではなく、また何かしらの良し悪しを含意するタグでもない。
 
 内容の内訳は以下の通り：
 
@@ -536,3 +536,7 @@ $2$乗オーダーで処理できることが多く、括弧列を構文木に�
 - [No.3443 Sum of (Tree Distances)^K 1](https://yukicoder.me/problems/no/3443)：過去1年間同難易度帯以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#木の数え上げ">木の数え上げ</a>、<a href="{{ site.url }}/yukicoder-difficulty-statistics#プリューファーコード">プリューファーコード</a>、<a href="{{ site.url }}/yukicoder-difficulty-statistics#ケイリーの公式">ケイリーの公式</a>が想定解（ただしコンテスト終了後に★3.5に上方修正済み）
 - [No.3746 Swap and LIS](https://yukicoder.me/problems/no/3746)：過去1年間同難易度帯以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#Greeneの定理">Greeneの定理</a>、<a href="{{ site.url }}/yukicoder-difficulty-statistics#ロビンソン・シェンステッド・クヌース対応">ロビンソン・シェンステッド・クヌース対応</a>、<a href="{{ site.url }}/yukicoder-difficulty-statistics#ロビンソン・シェンステッド対応">ロビンソン・シェンステッド対応</a>、<a href="{{ site.url }}/yukicoder-difficulty-statistics#最長排他的単調増加部分列長計算">最長排他的単調増加部分列長計算</a>が想定解（ただしコンテスト終了後に★3.5に上方修正済み）
 - [No.3781 Erase One, Gain from the Other](https://yukicoder.me/problems/no/3781)：過去1年間同難易度帯以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#最大有向部分森計算">最大有向部分森計算</a>が想定解
+- [No.3825 Jump](https://yukicoder.me/problems/no/3825)：過去1年間同難易度帯以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#最近共通祖先計算">最近共通祖先計算</a>、<a href="{{ site.url }}/yukicoder-difficulty-statistics#ダブリング">ダブリング</a>が想定解
+- [No.3826 Jump](https://yukicoder.me/problems/no/3825)：過去1年間同難易度帯以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#双対グラフ">双対グラフ</a>、<a href="{{ site.url }}/yukicoder-difficulty-statistics#積の和典型">積の和典型</a>が想定解
+
+
