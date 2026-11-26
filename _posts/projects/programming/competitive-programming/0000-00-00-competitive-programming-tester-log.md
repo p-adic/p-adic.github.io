@@ -3,7 +3,7 @@ url: https://p-adic.github.io/competitive-programming-tester-log/
 layout: project
 title: 競技プログラミングtester問題一覧
 excerpt: "競技プログラミングでtesterを担当した問題の一覧です。"
-date: 2026-09-19
+date: 2026-11-26
 project: true
 parent: competitive-programming-project
 prev-child: yukicoder-difficulty-statistics-solution-name
@@ -12,11 +12,16 @@ class-name: 競技プログラミング
 tags: [競技プログラミング,プログラミング,数学]
 ---
 
-競技プログラミングでtesterを担当した問題リンクをまとめてみました。{{ page.date | date: '%Y/%m/%d' }}現在でtesterを引き受けた問題数は243問で、うち出題済みの問題は218問です。
+競技プログラミングでtesterを担当した問題リンクをまとめてみました。{{ page.date | date: '%Y/%m/%d' }}現在でtesterを引き受けた問題数は250問で、うち出題済みの問題は223問です。
 
 writerを担当した問題リンクは[こちら]({{ site.url }}/competitive-programming-problems/)です。
 
-## yukicoder通常問題（公開済み199問＋未公開24問）
+## yukicoder通常問題（公開済み204問＋未公開31問）
+- No.3777	[Train Seats](https://yukicoder.me/problems/no/3777)
+- No.3776	[Magic Square of Product](https://yukicoder.me/problems/no/3776)
+- No.3775	[Distant Swap](https://yukicoder.me/problems/no/3775)
+- No.3774	[Minimum Cost For Palindrome](https://yukicoder.me/problems/no/3774)
+- No.3773	[mod A > mod B](https://yukicoder.me/problems/no/3773)
 - No.3734 [No Flat Notes](https://yukicoder.me/problems/no/3734)
 - No.3733 [My First Grid](https://yukicoder.me/problems/no/3733)
 - No.3732 [Labyrinth Maker](https://yukicoder.me/problems/no/3732)
