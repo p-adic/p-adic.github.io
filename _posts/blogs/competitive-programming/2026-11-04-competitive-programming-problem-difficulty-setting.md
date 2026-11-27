@@ -93,22 +93,22 @@ tags: [競技プログラミング]
 
 ### ★☆
 
-- ★1.5適性の参加者が自然に思いつく解法がTLEしてしまう問題（実行時間制限に十分注意する必要のある問題）は出題しない。
+- ★1.5適正の参加者が自然に思いつく解法がTLEしてしまう問題（実行時間制限に十分注意する必要のある問題）は出題しない。
 - ヘルプに「高校数学１年程度の知識（和の公式など）」と記載されているので、高校2年レベル以上の数学を前提知識にする問題は出題しない。（必要な知識を問題ページに明記するなど、前提知識にしないようにする）
-- ヘルプに「1e9+7を使う問題（割り算以外）」と記載されているので、<a href="{{ site.url }}/yukicoder-difficulty-statistics#素数を法とする逆元計算>素数を法とする逆元計算</a>は要求しない。
+- ヘルプに「1e9+7を使う問題（割り算以外）」と記載されているので、<a href="{{ site.url }}/yukicoder-difficulty-statistics#素数を法とする逆元計算">素数を法とする逆元計算</a>は要求しない。
 - ヘルプで★2に指定されている<a href="{{ site.url }}/yukicoder-difficulty-statistics#非自明な全探索">全探索</a>（非自明な、問題文にそのまま有界な数データや文字列などの具体的な有限集合として与えられているわけではないデータを多次元の有界な数ベクトルデータなどに翻訳する考察の必要な全探索）はなるべく要求しない。ただし非自明性の基準は人によるので、ある程度非自明でも★1.5相当の考察の範疇であれば出題しうる。
 - ヘルプで★2に指定されている<a href="{{ site.url }}/yukicoder-difficulty-statistics#ユークリッドの互除法">ユークリッドの互除法</a>は要求しない。
-- ヘルプで★2に指定されている<a href="{{ site.url }}/yukicoder-difficulty-statistics#幅優先探索">幅優先探索</a>／<a href="{{ site.url }}/yukicoder-difficulty-statistics#深さ優先探索>深さ優先探索</a>は要求しない。
+- ヘルプで★2に指定されている<a href="{{ site.url }}/yukicoder-difficulty-statistics#幅優先探索">幅優先探索</a>／<a href="{{ site.url }}/yukicoder-difficulty-statistics#深さ優先探索">深さ優先探索</a>は要求しない。
 - ヘルプで★2に指定されている<a href="{{ site.url }}/yukicoder-difficulty-statistics#エラトステネスの篩">エラトステネスの篩</a>は要求しない。
 - ヘルプで★2に指定されている<a href="{{ site.url }}/yukicoder-difficulty-statistics#素因数分解">素因数分解</a>（ここでは実行時計算を指す。$6 = 2 \times 3$などの小さいコンパイル時定数の素因数分解は高校1年レベルの数学の知識に収まるので可）は要求しない。
 - ヘルプで★2に指定されている<a href="{{ site.url }}/yukicoder-difficulty-statistics#尺取り法">尺取り法</a>は要求しない。
 - ヘルプで★2に指定されている<a href="{{ site.url }}/yukicoder-difficulty-statistics#動的計画法">動的計画法</a>は要求しない。
 - ヘルプで★2に指定されている<a href="{{ site.url }}/yukicoder-difficulty-statistics#包除原理">包除原理</a>を用いた考察は要求しない。
-- <a href="{{ site.url }}/yukicoder-difficulty-statistics#imos法">imos法</a>は要求しない。
+- <a href="{{ site.url }}/yukicoder-difficulty-statistics#累積和">累積和</a>／<a href="{{ site.url }}/yukicoder-difficulty-statistics#imos法">imos法</a>は要求しない。
 
 ### ★★
 
-- ヘルプに「基本的なDP」と記載されているので、<a href="{{ site.url }}/yukicoder-difficulty-statistics#DPのデータ構造高速化">DPのデータ構造高速化</a>（自然に思い付くDP配列の代わりにその累積和をDP配列とする動的計画法など）は要求しない。
+- ヘルプに「基本的なDP」と記載されているので、<a href="{{ site.url }}/yukicoder-difficulty-statistics#DPのデータ構造高速化">DPのデータ構造高速化</a>（自然に思い付くDP配列の代わりにその累積和などをDP配列とする動的計画法）は要求しない。
 - ヘルプで★2.5に指定されている<a href="{{ site.url }}/yukicoder-difficulty-statistics#ダイクストラ法">ダイクストラ法</a>は要求しない。
 - ヘルプで★2.5に指定されている<a href="{{ site.url }}/yukicoder-difficulty-statistics#周期性">周期性</a>（非自明な、問題文にほとんど言及されているわけではない周期性）に注目する考察は要求しない。
 - ヘルプで★2.5に指定されている<a href="{{ site.url }}/yukicoder-difficulty-statistics#next_permitation">next_permutation</a>は要求しない。
@@ -116,12 +116,12 @@ tags: [競技プログラミング]
 - ヘルプで★2.5に指定されている<a href="{{ site.url }}/yukicoder-difficulty-statistics#多倍長整数">多倍長演算</a>はそれを単体で問う（つまり筆算の実装そのものを問う）以外で要求しない。
 - ヘルプで★2.5に指定されている<a href="{{ site.url }}/yukicoder-difficulty-statistics#素数を法とする二項係数計算">素数を法とする二項係数計算</a>は要求しない。
 - ヘルプで★2.5に指定されている逆関数（初等的でない、一次式と置換＆逆置換と冪乗&累乗根と$\exp$＆$\log$と三角関数＆逆三角関数の組み合わせ以外の）の考察は要求しない。
-- 累積和より高度なデータ構造（<a href="{{ site.url }}/yukicoder-difficulty-statistics#フェニック木">フェニック木</a>、<a href="{{ site.url }}/yukicoder-difficulty-statistics#セグメント木">セグメント木</a>、<a href="{{ site.url }}/yukicoder-difficulty-statistics#素集合データ構造">素集合データ構造</a>など）は要求しない。
+- 累積和／imos法より高度なデータ構造（<a href="{{ site.url }}/yukicoder-difficulty-statistics#フェニック木">フェニック木</a>、<a href="{{ site.url }}/yukicoder-difficulty-statistics#セグメント木">セグメント木</a>、<a href="{{ site.url }}/yukicoder-difficulty-statistics#素集合データ構造">素集合データ構造</a>など）は要求しない。
 
 ### ★★☆
 
 - ヘルプで★3に指定されている<a href="{{ site.url }}/yukicoder-difficulty-statistics#ワーシャル・フロイド法">ワーシャル・フロイド法</a>は要求しない。
-- ヘルプで★3に指定されている<a href="{{ site.url }}/yukicoder-difficulty-statistics#非自明なトポロジカルソート">トポロジカルソート</a>（非自明な、問題文で頂点に重みが与えられており重みについてソートするだけで自動的にトポロジカルソートになってしまうタイプでないもの）とそれを包含する強連結成分分解は要求しない。
+- ヘルプで★3に指定されている<a href="{{ site.url }}/yukicoder-difficulty-statistics#非自明なトポロジカルソート">トポロジカルソート</a>（非自明な、問題文で頂点に重みが与えられており重みについてソートするだけで自動的にトポロジカルソートになってしまうタイプでないもの）とそれを実装に包含するアルゴリズムである<a href="{{ site.url }}/yukicoder-difficulty-statistics#強連結成分分解">強連結成分分解</a>は要求しない。
 - ヘルプで★3に指定されている<a href="{{ site.url }}/yukicoder-difficulty-statistics#ニム必勝戦略">ニム必勝戦略</a>の知識は要求しない。
 - ヘルプで★3に指定されている<a href="{{ site.url }}/yukicoder-difficulty-statistics#優先度付きキュー">優先度付きキュー</a>およびそれより高度なデータ構造である<a href="{{ site.url }}/yukicoder-difficulty-statistics#sorted set">sorted set</a>は要求しない。
 - <a href="{{ site.url }}/yukicoder-difficulty-statistics#ベルマン・フォード法">ベルマン・フォード法</a>は要求しない。
@@ -146,7 +146,7 @@ tags: [競技プログラミング]
 - <a href="{{ site.url }}/yukicoder-difficulty-statistics#約数ゼータ変換">約数ゼータ変換</a>／<a href="{{ site.url }}/yukicoder-difficulty-statistics#約数メビウス変換">約数メビウス変換</a>は要求しない。
 - <a href="{{ site.url }}/yukicoder-difficulty-statistics#倍数ゼータ変換">倍数ゼータ変換</a>／<a href="{{ site.url }}/yukicoder-difficulty-statistics#倍数メビウス変換">倍数メビウス変換</a>は要求しない。
 - <a href="{{ site.url }}/yukicoder-difficulty-statistics#monotone minima">monotone minima</a>は要求しない。
-- <a href="{{ site.url }}/yukicoder-difficulty-statistics#データ構造をマージする一般的なテク">データ構造をマージする一般的なテク</a>
+- <a href="{{ site.url }}/yukicoder-difficulty-statistics#データ構造をマージする一般的なテク">データ構造をマージする一般的なテク</a>は要求しない。
 - 線形代数は前述した<a href="{{ site.url }}/yukicoder-difficulty-statistics#行列累乗">行列累乗</a>を除き、<a href="{{ site.url }}/yukicoder-difficulty-statistics#掃き出し法">掃き出し法</a>およびそれ以上に高度な知識を仮定しない。
 
 
