@@ -100,7 +100,7 @@ tags: [競技プログラミング]
 - ヘルプで★2に指定されている<a href="{{ site.url }}/yukicoder-difficulty-statistics#ユークリッドの互除法">ユークリッドの互除法</a>は要求しない。
 - ヘルプで★2に指定されている<a href="{{ site.url }}/yukicoder-difficulty-statistics#幅優先探索">幅優先探索</a>／<a href="{{ site.url }}/yukicoder-difficulty-statistics#深さ優先探索">深さ優先探索</a>は要求しない。
 - ヘルプで★2に指定されている<a href="{{ site.url }}/yukicoder-difficulty-statistics#エラトステネスの篩">エラトステネスの篩</a>は要求しない。
-- ヘルプで★2に指定されている<a href="{{ site.url }}/yukicoder-difficulty-statistics#素因数分解">素因数分解</a>（ここでは実行時計算を指す。$6 = 2 \times 3$などの小さいコンパイル時定数の素因数分解は高校1年レベルの数学の知識に収まるので可）は要求しない。
+- ヘルプで★2に指定されている<a href="{{ site.url }}/yukicoder-difficulty-statistics#素因数分解">素因数分解</a>（実行時計算を要するもの）は要求しない（$6 = 2 \times 3$などの小さいコンパイル時定数の素因数分解は高校1年レベルの数学の知識に収まるので可）。
 - ヘルプで★2に指定されている<a href="{{ site.url }}/yukicoder-difficulty-statistics#尺取り法">尺取り法</a>は要求しない。
 - ヘルプで★2に指定されている<a href="{{ site.url }}/yukicoder-difficulty-statistics#動的計画法">動的計画法</a>は要求しない。
 - ヘルプで★2に指定されている<a href="{{ site.url }}/yukicoder-difficulty-statistics#包除原理">包除原理</a>を用いた考察は要求しない。
@@ -133,11 +133,11 @@ tags: [競技プログラミング]
 - <a href="{{ site.url }}/yukicoder-difficulty-statistics#非自明な行列累乗">行列累乗</a>（非自明な、問題文では行列の積で表されていないものを行列の積で表す考察を含むもの）は要求しない。
 - <a href="{{ site.url }}/yukicoder-difficulty-statistics#高速フーリエ変換">高速フーリエ変換</a>は要求しない。
 - <a href="{{ site.url }}/yukicoder-difficulty-statistics#Convex Hull Trick">Convex Hull Trick</a>は要求しない。
-- 整数論の前提知識は<a href="{{ site.url }}/yukicoder-difficulty-statistics#フェルマーの小定理">フェルマーの小定理</a>より高度なものを仮定しない。（特に<a href="{{ site.url }}/yukicoder-difficulty-statistics#オイラーの定理">オイラーの定理</a>や<a href="{{ site.url }}/yukicoder-difficulty-statistics#中国剰余定理">中国剰余定理</a>を要求する問題は★3以上で出すか必要な知識を問題ページに明記する）
+- 整数論の前提知識は<a href="{{ site.url }}/yukicoder-difficulty-statistics#フェルマーの小定理">フェルマーの小定理</a>より高度なものを仮定しない（特に<a href="{{ site.url }}/yukicoder-difficulty-statistics#オイラーの定理">オイラーの定理</a>や<a href="{{ site.url }}/yukicoder-difficulty-statistics#中国剰余定理">中国剰余定理</a>を要求する問題は★3以上で出すか必要な知識を問題ページに明記する）。
 
 ### ★★★
 
-- <a href="{{ site.url }}/yukicoder-difficulty-statistics#二次元累積和">二次元累積和</a>は要求しない。
+- <a href="{{ site.url }}/yukicoder-difficulty-statistics#二次元累積和">二次元累積和</a>（一次元累積和を並列させただけのものでない、矩形和取得を$O(1)$で処理できるもの）は要求しない。
 - <a href="{{ site.url }}/yukicoder-difficulty-statistics#動的セグメント木">動的セグメント木</a>は要求しない。
 - <a href="{{ site.url }}/yukicoder-difficulty-statistics#遅延セグメント木">遅延セグメント木</a>は要求しない。
 - <a href="{{ site.url }}/yukicoder-difficulty-statistics#最大流計算">最大流計算</a>は要求しない。
