@@ -14,7 +14,7 @@ tags: [競技プログラミング]
 
 ## 趣旨
 
-筆者（[$p$進大好きbot](https://x.com/non_archimedean)）のyukicoderコンテストに参加しようか検討している人向けに、筆者がyukicoderで作問する際に現在はどのような基準で★の数を設定しているかについてご説明いたします。
+筆者（[$p$進大好きbot](https://x.com/non_archimedean)）のyukicoderコンテストに参加しようか検討している人向けに、筆者がyukicoderで作問する際に現在はどのような基準で★の数を設定しているかについてご説明いたします。ちょくちょく更新するかもしれません。
 
 作問そのものに興味がある人は
 
@@ -80,22 +80,23 @@ tags: [競技プログラミング]
 
 ## 難易度ごとの指針
 
-過去問とヘルプを参考に決めた、★3以下の難易度ごとの「こういった問題を出題しない（もっと★の数を多くつけた上で出題する）」という指針です（あくまで指針なので実際にそれに反する出題が絶対にないとはいい切れません）。
+過去問とヘルプを参考に決めた、★3以下の難易度ごとの「こういった問題を出題しない（もっと★の数を多くつけた上で出題する）」という指針です（あくまで指針なので実際にそれに反する出題が絶対にないとは言い切れず、結果的に反している可能性がある過去問も以下に挙げています）。
 
 ### ★
 
-- 問題文の通りに素直に実装すれば解ける問題以外は出題しない。例えば非自明な考察や網羅漏れしやすいほど複雑な場合分けは要求しない。
+- 問題文の通りに素直に実装すれば解ける問題以外は出題しない。例えば非自明な考察や網羅漏れしやすいほど複雑な場合分けは要求しない。（反しているかもしれない過去問の例：<a href="https://yukicoder.me/problems/no/2392">No.2392 二平方和</a>）
 - ３重ループなどの複雑な実装は要求しない。
 - ヘルプで★1.5に指定されている<a href="{{ site.url }}/yukicoder-difficulty-statistics#64bit整数">64bit整数</a>は要求しない。
 - ヘルプで★1.5に指定されている<a href="{{ site.url }}/yukicoder-difficulty-statistics#小数型">小数誤差</a>は要求しない。
 - ヘルプで★1.5に指定されている<a href="{{ site.url }}/yukicoder-difficulty-statistics#リアクティブ問題">リアクティブ形式</a>にしない。
 - 以前運営さんに「★1だと数学知識の要求は中学1年レベルかなと思ったりしてます」とお話しを伺ったことがあるので、中学2年レベル以上の数学を前提知識にする問題は出題しない。（必要な知識を問題ページに明記するなど、前提知識にしないようにする）
+- <a href="{{ site.url }}/yukicoder-difficulty-statistics#連想配列">連想配列</a>は要求しない。
 
 ### ★☆
 
 - ★1.5適正の参加者が自然に思いつく解法がTLEしてしまう問題（実行時間制限に十分注意する必要のある問題）は出題しない。
 - ヘルプに「高校数学１年程度の知識（和の公式など）」と記載されているので、高校2年レベル以上の数学を前提知識にする問題は出題しない。（必要な知識を問題ページに明記するなど、前提知識にしないようにする）
-- ヘルプに「1e9+7を使う問題（割り算以外）」と記載されているので、<a href="{{ site.url }}/yukicoder-difficulty-statistics#素数を法とする逆元計算">素数を法とする逆元計算</a>は要求しない。
+- ヘルプに「1e9+7を使う問題（割り算以外）」と記載されているので、<a href="{{ site.url }}/yukicoder-difficulty-statistics#素数を法とする逆元計算">素数を法とする逆元計算</a>は要求しない。（反しているかもしれない過去問の例：<a href="https://yukicoder.me/problems/no/3133">No.3133 法B逆元</a>）
 - ヘルプで★2に指定されている<a href="{{ site.url }}/yukicoder-difficulty-statistics#非自明な全探索">全探索</a>（非自明な、問題文にそのまま有界な数データや文字列などの具体的な有限集合として与えられているわけではないデータを多次元の有界な数ベクトルデータなどに翻訳する考察の必要な全探索）はなるべく要求しない。ただし非自明性の基準は人によるので、ある程度非自明でも★1.5相当の考察の範疇であれば出題しうる。
 - ヘルプで★2に指定されている<a href="{{ site.url }}/yukicoder-difficulty-statistics#ユークリッドの互除法">ユークリッドの互除法</a>は要求しない。
 - ヘルプで★2に指定されている<a href="{{ site.url }}/yukicoder-difficulty-statistics#幅優先探索">幅優先探索</a>／<a href="{{ site.url }}/yukicoder-difficulty-statistics#深さ優先探索">深さ優先探索</a>は要求しない。
@@ -147,7 +148,7 @@ tags: [競技プログラミング]
 - <a href="{{ site.url }}/yukicoder-difficulty-statistics#倍数ゼータ変換">倍数ゼータ変換</a>／<a href="{{ site.url }}/yukicoder-difficulty-statistics#倍数メビウス変換">倍数メビウス変換</a>は要求しない。
 - <a href="{{ site.url }}/yukicoder-difficulty-statistics#monotone minima">monotone minima</a>は要求しない。
 - <a href="{{ site.url }}/yukicoder-difficulty-statistics#データ構造をマージする一般的なテク">データ構造をマージする一般的なテク</a>は要求しない。
-- 線形代数は前述した<a href="{{ site.url }}/yukicoder-difficulty-statistics#行列累乗">行列累乗</a>を除き、<a href="{{ site.url }}/yukicoder-difficulty-statistics#掃き出し法">掃き出し法</a>およびそれ以上に高度な知識を仮定しない。
+- 線形代数は前述した<a href="{{ site.url }}/yukicoder-difficulty-statistics#行列累乗">行列累乗</a>を除き、<a href="{{ site.url }}/yukicoder-difficulty-statistics#掃き出し法">掃き出し法</a>およびそれ以上に高度な知識を仮定しない（$3$次以下の<a href="{{ site.url }}/yukicoder-difficulty-statistics#行列式式計算">行列式計算</a>は掃き出し法が不要なので可）。
 
 
 ## 自分用覚え書き
