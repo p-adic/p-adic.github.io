@@ -2,7 +2,7 @@
 url: https://p-adic.github.io/yukicoder-difficulty-statistics-solution-name/
 layout: project
 title: yukicoder過去問解法別難易度統計の解法名ラベル解説
-date: 2026-11-24
+date: 2026-11-28
 excerpt: "yukicoderの過去問の解法別難易度統計ページに記載した解法名ラベルの解説です。"
 project: true
 parent: competitive-programming-project
@@ -507,9 +507,10 @@ $2$乗オーダーで処理できることが多く、括弧列を構文木に�
 ##### ★★
 
 - [No.2739 Time is money](https://yukicoder.me/problems/no/2739)：過去1年間同難易度帯以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#ダイクストラ法">ダイクストラ法</a>が想定解
-- [No.3134 二分探索木](https://yukicoder.me/problems/no/3134)：過去1年間同難易度帯以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#sorted set">sorted set</a>、<a href="{{ site.url }}/yukicoder-difficulty-statistics#Cartesian tree">Cartesian tree</a>が想定解
+- [No.3134 二分探索木](https://yukicoder.me/problems/no/3134)：過去1年間同難易度帯以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#sorted set">sorted set</a>、<a href="{{ site.url }}/yukicoder-difficulty-statistics#Cartesian tree">Cartesian tree</a>、<a href="{{ site.url }}/yukicoder-difficulty-statistics#木の頂点の重さ計算">木の頂点の重さ計算</a>、<a href="{{ site.url }}/yukicoder-difficulty-statistics#木の頂点の深さ計算">木の頂点の深さ計算</a>が想定解
 - [No.3158 Collect Stamps](https://yukicoder.me/problems/no/3158)：過去1年間同難易度帯以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#next_permutation">next_permutation</a>が想定解
-- [No.3709 Unknown Treasure](https://yukicoder.me/problems/no/3709)：過去1年間同難易度帯以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#二次元imos法">二次元imos法</a>が想定解
+- [No.3709 Unknown Treasure](https://yukicoder.me/problems/no/3709)：過去1年間同難易度帯以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#二次元imos法">二次元imos法</a>、<a href="{{ site.url }}/yukicoder-difficulty-statistics#二次元累積和">二次元累積和</a>が想定解
+- [No.3831 01 flip](https://yukicoder.me/problems/no/3831)：過去1年間同難易度帯以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#半分全列挙">半分全列挙</a>が想定解
 
 ##### ★★☆
 
@@ -524,6 +525,7 @@ $2$乗オーダーで処理できることが多く、括弧列を構文木に�
 - [No.3695 同室と別室](https://yukicoder.me/problems/no/3695)：過去1年間同難易度帯以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#ポテンシャル付き素集合データ構造">ポテンシャル付き素集合データ構造</a>が想定解（ただし1年より前まで遡ると★2.5の[No.2293 無向辺 2-SAT](https://yukicoder.me/problems/no/2293)で出題済み）
 - [No.3760 Streaming Schedule](https://yukicoder.me/problems/no/3760)：★3 [No.2139 K Consecutive Sushi](https://yukicoder.me/problems/no/2139)の完全上位互換
 - [No.3805 Crossword Key with Cropping (Easy)](https://yukicoder.me/problems/no/3805)：過去1年間同難易度帯以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#一次元データ構造の並列による二次元クエリ処理">一次元データ構造の並列による二次元クエリ処理</a>が想定解
+- [No.3834 Random K Choose On Tree](https://yukicoder.me/problems/no/3834)：過去1年間同難易度帯以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#木の重心計算">木の重心計算</a>が想定解
 
 ##### ★★★
 
@@ -537,6 +539,6 @@ $2$乗オーダーで処理できることが多く、括弧列を構文木に�
 - [No.3746 Swap and LIS](https://yukicoder.me/problems/no/3746)：過去1年間同難易度帯以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#Greeneの定理">Greeneの定理</a>、<a href="{{ site.url }}/yukicoder-difficulty-statistics#ロビンソン・シェンステッド・クヌース対応">ロビンソン・シェンステッド・クヌース対応</a>、<a href="{{ site.url }}/yukicoder-difficulty-statistics#ロビンソン・シェンステッド対応">ロビンソン・シェンステッド対応</a>、<a href="{{ site.url }}/yukicoder-difficulty-statistics#最長排他的単調増加部分列長計算">最長排他的単調増加部分列長計算</a>が想定解（ただしコンテスト終了後に★3.5に上方修正済み）
 - [No.3781 Erase One, Gain from the Other](https://yukicoder.me/problems/no/3781)：過去1年間同難易度帯以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#最大有向部分森計算">最大有向部分森計算</a>が想定解
 - [No.3825 Jump](https://yukicoder.me/problems/no/3825)：過去1年間同難易度帯以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#最近共通祖先計算">最近共通祖先計算</a>、<a href="{{ site.url }}/yukicoder-difficulty-statistics#ダブリング">ダブリング</a>が想定解
-- [No.3826 Jump](https://yukicoder.me/problems/no/3825)：過去1年間同難易度帯以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#双対グラフ">双対グラフ</a>、<a href="{{ site.url }}/yukicoder-difficulty-statistics#積の和典型">積の和典型</a>が想定解
+- [No.3826 PRiSM Net](https://yukicoder.me/problems/no/3826)：過去1年間同難易度帯以下で要求されなかった<a href="{{ site.url }}/yukicoder-difficulty-statistics#双対グラフ">双対グラフ</a>、<a href="{{ site.url }}/yukicoder-difficulty-statistics#積の和典型">積の和典型</a>が想定解
 
 
